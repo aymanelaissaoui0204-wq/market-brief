@@ -1,0 +1,27 @@
+name: Daily Market Brief
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch & Generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: node scripts/generate.js
+      - name: Commit
+        run: |
+          git config --global user.name "market-bot"
+          git config --global user.email "bot@market.com"
+          git add public/briefing.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Daily $(date +%Y-%m-%d)"
+          git push
