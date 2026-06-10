@@ -1,52 +1,52 @@
 {
   "date": "Mittwoch, 10. Juni 2026",
-  "generatedAt": "2026-06-10T09:22:01.424Z",
+  "generatedAt": "2026-06-10T10:07:34.342Z",
   "sections": {},
   "prices": {
-    "GC=F": {
-      "label": "Gold",
-      "price": 4191.7998046875,
-      "change": -1.6009435519366197
-    },
-    "HG=F": {
-      "label": "Kupfer",
-      "price": 6.250500202178955,
-      "change": -0.8250626073403796
-    },
     "SI=F": {
       "label": "Silber",
-      "price": 63.92499923706055,
-      "change": -1.7958682845911529
+      "price": 64.12000274658203,
+      "change": -1.4962961209216923
     },
-    "CL=F": {
-      "label": "Öl",
-      "price": 87.66999816894531,
-      "change": -0.6009056662529032
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24289.140625,
+      "change": 0
     },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 60793.328125,
-      "change": -1.379625175086092
+    "GC=F": {
+      "label": "Gold",
+      "price": 4190,
+      "change": -1.643192488262911
     },
     "DX-Y.NYB": {
       "label": "DXY",
-      "price": 99.89099884033203,
+      "price": 99.87200164794922,
       "change": 0
     },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1555349826812744,
-      "change": 0.23341502635212527
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 61119.98828125,
+      "change": -0.8497093431464345
     },
     "^TNX": {
       "label": "10Y",
       "price": 4.552000045776367,
       "change": 0
     },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24288.76953125,
-      "change": 0
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1560693979263306,
+      "change": 0.2797712733346521
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.239500045776367,
+      "change": -0.9995990103879008
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 87.9000015258789,
+      "change": -0.34013087612613585
     }
   },
   "fearGreed": [
