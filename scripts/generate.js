@@ -6,9 +6,7 @@ const fetchJSON = (url) => new Promise((resolve, reject) => {
   https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
     let data = '';
     res.on('data', chunk => data += chunk);
-    res.on('end', () => {
-      try { resolve(JSON.parse(data)); } catch { resolve(null); }
-    });
+    res.on('end', () => { try { resolve(JSON.parse(data)); } catch { resolve(null); } });
   }).on('error', reject);
 });
 
@@ -24,41 +22,46 @@ const fetchText = (url) => new Promise((resolve, reject) => {
 async function fetchNews() {
   const news = [];
 
-  // NewsData.io (Deutsch)
+  // NewsData.io
   try {
     const key = process.env.NEWSDATA_API_KEY;
     const url = `https://newsdata.io/api/1/news?apikey=${key}&language=de&category=business&q=wirtschaft+finanzen+inflation+zins`;
     const data = await fetchJSON(url);
     if (data?.results) {
-      data.results.slice(0, 5).forEach(a => {
-        news.push(`${a.source_id}: ${a.title}`);
-      });
+      data.results.slice(0, 5).forEach(a => news.push(`${a.source_id}: ${a.title}`));
     }
   } catch (e) { console.log('NewsData Fehler:', e.message); }
 
-  // RSS Tagesschau Wirtschaft (kein Key nötig)
+  // Tagesschau RSS
   try {
     const rss = await fetchText('https://www.tagesschau.de/wirtschaft/rss2');
     const titles = [...rss.matchAll(/<title><!\[CDATA\[(.*?)\]\]><\/title>/g)].slice(1, 5);
     titles.forEach(m => news.push(`Tagesschau: ${m[1]}`));
-  } catch (e) { console.log('Tagesschau RSS Fehler:', e.message); }
+  } catch (e) { console.log('Tagesschau Fehler:', e.message); }
 
-  // EZB RSS (kein Key nötig)
+  // EZB RSS
   try {
     const rss = await fetchText('https://www.ecb.europa.eu/rss/press.html');
     const titles = [...rss.matchAll(/<title>(.*?)<\/title>/g)].slice(1, 3);
     titles.forEach(m => news.push(`EZB: ${m[1].replace(/<[^>]*>/g, '')}`));
-  } catch (e) { console.log('EZB RSS Fehler:', e.message); }
+  } catch (e) { console.log('EZB Fehler:', e.message); }
+
+  // Fed RSS
+  try {
+    const rss = await fetchText('https://www.federalreserve.gov/feeds/press_all.xml');
+    const titles = [...rss.matchAll(/<title>(.*?)<\/title>/g)].slice(1, 3);
+    titles.forEach(m => news.push(`Fed: ${m[1].replace(/<[^>]*>/g, '')}`));
+  } catch (e) { console.log('Fed Fehler:', e.message); }
 
   return news.filter(Boolean).slice(0, 10);
 }
 
 // ── KURSE HOLEN ───────────────────────────────────────────────────────────────
 async function fetchPrices() {
-  const symbols = ['GC=F', 'SI=F', 'CL=F', 'HG=F', 'BTC-USD', '^GDAXI', 'DX-Y.NYB', 'EURUSD=X', '^TNX'];
+  const symbols = ['GC=F','SI=F','CL=F','HG=F','BTC-USD','^GDAXI','DX-Y.NYB','EURUSD=X','^TNX'];
+  const labels  = {'GC=F':'Gold','SI=F':'Silber','CL=F':'Öl','HG=F':'Kupfer','BTC-USD':'Bitcoin','^GDAXI':'DAX','DX-Y.NYB':'DXY','EURUSD=X':'EUR/USD','^TNX':'10Y'};
   const prices = {};
-
-  await Promise.all(symbols.map(async (sym) => {
+  await Promise.all(symbols.map(async sym => {
     try {
       const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=1d&range=2d`;
       const data = await fetchJSON(url);
@@ -66,17 +69,11 @@ async function fetchPrices() {
       if (result) {
         const closes = result.indicators.quote[0].close.filter(Boolean);
         const price = closes[closes.length - 1];
-        const prev = closes[closes.length - 2] || price;
-        prices[sym] = {
-          price: price,
-          change: ((price - prev) / prev) * 100,
-          high52: result.meta?.fiftyTwoWeekHigh || null,
-          low52: result.meta?.fiftyTwoWeekLow || null
-        };
+        const prev  = closes[closes.length - 2] || price;
+        prices[sym] = { label: labels[sym], price, change: ((price - prev) / prev) * 100 };
       }
     } catch (e) { console.log(`Preis Fehler ${sym}:`, e.message); }
   }));
-
   return prices;
 }
 
@@ -84,22 +81,31 @@ async function fetchPrices() {
 async function fetchFearGreed() {
   try {
     const data = await fetchJSON('https://api.alternative.me/fng/?limit=7');
-    if (data?.data) {
-      return data.data.reverse().map(x => parseInt(x.value));
-    }
-  } catch (e) { console.log('Fear&Greed Fehler:', e.message); }
+    if (data?.data) return data.data.reverse().map(x => parseInt(x.value));
+  } catch (e) { console.log('F&G Fehler:', e.message); }
   return [50];
+}
+
+// ── SIMULATION ────────────────────────────────────────────────────────────────
+function runSimulation(fg, goldMomentum) {
+  let buy = 0, hold = 0, sell = 0;
+  for (let i = 0; i < 1000; i++) {
+    const type = i < 100 ? 'f' : i < 400 ? 'c' : 'n';
+    let score = 0;
+    if (type === 'f') score += (fg < 30 ? 15 : fg > 70 ? -15 : 0);
+    else if (type === 'c') score += goldMomentum > 2 ? 1.5 : goldMomentum < -2 ? -1.5 : 0;
+    else score += (Math.random() - 0.5) * 2;
+    if (score > 1) buy++; else if (score < -1) sell++; else hold++;
+  }
+  return { buy: Math.round(buy/10), hold: Math.round(hold/10), sell: Math.round(sell/10) };
 }
 
 // ── GEMINI ANALYSE ────────────────────────────────────────────────────────────
 async function generateAnalysis(news, prices, fgHistory) {
   const fg = fgHistory[fgHistory.length - 1];
   const fgTrend = fgHistory.length > 1 ? (fgHistory[fgHistory.length-1] > fgHistory[0] ? 'steigend' : 'fallend') : 'neutral';
-
-  const priceCtx = Object.entries(prices).map(([sym, d]) => {
-    const labels = {'GC=F':'Gold','SI=F':'Silber','CL=F':'Öl','HG=F':'Kupfer','BTC-USD':'Bitcoin','^GDAXI':'DAX','DX-Y.NYB':'DXY','EURUSD=X':'EUR/USD','^TNX':'10Y-Rendite'};
-    return `${labels[sym]||sym}: ${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} (${d.change >= 0 ? '+' : ''}${d.change.toFixed(2)}%)`;
-  }).join(', ');
+  const priceCtx = Object.values(prices).map(d => `${d.label}: ${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} (${d.change >= 0 ? '+' : ''}${d.change.toFixed(2)}%)`).join(', ');
+  const dateStr = new Date().toLocaleDateString('de-DE', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
 
   const prompt = `Du bist ein globaler Makro-Analyst mit islamischer Ethik und Insider-Denken.
 
@@ -107,22 +113,22 @@ KERNPRINZIP: Die Nachricht ist die Oberfläche. Das Geld zeigt die Wahrheit.
 80% der News irrelevant. 15% manipulativ. 5% sind Gold.
 Kein Trade ist oft die beste Entscheidung.
 
-AKTUELLE DATEN:
-Datum: ${new Date().toLocaleDateString('de-DE', {weekday:'long',year:'numeric',month:'long',day:'numeric'})}
+DATEN:
+Datum: ${dateStr}
 Kurse: ${priceCtx}
 Fear & Greed: ${fg}/100 (Trend: ${fgTrend})
 
 NACHRICHTEN:
 ${news.join('\n')}
 
-Analysiere auf 20 Ebenen und antworte NUR mit validem JSON:
+Antworte NUR mit validem JSON ohne Markdown-Backticks:
 {
   "oberflaeche": ["Quelle: Headline"],
   "narrativ": "Was die Masse glaubt",
   "realitaet": "Was wirklich passiert",
   "macht": "Wer profitiert konkret",
   "geopolitik": "Ressourcen, Allianzen, BRICS, De-Dollarisierung",
-  "liquiditaet": "Wohin fließt Kapital konkret",
+  "liquiditaet": "Wohin fließt Kapital",
   "kette": "A → B → C → D",
   "timing": "Früh/Mitte/Spät/Wendepunkt",
   "saisonalitaet": "Historisches Muster diesen Monat",
@@ -140,17 +146,17 @@ Analysiere auf 20 Ebenen und antworte NUR mit validem JSON:
   "purification": "0.00",
   "entscheidung": "JA/NEIN/WARTEN",
   "richtung": "LONG/SHORT/null",
-  "einstieg": "Konkreter Preis mit € oder $",
-  "stopLoss": "ATR-basierter Preis mit € oder $",
-  "ziel": "Zielpreis mit € oder $",
-  "zeitraum": "2-4 Wochen",
+  "einstieg": "Preis mit €/$",
+  "stopLoss": "ATR-basierter Preis",
+  "ziel": "Zielpreis",
+  "zeitraum": "z.B. 4-8 Wochen",
   "einsatz": 3.13,
   "exitStrategie": "Konkrete Exit-Regel",
-  "waehrungsrisiko": "EUR/USD Effekt auf Trade",
+  "waehrungsrisiko": "EUR/USD Effekt",
   "psychologie": "FOMO/PANIK Warnung oder null",
   "ruhigerTag": false,
   "lernpunkt": "Begriff: 3 Sätze Erklärung",
-  "tagesfrage": "Denkfrage ohne Antwortpflicht",
+  "tagesfrage": "Eine Denkfrage",
   "brief": "4-5 Sätze Mentor-Brief an Ayman"
 }`;
 
@@ -162,7 +168,6 @@ Analysiere auf 20 Ebenen und antworte NUR mit validem JSON:
   return new Promise((resolve, reject) => {
     const key = process.env.GEMINI_API_KEY;
     const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=${key}`;
-
     const req = https.request(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) }
@@ -173,8 +178,7 @@ Analysiere auf 20 Ebenen und antworte NUR mit validem JSON:
         try {
           const parsed = JSON.parse(data);
           const text = parsed.candidates?.[0]?.content?.parts?.[0]?.text || '{}';
-          const clean = text.replace(/```json|```/g, '').trim();
-          resolve(JSON.parse(clean));
+          resolve(JSON.parse(text.replace(/```json|```/g, '').trim()));
         } catch (e) { reject(e); }
       });
     });
@@ -184,26 +188,135 @@ Analysiere auf 20 Ebenen und antworte NUR mit validem JSON:
   });
 }
 
-// ── SIMULATION ────────────────────────────────────────────────────────────────
-function runSimulation(fearGreed, goldMomentum, cotSignal) {
-  let buy = 0, hold = 0, sell = 0;
-  for (let i = 0; i < 1000; i++) {
-    const type = i < 100 ? 'fundamental' : i < 400 ? 'chartist' : 'noise';
-    const weight = type === 'fundamental' ? 10 : type === 'chartist' ? 1.5 : 1.0;
-    let score = 0;
-    if (type === 'fundamental') {
-      score += (cotSignal === 'buy' ? 2 : cotSignal === 'sell' ? -2 : 0) * weight;
-      score += (fearGreed < 30 ? 1.5 : fearGreed > 70 ? -1.5 : 0) * weight;
-    } else if (type === 'chartist') {
-      score += (goldMomentum > 2 ? 1 : goldMomentum < -2 ? -1 : 0) * weight;
-    } else {
-      score += (Math.random() - 0.5) * weight;
-    }
-    if (score > 1.5) buy++;
-    else if (score < -1.5) sell++;
-    else hold++;
-  }
-  return { buy: Math.round(buy/10), hold: Math.round(hold/10), sell: Math.round(sell/10) };
+// ── OBSIDIAN MARKDOWN GENERIEREN ─────────────────────────────────────────────
+function generateObsidianMarkdown(date, analysis, prices, fg, sim) {
+  const dateISO = new Date().toISOString().slice(0, 10);
+  const priceLines = Object.values(prices).map(d =>
+    `| ${d.label} | ${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} | ${d.change >= 0 ? '+' : ''}${d.change.toFixed(2)}% |`
+  ).join('\n');
+
+  const entscheidungEmoji = analysis.entscheidung === 'JA' ? '✅' : analysis.entscheidung === 'NEIN' ? '❌' : '⏳';
+
+  return `---
+date: ${dateISO}
+tags: [market-brief, trading, halal]
+entscheidung: ${analysis.entscheidung || 'WARTEN'}
+asset: "${analysis.halalAsset || ''}"
+---
+
+# 📊 Market Brief – ${date}
+
+## ✉️ Persönlicher Brief
+${analysis.brief || ''}
+
+---
+
+## 📰 Oberfläche
+${(analysis.oberflaeche || []).map(n => `- ${n}`).join('\n')}
+
+## 🎭 Narrativ
+${analysis.narrativ || ''}
+
+## 🧠 Realität
+${analysis.realitaet || ''}
+
+## 🧑‍💼 Macht & Interessen
+${analysis.macht || ''}
+
+## 🌐 Geopolitik
+${analysis.geopolitik || ''}
+
+## 💸 Liquiditäts-Fluss
+${analysis.liquiditaet || ''}
+
+## 🔗 Kettenreaktion
+${analysis.kette || ''}
+
+## ⏱ Timing
+${analysis.timing || ''}
+
+## ⚠️ Masse-Fehler
+${analysis.masseFehler || ''}
+
+---
+
+## 📊 Marktreaktionen
+${analysis.markt || ''}
+
+### Kurse
+| Asset | Kurs | Änderung |
+|-------|------|----------|
+${priceLines}
+
+### Fear & Greed Index
+${fg}/100
+
+### 1000-Agenten-Simulation
+| Kaufen | Halten | Verkaufen |
+|--------|--------|-----------|
+| ${sim.buy}% | ${sim.hold}% | ${sim.sell}% |
+
+---
+
+## 🎯 Entscheidung ${entscheidungEmoji}
+
+**${analysis.entscheidung || 'WARTEN'}**
+
+${analysis.entscheidung === 'JA' ? `
+| Feld | Wert |
+|------|------|
+| Asset | ${analysis.halalAsset || ''} |
+| Richtung | ${analysis.richtung || ''} |
+| Einstieg | ${analysis.einstieg || ''} |
+| Stop-Loss | ${analysis.stopLoss || ''} |
+| Ziel | ${analysis.ziel || ''} |
+| Zeitraum | ${analysis.zeitraum || ''} |
+| Einsatz | ${analysis.einsatz || 3.13}€ |
+
+**Exit Strategie:** ${analysis.exitStrategie || ''}
+
+**Währungsrisiko:** ${analysis.waehrungsrisiko || ''}
+` : '_Kein Trade heute._'}
+
+---
+
+## ☪️ Halal Check
+**${analysis.halalStatus === 'halal' ? '✅' : analysis.halalStatus === 'zweifelhaft' ? '⚠️' : '❌'} ${analysis.halalAsset || ''}**
+
+${analysis.halalBegruendung || ''}
+
+${parseFloat(analysis.purification || '0') > 0 ? `**Reinigung:** ${analysis.purification}€ pro 100€ Dividende spenden.` : ''}
+
+---
+
+## ⚖️ Asymmetrie
+- Verlust-Risiko: ${analysis.asymmetrie?.verlust || 0}%
+- Gewinn-Potenzial: ${analysis.asymmetrie?.gewinn || 0}%
+- Ratio: 1:${analysis.asymmetrie?.ratio || 0}
+- Expected Value: ${analysis.asymmetrie?.ev || 0}
+
+---
+
+## 🌀 Meta-Zyklus
+${analysis.metaZyklus || ''}
+
+## 🧬 Smart Money (COT)
+${analysis.positionierung || ''}
+
+## 🔄 Reflexivität
+${analysis.reflexivitaet || ''}
+
+---
+
+## 📖 Lernpunkt
+${analysis.lernpunkt || ''}
+
+## ❓ Tagesfrage
+> ${analysis.tagesfrage || ''}
+
+---
+*Generiert um ${new Date().toLocaleTimeString('de-DE')} Uhr · Kein Finanzrat · ☪️ Halal only*
+`;
 }
 
 // ── MAIN ──────────────────────────────────────────────────────────────────────
@@ -226,15 +339,23 @@ async function main() {
     console.log('✅ KI-Analyse erfolgreich');
   } catch (e) {
     console.log('❌ KI-Analyse Fehler:', e.message);
-    analysis = { entscheidung: 'WARTEN', ruhigerTag: true, brief: 'Heute konnte keine Analyse erstellt werden. Bitte manuell News eingeben.' };
+    analysis = {
+      entscheidung: 'WARTEN',
+      ruhigerTag: true,
+      brief: 'Heute konnte keine Analyse erstellt werden. Bitte manuell News eingeben.'
+    };
   }
 
   const fg = fgHistory[fgHistory.length - 1];
   const goldMomentum = prices['GC=F']?.change || 0;
-  const sim = runSimulation(fg, goldMomentum, 'neutral');
+  const sim = runSimulation(fg, goldMomentum);
+  const dateStr = new Date().toLocaleDateString('de-DE', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
+  const dateISO = new Date().toISOString().slice(0, 10);
 
+  // ── JSON für die App speichern ──
+  if (!fs.existsSync('public')) fs.mkdirSync('public');
   const output = {
-    date: new Date().toLocaleDateString('de-DE', {weekday:'long',year:'numeric',month:'long',day:'numeric'}),
+    date: dateStr,
     generatedAt: new Date().toISOString(),
     sections: analysis,
     prices,
@@ -242,11 +363,17 @@ async function main() {
     simulation: sim,
     news
   };
-
-  // Public Ordner erstellen falls nicht vorhanden
-  if (!fs.existsSync('public')) fs.mkdirSync('public');
   fs.writeFileSync('public/briefing.json', JSON.stringify(output, null, 2));
-  console.log('💾 briefing.json gespeichert');
+  console.log('💾 public/briefing.json gespeichert');
+
+  // ── Markdown für Obsidian speichern ──
+  const obsidianDir = 'obsidian-vault/Market Brief';
+  if (!fs.existsSync('obsidian-vault')) fs.mkdirSync('obsidian-vault');
+  if (!fs.existsSync(obsidianDir)) fs.mkdirSync(obsidianDir, { recursive: true });
+  const markdown = generateObsidianMarkdown(dateStr, analysis, prices, fg, sim);
+  fs.writeFileSync(`${obsidianDir}/${dateISO}.md`, markdown);
+  console.log(`📓 Obsidian Markdown gespeichert: ${dateISO}.md`);
+
   console.log('✅ Fertig!');
 }
 
