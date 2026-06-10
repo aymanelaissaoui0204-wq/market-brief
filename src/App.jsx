@@ -1005,6 +1005,15 @@ export default function App() {
 
         {/* ── LERNEN ── */}
         {tab === "lernen" && <>
+          {!s ? (
+            <div style={{ textAlign: "center", padding: "40px 20px" }}>
+              <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
+              <div style={{ fontSize: "16px", fontWeight: "700", fontFamily: "'Syne'", color: "#FFD700", marginBottom: "10px" }}>Noch kein Briefing</div>
+              <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.8" }}>
+                Tagesfrage und Lernpunkt kommen mit dem ersten Briefing um 06:00 Uhr.
+              </div>
+            </div>
+          ) : <>
           <Block icon="📖" title="Lernpunkt heute" accent="rgba(150,150,255,0.2)">{s.lernpunkt}</Block>
           <div style={{ background: "rgba(255,215,0,0.04)", border: "1px solid rgba(255,215,0,0.1)", borderRadius: "11px", padding: "13px", marginBottom: "8px" }}>
             <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,215,0,0.4)", marginBottom: "7px" }}>❓ TAGESFRAGE</div>
@@ -1048,6 +1057,7 @@ export default function App() {
               </div>
             ))}
           </div>
+          </>}
         </>}
 
         {/* ── VERLAUF ── */}
