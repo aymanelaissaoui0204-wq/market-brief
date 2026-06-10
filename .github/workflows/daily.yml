@@ -22,6 +22,6 @@ jobs:
         run: |
           git config --global user.name "market-bot"
           git config --global user.email "bot@market.com"
-          git add public/briefing.json
+          git add public/briefing.json obsidian-vault/
           git diff --quiet && git diff --staged --quiet || git commit -m "Daily $(date +%Y-%m-%d)"
           git push
