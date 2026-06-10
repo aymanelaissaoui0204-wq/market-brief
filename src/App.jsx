@@ -705,6 +705,23 @@ export default function App() {
       }).catch(() => {});
   }, [unlocked]);
 
+  // Lade briefing.json von public/ Ordner
+  useEffect(() => {
+    if (!unlocked) return;
+    fetch('/market-brief/public/briefing.json')
+      .then(r => r.json())
+      .then(data => {
+        if (data?.sections) {
+          const nb = { date: data.date || today(), sections: data.sections };
+          setBriefing(nb);
+          ls.set("last_briefing", nb);
+          if (data.fearGreed) { setFgHist(data.fearGreed); setFg(data.fearGreed[data.fearGreed.length - 1]); }
+          if (data.simulation) setSim(data.simulation);
+        }
+      })
+      .catch(() => {});
+  }, [unlocked]);
+
   const handleUnlock = () => { ls.set("unlocked", true); setUnlocked(true); };
 
   const generate = async () => {
@@ -889,6 +906,15 @@ export default function App() {
 
         {/* ── REALITÄT ── */}
         {tab === "realitaet" && <>
+          {!s ? (
+            <div style={{ textAlign: "center", padding: "40px 20px" }}>
+              <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
+              <div style={{ fontSize: "16px", fontWeight: "700", fontFamily: "'Syne'", color: "#FFD700", marginBottom: "10px" }}>Noch kein Briefing</div>
+              <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.8" }}>
+                Analyse kommt täglich um 06:00 Uhr.
+              </div>
+            </div>
+          ) : <>
           <Block icon="🎭" title="Narrativ – Was die Masse glaubt" accent="rgba(200,100,255,0.2)">{s.narrativ}</Block>
           {!schnell && <>
             <Block icon="🧠" title="Realität – Was wirklich passiert" accent="rgba(150,100,255,0.22)">{s.realitaet}</Block>
@@ -898,10 +924,20 @@ export default function App() {
             <Block icon="🔄" title="Reflexivität" accent="rgba(180,100,255,0.2)">{s.reflexivitaet}</Block>
             <Block icon="🌀" title="Meta-Zyklus" accent="rgba(100,200,150,0.2)">{s.metaZyklus}</Block>
           </>}
+          </>}
         </>}
 
         {/* ── GELD ── */}
         {tab === "geldfluss" && <>
+          {!s ? (
+            <div style={{ textAlign: "center", padding: "40px 20px" }}>
+              <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
+              <div style={{ fontSize: "16px", fontWeight: "700", fontFamily: "'Syne'", color: "#FFD700", marginBottom: "10px" }}>Noch kein Briefing</div>
+              <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.8" }}>
+                Datenfluss-Analyse kommt täglich um 06:00 Uhr.
+              </div>
+            </div>
+          ) : <>
           <Block icon="💸" title="Liquiditäts-Fluss" accent="rgba(0,255,150,0.2)">{s.liquiditaet}</Block>
           {!schnell && <>
             <Block icon="🔗" title="Kettenreaktion" accent="rgba(255,215,0,0.15)">{s.kette}</Block>
@@ -919,10 +955,20 @@ export default function App() {
               </div>
             </div>
           </>}
+          </>}
         </>}
 
         {/* ── AKTION ── */}
         {tab === "aktion" && <>
+          {!s ? (
+            <div style={{ textAlign: "center", padding: "40px 20px" }}>
+              <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
+              <div style={{ fontSize: "16px", fontWeight: "700", fontFamily: "'Syne'", color: "#FFD700", marginBottom: "10px" }}>Noch kein Briefing</div>
+              <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.8" }}>
+                Echte Entscheidungen und Charts kommen nach dem ersten automatischen Briefing um 06:00 Uhr.
+              </div>
+            </div>
+          ) : <>
           <Block icon="💡" title="Opportunity" accent="rgba(255,215,0,0.22)">{s.opportunity || "Kein klares Setup heute."}</Block>
           <AsymmetrieCard a={s.asymmetrie} />
           {s.entscheidung === "JA" && <TradingViewChart asset={s.halalAsset} stopLoss={s.stopLoss} ziel={s.ziel} einstieg={s.einstieg} />}
@@ -943,6 +989,7 @@ export default function App() {
               })}
             </div>
           )}
+          </>}
         </>}
 
         {/* ── CHARTS ── */}
