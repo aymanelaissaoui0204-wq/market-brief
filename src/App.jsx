@@ -59,29 +59,29 @@ SPRACHE: Deutsch. Kurze Sätze. Profi-Denken, Einsteiger-Sprache.`;
 // ═══════════════════════════════════════════════════════════════════════════
 // CONSTANTS
 // ═══════════════════════════════════════════════════════════════════════════
+// Nur Assets die auf Trade Republic verfügbar sind
 const TICKERS = [
-  { symbol: "GC=F",     label: "Gold",    emoji: "🥇", color: "#FFD700" },
-  { symbol: "SI=F",     label: "Silber",  emoji: "🥈", color: "#C0C0C0" },
-  { symbol: "CL=F",     label: "Öl",      emoji: "🛢️", color: "#FF8C00" },
-  { symbol: "HG=F",     label: "Kupfer",  emoji: "🔶", color: "#FF6B35" },
-  { symbol: "BTC-USD",  label: "Bitcoin", emoji: "₿",  color: "#F7931A" },
-  { symbol: "^GDAXI",   label: "DAX",     emoji: "📈", color: "#00C896" },
-  { symbol: "DX-Y.NYB", label: "DXY",     emoji: "💵", color: "#6C8EFF" },
-  { symbol: "EURUSD=X", label: "EUR/USD", emoji: "💶", color: "#4ECDC4" },
-  { symbol: "^TNX",     label: "10Y",     emoji: "📊", color: "#FF6B9D" },
+  { symbol: "GC=F",     label: "Gold",       emoji: "🥇", color: "#FFD700",  tr: "Xetra-Gold ETC" },
+  { symbol: "SI=F",     label: "Silber",     emoji: "🥈", color: "#C0C0C0",  tr: "Silber ETC" },
+  { symbol: "BTC-USD",  label: "Bitcoin",    emoji: "₿",  color: "#F7931A",  tr: "Bitcoin" },
+  { symbol: "^GDAXI",   label: "DAX",        emoji: "📈", color: "#00C896",  tr: "iShares Core DAX" },
+  { symbol: "EURUSD=X", label: "EUR/USD",    emoji: "💶", color: "#4ECDC4",  tr: "Kurs-Indikator" },
+  { symbol: "CL=F",     label: "Öl",         emoji: "🛢️", color: "#FF8C00",  tr: "WisdomTree Oil ETC" },
+  { symbol: "GLD",      label: "MSCI World", emoji: "🌍", color: "#6C8EFF",  tr: "iShares MSCI World Islamic" },
 ];
 
 const TV_CHARTS = [
-  { label: "🥇 Gold",          symbol: "TVC:GOLD" },
-  { label: "🥈 Silber",        symbol: "TVC:SILVER" },
-  { label: "🛢️ Öl (WTI)",     symbol: "TVC:USOIL" },
-  { label: "🔶 Kupfer",        symbol: "TVC:COPPER" },
-  { label: "₿ Bitcoin",        symbol: "BINANCE:BTCUSDT" },
-  { label: "📈 DAX",           symbol: "XETRA:DAX" },
-  { label: "💵 DXY",           symbol: "TVC:DXY" },
-  { label: "💶 EUR/USD",       symbol: "FX:EURUSD" },
-  { label: "📊 US 10Y Rendite",symbol: "TVC:US10Y" },
+  { label: "🥇 Gold (Xetra-Gold)",           symbol: "TVC:GOLD" },
+  { label: "🥈 Silber ETC",                  symbol: "TVC:SILVER" },
+  { label: "₿ Bitcoin",                      symbol: "BINANCE:BTCUSDT" },
+  { label: "📈 DAX (iShares Core DAX)",      symbol: "XETRA:DAX" },
+  { label: "🛢️ Öl (WisdomTree Oil)",         symbol: "TVC:USOIL" },
+  { label: "🌍 MSCI World Islamic",          symbol: "SP:SPX" },
+  { label: "💶 EUR/USD",                     symbol: "FX:EURUSD" },
 ];
+
+// Kein fake Sample – App zeigt klaren Hinweis wenn noch kein Briefing da ist
+const EMPTY_STATE = null;
 
 const ASSET_TO_TV = {
   "xetra-gold": "TVC:GOLD", "gold": "TVC:GOLD", "silber": "TVC:SILVER",
@@ -118,44 +118,6 @@ const GLOSSAR = {
   "Stop-Loss": "Automatischer Verkaufsbefehl wenn Kurs unter X fällt. Begrenzt Verluste.",
   "Support": "Preiszone wo viele Käufer warten. Kurs prallt oft davon ab.",
   "Resistance": "Preiszone wo viele Verkäufer warten. Kurs dreht oft dort um.",
-};
-
-const SAMPLE = {
-  oberflaeche: ["Reuters: Fed hält Leitzins bei 3,50–3,75% – Powell warnt vor frühen Senkungen", "Bloomberg: Brent-Öl steigt auf 112$ – höchster Stand seit 14 Monaten", "Tagesschau: DAX fällt 1,2% – Anleger flüchten in Gold"],
-  narrativ: "Medien erzählen: 'Zinsen stabil = Wirtschaft sicher.' Inflationssorgen übertrieben.",
-  realitaet: "Bei 4% Inflation und 3,5% Zins verlierst du real 0,5% pro Jahr auf Cash. Die Fed ist gefangen. Öl-Anstieg ist geopolitisch orchestriert.",
-  macht: "Gewinner: Saudi Aramco, Gold-Halter, Hedgefonds mit Tech-Shorts. Verlierer: Konsumenten, Schwellenländer.",
-  geopolitik: "Nahost-Konflikt als Druckmittel vor G7. BRICS akkumulieren Gold. USD-Anteil in Reserven bei 58% – nahe Kipppunkt.",
-  liquiditaet: "Kapital fließt IN: Gold, Energie-ETFs, CHF. RAUS aus: Tech-Growth, Emerging Markets.",
-  kette: "Nahost-Spannung → Öl↑ → Inflation↑ → Fed zögert → Tech↓ → Gold↑",
-  timing: "Früh bis Mitte im Trend. Gold bricht aus Konsolidierung aus – Setup frisch.",
-  saisonalitaet: "Mai/Juni historisch schwach für Aktien. Gold zeigt Stärke im Sommer bei geopolitischen Risiken.",
-  masseFehler: "95% denken: 'Fed hält = nichts passiert.' Falsch. Stabiler Zins bei hoher Inflation = realer Kaufkraftverlust.",
-  widerspruch: "Kein kritischer Widerspruch heute.",
-  markt: "Gold ↑ +1.4% | Silber ↑ +0.8% | Öl ↑ +2.1% | Kupfer ↓ -0.3% | Bitcoin ↓ -0.8% | DAX ↓ -1.2% | DXY ↑ +0.4% | EUR/USD ↓ -0.4% | 10Y ↑ +0.05%",
-  opportunity: "Xetra-Gold ETC: Ausbruch aus 6-Wochen-Konsolidierung mit Volumen-Bestätigung.",
-  positionierung: "COT: Commercials haben Gold-Longs massiv erhöht. Noch nicht überfüllt.",
-  reflexivitaet: "Gold steigt → Medien berichten → Retail kauft → Gold steigt weiter. Anfang des Loops.",
-  asymmetrie: { verlust: 8, gewinn: 18, ratio: 2.3, ev: 0.12 },
-  metaZyklus: "Stagflation-Phase: Hohes Öl + stagnierendes Wachstum + Zentralbank gefangen.",
-  halalAsset: "Xetra-Gold ETC (DE000A0S9GB0)",
-  halalStatus: "halal",
-  halalBegruendung: "Physisch hinterlegtes Gold, kein Zinsanteil, kein Hebel – AAOIFI-konform.",
-  purification: "0.00",
-  entscheidung: "JA",
-  richtung: "LONG",
-  einstieg: "30.50€",
-  stopLoss: "28.10€",
-  ziel: "36.00€",
-  zeitraum: "6–10 Wochen",
-  einsatz: 3.13,
-  exitStrategie: "Bei +10%: Hälfte verkaufen. Rest mit Trailing Stop +5% absichern.",
-  waehrungsrisiko: "Gold in USD – bei EUR/USD -1% gewinnst du zusätzlich ~0.30€.",
-  psychologie: null,
-  ruhigerTag: false,
-  lernpunkt: "Stagflation: Wenn Inflation hoch ist aber die Wirtschaft kaum wächst. Notenbanken können weder Gas geben noch bremsen. Gewinner: Gold, Silber, Rohstoffe.",
-  tagesfrage: "Wenn die Fed morgen die Zinsen senkt – wohin würde das Geld zuerst fließen?",
-  brief: "Ayman, heute verkauft die Welt Angst – Krieg, Inflation, fallende Börsen. Aber hinter der Angst liegt ein klares Bild: Smart Money kauft Gold still während Retail panikt. Mit 3,13€ kaufst du heute Verständnis eines echten Zyklus. Stagflation – merke dir dieses Wort."
 };
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -262,6 +224,7 @@ function TickerBar({ prices }) {
             <div style={{ fontSize: "9px", color: d ? (up ? "#00C896" : "#FF5050") : "rgba(255,255,255,0.2)", fontFamily: "'DM Mono'" }}>
               {d ? `${up ? "+" : ""}${d.change.toFixed(2)}%` : "—"}
             </div>
+            <div style={{ fontSize: "7px", color: "rgba(255,215,0,0.25)", fontFamily: "'DM Mono'", marginTop: "1px" }}>TR ✓</div>
           </div>
         );
       })}
@@ -554,6 +517,110 @@ function Brief({ text, date }) {
   );
 }
 
+function Kalender({ history, onSelect }) {
+  const now = new Date();
+  const [year, setYear] = useState(now.getFullYear());
+  const [month, setMonth] = useState(now.getMonth());
+  const [selected, setSelected] = useState(null);
+
+  // Build map: "YYYY-MM-DD" -> briefing
+  const briefingMap = {};
+  history.forEach(item => {
+    if (!item.date) return;
+    // Try to parse German date format
+    try {
+      const parts = item.date.split(", ")[1]?.split(" ");
+      if (parts && parts.length >= 3) {
+        const months = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+        const d = parseInt(parts[0]);
+        const m = months.indexOf(parts[1]);
+        const y = parseInt(parts[2]);
+        if (d && m >= 0 && y) {
+          const key = `${y}-${String(m+1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
+          briefingMap[key] = item;
+        }
+      }
+    } catch {}
+  });
+
+  const daysInMonth = new Date(year, month + 1, 0).getDate();
+  const firstDay = new Date(year, month, 1).getDay();
+  const startOffset = firstDay === 0 ? 6 : firstDay - 1;
+  const monthNames = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+  const dayNames = ["Mo","Di","Mi","Do","Fr","Sa","So"];
+  const todayKey = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`;
+
+  const prevMonth = () => { if (month === 0) { setMonth(11); setYear(y => y-1); } else setMonth(m => m-1); };
+  const nextMonth = () => { if (month === 11) { setMonth(0); setYear(y => y+1); } else setMonth(m => m+1); };
+
+  const cells = [];
+  for (let i = 0; i < startOffset; i++) cells.push(null);
+  for (let d = 1; d <= daysInMonth; d++) cells.push(d);
+
+  return (
+    <div style={{ background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,215,0,0.12)", borderRadius: "14px", padding: "14px", marginBottom: "12px" }}>
+      {/* Header */}
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "12px" }}>
+        <button onClick={prevMonth} style={{ background: "transparent", border: "none", color: "rgba(255,255,255,0.4)", fontSize: "18px", cursor: "pointer", padding: "4px 8px" }}>‹</button>
+        <span style={{ fontSize: "12px", fontWeight: "600", color: "#FFD700", fontFamily: "'DM Mono'", letterSpacing: "1px" }}>{monthNames[month]} {year}</span>
+        <button onClick={nextMonth} style={{ background: "transparent", border: "none", color: "rgba(255,255,255,0.4)", fontSize: "18px", cursor: "pointer", padding: "4px 8px" }}>›</button>
+      </div>
+
+      {/* Day names */}
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: "2px", marginBottom: "4px" }}>
+        {dayNames.map(d => <div key={d} style={{ textAlign: "center", fontSize: "9px", color: "rgba(255,255,255,0.25)", fontFamily: "'DM Mono'", padding: "2px 0" }}>{d}</div>)}
+      </div>
+
+      {/* Days grid */}
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: "2px" }}>
+        {cells.map((day, i) => {
+          if (!day) return <div key={`e-${i}`} />;
+          const key = `${year}-${String(month+1).padStart(2,"0")}-${String(day).padStart(2,"0")}`;
+          const hasBriefing = !!briefingMap[key];
+          const isToday = key === todayKey;
+          const isSelected = selected === key;
+          return (
+            <div key={key} onClick={() => { if (hasBriefing) { setSelected(key); onSelect(briefingMap[key]); } }}
+              style={{
+                aspectRatio: "1", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center",
+                borderRadius: "8px", cursor: hasBriefing ? "pointer" : "default",
+                background: isSelected ? "rgba(255,215,0,0.2)" : isToday ? "rgba(255,215,0,0.08)" : hasBriefing ? "rgba(0,200,100,0.08)" : "transparent",
+                border: isSelected ? "1px solid rgba(255,215,0,0.5)" : isToday ? "1px solid rgba(255,215,0,0.25)" : hasBriefing ? "1px solid rgba(0,200,100,0.2)" : "1px solid transparent",
+                transition: "all .15s"
+              }}>
+              <span style={{ fontSize: "11px", color: isSelected ? "#FFD700" : isToday ? "#FFD700" : hasBriefing ? "#00C896" : "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'", fontWeight: hasBriefing || isToday ? "600" : "400" }}>{day}</span>
+              {hasBriefing && <div style={{ width: "4px", height: "4px", borderRadius: "50%", background: isSelected ? "#FFD700" : "#00C896", marginTop: "1px" }} />}
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Legend */}
+      <div style={{ display: "flex", gap: "12px", marginTop: "10px", justifyContent: "center" }}>
+        <div style={{ display: "flex", gap: "5px", alignItems: "center" }}>
+          <div style={{ width: "8px", height: "8px", borderRadius: "50%", background: "#00C896" }} />
+          <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>Briefing vorhanden</span>
+        </div>
+        <div style={{ display: "flex", gap: "5px", alignItems: "center" }}>
+          <div style={{ width: "8px", height: "8px", borderRadius: "50%", background: "#FFD700" }} />
+          <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>Heute</span>
+        </div>
+      </div>
+
+      {selected && briefingMap[selected] && (
+        <div style={{ marginTop: "10px", padding: "10px", background: "rgba(255,215,0,0.05)", border: "1px solid rgba(255,215,0,0.15)", borderRadius: "9px" }}>
+          <div style={{ fontSize: "9px", color: "rgba(255,215,0,0.5)", fontFamily: "'DM Mono'", marginBottom: "5px" }}>📌 AUSGEWÄHLT</div>
+          <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.7)", fontFamily: "'DM Mono'" }}>{briefingMap[selected].date}</div>
+          <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)", marginTop: "4px", fontFamily: "'DM Mono'" }}>{briefingMap[selected].sections?.brief?.slice(0, 80)}...</div>
+          <button onClick={() => onSelect(briefingMap[selected])} style={{ marginTop: "8px", width: "100%", padding: "8px", background: "rgba(255,215,0,0.1)", border: "1px solid rgba(255,215,0,0.2)", borderRadius: "7px", color: "#FFD700", fontSize: "11px", cursor: "pointer", fontFamily: "'DM Mono'" }}>
+            Briefing öffnen →
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function GlossarModal({ term, onClose }) {
   if (!term) return null;
   return (
@@ -574,7 +641,7 @@ function GlossarModal({ term, onClose }) {
 export default function App() {
   const [unlocked, setUnlocked] = useState(ls.get("unlocked", false));
   const [tab, setTab] = useState("heute");
-  const [briefing, setBriefing] = useState(ls.get("last_briefing", { date: today(), sections: SAMPLE }));
+  const [briefing, setBriefing] = useState(ls.get("last_briefing", null));
   const [history, setHistory] = useState(ls.get("history", []));
   const [prices, setPrices] = useState({});
   const [fg, setFg] = useState(ls.get("fg_hist", [42]).slice(-1)[0]);
@@ -592,7 +659,7 @@ export default function App() {
   const [schnell, setSchnell] = useState(false);
   const [disclaimer, setDisclaimer] = useState(ls.get("disclaimer", false));
 
-  const s = briefing?.sections || SAMPLE;
+  const s = briefing?.sections || null;
   const fgc = fg < 40 ? "#FF5050" : fg > 60 ? "#00C896" : "#FFB800";
   const fgLabel = fg < 25 ? "Ext. Angst" : fg < 45 ? "Angst" : fg < 55 ? "Neutral" : fg < 75 ? "Gier" : "Ext. Gier";
   const metrics = calcMetrics(trades);
@@ -766,30 +833,46 @@ export default function App() {
         {tab === "heute" && <>
           <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.18)", marginBottom: "11px" }}>{briefing?.date || today()}</div>
 
-          {s.widerspruch && !s.widerspruch.toLowerCase().startsWith("kein") && (
+          {/* Kein Briefing vorhanden */}
+          {!s && (
+            <div style={{ textAlign: "center", padding: "40px 20px" }}>
+              <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
+              <div style={{ fontSize: "16px", fontWeight: "700", fontFamily: "'Syne'", color: "#FFD700", marginBottom: "10px" }}>Noch kein Briefing</div>
+              <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.8", marginBottom: "20px" }}>
+                Kein vorgeschriebener Inhalt.{"\n"}
+                Echte Analyse kommt täglich um 06:00 Uhr{"\n"}
+                wenn GitHub Actions eingerichtet ist.
+              </div>
+              <button onClick={() => setTab("neu")} style={{ padding: "12px 24px", background: "linear-gradient(135deg,rgba(255,215,0,0.15),rgba(255,140,0,0.1))", border: "1px solid rgba(255,215,0,0.3)", borderRadius: "12px", color: "#FFD700", fontSize: "13px", fontFamily: "'Syne'", fontWeight: "700", cursor: "pointer" }}>
+                ⚡ Jetzt manuell generieren
+              </button>
+            </div>
+          )}
+
+          {s && s.widerspruch && !s.widerspruch.toLowerCase().startsWith("kein") && (
             <div style={{ background: "rgba(255,80,80,0.07)", border: "1px solid rgba(255,80,80,0.3)", borderRadius: "11px", padding: "11px 13px", marginBottom: "11px" }}>
               <div style={{ fontSize: "9px", letterSpacing: "2px", color: "#FF5050", marginBottom: "5px" }}>⚠️ SIGNAL-WIDERSPRUCH</div>
               <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.72)" }}>{s.widerspruch}</div>
             </div>
           )}
 
-          {s.psychologie && (
+          {s && s.psychologie && (
             <div style={{ background: "rgba(255,184,0,0.06)", border: "1px solid rgba(255,184,0,0.28)", borderRadius: "11px", padding: "11px 13px", marginBottom: "11px" }}>
               <div style={{ fontSize: "9px", letterSpacing: "2px", color: "#FFB800", marginBottom: "5px" }}>🧠 PSYCHOLOGIE-WARNUNG</div>
               <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.72)" }}>{s.psychologie}</div>
             </div>
           )}
 
-          {s.ruhigerTag && (
+          {s && s.ruhigerTag && (
             <div style={{ background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,255,255,0.07)", borderRadius: "11px", padding: "11px 13px", marginBottom: "11px" }}>
               <div style={{ fontSize: "9px", letterSpacing: "2px", color: "rgba(255,255,255,0.28)", marginBottom: "5px" }}>😴 RUHIGER TAG</div>
               <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.45)" }}>Heute keine relevanten Makro-Ereignisse. Beobachten, nicht handeln.</div>
             </div>
           )}
 
-          <KernLeiste s={s} fg={fg} prices={prices} sim={sim} />
+          {s && <KernLeiste s={s} fg={fg} prices={prices} sim={sim} />}
 
-          {!schnell && <>
+          {s && !schnell && <>
             <Brief text={s.brief} date={briefing?.date || today()} />
             <div style={{ marginBottom: "8px" }}>
               <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,255,255,0.22)", marginBottom: "7px" }}>📰 OBERFLÄCHE</div>
@@ -922,6 +1005,7 @@ export default function App() {
 
         {/* ── VERLAUF ── */}
         {tab === "verlauf" && <>
+          <Kalender history={history} onSelect={(item) => { setBriefing(item); setTab("heute"); }} />
           {metrics && (
             <div style={{ background: "rgba(255,215,0,0.04)", border: "1px solid rgba(255,215,0,0.14)", borderRadius: "11px", padding: "13px", marginBottom: "11px" }}>
               <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,215,0,0.4)", marginBottom: "9px" }}>📊 TRACK RECORD ({metrics.total} Trades)</div>
