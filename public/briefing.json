@@ -1,43 +1,43 @@
 {
   "date": "Donnerstag, 11. Juni 2026",
-  "generatedAt": "2026-06-11T14:36:47.599Z",
+  "generatedAt": "2026-06-11T14:39:40.469Z",
   "news": [],
   "sections": {},
   "prices": {
-    "GLD": {
-      "label": "MSCI World Islamic",
-      "price": 374.15301513671875,
-      "change": -0.11398671868565029
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 64.28500366210938,
-      "change": -0.4860684624760249
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4101.2998046875,
-      "change": -0.16796626982476215
+      "price": 4096.39990234375,
+      "change": -0.2872375348751081
     },
-    "CL=F": {
-      "label": "Öl",
-      "price": 90.18000030517578,
-      "change": 0.16661282673859185
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62963.2890625,
-      "change": 2.4638202054056513
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1519410610198975,
-      "change": -0.13823097014454933
+    "GLD": {
+      "label": "MSCI World Islamic",
+      "price": 374.25,
+      "change": -0.08809508892487573
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 24224.009765625,
-      "change": 0.11861479807998047
+      "price": 24252.650390625,
+      "change": 0.23698742629862982
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 62872.2109375,
+      "change": 2.315603478427143
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1522064208984375,
+      "change": -0.11522692263096031
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 90.13999938964844,
+      "change": 0.1221821746562747
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 64.18000030517578,
+      "change": -0.6486148773136556
     }
   },
   "fearGreed": [
