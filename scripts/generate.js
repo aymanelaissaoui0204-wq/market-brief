@@ -33,13 +33,23 @@ async function fetchNews() {
     const key = process.env.NEWSAPI_KEY;
     if (!key) throw new Error('NewsAPI Key fehlt');
     
-    const promises = keywords.map(keyword =>
-      fetch(`https://newsapi.org/v2/everything?q=${encodeURIComponent(keyword)}&sortBy=publishedAt&language=de,en&pageSize=3&apiKey=${key}`)
-        .then(r => r.json())
-        .then(d => d.articles || [])
-        .catch(() => [])
-    );
+    const fetchNewsAPI = (keyword) => new Promise((resolve) => {
+      const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(keyword)}&sortBy=publishedAt&language=de,en&pageSize=3&apiKey=${key}`;
+      https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+        let data = '';
+        res.on('data', chunk => data += chunk);
+        res.on('end', () => {
+          try {
+            const parsed = JSON.parse(data);
+            resolve(parsed.articles || []);
+          } catch {
+            resolve([]);
+          }
+        });
+      }).on('error', () => resolve([]));
+    });
     
+    const promises = keywords.map(k => fetchNewsAPI(k));
     const allArticles = await Promise.all(promises);
     const flattened = allArticles.flat();
     
