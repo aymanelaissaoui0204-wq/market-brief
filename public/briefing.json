@@ -1,52 +1,43 @@
 {
   "date": "Donnerstag, 11. Juni 2026",
-  "generatedAt": "2026-06-11T09:53:38.165Z",
+  "generatedAt": "2026-06-11T14:16:15.106Z",
+  "news": [],
   "sections": {},
   "prices": {
-    "DX-Y.NYB": {
-      "label": "DXY",
-      "price": 100.08499908447266,
-      "change": 0.13506967519006316
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4110.7001953125,
-      "change": 0.060853899059070356
-    },
-    "^TNX": {
-      "label": "10Y",
-      "price": 4.541999816894531,
-      "change": 0.30918593953772067
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 64.26000213623047,
-      "change": -0.524771114617485
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24198.75,
-      "change": 0.014215370860136493
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 89.6500015258789,
-      "change": -0.42207848336142845
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62884.76953125,
-      "change": 2.3360408080392507
-    },
-    "HG=F": {
-      "label": "Kupfer",
-      "price": 6.200500011444092,
-      "change": -0.7761251475856389
+      "price": 4094.10009765625,
+      "change": -0.34321836779858883
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1536686420440674,
-      "change": 0.011533026516246788
+      "price": 1.1526048183441162,
+      "change": -0.08068984860112449
+    },
+    "GLD": {
+      "label": "MSCI World Islamic",
+      "price": 372.6499938964844,
+      "change": -0.5152418028102277
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24315.990234375,
+      "change": 0.4987730463975659
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 64.12000274658203,
+      "change": -0.7414917941401563
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 62780,
+      "change": 2.165543259819549
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.5999984741211,
+      "change": -0.47761891703442216
     }
   },
   "fearGreed": [
@@ -62,11 +53,5 @@
     "buy": 10,
     "hold": 90,
     "sell": 0
-  },
-  "news": [
-    "EZB:  Frank Elderson: Interview with Het Financieele Dagblad",
-    "EZB:  ECB announces main milestones for roll-out of Integrated Reporting Framework",
-    "Fed: Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
-    "Fed: Agencies remove additional references to reputation risk"
-  ]
+  }
 }
