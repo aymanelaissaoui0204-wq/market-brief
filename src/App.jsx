@@ -507,6 +507,63 @@ function ChartBlock({ label, symbol }) {
   );
 }
 
+function HypeAnalysis({ hypeCenter, peripherEffect, hypeNews }) {
+  const [open, setOpen] = useState(false);
+  if (!hypeCenter && !peripherEffect) return null;
+  return (
+    <div style={{ background: "linear-gradient(135deg,rgba(255,140,0,0.08),rgba(200,100,50,0.04))", border: "1px solid rgba(255,140,0,0.2)", borderRadius: "13px", padding: "14px", marginBottom: "11px", overflow: "hidden" }}>
+      <div onClick={() => setOpen(o => !o)} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", cursor: "pointer", marginBottom: open ? "9px" : "0" }}>
+        <div style={{ display: "flex", gap: "7px", alignItems: "center" }}>
+          <span style={{ fontSize: "16px" }}>🚀</span>
+          <span style={{ fontSize: "9px", letterSpacing: "2px", textTransform: "uppercase", fontFamily: "'DM Mono'", color: "rgba(255,140,0,0.6)", fontWeight: "600" }}>Hype-Analyse</span>
+        </div>
+        <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.2)" }}>{open ? "▲" : "▼"}</span>
+      </div>
+      {open && <>
+        {hypeCenter && (
+          <div style={{ padding: "10px", background: "rgba(255,140,0,0.05)", borderRadius: "9px", marginBottom: "9px" }}>
+            <div style={{ fontSize: "8px", color: "rgba(255,140,0,0.5)", fontFamily: "'DM Mono'", marginBottom: "4px" }}>🎯 HYPE-CENTER</div>
+            <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", fontFamily: "'DM Mono'", lineHeight: "1.5" }}>{hypeCenter}</div>
+          </div>
+        )}
+        {peripherEffect && (
+          <div style={{ padding: "10px", background: "rgba(200,100,100,0.05)", borderRadius: "9px", marginBottom: "9px" }}>
+            <div style={{ fontSize: "8px", color: "rgba(200,150,100,0.5)", fontFamily: "'DM Mono'", marginBottom: "4px" }}>🔄 PERIPHER-EFFEKT</div>
+            <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.75)", fontFamily: "'DM Mono'", lineHeight: "1.5" }}>{peripherEffect}</div>
+          </div>
+        )}
+      </>}
+    </div>
+  );
+}
+
+function NewsBoard({ news }) {
+  if (!news || news.length === 0) return null;
+  const [open, setOpen] = useState(false);
+  return (
+    <div style={{ background: "rgba(255,215,0,0.03)", border: "1px solid rgba(255,215,0,0.12)", borderRadius: "13px", marginBottom: "11px", overflow: "hidden" }}>
+      <div onClick={() => setOpen(o => !o)} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "12px 14px", cursor: "pointer" }}>
+        <div style={{ display: "flex", gap: "7px", alignItems: "center" }}>
+          <span style={{ fontSize: "16px" }}>📰</span>
+          <span style={{ fontSize: "9px", letterSpacing: "2px", textTransform: "uppercase", fontFamily: "'DM Mono'", color: "rgba(255,215,0,0.5)", fontWeight: "600" }}>Hype-News ({news.length})</span>
+        </div>
+        <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.2)" }}>{open ? "▲" : "▼"}</span>
+      </div>
+      {open && (
+        <div style={{ padding: "12px 14px", borderTop: "1px solid rgba(255,215,0,0.1)", maxHeight: "300px", overflowY: "auto" }}>
+          {news.slice(0, 8).map((n, i) => (
+            <div key={i} style={{ padding: "9px 0", borderBottom: "1px solid rgba(255,255,255,0.04)", fontSize: "11px", lineHeight: "1.6", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'" }}>
+              <div style={{ color: "rgba(255,215,0,0.4)", fontSize: "9px", marginBottom: "3px" }}>{n.source}</div>
+              <div style={{ color: "rgba(255,255,255,0.78)" }}>{n.title}</div>
+              <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.22)", marginTop: "2px" }}>{n.publishedAt}</div>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 function Brief({ text, date }) {
   return (
     <div style={{ background: "linear-gradient(135deg,rgba(255,215,0,0.07),rgba(255,140,0,0.03))", border: "1px solid rgba(255,215,0,0.18)", borderRadius: "13px", padding: "15px 17px", marginBottom: "11px", position: "relative", overflow: "hidden" }}>
@@ -658,6 +715,7 @@ export default function App() {
   const [newVorhersage, setNewVorhersage] = useState("");
   const [schnell, setSchnell] = useState(false);
   const [disclaimer, setDisclaimer] = useState(ls.get("disclaimer", false));
+  const [news, setNews] = useState(null);
 
   const s = briefing?.sections || null;
   const fgc = fg < 40 ? "#FF5050" : fg > 60 ? "#00C896" : "#FFB800";
@@ -717,6 +775,7 @@ export default function App() {
           ls.set("last_briefing", nb);
           if (data.fearGreed) { setFgHist(data.fearGreed); setFg(data.fearGreed[data.fearGreed.length - 1]); }
           if (data.simulation) setSim(data.simulation);
+          if (data.news) setNews(data.news);
         }
       })
       .catch(() => {});
@@ -888,6 +947,10 @@ export default function App() {
           )}
 
           {s && <KernLeiste s={s} fg={fg} prices={prices} sim={sim} />}
+
+          <HypeAnalysis hypeCenter={s?.hypeCenter} peripherEffect={s?.peripherEffect} hypeNews={s?.hypeNews} />
+
+          <NewsBoard news={news} />
 
           {s && !schnell && <>
             <Brief text={s.brief} date={briefing?.date || today()} />
