@@ -1,52 +1,52 @@
 {
   "date": "Donnerstag, 11. Juni 2026",
-  "generatedAt": "2026-06-11T09:12:14.462Z",
+  "generatedAt": "2026-06-11T09:53:38.165Z",
   "sections": {},
   "prices": {
-    "GC=F": {
-      "label": "Gold",
-      "price": 4107,
-      "change": -0.02921462575921776
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 89.36000061035156,
-      "change": -0.7441943552479354
-    },
     "DX-Y.NYB": {
       "label": "DXY",
-      "price": 100.09300231933594,
-      "change": 0
+      "price": 100.08499908447266,
+      "change": 0.13506967519006316
     },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24204.810546875,
-      "change": 0
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62764.41015625,
-      "change": 2.1401730008827147
+    "GC=F": {
+      "label": "Gold",
+      "price": 4110.7001953125,
+      "change": 0.060853899059070356
     },
     "^TNX": {
       "label": "10Y",
-      "price": 4.5279998779296875,
-      "change": 0
-    },
-    "HG=F": {
-      "label": "Kupfer",
-      "price": 6.2220001220703125,
-      "change": -0.43206833246560516
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.15340256690979,
-      "change": -0.011533026516246788
+      "price": 4.541999816894531,
+      "change": 0.30918593953772067
     },
     "SI=F": {
       "label": "Silber",
-      "price": 64.41000366210938,
-      "change": -0.2925670121599788
+      "price": 64.26000213623047,
+      "change": -0.524771114617485
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24198.75,
+      "change": 0.014215370860136493
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.6500015258789,
+      "change": -0.42207848336142845
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 62884.76953125,
+      "change": 2.3360408080392507
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.200500011444092,
+      "change": -0.7761251475856389
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1536686420440674,
+      "change": 0.011533026516246788
     }
   },
   "fearGreed": [
