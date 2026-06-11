@@ -1,7 +1,6 @@
 import fs from 'fs';
 import https from 'https';
 
-// ── HELPERS ──────────────────────────────────────────────────────────────────
 const fetchJSON = (url) => new Promise((resolve, reject) => {
   https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
     let data = '';
@@ -18,64 +17,66 @@ const fetchText = (url) => new Promise((resolve, reject) => {
   }).on('error', reject);
 });
 
-// ── NEWS HOLEN - HYPE KEYWORDS ────────────────────────────────────────────────
+// ── NEWS HOLEN - RSS + NEWSAPI FALLBACK ────────────────────────────────────
 async function fetchNews() {
   const news = [];
-  const keywords = [
-    'SpaceX', 'Starship', 'Space Tech',
-    'Quantencomputer', 'Quantum Computing',
-    'Gold', 'Rohstoffe', 'Kupfer', 'Öl', 'Lithium',
-    'Tesla', 'Bitcoin', 'AI', 'Halbleiter'
-  ];
+  const keywords = ['SpaceX', 'Starship', 'Quantum', 'Gold', 'Bitcoin', 'Tesla', 'Rohstoffe'];
 
-  // NewsAPI.org – kostenlos und zuverlässig
+  // Versuche NewsAPI zuerst
   try {
     const key = process.env.NEWSAPI_KEY;
-    if (!key) throw new Error('NewsAPI Key fehlt');
-    
-    const fetchNewsAPI = (keyword) => new Promise((resolve) => {
-      const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(keyword)}&sortBy=publishedAt&language=de,en&pageSize=3&apiKey=${key}`;
-      https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
-        let data = '';
-        res.on('data', chunk => data += chunk);
-        res.on('end', () => {
-          try {
-            const parsed = JSON.parse(data);
-            resolve(parsed.articles || []);
-          } catch {
-            resolve([]);
-          }
+    if (key) {
+      const url = `https://newsapi.org/v2/everything?q=${keywords.join(' OR ')}&sortBy=publishedAt&language=de,en&pageSize=10&apiKey=${key}`;
+      const data = await fetchJSON(url);
+      if (data?.articles) {
+        data.articles.slice(0, 10).forEach(a => {
+          news.push({
+            title: a.title,
+            source: a.source.name,
+            url: a.url,
+            publishedAt: new Date(a.publishedAt).toLocaleDateString('de-DE')
+          });
         });
-      }).on('error', () => resolve([]));
-    });
-    
-    const promises = keywords.map(k => fetchNewsAPI(k));
-    const allArticles = await Promise.all(promises);
-    const flattened = allArticles.flat();
-    
-    // Deduplizieren und Top 15 nehmen
-    const unique = {};
-    flattened.forEach(a => {
-      const key = a.title.substring(0, 30);
-      if (!unique[key]) unique[key] = a;
-    });
-    
-    Object.values(unique).slice(0, 15).forEach(a => {
-      news.push({
-        title: a.title,
-        source: a.source.name,
-        url: a.url,
-        publishedAt: new Date(a.publishedAt).toLocaleDateString('de-DE')
-      });
-    });
+        console.log(`✅ NewsAPI: ${data.articles.length} News geholt`);
+      }
+    }
   } catch (e) {
-    console.log('NewsAPI Fehler:', e.message);
+    console.log('NewsAPI offline, nutze RSS...');
   }
 
-  return news;
+  // Fallback: RSS Feeds
+  if (news.length < 5) {
+    const rssFeeds = [
+      { name: 'Reuters', url: 'https://www.reuters.com/finance' },
+      { name: 'Bloomberg', url: 'https://www.bloomberg.com/markets' },
+      { name: 'Tagesschau', url: 'https://www.tagesschau.de/wirtschaft/rss2' },
+    ];
+
+    for (const feed of rssFeeds) {
+      try {
+        const rss = await fetchText(feed.url);
+        const titles = [...rss.matchAll(/<title><!\[CDATA\[(.*?)\]\]><\/title>/g)];
+        titles.slice(0, 3).forEach(m => {
+          news.push({
+            title: m[1],
+            source: feed.name,
+            url: feed.url,
+            publishedAt: new Date().toLocaleDateString('de-DE')
+          });
+        });
+      } catch (e) {
+        console.log(`RSS Fehler ${feed.name}:`, e.message);
+      }
+    }
+  }
+
+  // Kurze Zusammenfassung
+  const dedup = {};
+  news.forEach(n => { if (!dedup[n.title]) dedup[n.title] = n; });
+  return Object.values(dedup).slice(0, 15);
 }
 
-// ── KURSE HOLEN ───────────────────────────────────────────────────────────────
+// ── KURSE ──────────────────────────────────────────────────────────────────
 async function fetchPrices() {
   const symbols = ['GC=F','SI=F','BTC-USD','^GDAXI','EURUSD=X','CL=F','GLD'];
   const labels  = {'GC=F':'Gold','SI=F':'Silber','BTC-USD':'Bitcoin','^GDAXI':'DAX','EURUSD=X':'EUR/USD','CL=F':'Öl','GLD':'MSCI World Islamic'};
@@ -92,21 +93,21 @@ async function fetchPrices() {
         const prev  = closes[closes.length - 2] || price;
         prices[sym] = { label: labels[sym], price, change: ((price - prev) / prev) * 100 };
       }
-    } catch (e) { console.log(`Preis Fehler ${sym}:`, e.message); }
+    } catch (e) {}
   }));
   return prices;
 }
 
-// ── FEAR & GREED ──────────────────────────────────────────────────────────────
+// ── FEAR & GREED ──────────────────────────────────────────────────────────
 async function fetchFearGreed() {
   try {
     const data = await fetchJSON('https://api.alternative.me/fng/?limit=7');
     if (data?.data) return data.data.reverse().map(x => parseInt(x.value));
-  } catch (e) { console.log('F&G Fehler:', e.message); }
+  } catch (e) {}
   return [50];
 }
 
-// ── SIMULATION ────────────────────────────────────────────────────────────────
+// ── SIMULATION ────────────────────────────────────────────────────────────
 function runSimulation(fg, goldMomentum) {
   let buy = 0, hold = 0, sell = 0;
   for (let i = 0; i < 1000; i++) {
@@ -120,53 +121,35 @@ function runSimulation(fg, goldMomentum) {
   return { buy: Math.round(buy/10), hold: Math.round(hold/10), sell: Math.round(sell/10) };
 }
 
-// ── GEMINI ANALYSE MIT HYPE-FOKUS ────────────────────────────────────────────
+// ── GEMINI ANALYSE ────────────────────────────────────────────────────────
 async function generateAnalysis(news, prices, fgHistory) {
   const fg = fgHistory[fgHistory.length - 1];
   const priceCtx = Object.values(prices).map(d => `${d.label}: ${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} (${d.change >= 0 ? '+' : ''}${d.change.toFixed(2)}%)`).join(', ');
   const dateStr = new Date().toLocaleDateString('de-DE', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
   const newsCtx = news.slice(0, 10).map(n => `${n.source}: ${n.title}`).join('\n');
 
-  const prompt = `Du bist ein Hype-Analyst für Märkte. Fokus: SpaceX/Space Tech, Quantencomputer, Rohstoffe.
+  const prompt = `Du bist ein Hype-Analyst. Fokus: SpaceX/Space Tech, Quantencomputer, Rohstoffe.
 
 KERNFRAGE: Wenn X bullish ist – welche PERIPHEREN Assets profitieren?
-Beispiel: Wenn SpaceX News bullish → Satelliten, Raumfahrtzulieferer, aber auch Kupfer, Spezialmetalle steigen.
 
 DATEN:
 Datum: ${dateStr}
 Kurse: ${priceCtx}
 Fear & Greed: ${fg}/100
 
-TOP NEWS (Hype-Quellen):
+TOP NEWS:
 ${newsCtx}
 
-ANALYSIERE:
-1. **Hype-Center**: Welche News sind am bullishesten? (SpaceX, Quantum, Rohstoffe)
-2. **Peripher-Effekt**: Wenn Hype A steigt → welche kleineren/verwandten Assets profitieren?
-3. **Konkrete Trade**: 1 Asset das direkt profitiert, 1 Asset das PERIPHER profitiert
-
-Antworte NUR mit JSON ohne Backticks:
+Antworte NUR mit JSON:
 {
-  "hypeNews": [
-    {"quelle": "Reuters", "thema": "SpaceX Starship", "bullish": true},
-    {"quelle": "Bloomberg", "thema": "Quantencomputer", "bullish": true}
-  ],
-  "hypeCenter": "SpaceX/Space Tech ist der größte Hype heute",
-  "peripherEffect": "Wenn Space Tech bullish ist → Kupfer/Materialien für Raketen steigen, Satelliten-ETFs profitieren",
-  "trade1": {
-    "asset": "Xetra-Gold (peripherer Play auf Raumfahrt-Metalle)",
-    "grund": "Raumfahrtindustrie braucht spezielle Metalle + Rohstoff-Inflation"
-  },
-  "trade2": {
-    "asset": "Tech-Semiconductors (direct Play)",
-    "grund": "Quantencomputer brauchen neue Chips"
-  },
+  "hypeNews": [{"quelle": "Reuters", "thema": "SpaceX Starship", "bullish": true}],
+  "hypeCenter": "SpaceX/Space Tech ist der größte Hype",
+  "peripherEffect": "Kupfer/Metalle für Raumfahrt steigen",
   "entscheidung": "JA",
   "einstieg": "30.50€",
   "stopLoss": "28.10€",
   "ziel": "36.00€",
-  "psychologie": "FOMO Warnung: Hype kann schnell drehen",
-  "brief": "Ayman, heute ist Space Tech der Hype. Aber die periphere Waffe ist Rohstoffe – wer Raumfahrts-Metalle kauft, profitiert länger als die flüchtigen Tech-Stocks."
+  "brief": "Ayman, Space Tech ist der Hype. Peripher: Rohstoffe profitieren länger."
 }`;
 
   const body = JSON.stringify({
@@ -197,7 +180,7 @@ Antworte NUR mit JSON ohne Backticks:
   });
 }
 
-// ── MAIN ──────────────────────────────────────────────────────────────────────
+// ── MAIN ──────────────────────────────────────────────────────────────────
 async function main() {
   console.log('🚀 Starte Hype-Analyse...');
 
@@ -216,8 +199,8 @@ async function main() {
     analysis = await generateAnalysis(news, prices, fgHistory);
     console.log('✅ KI-Analyse erfolgreich');
   } catch (e) {
-    console.log('❌ KI-Analyse Fehler:', e.message);
-    analysis = { entscheidung: 'WARTEN', brief: 'Analyse konnte nicht erstellt werden.' };
+    console.log('❌ KI-Fehler:', e.message);
+    analysis = { entscheidung: 'WARTEN', brief: 'Analyse fehler.' };
   }
 
   const fg = fgHistory[fgHistory.length - 1];
