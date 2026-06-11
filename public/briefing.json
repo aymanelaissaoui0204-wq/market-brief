@@ -1,43 +1,37 @@
 {
   "date": "Donnerstag, 11. Juni 2026",
-  "generatedAt": "2026-06-11T15:21:58.928Z",
-  "news": [],
+  "generatedAt": "2026-06-11T19:27:17.634Z",
   "sections": {},
   "prices": {
-    "GLD": {
-      "label": "MSCI World Islamic",
-      "price": 374.69500732421875,
-      "change": 0.030706593004518327
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4103.10009765625,
-      "change": -0.12414433118593553
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 90.3499984741211,
-      "change": 0.3554367423781475
+      "price": 4217.7001953125,
+      "change": 2.6654007787872818
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 62709.9609375,
-      "change": 2.051564622200547
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1524720191955566,
-      "change": -0.09220220661106976
+      "price": 63584.83984375,
+      "change": 3.475305921078979
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 24224.419921875,
-      "change": 0.12030998710929829
+      "price": 24209.7109375,
+      "change": 0.0595172795864772
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 87.04000091552734,
+      "change": -3.321112856059602
     },
     "SI=F": {
       "label": "Silber",
-      "price": 64.22000122070312,
-      "change": -0.5866929959655703
+      "price": 67,
+      "change": 3.7167773694006936
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1583458185195923,
+      "change": 0.4169974488862672
     }
   },
   "fearGreed": [
@@ -50,8 +44,8 @@
     12
   ],
   "simulation": {
-    "buy": 10,
-    "hold": 90,
+    "buy": 40,
+    "hold": 60,
     "sell": 0
   }
 }
