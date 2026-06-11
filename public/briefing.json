@@ -1,62 +1,62 @@
 {
-  "date": "Mittwoch, 10. Juni 2026",
-  "generatedAt": "2026-06-10T10:07:34.342Z",
+  "date": "Donnerstag, 11. Juni 2026",
+  "generatedAt": "2026-06-11T09:12:14.462Z",
   "sections": {},
   "prices": {
-    "SI=F": {
-      "label": "Silber",
-      "price": 64.12000274658203,
-      "change": -1.4962961209216923
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24289.140625,
-      "change": 0
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4190,
-      "change": -1.643192488262911
+      "price": 4107,
+      "change": -0.02921462575921776
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.36000061035156,
+      "change": -0.7441943552479354
     },
     "DX-Y.NYB": {
       "label": "DXY",
-      "price": 99.87200164794922,
+      "price": 100.09300231933594,
+      "change": 0
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24204.810546875,
       "change": 0
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 61119.98828125,
-      "change": -0.8497093431464345
+      "price": 62764.41015625,
+      "change": 2.1401730008827147
     },
     "^TNX": {
       "label": "10Y",
-      "price": 4.552000045776367,
+      "price": 4.5279998779296875,
       "change": 0
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1560693979263306,
-      "change": 0.2797712733346521
     },
     "HG=F": {
       "label": "Kupfer",
-      "price": 6.239500045776367,
-      "change": -0.9995990103879008
+      "price": 6.2220001220703125,
+      "change": -0.43206833246560516
     },
-    "CL=F": {
-      "label": "Öl",
-      "price": 87.9000015258789,
-      "change": -0.34013087612613585
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.15340256690979,
+      "change": -0.011533026516246788
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 64.41000366210938,
+      "change": -0.2925670121599788
     }
   },
   "fearGreed": [
     12,
     12,
     12,
-    12,
     8,
     10,
-    9
+    9,
+    12
   ],
   "simulation": {
     "buy": 10,
@@ -64,8 +64,8 @@
     "sell": 0
   },
   "news": [
+    "EZB:  Frank Elderson: Interview with Het Financieele Dagblad",
     "EZB:  ECB announces main milestones for roll-out of Integrated Reporting Framework",
-    "EZB:  Christine Lagarde: Women and leadership: widening the pipeline",
     "Fed: Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
     "Fed: Agencies remove additional references to reputation risk"
   ]
