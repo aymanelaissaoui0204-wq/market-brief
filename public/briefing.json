@@ -1,47 +1,47 @@
 {
-  "date": "Freitag, 19. Juni 2026",
-  "generatedAt": "2026-06-19T09:27:58.203Z",
+  "date": "Samstag, 20. Juni 2026",
+  "generatedAt": "2026-06-20T08:21:25.513Z",
   "sections": {},
   "prices": {
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1465259790420532,
-      "change": -0.36574919276917595
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4182.60009765625,
-      "change": -0.9824577789486181
+      "price": 4172.89990234375,
+      "change": -1.212097112492872
     },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62305.921875,
-      "change": -0.9389251198196045
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 25103.9296875,
-      "change": 0.30818524079108317
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1469204425811768,
+      "change": 0.0928929747880206
     },
     "SI=F": {
       "label": "Silber",
-      "price": 65.125,
-      "change": -1.705527583218901
+      "price": 64.91000366210938,
+      "change": -2.0300258804089046
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63491.8515625,
+      "change": -0.07709117180671338
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24985.8203125,
+      "change": -0.16374633381307943
     },
     "CL=F": {
       "label": "Öl",
-      "price": 75.66000366210938,
-      "change": -1.2271472986116194
+      "price": 76.54000091552734,
+      "change": -0.07832579606906893
     }
   },
   "fearGreed": [
-    13,
     18,
     20,
     23,
     22,
     15,
-    14
+    14,
+    23
   ],
   "simulation": {
     "buy": 10,
