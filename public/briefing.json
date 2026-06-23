@@ -1,41 +1,46 @@
 {
   "date": "Dienstag, 23. Juni 2026",
-  "generatedAt": "2026-06-23T13:34:06.337Z",
-  "news": [],
-  "sections": {
-    "entscheidung": "WARTEN",
-    "brief": "Keine aktuellen News verfügbar."
-  },
+  "generatedAt": "2026-06-23T14:00:57.873Z",
+  "news": [
+    {
+      "title": "Gewerkschaften und Wirtschaft zerpflücken die Renten",
+      "source": "Offenbach-Post",
+      "pubDate": "2026-06-22T17:44:29Z",
+      "content": "Am Wochenende wurden einige Vorschläge der Rentenkommission bekannt. Gewerkschaften, Sozial- und Wirtschaftsverbände kritisieren die Maßnahmen scharf.",
+      "url": "https://www.op-online.de/wirtschaft/gewerkschaften-und-wirtschaft-zerpfluecken-die-renten-vorschlaege-zr-94363713.html"
+    }
+  ],
+  "sections": {},
   "prices": {
-    "GC=F": {
-      "label": "Gold",
-      "price": 4131.5,
-      "change": -1.2051915043567476
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 62.130001068115234,
-      "change": -5.184121563602641
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24884.7109375,
+      "change": -1.0142468788265195
     },
     "CL=F": {
       "label": "Öl",
-      "price": 73.33000183105469,
-      "change": -1.991443290359441
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24884.25,
-      "change": -1.0160803839732695
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1398608684539795,
-      "change": -0.559680596127381
+      "price": 73.0999984741211,
+      "change": -2.298852215609015
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 62269.78125,
-      "change": -2.6306002068564616
+      "price": 62394.0390625,
+      "change": -2.436301971342201
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1393414735794067,
+      "change": -0.6049920842691762
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4151.10009765625,
+      "change": -0.7365026759784044
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 62.3650016784668,
+      "change": -4.825489841077083
     }
   },
   "fearGreed": [
