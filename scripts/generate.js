@@ -2,13 +2,42 @@ import fs from 'fs';
 import https from 'https';
 
 const fetchJSON = (url) => new Promise((resolve) => {
-  const timeout = setTimeout(() => resolve(null), 5000);
+  const timeout = setTimeout(() => { console.log('⏱️ Timeout auf:', url); resolve(null); }, 8000);
   https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
     let data = '';
     res.on('data', chunk => data += chunk);
     res.on('end', () => { clearTimeout(timeout); try { resolve(JSON.parse(data)); } catch { resolve(null); } });
-  }).on('error', () => { clearTimeout(timeout); resolve(null); });
+  }).on('error', (e) => { clearTimeout(timeout); console.log('❌ Fetch Error:', e.message); resolve(null); });
 });
+
+// ── TOP 10 WIRTSCHAFTS-NEWS ────────────────────────────────────────────────
+async function fetchEconomicsNews() {
+  const key = process.env.NEWSAPI_KEY;
+  if (!key) {
+    console.log('⚠️ NEWSAPI_KEY fehlt');
+    return [];
+  }
+
+  const keywords = ['wirtschaft', 'finanzen', 'gold', 'öl', 'technologie', 'bitcoin', 'spacex', 'quantencomputer'];
+  const url = `https://newsapi.org/v2/everything?q=${keywords.join('+OR+')}&sortBy=publishedAt&language=de,en&pageSize=10&apiKey=${key}`;
+  console.log('📡 Hole News von NewsAPI.org...');
+  
+  const data = await fetchJSON(url);
+  if (!data?.articles) {
+    console.log('⚠️ Keine News geholt');
+    return [];
+  }
+
+  const news = data.articles.map(a => ({
+    title: a.title,
+    source: a.source.name,
+    pubDate: a.publishedAt,
+    content: a.description || a.title
+  }));
+
+  console.log(`✅ ${news.length} News geholt`);
+  return news;
+}
 
 // ── KURSE ──────────────────────────────────────────────────────────────────
 async function fetchPrices() {
@@ -16,6 +45,7 @@ async function fetchPrices() {
   const labels  = {'GC=F':'Gold','SI=F':'Silber','BTC-USD':'Bitcoin','^GDAXI':'DAX','EURUSD=X':'EUR/USD','CL=F':'Öl'};
   const prices = {};
   
+  console.log('📊 Hole Kurse...');
   await Promise.all(symbols.map(async sym => {
     try {
       const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=1d&range=2d`;
@@ -29,14 +59,20 @@ async function fetchPrices() {
       }
     } catch (e) {}
   }));
+  console.log(`✅ ${Object.keys(prices).length} Kurse geholt`);
   return prices;
 }
 
 // ── FEAR & GREED ──────────────────────────────────────────────────────────
 async function fetchFearGreed() {
+  console.log('😱 Hole Fear & Greed...');
   try {
     const data = await fetchJSON('https://api.alternative.me/fng/?limit=7');
-    if (data?.data) return data.data.reverse().map(x => parseInt(x.value));
+    if (data?.data) {
+      const vals = data.data.reverse().map(x => parseInt(x.value));
+      console.log(`✅ F&G: ${vals[vals.length-1]}`);
+      return vals;
+    }
   } catch (e) {}
   return [50];
 }
@@ -55,39 +91,57 @@ function runSimulation(fg, goldMomentum) {
   return { buy: Math.round(buy/10), hold: Math.round(hold/10), sell: Math.round(sell/10) };
 }
 
-// ── GEMINI ANALYSE ────────────────────────────────────────────────────────
-async function generateAnalysis(prices, fgHistory) {
+// ── GEMINI ANALYSE MIT NEWS ────────────────────────────────────────────────
+async function generateAnalysis(news, prices, fgHistory) {
   const fg = fgHistory[fgHistory.length - 1];
   const priceCtx = Object.values(prices).map(d => `${d.label}: ${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} (${d.change >= 0 ? '+' : ''}${d.change.toFixed(2)}%)`).join(', ');
   const dateStr = new Date().toLocaleDateString('de-DE', {weekday:'long',year:'numeric',month:'long',day:'numeric'});
+  
+  const newsText = news.slice(0, 10).map(n => `${n.source}: ${n.title}`).join('\n');
+  if (!newsText) {
+    console.log('⚠️ Keine News für Analyse');
+    return { entscheidung: 'WARTEN', brief: 'Keine aktuellen News verfügbar.' };
+  }
 
-  const prompt = `Du bist ein Hype-Analyst. Fokus: SpaceX, Quantencomputer, Rohstoffe.
+  const prompt = `Du bist ein Hype-Analyst für Märkte. Fokus: Space Tech (SpaceX), Quantencomputer, Rohstoffe.
+
+KERNFRAGE: Wenn X bullish ist – welche PERIPHEREN Assets profitieren?
 
 DATEN:
 Datum: ${dateStr}
 Kurse: ${priceCtx}
 Fear & Greed: ${fg}/100
 
-Analyse in JSON:
+TOP 10 WIRTSCHAFTS-NEWS:
+${newsText}
+
+Analysiere die News und antworte NUR mit JSON ohne Backticks:
 {
-  "hypeCenter": "Was ist heute der größte Markt-Hype?",
-  "peripherEffect": "Welche kleinen Assets profitieren davon?",
+  "hypeNews": ["SpaceX News", "Quantum News"],
+  "hypeCenter": "Welcher Hype ist am stärksten?",
+  "peripherEffect": "Welche kleineren Assets profitieren davon?",
   "entscheidung": "JA oder NEIN",
+  "richtung": "LONG oder SHORT",
   "einstieg": "30.50€",
   "stopLoss": "28.10€",
   "ziel": "36.00€",
-  "brief": "Kurzer Brief an Ayman"
+  "zeitraum": "4-8 Wochen",
+  "einsatz": 3.13,
+  "exitStrategie": "Bei +10% Hälfte verkaufen",
+  "brief": "4-5 Sätze Mentor-Brief an Ayman über die News"
 }`;
 
   const body = JSON.stringify({
     contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
+    generationConfig: { temperature: 0.3, maxOutputTokens: 2048 }
   });
 
+  console.log('🤖 Starte KI-Analyse...');
+  
   return new Promise((resolve) => {
     const key = process.env.GEMINI_API_KEY;
     const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=${key}`;
-    const timeout = setTimeout(() => resolve({}), 15000);
+    const timeout = setTimeout(() => { console.log('⏱️ Gemini Timeout'); resolve({}); }, 15000);
     
     const req = https.request(url, {
       method: 'POST',
@@ -100,12 +154,17 @@ Analyse in JSON:
         try {
           const parsed = JSON.parse(data);
           const text = parsed.candidates?.[0]?.content?.parts?.[0]?.text || '{}';
-          resolve(JSON.parse(text.replace(/```json|```/g, '').trim()));
-        } catch (e) { resolve({}); }
+          const analyzed = JSON.parse(text.replace(/```json|```/g, '').trim());
+          console.log('✅ KI-Analyse fertig');
+          resolve(analyzed);
+        } catch (e) { 
+          console.log('❌ Analyse Parse Error:', e.message);
+          resolve({}); 
+        }
       });
     });
     
-    req.on('error', () => { clearTimeout(timeout); resolve({}); });
+    req.on('error', (e) => { clearTimeout(timeout); console.log('❌ Gemini Error:', e.message); resolve({}); });
     req.write(body);
     req.end();
   });
@@ -113,18 +172,16 @@ Analyse in JSON:
 
 // ── MAIN ──────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('🚀 Starte Analyse...');
+  console.log('🚀 Starte Hype-Analyse mit News...');
+  const startTime = Date.now();
 
-  const [prices, fgHistory] = await Promise.all([
+  const [news, prices, fgHistory] = await Promise.all([
+    fetchEconomicsNews(),
     fetchPrices(),
     fetchFearGreed()
   ]);
 
-  console.log(`📊 ${Object.keys(prices).length} Kurse geholt`);
-  console.log(`😱 Fear & Greed: ${fgHistory[fgHistory.length-1]}`);
-
-  const analysis = await generateAnalysis(prices, fgHistory);
-  console.log('✅ Analyse fertig');
+  const analysis = await generateAnalysis(news, prices, fgHistory);
 
   const fg = fgHistory[fgHistory.length - 1];
   const goldMomentum = prices['GC=F']?.change || 0;
@@ -135,14 +192,18 @@ async function main() {
   const output = {
     date: dateStr,
     generatedAt: new Date().toISOString(),
+    news: news,
     sections: analysis,
     prices,
     fearGreed: fgHistory,
     simulation: sim
   };
   fs.writeFileSync('public/briefing.json', JSON.stringify(output, null, 2));
-  console.log('💾 Gespeichert!');
-  console.log('✅ Fertig!');
+  
+  const duration = ((Date.now() - startTime) / 1000).toFixed(1);
+  console.log(`💾 public/briefing.json gespeichert`);
+  console.log(`⏱️ Fertig in ${duration}s`);
+  console.log('✅ Briefing generiert!');
 }
 
 main().catch(console.error);
