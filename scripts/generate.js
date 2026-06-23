@@ -10,31 +10,44 @@ const fetchJSON = (url) => new Promise((resolve) => {
   }).on('error', (e) => { clearTimeout(timeout); console.log('❌ Fetch Error:', e.message); resolve(null); });
 });
 
-// ── TOP 10 WIRTSCHAFTS-NEWS ────────────────────────────────────────────────
+// ── TOP 10 WIRTSCHAFTS-NEWS VON GNEWS ──────────────────────────────────────
 async function fetchEconomicsNews() {
-  const key = process.env.NEWSAPI_KEY;
+  const key = process.env.GNEWS_API_KEY;
   if (!key) {
-    console.log('⚠️ NEWSAPI_KEY fehlt');
+    console.log('⚠️ GNEWS_API_KEY fehlt');
     return [];
   }
 
-  const keywords = ['wirtschaft', 'finanzen', 'gold', 'öl', 'technologie', 'bitcoin', 'spacex', 'quantencomputer'];
-  const url = `https://newsapi.org/v2/everything?q=${keywords.join('+OR+')}&sortBy=publishedAt&language=de,en&pageSize=10&apiKey=${key}`;
-  console.log('📡 Hole News von NewsAPI.org...');
+  const keywords = ['wirtschaft', 'finanzen', 'gold', 'spacex', 'quantencomputer'];
+  const allNews = [];
+
+  // Mehrere Anfragen für verschiedene Keywords
+  for (const keyword of keywords) {
+    const url = `https://gnews.io/api/v4/search?q=${encodeURIComponent(keyword)}&token=${key}&lang=de&max=3`;
+    console.log(`📡 Hole News für "${keyword}"...`);
+    
+    const data = await fetchJSON(url);
+    if (data?.articles) {
+      data.articles.forEach(a => {
+        allNews.push({
+          title: a.title,
+          source: a.source.name,
+          pubDate: a.publishedAt,
+          content: a.description || a.title,
+          url: a.url
+        });
+      });
+    }
+  }
+
+  // Deduplizieren und Top 10 nehmen
+  const unique = {};
+  allNews.forEach(n => {
+    const key = n.title.substring(0, 50);
+    if (!unique[key]) unique[key] = n;
+  });
   
-  const data = await fetchJSON(url);
-  if (!data?.articles) {
-    console.log('⚠️ Keine News geholt');
-    return [];
-  }
-
-  const news = data.articles.map(a => ({
-    title: a.title,
-    source: a.source.name,
-    pubDate: a.publishedAt,
-    content: a.description || a.title
-  }));
-
+  const news = Object.values(unique).slice(0, 10);
   console.log(`✅ ${news.length} News geholt`);
   return news;
 }
