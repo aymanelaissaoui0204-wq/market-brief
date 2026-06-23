@@ -1,37 +1,41 @@
 {
   "date": "Dienstag, 23. Juni 2026",
-  "generatedAt": "2026-06-23T08:28:57.226Z",
-  "sections": {},
+  "generatedAt": "2026-06-23T13:12:29.118Z",
+  "news": [],
+  "sections": {
+    "entscheidung": "WARTEN",
+    "brief": "Keine aktuellen News verfügbar."
+  },
   "prices": {
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 61997.41015625,
-      "change": -3.0564987628986757
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 73.5,
-      "change": -1.7642337613047752
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24906.08984375,
+      "change": -0.9292064240115835
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1409013271331787,
-      "change": -0.46891202405907945
+      "price": 1.1393414735794067,
+      "change": -0.6049920842691762
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 62010.6796875,
+      "change": -3.035749592636433
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 73.62999725341797,
+      "change": -1.5904870973804215
     },
     "SI=F": {
       "label": "Silber",
-      "price": 62,
-      "change": -5.3825146950867735
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24763.48046875,
-      "change": -1.4964742706009648
+      "price": 61.814998626708984,
+      "change": -5.664843158292442
     },
     "GC=F": {
       "label": "Gold",
-      "price": 4112.39990234375,
-      "change": -1.661924044644126
+      "price": 4128.7998046875,
+      "change": -1.269760130472994
     }
   },
   "fearGreed": [
