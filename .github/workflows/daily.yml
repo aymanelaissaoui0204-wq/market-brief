@@ -17,6 +17,7 @@ jobs:
         env:
             GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+            GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: node scripts/generate.js
       - name: Commit
         run: |
