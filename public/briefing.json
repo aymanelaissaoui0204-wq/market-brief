@@ -1,6 +1,6 @@
 {
   "date": "Mittwoch, 24. Juni 2026",
-  "generatedAt": "2026-06-24T15:35:39.192Z",
+  "generatedAt": "2026-06-24T15:47:16.562Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -227,35 +227,35 @@
   ],
   "sections": {},
   "prices": {
-    "SI=F": {
-      "label": "Silber",
-      "price": 58.904998779296875,
-      "change": -5.0225760326915
+    "GC=F": {
+      "label": "Gold",
+      "price": 4025.199951171875,
+      "change": -2.535169220746899
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 70.23999786376953,
+      "change": -4.056824556542089
     },
     "EURUSD=X": {
       "label": "EUR/USD",
       "price": 1.135589361190796,
       "change": -0.6234445703717675
     },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4023.89990234375,
-      "change": -2.5666481635509903
-    },
     "^GDAXI": {
       "label": "DAX",
-      "price": 24687.029296875,
-      "change": -0.8297351389465453
+      "price": 24716.240234375,
+      "change": -0.712391882539369
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 59.0099983215332,
+      "change": -4.853276546297859
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 60666.01171875,
-      "change": -3.194624351423264
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 70,
-      "change": -4.384645710442954
+      "price": 60315.44140625,
+      "change": -3.7540329861977924
     }
   },
   "fearGreed": [
