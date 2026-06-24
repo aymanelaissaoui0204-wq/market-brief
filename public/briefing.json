@@ -1,60 +1,261 @@
 {
   "date": "Mittwoch, 24. Juni 2026",
-  "generatedAt": "2026-06-24T14:43:21.043Z",
+  "generatedAt": "2026-06-24T15:35:39.192Z",
   "news": [
     {
-      "title": "Verhältnis zur Industrie: Ist Merz der Kanzler der Bosse?",
-      "source": "Frankfurter Allgemeine Zeitung (Faz)",
-      "pubDate": "2026-06-23T20:10:23Z",
-      "content": "Erst waren sie seine größten Fans, dann seine größten Kritiker – und jetzt? Über das komplizierte Verhältnis zwischen der Wirtschaft und Friedrich Merz.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/verhaeltnis-zur-industrie-ist-merz-der-kanzler-der-bosse-200957392.html"
+      "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "source": "Mannheimer Morgen",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
     },
     {
-      "title": "Energieeffizienz: Bundesregierung will Vorgaben für Rechenzentren lockern",
-      "source": "Heise Online",
-      "pubDate": "2026-06-23T19:32:00Z",
-      "content": "Die geplante Novelle des Energieeffizienzgesetzes ist weniger streng beim Stromverbrauch von IT-Infrastruktur. Die Wirtschaft atmet auf, doch es hagelt Kritik.",
-      "url": "https://www.heise.de/news/Energieeffizienz-Bundesregierung-will-Vorgaben-fuer-Rechenzentren-lockern-11342120.html"
+      "title": "Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "source": "STERN.de",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
     },
     {
-      "title": "Wirtschaft in Deutschland und den USA: Warum alte Industrien keine Zukunft sichern",
-      "source": "DER SPIEGEL",
-      "pubDate": "2026-06-23T18:46:00Z",
-      "content": "Friedrich Merz und Donald Trump teilen nicht nur ein Ziel, sondern auch dasselbe Wunschdenken: Sie wollen ihr Land mit alten Industrien retten. China weiß es besser.",
-      "url": "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-und-den-usa-warum-alte-industrien-keine-zukunft-sichern-meinung-a-b5d32f17-2c20-41aa-9666-8554c09ddec9"
+      "title": "BKNG Stock Rides AI Travel Boom As Summer Demand Heats Up",
+      "source": "StocksToTrade",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "BKNG(0.42)",
+        "GLW(0.20)",
+        "CTSH(0.21)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Western Digital Dropped 8% as the Memory Selloff Hit. Is the AI Storage Trade Breaking, or Is This a Buying Window?",
+      "source": "TIKR.com",
+      "sentiment": "Neutral",
+      "tickers": [
+        "WDC(0.24)",
+        "MU(0.10)",
+        "STX(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Apple (NASDAQ: AAPL) Edges Out NVIDIA (NASDAQ: NVDA) As The Smarter Buy For Investors Seeking Value And Growth",
+      "source": "Foreign Policy Journal",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AAPL(0.42)",
+        "NVDA(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Alphabet to replace Verizon in Dow Jones reshuffle",
+      "source": "Yahoo Finance",
+      "sentiment": "Bullish",
+      "tickers": [
+        "VZ(-0.21)",
+        "GOOGL(0.76)",
+        "GOOG(0.70)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Paychex (PAYX) delivers double-digit 2026 growth and sets 2027 EPS outlook",
+      "source": "Stock Titan",
+      "sentiment": "Neutral",
+      "tickers": [
+        "PAYX(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Tesla Under Pressure Again: Is the Bear Case Getting Overplayed?",
+      "source": "Yahoo Finance Singapore",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "TSLA(-0.28)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Dan Ives Believes MSFT Is The Most Oversold Large-Cap Stock, Draws Parallels To 'Negative' Narratives Around GOOGL A Year Ago",
+      "source": "Stocktwits",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "GOOGL(0.31)",
+        "MSFT(0.33)",
+        "INTC(0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BlackRock: 'AI Is Sucking All The Oxygen Out Of The Room'—And Bitcoin Is Choking On It",
+      "source": "Yahoo Finance Singapore",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "BLK(0.15)",
+        "NVDA(0.28)",
+        "MSFT(0.20)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "What Analog Devices (ADI)'s AI-Chip Sentiment Shock After SK Hynix News Means For Shareholders",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ADI(0.12)",
+        "NVDA(0.10)",
+        "AVGO(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Rambus Stock Is Down, But Is the Business?",
+      "source": "Trefis",
+      "sentiment": "Neutral",
+      "tickers": [
+        "RMBS(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Infosys chairman Nandan Nilekani to company's shareholders: AI will not replace companies like ours, it will ...",
+      "source": "The Times of India",
+      "sentiment": "Bullish",
+      "tickers": [
+        "INFY(0.42)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Assenagon Asset Management S.A. Sells 1,902 Shares of MercadoLibre, Inc. $MELI",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "MELI(-0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Financial Designs Corp Buys New Stake in NVIDIA Corporation $NVDA",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "NVDA(0.29)",
+        "SMCI(0.14)",
+        "AMD(-0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus",
+      "source": "Yahoo! Finance Canada",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MU(-0.35)",
+        "NVDA(0.04)",
+        "FDX(-0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Indonesia Credit Spotlight 2026: Navigating Geopolitical Headwinds and Domestic Resilience",
+      "source": "S&P Global",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "SPGI(0.25)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Israel insists on troops in southern Lebanon as Rubio defends Iran deal in Middle East - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Polymarket-backed platform boosts funding to root out insider trading on prediction markets",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Italy rebukes NATO's Rutte over remarks on US use of bases in Iran war - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Ships start sailing through Hormuz under UN evacuation scheme, agency says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Rubio on Gulf tour as allies sceptical about Iran deal seek answers - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "We're buying the dip in a stock that we have been itching to get bigger in",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Qatar PM in Oman to pave way for Iran-Gulf-Iraq Hormuz talks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
     }
   ],
   "sections": {},
   "prices": {
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 61058.87109375,
-      "change": -2.5677346269058066
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4045.10009765625,
-      "change": -2.0533138016099484
-    },
     "SI=F": {
       "label": "Silber",
-      "price": 59.29999923706055,
-      "change": -4.38568397392302
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 70.08999633789062,
-      "change": -4.2617166856976
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24644.9609375,
-      "change": -0.9987279444930934
+      "price": 58.904998779296875,
+      "change": -5.0225760326915
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1343011856079102,
-      "change": -0.7361740979551368
+      "price": 1.135589361190796,
+      "change": -0.6234445703717675
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4023.89990234375,
+      "change": -2.5666481635509903
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24687.029296875,
+      "change": -0.8297351389465453
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 60666.01171875,
+      "change": -3.194624351423264
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 70,
+      "change": -4.384645710442954
     }
   },
   "fearGreed": [
