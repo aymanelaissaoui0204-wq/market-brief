@@ -229,14 +229,14 @@ Analysiere ALLE Felder gründlich. Antworte NUR mit validem JSON ohne Backticks:
 
   const body = JSON.stringify({
     contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.3, maxOutputTokens: 4096 }
+    generationConfig: { temperature: 0.3, maxOutputTokens: 8192, responseMimeType: "application/json" }
   });
 
   console.log('🤖 Starte KI-Analyse...');
   return new Promise((resolve) => {
     const key = process.env.GEMINI_API_KEY;
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent?key=${key}`;
-    const timeout = setTimeout(() => { console.log('⏱️ Gemini Timeout'); resolve({}); }, 20000);
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${key}`;
+    const timeout = setTimeout(() => { console.log('⏱️ Gemini Timeout'); resolve({}); }, 30000);
     const req = https.request(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) }
@@ -247,11 +247,19 @@ Analysiere ALLE Felder gründlich. Antworte NUR mit validem JSON ohne Backticks:
         clearTimeout(timeout);
         try {
           const parsed = JSON.parse(data);
-          const text = parsed.candidates?.[0]?.content?.parts?.[0]?.text || '{}';
+          if (parsed.error) {
+            console.log('❌ Gemini API Fehler:', JSON.stringify(parsed.error).substring(0, 300));
+            return resolve({});
+          }
+          const text = parsed.candidates?.[0]?.content?.parts?.[0]?.text;
+          if (!text) {
+            console.log('❌ Gemini leere Antwort. Rohdaten:', data.substring(0, 300));
+            return resolve({});
+          }
           const analyzed = JSON.parse(text.replace(/```json|```/g, '').trim());
-          console.log('✅ KI-Analyse fertig');
+          console.log('✅ KI-Analyse fertig, Felder:', Object.keys(analyzed).length);
           resolve(analyzed);
-        } catch (e) { console.log('❌ Parse Error:', e.message); resolve({}); }
+        } catch (e) { console.log('❌ Parse Error:', e.message, '| Rohdaten:', data.substring(0, 200)); resolve({}); }
       });
     });
     req.on('error', (e) => { clearTimeout(timeout); console.log('❌ Gemini Error:', e.message); resolve({}); });
