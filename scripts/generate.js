@@ -232,11 +232,11 @@ Analysiere ALLE Felder gründlich. Antworte NUR mit validem JSON ohne Backticks:
     generationConfig: { temperature: 0.3, maxOutputTokens: 8192, responseMimeType: "application/json" }
   });
 
-  console.log('🤖 Starte KI-Analyse...');
-  return new Promise((resolve) => {
+  // Eine einzelne Anfrage an ein Modell. Gibt {ok, data, status} zurück.
+  const tryModel = (model) => new Promise((resolve) => {
     const key = process.env.GEMINI_API_KEY;
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${key}`;
-    const timeout = setTimeout(() => { console.log('⏱️ Gemini Timeout'); resolve({}); }, 30000);
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
+    const timeout = setTimeout(() => resolve({ ok: false, status: 'timeout' }), 30000);
     const req = https.request(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) }
@@ -247,25 +247,44 @@ Analysiere ALLE Felder gründlich. Antworte NUR mit validem JSON ohne Backticks:
         clearTimeout(timeout);
         try {
           const parsed = JSON.parse(data);
-          if (parsed.error) {
-            console.log('❌ Gemini API Fehler:', JSON.stringify(parsed.error).substring(0, 300));
-            return resolve({});
-          }
+          if (parsed.error) return resolve({ ok: false, status: parsed.error.code || 'error', msg: parsed.error.message });
           const text = parsed.candidates?.[0]?.content?.parts?.[0]?.text;
-          if (!text) {
-            console.log('❌ Gemini leere Antwort. Rohdaten:', data.substring(0, 300));
-            return resolve({});
-          }
+          if (!text) return resolve({ ok: false, status: 'empty' });
           const analyzed = JSON.parse(text.replace(/```json|```/g, '').trim());
-          console.log('✅ KI-Analyse fertig, Felder:', Object.keys(analyzed).length);
-          resolve(analyzed);
-        } catch (e) { console.log('❌ Parse Error:', e.message, '| Rohdaten:', data.substring(0, 200)); resolve({}); }
+          return resolve({ ok: true, data: analyzed });
+        } catch (e) { return resolve({ ok: false, status: 'parse', msg: e.message }); }
       });
     });
-    req.on('error', (e) => { clearTimeout(timeout); console.log('❌ Gemini Error:', e.message); resolve({}); });
+    req.on('error', (e) => { clearTimeout(timeout); resolve({ ok: false, status: 'neterror', msg: e.message }); });
     req.write(body);
     req.end();
   });
+
+  const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+  // Versuche mehrere Modelle mit Wiederholung bei Überlastung (503)
+  const models = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
+  console.log('🤖 Starte KI-Analyse...');
+
+  for (const model of models) {
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      const res = await tryModel(model);
+      if (res.ok) {
+        console.log(`✅ KI-Analyse fertig (${model}), Felder: ${Object.keys(res.data).length}`);
+        return res.data;
+      }
+      if (res.status === 503 || res.status === 'timeout' || res.status === 429) {
+        console.log(`⏳ ${model} überlastet (${res.status}), Versuch ${attempt}/3, warte...`);
+        await sleep(attempt * 4000); // 4s, 8s, 12s
+        continue;
+      }
+      // Anderer Fehler → nächstes Modell probieren
+      console.log(`⚠️ ${model} Fehler (${res.status}): ${(res.msg || '').substring(0, 120)} → nächstes Modell`);
+      break;
+    }
+  }
+
+  console.log('❌ Alle Modelle fehlgeschlagen');
+  return {};
 }
 
 // ── MAIN ──────────────────────────────────────────────────────────────────
