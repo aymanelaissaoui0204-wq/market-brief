@@ -1,56 +1,70 @@
 {
-  "date": "Dienstag, 23. Juni 2026",
-  "generatedAt": "2026-06-23T14:00:57.873Z",
+  "date": "Mittwoch, 24. Juni 2026",
+  "generatedAt": "2026-06-24T08:21:29.104Z",
   "news": [
     {
-      "title": "Gewerkschaften und Wirtschaft zerpflücken die Renten",
-      "source": "Offenbach-Post",
-      "pubDate": "2026-06-22T17:44:29Z",
-      "content": "Am Wochenende wurden einige Vorschläge der Rentenkommission bekannt. Gewerkschaften, Sozial- und Wirtschaftsverbände kritisieren die Maßnahmen scharf.",
-      "url": "https://www.op-online.de/wirtschaft/gewerkschaften-und-wirtschaft-zerpfluecken-die-renten-vorschlaege-zr-94363713.html"
+      "title": "Verhältnis zur Industrie: Ist Merz der Kanzler der Bosse?",
+      "source": "Frankfurter Allgemeine Zeitung (Faz)",
+      "pubDate": "2026-06-23T20:10:23Z",
+      "content": "Erst waren sie seine größten Fans, dann seine größten Kritiker – und jetzt? Über das komplizierte Verhältnis zwischen der Wirtschaft und Friedrich Merz.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/verhaeltnis-zur-industrie-ist-merz-der-kanzler-der-bosse-200957392.html"
+    },
+    {
+      "title": "Energieeffizienz: Bundesregierung will Vorgaben für Rechenzentren lockern",
+      "source": "Heise Online",
+      "pubDate": "2026-06-23T19:32:00Z",
+      "content": "Die geplante Novelle des Energieeffizienzgesetzes ist weniger streng beim Stromverbrauch von IT-Infrastruktur. Die Wirtschaft atmet auf, doch es hagelt Kritik.",
+      "url": "https://www.heise.de/news/Energieeffizienz-Bundesregierung-will-Vorgaben-fuer-Rechenzentren-lockern-11342120.html"
+    },
+    {
+      "title": "Wirtschaft in Deutschland und den USA: Warum alte Industrien keine Zukunft sichern",
+      "source": "DER SPIEGEL",
+      "pubDate": "2026-06-23T18:46:00Z",
+      "content": "Friedrich Merz und Donald Trump teilen nicht nur ein Ziel, sondern auch dasselbe Wunschdenken: Sie wollen ihr Land mit alten Industrien retten. China weiß es besser.",
+      "url": "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-und-den-usa-warum-alte-industrien-keine-zukunft-sichern-meinung-a-b5d32f17-2c20-41aa-9666-8554c09ddec9"
     }
   ],
   "sections": {},
   "prices": {
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24884.7109375,
-      "change": -1.0142468788265195
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 73.0999984741211,
-      "change": -2.298852215609015
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62394.0390625,
-      "change": -2.436301971342201
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1393414735794067,
-      "change": -0.6049920842691762
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4151.10009765625,
-      "change": -0.7365026759784044
+      "price": 4093.199951171875,
+      "change": -0.8886402101670188
     },
     "SI=F": {
       "label": "Silber",
-      "price": 62.3650016784668,
-      "change": -4.825489841077083
+      "price": 61.67499923706055,
+      "change": -0.5562741344029412
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24728.380859375,
+      "change": -0.6636217781112459
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 71.94999694824219,
+      "change": -1.7210792951610714
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 62574.58984375,
+      "change": -0.14908670833839005
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1350737810134888,
+      "change": -0.6685635049264661
     }
   },
   "fearGreed": [
-    22,
     15,
     14,
     23,
     23,
     20,
-    23
+    23,
+    17
   ],
   "simulation": {
     "buy": 10,
