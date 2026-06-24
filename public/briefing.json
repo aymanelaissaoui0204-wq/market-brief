@@ -1,6 +1,6 @@
 {
   "date": "Mittwoch, 24. Juni 2026",
-  "generatedAt": "2026-06-24T08:21:29.104Z",
+  "generatedAt": "2026-06-24T14:43:21.043Z",
   "news": [
     {
       "title": "Verhältnis zur Industrie: Ist Merz der Kanzler der Bosse?",
@@ -26,35 +26,35 @@
   ],
   "sections": {},
   "prices": {
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 61058.87109375,
+      "change": -2.5677346269058066
+    },
     "GC=F": {
       "label": "Gold",
-      "price": 4093.199951171875,
-      "change": -0.8886402101670188
+      "price": 4045.10009765625,
+      "change": -2.0533138016099484
     },
     "SI=F": {
       "label": "Silber",
-      "price": 61.67499923706055,
-      "change": -0.5562741344029412
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24728.380859375,
-      "change": -0.6636217781112459
+      "price": 59.29999923706055,
+      "change": -4.38568397392302
     },
     "CL=F": {
       "label": "Öl",
-      "price": 71.94999694824219,
-      "change": -1.7210792951610714
+      "price": 70.08999633789062,
+      "change": -4.2617166856976
     },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62574.58984375,
-      "change": -0.14908670833839005
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24644.9609375,
+      "change": -0.9987279444930934
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1350737810134888,
-      "change": -0.6685635049264661
+      "price": 1.1343011856079102,
+      "change": -0.7361740979551368
     }
   },
   "fearGreed": [
@@ -68,7 +68,7 @@
   ],
   "simulation": {
     "buy": 10,
-    "hold": 90,
-    "sell": 0
+    "hold": 60,
+    "sell": 30
   }
 }
