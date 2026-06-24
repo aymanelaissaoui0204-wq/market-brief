@@ -18,6 +18,9 @@ jobs:
             GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
             GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+            ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+            FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+            MARKETAUX_KEY: ${{ secrets.MARKETAUX_KEY }}
         run: node scripts/generate.js
       - name: Commit
         run: |
