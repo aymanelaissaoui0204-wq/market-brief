@@ -1,6 +1,6 @@
 {
   "date": "Mittwoch, 24. Juni 2026",
-  "generatedAt": "2026-06-24T15:47:16.562Z",
+  "generatedAt": "2026-06-24T16:14:06.459Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -17,13 +17,32 @@
       "origin": "GNews"
     },
     {
+      "title": "The Quiet Contract Shift Before Western Digital Stock’s Loud Re-Rating",
+      "source": "Trefis",
+      "sentiment": "Bullish",
+      "tickers": [
+        "WDC(0.73)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends?",
+      "source": "24/7 Wall St.",
+      "sentiment": "Bullish",
+      "tickers": [
+        "TSM(0.40)",
+        "NVDA(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
       "title": "BKNG Stock Rides AI Travel Boom As Summer Demand Heats Up",
       "source": "StocksToTrade",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "BKNG(0.42)",
-        "GLW(0.20)",
-        "CTSH(0.21)"
+        "BKNG(0.44)",
+        "GLW(0.24)",
+        "CTSH(0.20)"
       ],
       "origin": "AlphaVantage"
     },
@@ -32,9 +51,9 @@
       "source": "TIKR.com",
       "sentiment": "Neutral",
       "tickers": [
-        "WDC(0.24)",
-        "MU(0.10)",
-        "STX(0.14)"
+        "WDC(0.23)",
+        "MU(0.13)",
+        "STX(0.12)"
       ],
       "origin": "AlphaVantage"
     },
@@ -43,8 +62,17 @@
       "source": "Foreign Policy Journal",
       "sentiment": "Bullish",
       "tickers": [
-        "AAPL(0.42)",
+        "AAPL(0.41)",
         "NVDA(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "The curse of being Israel’s most valuable company",
+      "source": "Globes - Israel Business News",
+      "sentiment": "Neutral",
+      "tickers": [
+        "TSEM(0.01)"
       ],
       "origin": "AlphaVantage"
     },
@@ -53,9 +81,9 @@
       "source": "Yahoo Finance",
       "sentiment": "Bullish",
       "tickers": [
-        "VZ(-0.21)",
-        "GOOGL(0.76)",
-        "GOOG(0.70)"
+        "VZ(-0.19)",
+        "GOOGL(0.75)",
+        "GOOG(0.74)"
       ],
       "origin": "AlphaVantage"
     },
@@ -64,7 +92,7 @@
       "source": "Stock Titan",
       "sentiment": "Neutral",
       "tickers": [
-        "PAYX(0.02)"
+        "PAYX(0.01)"
       ],
       "origin": "AlphaVantage"
     },
@@ -73,7 +101,7 @@
       "source": "Yahoo Finance Singapore",
       "sentiment": "Somewhat-Bearish",
       "tickers": [
-        "TSLA(-0.28)"
+        "TSLA(-0.30)"
       ],
       "origin": "AlphaVantage"
     },
@@ -82,8 +110,8 @@
       "source": "Stocktwits",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "GOOGL(0.31)",
-        "MSFT(0.33)",
+        "GOOGL(0.30)",
+        "MSFT(0.32)",
         "INTC(0.23)"
       ],
       "origin": "AlphaVantage"
@@ -93,9 +121,9 @@
       "source": "Yahoo Finance Singapore",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "BLK(0.15)",
+        "BLK(0.11)",
         "NVDA(0.28)",
-        "MSFT(0.20)"
+        "MSFT(0.25)"
       ],
       "origin": "AlphaVantage"
     },
@@ -104,9 +132,9 @@
       "source": "Simply Wall Street",
       "sentiment": "Neutral",
       "tickers": [
-        "ADI(0.12)",
-        "NVDA(0.10)",
-        "AVGO(0.12)"
+        "ADI(0.10)",
+        "NVDA(0.13)",
+        "AVGO(0.10)"
       ],
       "origin": "AlphaVantage"
     },
@@ -115,7 +143,7 @@
       "source": "Trefis",
       "sentiment": "Neutral",
       "tickers": [
-        "RMBS(0.12)"
+        "RMBS(0.14)"
       ],
       "origin": "AlphaVantage"
     },
@@ -124,7 +152,7 @@
       "source": "The Times of India",
       "sentiment": "Bullish",
       "tickers": [
-        "INFY(0.42)"
+        "INFY(0.43)"
       ],
       "origin": "AlphaVantage"
     },
@@ -134,37 +162,6 @@
       "sentiment": "Somewhat-Bearish",
       "tickers": [
         "MELI(-0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Financial Designs Corp Buys New Stake in NVIDIA Corporation $NVDA",
-      "source": "MarketBeat",
-      "sentiment": "Neutral",
-      "tickers": [
-        "NVDA(0.29)",
-        "SMCI(0.14)",
-        "AMD(-0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus",
-      "source": "Yahoo! Finance Canada",
-      "sentiment": "Neutral",
-      "tickers": [
-        "MU(-0.35)",
-        "NVDA(0.04)",
-        "FDX(-0.26)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Indonesia Credit Spotlight 2026: Navigating Geopolitical Headwinds and Domestic Resilience",
-      "source": "S&P Global",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "SPGI(0.25)"
       ],
       "origin": "AlphaVantage"
     },
@@ -197,13 +194,6 @@
       "origin": "Finnhub"
     },
     {
-      "title": "Rubio on Gulf tour as allies sceptical about Iran deal seek answers - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
       "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
       "source": "CNBC",
       "sentiment": null,
@@ -223,39 +213,46 @@
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
     }
   ],
   "sections": {},
   "prices": {
+    "SI=F": {
+      "label": "Silber",
+      "price": 58.779998779296875,
+      "change": -5.2241239189820305
+    },
     "GC=F": {
       "label": "Gold",
-      "price": 4025.199951171875,
-      "change": -2.535169220746899
+      "price": 4018.39990234375,
+      "change": -2.699823304112598
     },
     "CL=F": {
       "label": "Öl",
-      "price": 70.23999786376953,
-      "change": -4.056824556542089
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.135589361190796,
-      "change": -0.6234445703717675
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24716.240234375,
-      "change": -0.712391882539369
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 59.0099983215332,
-      "change": -4.853276546297859
+      "price": 70.55000305175781,
+      "change": -3.633378043954942
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 60315.44140625,
-      "change": -3.7540329861977924
+      "price": 60368.6796875,
+      "change": -3.6690801160604933
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1353315114974976,
+      "change": -0.646009253710915
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24740.359375,
+      "change": -0.615502883249972
     }
   },
   "fearGreed": [
