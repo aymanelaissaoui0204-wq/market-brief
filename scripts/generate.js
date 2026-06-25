@@ -227,16 +227,16 @@ Analysiere ALLE Felder gründlich. Antworte NUR mit validem JSON ohne Backticks:
   "brief": "4-5 Sätze persönlicher Mentor-Brief an Ayman über die heutigen News"
 }`;
 
-  const body = JSON.stringify({
-    contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.3, maxOutputTokens: 8192, responseMimeType: "application/json" }
-  });
-
   // Eine einzelne Anfrage an ein Modell. Gibt {ok, data, status} zurück.
   const tryModel = (model) => new Promise((resolve) => {
     const key = process.env.GEMINI_API_KEY;
+    const genConfig = { temperature: 0.3, maxOutputTokens: 8192, responseMimeType: "application/json" };
+    // Bei 2.5-Modellen "Thinking" abschalten → viel schneller, kein Timeout
+    if (model.includes('2.5')) genConfig.thinkingConfig = { thinkingBudget: 0 };
+    const body = JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: genConfig });
+
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
-    const timeout = setTimeout(() => resolve({ ok: false, status: 'timeout' }), 30000);
+    const timeout = setTimeout(() => resolve({ ok: false, status: 'timeout' }), 60000);
     const req = https.request(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) }
@@ -261,23 +261,22 @@ Analysiere ALLE Felder gründlich. Antworte NUR mit validem JSON ohne Backticks:
   });
 
   const sleep = (ms) => new Promise(r => setTimeout(r, ms));
-  // Versuche mehrere Modelle mit Wiederholung bei Überlastung (503)
-  const models = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest'];
+  // Versuche mehrere Modelle mit Wiederholung bei Überlastung (503/429/timeout)
+  const models = ['gemini-2.5-flash-lite', 'gemini-2.5-flash', 'gemini-2.0-flash'];
   console.log('🤖 Starte KI-Analyse...');
 
   for (const model of models) {
-    for (let attempt = 1; attempt <= 3; attempt++) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
       const res = await tryModel(model);
       if (res.ok) {
         console.log(`✅ KI-Analyse fertig (${model}), Felder: ${Object.keys(res.data).length}`);
         return res.data;
       }
       if (res.status === 503 || res.status === 'timeout' || res.status === 429) {
-        console.log(`⏳ ${model} überlastet (${res.status}), Versuch ${attempt}/3, warte...`);
-        await sleep(attempt * 4000); // 4s, 8s, 12s
+        console.log(`⏳ ${model} überlastet (${res.status}), Versuch ${attempt}/2, warte...`);
+        await sleep(attempt * 10000); // 10s, 20s
         continue;
       }
-      // Anderer Fehler → nächstes Modell probieren
       console.log(`⚠️ ${model} Fehler (${res.status}): ${(res.msg || '').substring(0, 120)} → nächstes Modell`);
       break;
     }
