@@ -1,6 +1,6 @@
 {
   "date": "Donnerstag, 25. Juni 2026",
-  "generatedAt": "2026-06-25T13:17:27.339Z",
+  "generatedAt": "2026-06-25T13:33:34.118Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -15,159 +15,6 @@
       "sentiment": null,
       "tickers": [],
       "origin": "GNews"
-    },
-    {
-      "title": "Micron drives global rally tech stock rally as traders abandon their fear of an AI bubble",
-      "source": "Fortune",
-      "sentiment": "Bullish",
-      "tickers": [
-        "MU(0.64)",
-        "AMZN(0.41)",
-        "NVDA(0.31)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Zacks Industry Outlook Netflix, Roku and Sirius XM",
-      "source": "Yahoo! Finance Canada",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "NFLX(0.34)",
-        "FOXA(0.34)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Banque Cantonale Vaudoise Sells 91,151 Shares of Verizon Communications Inc. $VZ",
-      "source": "MarketBeat",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "VZ(0.02)",
-        "GOOGL(-0.41)",
-        "GOOG(-0.43)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Sterling Infrastructure (STRL) Stock Could Be About Right After Strong Earnings And 2026 Outlook",
-      "source": "Sahm",
-      "sentiment": "Bullish",
-      "tickers": [
-        "STRL(0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Western Digital Corp Stock (WDC) Moved Down by 4.01% on Jun 25: What Signal Does It Send?",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "WDC(-0.44)",
-        "MU(-0.12)",
-        "NVDA(-0.14)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "ICF International, Inc. Files Form 8-K with SEC – Company Overview, Stock Details, and Key Disclosures for 2026",
-      "source": "Minichart",
-      "sentiment": "Neutral",
-      "tickers": [
-        "ICFI(0.13)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "SanDisk, Western Digital, Seagate Surge After Hours As Micron's Blowout Earnings Signal Memory Upcycle",
-      "source": "Benzinga",
-      "sentiment": "Bullish",
-      "tickers": [
-        "STX(0.83)",
-        "WDC(0.80)",
-        "MU(0.93)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Is GLOBALFOUNDRIES (GFS) Expensive Following Its SLATE Chip Advance And Infosys AI Deal?",
-      "source": "Simply Wall Street",
-      "sentiment": "Neutral",
-      "tickers": [
-        "GFS(-0.24)",
-        "NVDA(0.13)",
-        "AMD(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "How AMD’s Rackspace Deal and MEXT Acquisition Could Reshape Advanced Micro Devices (AMD) Investors’ AI Thesis",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "AMD(0.26)",
-        "NVDA(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Is ManpowerGroup’s (MAN) Global AI Thought Leadership Quietly Reframing Its Long-Term Competitive Edge?",
-      "source": "Simply Wall Street",
-      "sentiment": "Neutral",
-      "tickers": [
-        "MAN(0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Infosys (NSE:INFY) stock drags down Nifty IT, drives about 40% of index’s recent drop",
-      "source": "TechStock²",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "INFY(-0.41)",
-        "ACN(-0.34)",
-        "MS(-0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Everyone Is Watching Applied Materials Stock's AI Boom. The Real Story Is In The Supply Chain.",
-      "source": "Trefis",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AMAT(0.05)",
-        "LRCX(0.12)",
-        "ENPH(0.15)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Morgan Stanley pulls no punches after tech stock sell-off",
-      "source": "Yahoo Finance Australia",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "MS(0.28)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "MercadoLibre (MELI) Shares Skyrocket, What You Need To Know",
-      "source": "The Globe and Mail",
-      "sentiment": "Bullish",
-      "tickers": [
-        "MELI(0.48)",
-        "GOOGL(0.33)",
-        "META(0.34)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Micron tops Q3 earnings estimates, offers better-than-expected outlook and declares dividend",
-      "source": "Yahoo Finance",
-      "sentiment": "Neutral",
-      "tickers": [
-        "MU(0.03)"
-      ],
-      "origin": "AlphaVantage"
     },
     {
       "title": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
@@ -224,107 +71,144 @@
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Oil touches pre-war levels on rising Middle East supply - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump says it may never be known who was at fault for strike on girls' school in Iran - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US military requires flu vaccine for some after outbreak in Texas training center - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Vance says review underway to see how Turkey can get F-35 fighter jets - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Personal Income and Outlays, May 2026",
+      "source": "bea.gov",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 1st Quarter 2026",
+      "source": "bea.gov",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "We just got a better idea about who might succeed Jamie Dimon as JPMorgan CEO",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
     }
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
-      "GNews: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
-      "AlphaVantage: Micron drives global rally tech stock rally as traders abandon their fear of an AI bubble",
-      "AlphaVantage: Zacks Industry Outlook Netflix, Roku and Sirius XM",
-      "AlphaVantage: Banque Cantonale Vaudoise Sells 91,151 Shares of Verizon Communications Inc. $VZ",
-      "AlphaVantage: Sterling Infrastructure (STRL) Stock Could Be About Right After Strong Earnings And 2026 Outlook",
-      "AlphaVantage: Western Digital Corp Stock (WDC) Moved Down by 4.01% on Jun 25: What Signal Does It Send?",
-      "AlphaVantage: ICF International, Inc. Files Form 8-K with SEC – Company Overview, Stock Details, and Key Disclosures for 2026",
-      "AlphaVantage: SanDisk, Western Digital, Seagate Surge After Hours As Micron's Blowout Earnings Signal Memory Upcycle",
-      "AlphaVantage: Is GLOBALFOUNDRIES (GFS) Expensive Following Its SLATE Chip Advance And Infosys AI Deal?",
-      "AlphaVantage: How AMD’s Rackspace Deal and MEXT Acquisition Could Reshape Advanced Micro Devices (AMD) Investors’ AI Thesis",
-      "AlphaVantage: Is ManpowerGroup’s (MAN) Global AI Thought Leadership Quietly Reframing Its Long-Term Competitive Edge?",
-      "AlphaVantage: Infosys (NSE:INFY) stock drags down Nifty IT, drives about 40% of index’s recent drop",
-      "AlphaVantage: Everyone Is Watching Applied Materials Stock's AI Boom. The Real Story Is In The Supply Chain.",
-      "AlphaVantage: Morgan Stanley pulls no punches after tech stock sell-off",
-      "AlphaVantage: MercadoLibre (MELI) Shares Skyrocket, What You Need To Know",
-      "AlphaVantage: Micron tops Q3 earnings estimates, offers better-than-expected outlook and declares dividend",
-      "Finnhub: Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
-      "Finnhub: U.S. giving topped $600 billion for the first time last year. Megadonors and bequests are to thank",
-      "Finnhub: EXCLUSIVE: Dubai enlists businesses to help secure hub status after Iran war shock - Reuters"
+      "Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "CNBC: Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come",
+      "CNBC: Micron stock jumps over 16% in premarket trading after blockbuster earnings",
+      "Reuters: EXCLUSIVE: Dubai enlists businesses to help secure hub status after Iran war shock",
+      "Reuters: China state refiners considering resuming Iran oil imports, sources say",
+      "Reuters: Oil touches pre-war levels on rising Middle East supply"
     ],
     "hypeNews": [
-      "Starker Aufschwung im Technologiesektor, angeführt von Micron, da die Angst vor einer KI-Blase nachlässt.",
-      "Positive Ergebnisse und Ausblicke von Speicherchip-Herstellern wie Micron, Western Digital und Seagate signalisieren einen Aufschwung in der Speicherindustrie."
+      "Halbleiter-Boom (Micron)",
+      "Iran-Friedensdeal & Ölmarkt",
+      "Tech-Preiserhöhungen (Apple)"
     ],
-    "hypeCenter": "Der Technologiesektor, insbesondere der Bereich Halbleiter und KI, ist der stärkste Hype. Micron's starke Ergebnisse und der Ausblick haben die Angst vor einer KI-Blase gedämpft und eine breite Rallye im Tech-Sektor ausgelöst, was auf eine starke Nachfrage und eine Erholung der Speicherpreise hindeutet.",
-    "peripherEffect": "Zulieferer von Spezialmetallen und -materialien für die Halbleiterproduktion, Unternehmen im Bereich der fortschrittlichen Fertigungstechnologie und Logistikdienstleister, die mit der globalen Lieferkette für Elektronik zu tun haben, könnten mit Verzögerung von diesem Aufschwung profitieren.",
-    "narrativ": "Die Masse glaubt, dass die KI-Revolution weiter Fahrt aufnimmt und die Nachfrage nach leistungsfähigerer Hardware, insbesondere Speicherchips, unaufhaltsam steigt. Unternehmen, die diese Chips herstellen oder die dafür notwendige Infrastruktur bereitstellen, werden die Hauptprofiteure sein.",
-    "realitaet": "Während die KI-Nachfrage real ist, wird die aktuelle Rallye auch durch kurzfristige Faktoren wie Lagerbestandsanpassungen, Produktionskapazitäten und die Erwartung von Preissteigerungen getrieben. Die 'Angst vor der Blase' war vielleicht übertrieben, aber die Nachhaltigkeit des aktuellen Wachstums hängt von der tatsächlichen Endverbrauchernachfrage und der globalen Wirtschaftslage ab, die durch Nachrichten wie den Einbruch des Wagniskapitals für Biotech-Firmen in Deutschland getrübt wird.",
-    "macht": "Primär profitieren die großen Halbleiterhersteller (Micron, Western Digital, Seagate, SanDisk) und deren Zulieferer (z.B. Applied Materials, Lam Research). Auch die großen Tech-Plattformen (Amazon, Google, Apple) und KI-Entwickler (Nvidia, AMD) ziehen Kapital an. Institutionelle Investoren und Fonds, die diese Sektoren übergewichten, sind die Hauptprofiteure.",
-    "geopolitik": "Die Nachrichten über Dubai, das seine Hub-Rolle nach dem Iran-Schock sichern will, und die US-Gelder für Megadonors deuten auf eine fortwährende geopolitische Unsicherheit und eine Verlagerung von globalen Machtzentren hin. Die Abhängigkeit von globalen Lieferketten für kritische Technologien wie Halbleiter bleibt ein strategischer Faktor, der potenziell zu Allianzen oder Spannungen führt. Die BRICS-Staaten könnten versuchen, ihre eigene Technologie- und Rohstoffunabhängigkeit zu stärken.",
-    "liquiditaet": "Kapital fließt stark in den Technologiesektor, insbesondere in Unternehmen, die direkt oder indirekt von der KI- und Speicherchip-Nachfrage profitieren. Gold und Silber zeigen ebenfalls Stärke, was auf eine Suche nach sicheren Häfen oder Inflationsschutz hindeutet, trotz des allgemeinen Tech-Hypes.",
-    "kette": "Starke Quartalsergebnisse von Micron -> Signal für Erholung der Speicherchip-Nachfrage -> Anstieg von Speicherchip-Herstellern und Zulieferern -> Breitere Tech-Rallye -> Möglicher Anstieg von peripheren Sektoren wie Spezialmaterialien und Logistik.",
-    "timing": "Mitte des Trends. Die Ergebnisse von Micron und die breite Tech-Rallye deuten darauf hin, dass der Aufschwung in den Speicherchips bereits begonnen hat und sich nun auf breitere Teile des Tech-Sektors ausdehnt. Es ist wahrscheinlich nicht mehr der absolute Frühindikator, aber es gibt noch Potenzial, bevor der Hype seinen Höhepunkt erreicht.",
-    "saisonalitaet": "Juni/Juli sind historisch oft von einer Sommerrallye im Technologiesektor geprägt, besonders wenn positive Nachrichten wie diese auftauchen. Allerdings kann die allgemeine Marktstimmung und geopolitische Unsicherheit diese Muster durchbrechen.",
-    "masseFehler": "Die Masse sieht nur den direkten Hype um KI und Speicherchips. Sie übersehen, dass die eigentliche Wertschöpfung und die langfristigen Gewinne oft bei den weniger offensichtlichen Zulieferern und den Unternehmen liegen, die die Infrastruktur für diese neuen Technologien bereitstellen oder die Rohstoffe dafür liefern. Auch die Abhängigkeit von globalen Lieferketten und die potenziellen geopolitischen Risiken werden unterschätzt.",
-    "widerspruch": "Ja. Während Tech-Aktien (MU, STRL, MELI) stark steigen und die Stimmung bullish ist, gibt es auch bearishere Signale für andere Tech-Unternehmen (VZ, WDC, INFY) und eine allgemeine 'Fear & Greed' von 12/100, was auf extreme Angst hindeutet. Dies deutet auf eine selektive Stärke im Markt hin, bei der nicht alle Sektoren gleichermaßen profitieren.",
-    "markt": "Gold: Steigt, Silber: Steigt, Öl: Faellt, Bitcoin: Steigt, DAX: Steigt, EUR/USD: Faellt",
-    "opportunity": "Ja, in den peripheren Assets, die mit Verzögerung vom Halbleiter- und KI-Hype profitieren könnten, sowie in Edelmetallen als Absicherung gegen potenzielle Volatilität.",
-    "positionierung": "Smart Money scheint sich auf den Technologiesektor zu konzentrieren, insbesondere auf Speicherchips und KI-bezogene Unternehmen, wie die positiven Sentiment-Scores für MU, STX, WDC und AMD zeigen. Die breite 'Fear & Greed' von 12/100 deutet jedoch darauf hin, dass die Masse noch ängstlich ist und die breitere Marktpositionierung noch nicht vollständig auf 'Greed' umgeschlagen hat. Dies könnte auf eine bevorstehende breitere Rallye hindeuten, wenn die Angst nachlässt.",
-    "reflexivitaet": "Die positiven Ergebnisse von Micron lösen eine positive Rückkopplungsschleife aus: steigende Aktienkurse ziehen mehr Investoren an, was die Nachfrage nach Speicherchips weiter erhöht (oder zumindest die Erwartung daran) und die Preise und Gewinne weiter steigert, was wiederum die Aktienkurse befeuert.",
+    "hypeCenter": "Der Halbleitersektor ist heute der stärkste Hype, getrieben durch die 'blockbuster earnings' von Micron Technology, die einen Kurssprung von über 16% im Premarket auslösten. Dies deutet auf eine starke Nachfrage und möglicherweise Engpässe hin, die Apple zu Preiserhöhungen zwingen.",
+    "peripherEffect": "Vom Halbleiter-Hype profitieren verzögert Zulieferer von Spezialchemikalien und -gasen, Hersteller von Fertigungsanlagen (ASML, Lam Research), sowie Unternehmen, die in der Logistik und dem Transport von Halbleiterprodukten tätig sind. Auch Kupfer und andere seltene Erden, die in der Chipfertigung benötigt werden, könnten nachziehen. Langfristig profitieren auch Unternehmen, die von der erhöhten Rechenleistung durch bessere Chips abhängen, wie z.B. Cloud-Anbieter oder KI-Entwickler.",
+    "narrativ": "Die Masse glaubt, dass der Tech-Sektor, insbesondere Halbleiter, trotz Inflation und Preiserhöhungen boomt. Der Iran-Friedensdeal wird als Entspannung im Nahen Osten und potenziell stabilisierender Faktor für den Ölpreis wahrgenommen, was die Inflation dämpfen könnte. Die Wirtschaft erholt sich, aber es gibt regionale Schwächen (deutsches Biotech-Wagniskapital).",
+    "realitaet": "Die 'blockbuster earnings' von Micron und Apples Preiserhöhungen zeigen nicht nur Nachfrage, sondern auch eine anhaltende Angebotsknappheit und steigende Produktionskosten im Halbleiterbereich. Der 'Iran peace deal' ist kein 'silver bullet' für die Inflation, sondern verschiebt geopolitische Machtverhältnisse und Ölströme. Die Wiederaufnahme iranischer Ölexporte durch China und die Rückkehr des Ölpreises auf Vorkriegsniveau deuten auf eine strategische Neuausrichtung hin, die den Westen unter Druck setzt. Die hohen Spenden in den USA könnten auch ein Indikator für wachsende Vermögensungleichheit sein.",
+    "macht": "Micron Technology (MICN) und andere Halbleiterhersteller profitieren direkt. Apple (AAPL) kann Preiserhöhungen durchsetzen und damit Margen sichern. Dubai stärkt seine Position als Hub im Nahen Osten. China sichert sich Ölzugang und stärkt seine geopolitische Position. Die US-Regierung gewinnt durch den Iran-Deal an Einfluss, während die Fed weiterhin mit Inflation kämpft. Megadonors und Erben in den USA gewinnen an Einfluss durch ihre Spenden.",
+    "geopolitik": "Der Iran-Friedensdeal ist ein zentrales geopolitisches Ereignis. Er führt zu einer Neuausrichtung der Ölströme (China kauft wieder iranisches Öl), was die De-Dollarisierungstendenzen verstärken könnte, da Iran und China außerhalb des US-Dollars handeln könnten. Dubai positioniert sich als regionaler Hub nach dem 'Iran war shock', was auf eine Verschiebung der Machtzentren im Nahen Osten hindeutet. Die Diskussion um F-35 Jets für die Türkei zeigt die komplexen Allianzen und Spannungen innerhalb der NATO und gegenüber Russland.",
+    "liquiditaet": "Kapital fließt in den Halbleitersektor (Micron, andere Chip-Hersteller) und in Rohstoffe wie Gold und Silber, die als Inflationsschutz dienen. Der Ölmarkt sieht eine Umschichtung durch die Wiederaufnahme iranischer Exporte. Wagniskapital zieht sich aus dem deutschen Biotech-Sektor zurück, was auf eine selektivere Kapitalallokation hindeutet.",
+    "kette": "Iran-Friedensdeal -> Erhöhtes Ölangebot aus dem Iran -> Ölpreis sinkt auf Vorkriegsniveau -> China erwägt Wiederaufnahme von Iran-Ölimporten -> Entlastung für energieimportierende Länder wie Indien -> Indische Aktienmärkte steigen. Gleichzeitig: Halbleiter-Engpässe -> Apple erhöht Preise -> Micron meldet Rekordgewinne -> Halbleiteraktien steigen.",
+    "timing": "Mitte im Trend. Der Halbleiter-Hype ist schon länger präsent, aber die aktuellen Nachrichten zeigen eine Beschleunigung. Der Iran-Deal ist ein frisches Ereignis, dessen volle Auswirkungen auf den Ölmarkt und die Geopolitik sich erst entfalten werden.",
+    "saisonalitaet": "Juni ist historisch oft ein volatiler Monat für Rohstoffe und Tech-Aktien, da viele Unternehmen ihre Quartalsergebnisse veröffentlichen und es zu Umschichtungen kommt. Die Sommerflaute kann auch zu geringeren Handelsvolumina führen, was Bewegungen verstärkt.",
+    "masseFehler": "Die Masse sieht den Iran-Friedensdeal als rein positive Entwicklung für die globale Stabilität und Inflation. Der Edge ist, dass dieser Deal die geopolitischen Machtverhältnisse massiv verschiebt, die De-Dollarisierung vorantreibt und neue Allianzen schmiedet, die den Westen langfristig schwächen könnten. Die scheinbare Entspannung ist eine strategische Neuausrichtung.",
+    "widerspruch": "Ja. Einerseits sinkt der Ölpreis auf Vorkriegsniveau, was inflationär entlastend wirken sollte. Andererseits warnt die Fed, dass der Iran-Deal 'no silver bullet' für die Inflation ist, und Apple erhöht Preise aufgrund von 'memory crunch', was auf anhaltenden Inflationsdruck in der Lieferkette hindeutet. Der Fear & Greed Index bei 12/100 widerspricht dem DAX-Anstieg und dem Micron-Hype.",
+    "markt": "Gold steigt | Silber steigt | Öl fällt | Bitcoin fällt | DAX steigt | EUR/USD fällt",
+    "opportunity": "Konkrete Chance im Halbleiter-Zulieferer-Sektor oder in strategischen Rohstoffen, die von der Neuausrichtung der globalen Lieferketten profitieren.",
+    "positionierung": "Smart Money ist bereits im Halbleitersektor positioniert (Micron-Sprung). Das Sentiment für Tech ist trotz Preiserhöhungen positiv. Das Sentiment für den Ölmarkt ist gespalten: kurzfristig negativ durch erhöhtes Angebot, langfristig unsicher aufgrund geopolitischer Verschiebungen. Der Fear & Greed Index bei 12/100 deutet auf extreme Angst hin, was oft ein Kontraindikator für Smart Money ist, das in solchen Phasen akkumuliert.",
+    "reflexivitaet": "Der Hype um Micron führt zu weiteren Investitionen in den Halbleitersektor, was die Preise für Rohstoffe und Zulieferprodukte weiter in die Höhe treiben könnte. Apples Preiserhöhungen könnten andere Tech-Firmen ermutigen, ebenfalls Preise anzuheben, was die Inflation weiter anheizt. Der sinkende Ölpreis könnte kurzfristig die Konsumausgaben ankurbeln, aber die geopolitischen Implikationen des Iran-Deals könnten langfristig zu neuen Unsicherheiten führen, die Investitionen hemmen.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die starke Performance im Tech-Sektor deutet auf Wachstum hin, aber die allgemeine Angst (Fear & Greed Index) und die geopolitischen Nachrichten deuten auf Unsicherheit und einen möglichen Umbruch in der globalen Wirtschaftsordnung hin. Die steigenden Edelmetalle könnten auf Inflationsängste oder eine Suche nach Stabilität in unsicheren Zeiten hindeuten.",
+    "metaZyklus": "Umbruch. Die geopolitischen Verschiebungen durch den Iran-Deal, die anhaltende Inflation trotz Ölpreisrückgang und der Tech-Boom inmitten von Engpässen deuten auf eine Phase tiefgreifender Veränderungen hin, nicht auf Stabilität oder klares Wachstum.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegtes Goldprodukt, das den islamischen Anlageprinzipien entspricht, da es einen realen Vermögenswert darstellt und keine Zinsen generiert.",
+    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das den AAOIFI-Standards für Gold als Währung und Wertaufbewahrungsmittel entspricht.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 4045,
-    "stopLoss": 3900,
-    "ziel": 4300,
-    "zeitraum": "4-8 Wochen",
-    "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Kursziels oder bei einem nachhaltigen Bruch des Stop-Loss-Levels, oder bei einer deutlichen Änderung der Marktstimmung weg von sicheren Häfen.",
-    "waehrungsrisiko": "Der fallende EUR/USD-Kurs (1.1358) könnte einen positiven Effekt auf in Euro denominierten Goldpreis haben, wenn der Goldpreis in USD steigt, was die Rendite für Euro-Investoren erhöht.",
-    "psychologie": "FOMO (Fear Of Missing Out) könnte bei Anlegern entstehen, die die Tech-Rallye verpassen. Gleichzeitig könnte die extreme Angst (Fear & Greed Index) zu Panikverkäufen bei den weniger informierten Anlegern führen, was Chancen für diejenigen schafft, die die zugrunde liegenden Trends erkennen.",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Ein fallender EUR/USD würde den Wert von in USD notierten Assets für Euro-Anleger erhöhen, aber auch Importe verteuern und die Inflation im Euroraum anheizen.",
+    "psychologie": "null",
     "ruhigerTag": false,
-    "lernpunkt": "Der 'Fear & Greed Index' misst die Marktstimmung. Ein niedriger Wert (wie 12/100) deutet auf extreme Angst hin, was oft ein Kaufsignal sein kann, da die Masse panisch verkauft. Ein hoher Wert deutet auf extreme Gier hin, was ein Verkaufssignal sein kann, da die Masse euphorisch kauft. Er hilft dabei, extreme Marktstimmungen zu erkennen und gegenteilige Positionen einzunehmen.",
-    "tagesfrage": "Wie stark wird die Nachfrage nach Speicherchips tatsächlich die globale Wirtschaftsentwicklung beeinflussen, wenn die Endverbrauchernachfrage stagniert?",
-    "brief": "Ayman, heute sehen wir eine klare Stärke im Technologiesektor, angeführt von Micron. Die Angst vor einer KI-Blase weicht der Euphorie über Speicherchips. Aber erinnere dich: Die Nachricht ist die Oberfläche, das Geld zeigt die Wahrheit. Während die Tech-Giganten glänzen, suche nach den weniger offensichtlichen Profiteuren in der Lieferkette. Gold und Silber steigen ebenfalls, was auf eine unterschwellige Unsicherheit hindeutet. Halte deine Positionen im Auge und achte auf die subtilen Verschiebungen im Markt, die dir den wahren Vorteil verschaffen."
+    "lernpunkt": "Reflexivität: Ein Konzept, bei dem die Erwartungen und Handlungen der Marktteilnehmer die Realität beeinflussen, die wiederum die Erwartungen beeinflusst. Beispiel: Der Glaube an einen Tech-Boom führt zu Investitionen, die den Boom erst ermöglichen.",
+    "tagesfrage": "Inwiefern ist der 'Friedensdeal' mit dem Iran ein strategisches Manöver, um die globale Energieversorgung neu zu ordnen und die Dominanz des US-Dollars zu untergraben, anstatt nur ein Schritt zur Deeskalation?",
+    "brief": "Ayman, die Oberfläche zeigt heute einen Halbleiter-Hype und einen scheinbar entspannten Ölmarkt. Doch das Geld fließt in strategische Sektoren und Rohstoffe, die von tiefgreifenden geopolitischen Verschiebungen profitieren. Der Iran-Deal ist kein einfacher Frieden, sondern eine Neuordnung der Macht, die China und andere Akteure stärkt. Achte auf die peripheren Profiteure im Halbleiter-Zulieferbereich und die langfristigen Auswirkungen auf die De-Dollarisierung. Der Fear & Greed Index schreit Angst, aber das Smart Money akkumuliert bereits in den richtigen Ecken. Bleib wachsam und fokussiert auf die wahren Kapitalströme."
   },
   "prices": {
-    "SI=F": {
-      "label": "Silber",
-      "price": 58.67499923706055,
-      "change": 1.0731777003562168
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1358473300933838,
-      "change": -0.18514848124609518
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24986.970703125,
+      "change": 0.9967976793991093
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 61229.078125,
-      "change": 0.3835475089777271
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 69.80999755859375,
-      "change": -0.7534813859684212
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24983.490234375,
-      "change": 0.9827296996367905
+      "price": 60811.69140625,
+      "change": -0.3007476134430296
     },
     "GC=F": {
       "label": "Gold",
       "price": 4044.60009765625,
       "change": 1.3608011468729497
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 70.05999755859375,
+      "change": -0.39806481926989484
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1367511749267578,
+      "change": -0.10572131225164605
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 58.40999984741211,
+      "change": 0.616691449845883
     }
   },
   "fearGreed": [
