@@ -309,15 +309,18 @@ function Block({ icon, title, children, accent, warning }) {
 }
 
 function AsymmetrieCard({ a }) {
-  if (!a) return null;
-  const gut = a.ratio >= 2;
+  if (!a || typeof a !== "object") return null;
+  const num = (x) => { const n = parseFloat(x); return isNaN(n) ? null : n; };
+  const verlust = num(a.verlust), gewinn = num(a.gewinn), ratio = num(a.ratio), ev = num(a.ev);
+  const gut = ratio != null && ratio >= 2;
+  const fmt = (n) => n == null ? "—" : n.toFixed(2);
   return (
     <div style={{ background: gut ? "rgba(0,200,100,0.04)" : "rgba(255,80,80,0.04)", border: `1px solid ${gut ? "rgba(0,200,100,0.22)" : "rgba(255,80,80,0.22)"}`, borderRadius: "11px", padding: "13px", marginBottom: "8px" }}>
       <div style={{ fontSize: "9px", letterSpacing: "2px", fontFamily: "'DM Mono'", color: gut ? "#00C896" : "#FF5050", marginBottom: "9px" }}>
         ⚖️ ASYMMETRIE {gut ? "✅ GUTES SETUP" : "❌ SCHLECHTES SETUP"}
       </div>
       <div style={{ display: "flex", gap: "7px" }}>
-        {[["Verlust", `${a.verlust}%`, "#FF5050"], ["Gewinn", `${a.gewinn}%`, "#00C896"], ["Ratio", `1:${a.ratio}`, gut ? "#00C896" : "#FF5050"], ["EV", a.ev > 0 ? `+${a.ev.toFixed(2)}` : String(a.ev?.toFixed(2)), a.ev > 0 ? "#00C896" : "#FF5050"]].map(([k, v, c]) => (
+        {[["Verlust", verlust == null ? "—" : `${verlust}%`, "#FF5050"], ["Gewinn", gewinn == null ? "—" : `${gewinn}%`, "#00C896"], ["Ratio", ratio == null ? "—" : `1:${ratio}`, gut ? "#00C896" : "#FF5050"], ["EV", ev == null ? "—" : (ev > 0 ? `+${fmt(ev)}` : fmt(ev)), ev != null && ev > 0 ? "#00C896" : "#FF5050"]].map(([k, v, c]) => (
           <div key={k} style={{ flex: 1, background: "rgba(255,255,255,0.03)", borderRadius: "7px", padding: "7px", textAlign: "center" }}>
             <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.28)", fontFamily: "'DM Mono'" }}>{k}</div>
             <div style={{ fontSize: "13px", fontWeight: "700", color: c, fontFamily: "'DM Mono'" }}>{v}</div>
@@ -329,12 +332,13 @@ function AsymmetrieCard({ a }) {
 }
 
 function StopLossErklarung({ einstieg, stopLoss, ziel, einsatz }) {
-  const parse = (s) => parseFloat((s || "").replace(/[^0-9.,]/g, "").replace(",", ".")) || null;
+  const parse = (s) => parseFloat(String(s || "").replace(/[^0-9.,]/g, "").replace(",", ".")) || null;
   const e = parse(einstieg), sl = parse(stopLoss), t = parse(ziel);
   if (!e || !sl) return null;
+  const einsatzNum = parseFloat(einsatz);
   const slPct = (((e - sl) / e) * 100).toFixed(1);
   const tPct = t ? (((t - e) / e) * 100).toFixed(1) : null;
-  const maxV = einsatz ? ((parseFloat(slPct) / 100) * einsatz).toFixed(2) : null;
+  const maxV = !isNaN(einsatzNum) ? ((parseFloat(slPct) / 100) * einsatzNum).toFixed(2) : null;
   return (
     <div style={{ marginTop: "9px", padding: "12px", background: "rgba(255,80,80,0.04)", borderRadius: "9px", border: "1px solid rgba(255,80,80,0.15)" }}>
       <div style={{ fontSize: "9px", letterSpacing: "2px", color: "#FF5050", fontFamily: "'DM Mono'", marginBottom: "8px" }}>🛡️ STOP-LOSS ERKLÄRT</div>
