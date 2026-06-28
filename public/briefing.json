@@ -1,6 +1,6 @@
 {
-  "date": "Samstag, 27. Juni 2026",
-  "generatedAt": "2026-06-27T07:49:31.693Z",
+  "date": "Sonntag, 28. Juni 2026",
+  "generatedAt": "2026-06-28T08:22:03.177Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -17,209 +17,200 @@
       "origin": "GNews"
     },
     {
-      "title": "What Analog Devices Stock Was Saying By Intentionally Selling Less",
-      "source": "Trefis",
-      "sentiment": "Neutral",
-      "tickers": [
-        "ADI(0.40)",
-        "PANW(0.35)",
-        "CRM(-0.30)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Innodata Stock Leads 3 Professional Services Picks As AI Hiring Demand Builds",
+      "title": "CoStar Group Stock And Remote Work Shifts Reshaping Real Estate Demand",
       "source": "Simply Wall Street",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "INOD(0.28)",
-        "ACN(0.12)",
-        "INTU(0.15)"
+        "CSGP(0.30)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Cisco Systems (NASDAQ:CSCO) drop puts AI order wave up against valuation pressures",
-      "source": "TechStock²",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "CSCO(0.01)",
-        "ANET(-0.34)",
-        "HPE(-0.31)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Workday, Inc. Class A Actuals & Estimates (HAM:W7D)",
-      "source": "TradingView",
-      "sentiment": "Neutral",
-      "tickers": [
-        "WDAY(-0.08)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "LG Display ADR edges higher with sector peers, shares track global display demand",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Neutral",
-      "tickers": [
-        "LPL(0.01)",
-        "WDC(-0.11)",
-        "STX(-0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Why is Pinduoduo Attracting Such Bullish Bets",
-      "source": "Kavout | AI",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "PDD(0.40)",
-        "AMZN(0.13)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "BigBear.ai Holdings (NYSE: BBAI) Stock Price Falls Sharply As Stock Underperforms Broader Market",
-      "source": "Foreign Policy Journal",
-      "sentiment": "Bearish",
-      "tickers": [
-        "BBAI(-0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "What's the Story with Gartner Ahead of Q1 2026 Earnings",
-      "source": "Kavout | AI",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "IT(-0.34)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "5 Stocks on Sale: Values or Traps?",
-      "source": "TradingView",
-      "sentiment": "Neutral",
-      "tickers": [
-        "WHR(-0.33)",
-        "NKE(-0.27)",
-        "TSCO(-0.15)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Outbrain shares, Friday sector backdrop from software strength",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Neutral",
-      "tickers": [
-        "TEAD(0.04)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Why Japan and Asia Are Rising on Global Radars With WisdomTree",
-      "source": "ETF Trends",
+      "title": "Raymond James Upgrades Essex Property Trust (ESS), Citing Strong Bay Area Growth",
+      "source": "Yahoo! Finance Canada",
       "sentiment": "Bullish",
       "tickers": [
-        "WDAF(0.50)"
+        "ESS(0.40)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Western Digital Corp Stock (WDC) Moved Down by 12.57% on Jun 26: Key Drivers Unveiled",
-      "source": "TradingKey",
-      "sentiment": "Bearish",
+      "title": "JD.com (NASDAQ:JD; HKG:9618) trades close to 52-week low after 618 data, Daiwa trims target",
+      "source": "TechStock²",
+      "sentiment": "Neutral",
       "tickers": [
-        "WDC(-0.63)",
-        "MU(-0.43)",
-        "NVDA(-0.42)"
+        "JD(0.03)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Why Has Varonis Systems (VRNS) Stock Plummeted Recently",
-      "source": "Kavout | AI",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "VRNS(-0.61)",
-        "MSFT(0.22)",
-        "CRWD(-0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "ServiceNow (NOW) Stock Trades Up, Here Is Why",
+      "title": "8QJ Forecast — Price Target — Prediction for 2027",
       "source": "TradingView",
-      "sentiment": "Somewhat-Bullish",
+      "sentiment": "Neutral",
       "tickers": [
-        "NOW(0.34)",
-        "IBM(0.14)",
-        "RJF(0.26)"
+        "MQ(0.12)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Fiserv (FISV) Makes Push Into European Debt Markets, Seeks €1 Billion",
+      "title": "ManpowerGroup Inc (NYSE:MAN) Faces Big AI Workforce Test",
+      "source": "Kalkine Media",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MAN(0.12)",
+        "KO(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Seagate Stock Fell 12% in a Day. Here’s Where the Stock Could Go in 2026",
+      "source": "TIKR.com",
+      "sentiment": "Neutral",
+      "tickers": [
+        "STX(0.28)",
+        "WDC(-0.14)",
+        "NVDA(-0.18)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Looking For a Growth Stock to Buy and Hold for the Decade? Here’s AAON, Inc. (AAON)",
       "source": "Insider Monkey",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "FISV(0.30)"
+        "AAON(0.45)",
+        "AMZN(0.10)",
+        "ORCL(0.11)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw - Reuters",
+      "title": "MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM",
+      "source": "Benzinga",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MAGS(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Technical Reactions to MEM Trends in Macro Strategies",
+      "source": "Stock Traders Daily",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "MEM(0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Daiwa Reduces PT on Alibaba Group Holding Limited (BABA) Stock",
+      "source": "Yahoo! Finance Canada",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "BABA(-0.27)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "TMC The Metals Company vs. MP Materials: 1 of These Industrial Stocks Is a Far Better Bet Right Now",
+      "source": "The Globe and Mail",
+      "sentiment": "Neutral",
+      "tickers": [
+        "TMC(-0.40)",
+        "NVDA(0.32)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Elastic’s AI-Focused Restructuring and Layoffs Might Change The Case For Investing In Elastic (ESTC)",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "ESTC(-0.22)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "3 ETFs Pairing Market-Beating Returns With High Dividend Yields",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "WLDR(0.00)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Benzinga Bulls And Bears: Micron, Take-Two, SpaceX — And Nasdaq Posts Sharpest Decline In Months",
+      "source": "Benzinga",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TTWO(0.43)",
+        "MU(0.52)",
+        "NFLX(-0.42)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Uber Technologies, Inc. $UBER Shares Bought by Wesbanco Bank Inc.",
+      "source": "MarketBeat",
+      "sentiment": "Bullish",
+      "tickers": [
+        "UBER(0.53)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Austria and Algeria advance to World Cup round of 32, Iran eliminated - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Iran's Revolutionary Guards say it targeted US positions in the region in response to attack - Reuters",
+      "title": "Austria draw with Algeria in World Cup thriller to progress and send Iran home - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Israel, Lebanon sign initial agreement after US-mediated talks - Reuters",
+      "title": "Iran, US continue escalating attacks, recriminations over peace deal - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US military conducted strikes against Iran - Reuters",
+      "title": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+      "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
+      "title": "Straight women can’t get enough of gay romance stories like ‘Heated Rivalry’ and ‘Red, White & Royal Blue’",
       "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Healthcare stocks have caught fire, sending all 3 of our names to record highs",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "US diesel refining economics remain firm despite Iran war truce - Reuters",
-      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -229,55 +220,40 @@
     "oberflaeche": [
       "Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
       "STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
-      "Trefis: What Analog Devices Stock Was Saying By Intentionally Selling Less (Stimmung: Neutral)",
-      "Simply Wall Street: Innodata Stock Leads 3 Professional Services Picks As AI Hiring Demand Builds (Stimmung: Somewhat-Bullish)",
-      "TechStock²: Cisco Systems (NASDAQ:CSCO) drop puts AI order wave up against valuation pressures (Stimmung: Somewhat-Bearish)",
-      "TradingView: Workday, Inc. Class A Actuals & Estimates (HAM:W7D) (Stimmung: Neutral)",
-      "Ad-hoc-news.de: LG Display ADR edges higher with sector peers, shares track global display demand (Stimmung: Neutral)",
-      "Kavout | AI: Why is Pinduoduo Attracting Such Bullish Bets (Stimmung: Somewhat-Bullish)",
-      "Foreign Policy Journal: BigBear.ai Holdings (NYSE: BBAI) Stock Price Falls Sharply As Stock Underperforms Broader Market (Stimmung: Bearish)",
-      "Kavout | AI: What's the Story with Gartner Ahead of Q1 2026 Earnings (Stimmung: Somewhat-Bearish)",
-      "TradingView: 5 Stocks on Sale: Values or Traps? (Stimmung: Neutral)",
-      "Ad-hoc-news.de: Outbrain shares, Friday sector backdrop from software strength (Stimmung: Neutral)",
-      "ETF Trends: Why Japan and Asia Are Rising on Global Radars With WisdomTree (Stimmung: Bullish)",
-      "TradingKey: Western Digital Corp Stock (WDC) Moved Down by 12.57% on Jun 26: Key Drivers Unveiled (Stimmung: Bearish)",
-      "Kavout | AI: Why Has Varonis Systems (VRNS) Stock Plummeted Recently (Stimmung: Somewhat-Bearish)",
-      "TradingView: ServiceNow (NOW) Stock Trades Up, Here Is Why (Stimmung: Somewhat-Bullish)",
-      "Insider Monkey: Fiserv (FISV) Makes Push Into European Debt Markets, Seeks €1 Billion (Stimmung: Somewhat-Bullish)",
-      "Reuters: Iran wait on World Cup progress after late goal disallowed in Egypt draw",
-      "Reuters: Iran's Revolutionary Guards say it targeted US positions in the region in response to attack",
-      "Reuters: Israel, Lebanon sign initial agreement after US-mediated talks"
+      "Simply Wall Street: CoStar Group Stock And Remote Work Shifts Reshaping Real Estate Demand"
     ],
     "hypeNews": [
-      "KI-gestützte professionelle Dienstleistungen und Software-Unternehmen ziehen Investoren an (INOD, ACN, INTU, NOW, PDD)",
-      "Technologiebewertungsdruck und KI-Investitionsbremsen belasten bestimmte Sektoren (CSCO, ANET, HPE, VRNS, WDC)"
+      "KI-Anpassung der Arbeitswelt",
+      "Immobilienmarkt-Verschiebungen",
+      "DRAM-Sektor-Rotation",
+      "SpaceX-Hype (indirekt)"
     ],
-    "hypeCenter": "Der Sektor der KI-gestützten professionellen Dienstleistungen und Software zeigt sich als stärkster Hype, angetrieben durch die steigende Nachfrage nach KI-Implementierungen und -Dienstleistungen, was zu positiven Stimmungsindikatoren bei Unternehmen wie Innodata (INOD) und ServiceNow (NOW) führt.",
-    "peripherEffect": "Rohstoffe, die für die Infrastruktur von KI und Rechenzentren benötigt werden (z.B. Kupfer für Verkabelung, seltene Erden für Kühlung), sowie Unternehmen, die spezialisierte Hardware oder Komponenten für diese Infrastruktur liefern, könnten mit Verzögerung profitieren. Auch Cybersecurity-Firmen, die den Schutz von KI-Systemen gewährleisten, könnten indirekt profitieren.",
-    "narrativ": "Die Masse glaubt, dass KI die Produktivität revolutioniert und Unternehmen, die KI-Dienstleistungen anbieten oder KI in ihre Produkte integrieren, unaufhaltsam wachsen werden. Gleichzeitig wird eine Korrektur bei überbewerteten Technologieaktien erwartet, insbesondere dort, wo die KI-Integration noch nicht die Erwartungen erfüllt.",
-    "realitaet": "Der Hype um KI überdeckt die fundamentalen Herausforderungen: hoher Energieverbrauch, Bedarf an spezialisierter und knapper Hardware (Halbleiter), sowie die Notwendigkeit robuster Cybersecurity. Die tatsächliche Wertschöpfung und Profitabilität vieler KI-Anwendungen ist noch unklar und die Bewertungen spiegeln oft mehr Hoffnung als Realität wider. Die geopolitischen Spannungen (Iran, Israel/Libanon) und die allgemeine Marktunsicherheit (DAX fällt, Öl fällt) deuten auf eine breitere wirtschaftliche Abkühlung hin, die den KI-Hype dämpfen könnte.",
-    "macht": "Große Technologiekonzerne (Microsoft, Amazon, Google) mit etablierten Cloud-Infrastrukturen und KI-Forschungsabteilungen, sowie spezialisierte Software- und Dienstleistungsanbieter (Innodata, ServiceNow, Analog Devices für Chips). Auch Finanzinstitute, die Kapital für diese Sektoren bereitstellen (z.B. Fiserv im europäischen Schuldenmarkt), profitieren.",
-    "geopolitik": "Die Spannungen im Nahen Osten (Iran, Israel/Libanon) und die damit verbundenen Ölpreisschwankungen (Öl fällt trotz Spannungen, was auf eine schwache Nachfrage hindeutet) schaffen Unsicherheit. Die Stärke von Asien (Japan steigt auf globale Radar) könnte auf eine Verschiebung der globalen Wirtschaftsbalance hindeuten, weg von traditionellen westlichen Zentren. De-Dollarisierungstendenzen sind nicht direkt ersichtlich, aber die allgemeine Marktunsicherheit könnte dazu führen, dass Gold und Silber als sichere Häfen gesucht werden.",
-    "liquiditaet": "Kapital fließt in KI-bezogene Software und Dienstleistungen (INOD, NOW, PDD) sowie in Unternehmen, die die physische Infrastruktur für KI bereitstellen (potenziell Kupfer, Spezialmetalle). Gleichzeitig wird Kapital aus Sektoren abgezogen, die unter Bewertungsdruck stehen oder von KI-Erwartungen enttäuscht werden (CSCO, WDC, VRNS). Gold und Silber ziehen ebenfalls Kapital an (steigen).",
-    "kette": "Steigende Nachfrage nach KI-Dienstleistungen -> Höherer Bedarf an Rechenleistung und Infrastruktur -> Investitionen in Halbleiter, Cloud-Dienste und spezialisierte Software -> Potenzielle Engpässe bei Rohstoffen und Komponenten -> Höhere Bewertungen für Zulieferer und Dienstleister.",
-    "timing": "Mitte des Trends. Der KI-Hype ist im vollen Gange, aber die ersten Anzeichen von Überbewertung und Sättigung bei einigen Unternehmen (CSCO, WDC) deuten darauf hin, dass wir uns dem Höhepunkt nähern. Die peripheren Profiteure (Rohstoffe, Spezialmetalle) sind wahrscheinlich noch in einer frühen bis mittleren Phase des Aufholens.",
-    "saisonalitaet": "Keine spezifischen saisonalen Muster für diesen Monat (Juni/Juli) im Zusammenhang mit den aktuellen KI-Nachrichten erkennbar. Historisch gesehen sind Technologieaktien im Sommer oft volatil.",
-    "masseFehler": "Die Masse sieht KI als reinen Technologie-Hype und übersieht die tiefgreifenden Auswirkungen auf die physische Welt: den immensen Bedarf an Energie, Rohstoffen und Infrastruktur. Sie fokussiert sich auf die Software-Gewinner und vergisst die Material- und Energie-Gewinner, die oft mit Verzögerung einsetzen.",
-    "widerspruch": "Ja. Während KI-Aktien (INOD, NOW, PDD) teilweise stark steigen, fallen andere Technologieaktien (CSCO, WDC, VRNS) aufgrund von Bewertungsdruck und enttäuschten KI-Erwartungen. Dies zeigt eine Divergenz innerhalb des Tech-Sektors und deutet darauf hin, dass nicht alle KI-bezogenen Investments gleich sind.",
-    "markt": "Gold: Steigend (+1.20%), Silber: Steigend (+1.49%), Öl: Fallend (-3.74%), Bitcoin: Steigend (+0.64%), DAX: Fallend (-1.29%), EUR/USD: Steigend (+0.24%)",
-    "opportunity": "Potenzielle Chance bei Unternehmen, die spezialisierte Materialien oder Komponenten für die KI-Infrastruktur liefern oder von der steigenden Nachfrage nach Rechenleistung profitieren, aber noch nicht im Fokus stehen. Auch eine Short-Position auf überbewertete Tech-Aktien mit schwachen KI-Fundamentamentaldaten könnte erwogen werden.",
-    "positionierung": "Das Sentiment ist gemischt, aber mit einer leichten Neigung zu 'Somewhat-Bullish' bei KI-Dienstleistern (INOD, PDD, NOW) und 'Neutral' bei etablierten Technologieunternehmen (ADI). Gleichzeitig gibt es deutliche 'Bearish'-Signale für Unternehmen, die unter Bewertungsdruck stehen oder Probleme mit der KI-Integration haben (CSCO, BBAI, WDC, VRNS). Die breite Marktstimmung ist durch 'Fear & Greed' bei 15/100 klar ängstlich, was auf eine defensive Haltung hindeutet, während Gold und Silber steigen.",
-    "reflexivitaet": "Der Hype um KI treibt die Nachfrage nach den notwendigen Ressourcen (Chips, Energie, Materialien), was wiederum die Preise dieser Ressourcen und die Bewertungen der Zulieferer erhöht. Dies schafft einen positiven Feedback-Loop für die peripheren Assets, solange der Hype anhält und die physischen Engpässe bestehen bleiben.",
+    "hypeCenter": "Der Sektor 'Immobilien' zeigt heute den stärksten Hype, getrieben durch positive Nachrichten zu CoStar Group und Essex Property Trust, die von Remote Work und starkem Wachstum in der Bay Area profitieren. Dies deutet auf eine Neubewertung von Immobilienwerten hin, insbesondere in spezifischen geografischen Regionen und Segmenten.",
+    "peripherEffect": "Vom Immobilien-Hype profitieren verzögert Bauzulieferer (Baumaterialien, Smart-Home-Technologie), Logistikunternehmen (für Remote-Work-Ausstattung), sowie Dienstleister für Büro- und Wohnraumgestaltung. Im Kontext des SpaceX-Hypes sind es weiterhin Spezialmetalle (Titan, Nickel), fortschrittliche Verbundwerkstoffe und Präzisionsfertigungsunternehmen, die für Raumfahrtkomponenten benötigt werden.",
+    "narrativ": "Die Masse glaubt, dass der Immobilienmarkt sich erholt, insbesondere in attraktiven Regionen und durch die Anpassung an Remote Work. Gleichzeitig wird die KI als disruptiver Faktor für den Arbeitsmarkt wahrgenommen, was zu Unsicherheit führt, aber auch Chancen in der Technologiebranche birgt. Der Hype um SpaceX und die 'Magnificent 7' bleibt bestehen, auch wenn es Anzeichen für eine Rotation gibt.",
+    "realitaet": "Hinter den positiven Immobiliennachrichten steckt eine selektive Erholung, die stark von spezifischen Standorten und Nischen abhängt, während der breitere Markt weiterhin unter Druck stehen könnte (siehe Wagniskapital-Einbruch für Biotech). Die 'AI Workforce Test' bei ManpowerGroup und die Restrukturierung bei Elastic zeigen, dass KI nicht nur Wachstum, sondern auch massive Umwälzungen und Kosten mit sich bringt. Die Outflows bei den Magnificent 7 und die Rotation in DRAM deuten auf eine Umschichtung von Kapital hin, weg von überbewerteten Tech-Giganten hin zu fundamentaleren Sektoren oder spezifischen Chip-Segmenten. Der Rückgang von Wagniskapital in Deutschland ist ein Warnsignal für die Innovationskraft außerhalb der USA.",
+    "macht": "CoStar Group und Essex Property Trust profitieren von der aktuellen Immobilienmarktdynamik. Unternehmen im DRAM-Sektor (z.B. Micron) sehen Kapitalzuflüsse. Wesbanco Bank Inc. positioniert sich bei Uber. Die 'Magnificent 7' verlieren an Einfluss zugunsten anderer Tech-Segmente. Nvidia bleibt ein wichtiger Akteur, auch wenn es widersprüchliche Signale gibt.",
+    "geopolitik": "Die Eskalation der Angriffe und Beschuldigungen zwischen Iran und den USA bezüglich eines Friedensabkommens ist ein kritisches geopolitisches Signal. Dies erhöht die Unsicherheit im Nahen Osten und könnte Auswirkungen auf die Ölpreise und globale Lieferketten haben. Die Weltcup-Nachrichten sind irrelevant für Makro. Die Diskussion um 'The Metals Company' vs. 'MP Materials' unterstreicht die Bedeutung von Rohstoffen und kritischen Metallen für die industrielle Entwicklung und Technologie, was im Kontext von BRICS vs. G7 und der Kontrolle über Ressourcen relevant ist.",
+    "liquiditaet": "Kapital fließt in selektive Immobilienwerte (CSGP, ESS) und den DRAM-Sektor (MU). Es gibt Abflüsse aus den 'Magnificent 7' (MAGS ETF) und eine Reduzierung von Kurszielen für chinesische Tech-Giganten (JD, BABA). Wagniskapital für deutsche Biotech-Firmen bricht ein, was auf eine Risikoaversion in diesem Segment hindeutet. Der Fear & Greed Index bei 18/100 bestätigt eine hohe Risikoaversion im Gesamtmarkt.",
+    "kette": "Hohe Inflation/Zinsen -> Wagniskapital-Einbruch -> Selektive Immobilien-Erholung (Remote Work) & Tech-Rotation (MAGS Outflows zu DRAM) -> Geopolitische Spannungen (Iran/USA) erhöhen Unsicherheit -> Rohstoff-Fokus (Metals Company vs. MP Materials) wird wichtiger.",
+    "timing": "Mitte im Trend. Die Anpassung an Remote Work und die KI-Integration sind keine neuen Themen, aber ihre Auswirkungen auf spezifische Sektoren und Unternehmen werden jetzt erst richtig sichtbar. Die Rotation von den 'Magnificent 7' ist ein Zeichen für eine Reifung des Bullenmarktes in Tech, während die geopolitischen Spannungen ein latentes Risiko darstellen, das jederzeit eskalieren kann.",
+    "saisonalitaet": "Juni ist oft ein volatiler Monat, in dem Anleger ihre Portfolios neu ausrichten. Historisch gesehen können Rohstoffe in Phasen erhöhter geopolitischer Unsicherheit profitieren. Tech-Werte neigen nach starken Anstiegen zu Konsolidierungen oder Sektorrotationen.",
+    "masseFehler": "Die Masse sieht die 'Magnificent 7' immer noch als sicheren Hafen und übersieht die subtile, aber signifikante Rotation in andere Tech-Segmente wie DRAM. Sie unterschätzt die langfristigen Auswirkungen des Wagniskapital-Einbruchs in Deutschland auf die Innovationskraft und die geopolitischen Risiken im Nahen Osten, die jederzeit eine größere Marktkorrektur auslösen könnten. Der Fokus liegt zu stark auf den Headlines und zu wenig auf den Kapitalflüssen.",
+    "widerspruch": "Ja. Der 'Somewhat-Bullish' Hype um SpaceX (indirekt durch Benzinga) steht im Widerspruch zur allgemeinen Risikoaversion (Fear & Greed 18/100) und den Abflüssen aus den 'Magnificent 7'. Auch die positiven Immobiliennachrichten (CSGP, ESS) kontrastieren mit dem Einbruch des Wagniskapitals in Deutschland, was auf eine fragmentierte Marktwahrnehmung hindeutet.",
+    "markt": "Gold: null (stabil) | Silber: null (stabil) | Öl: null (stabil, aber geopolitische Risiken könnten steigen) | Bitcoin: null (leichter Anstieg, aber im Kontext der Risikoaversion nicht signifikant) | DAX: fällt | EUR/USD: steigt",
+    "opportunity": "Konkrete Chance im DRAM-Sektor und bei ausgewählten Immobilienwerten mit Fokus auf Remote Work. Auch Rohstoffe könnten bei weiterer geopolitischer Eskalation interessant werden.",
+    "positionierung": "Smart Money rotiert aus den überbewerteten 'Magnificent 7' in spezifische Tech-Segmente (DRAM) und defensive, aber wachsende Immobilienwerte. Das Sentiment ist insgesamt vorsichtig bis ängstlich (Fear & Greed 18/100), was auf eine mögliche Unterbewertung in einigen Nischen hindeuten könnte, aber auch auf eine breite Risikoaversion.",
+    "reflexivitaet": "Die positiven Nachrichten zu CoStar Group und Essex Property Trust könnten weitere Investitionen in den Immobilienmarkt anziehen, was die Preise in diesen Segmenten weiter treibt. Die Abflüsse aus den 'Magnificent 7' könnten sich verstärken, wenn die Rotation in DRAM und andere Sektoren als erfolgreiche Strategie wahrgenommen wird, was wiederum die Performance der 'Magnificent 7' weiter unter Druck setzt.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
-      "ratio": 2.25,
+      "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die KI-Revolution deutet auf einen technologischen Umbruch hin, während geopolitische Spannungen und wirtschaftliche Abkühlung (fallender DAX, Öl) auf eine Krise oder Stagflation hindeuten könnten. Die Kombination aus technologischem Fortschritt und makroökonomischer Unsicherheit ist charakteristisch für eine Umbruchphase.",
-    "halalAsset": "Gold (Xetra-Gold DE000A0S9GB0)",
+    "metaZyklus": "Umbruch. Wir befinden uns in einer Phase des Umbruchs, geprägt von geopolitischen Spannungen, einer Neuausrichtung der globalen Lieferketten, der disruptiven Kraft der KI und einer selektiven Kapitalrotation weg von überbewerteten Tech-Giganten hin zu fundamentaleren Werten und spezifischen Nischen.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold ist ein intrinsisch wertvoller Vermögenswert, dessen Handel gemäß islamischen Prinzipien (keine Zinsen, klare Vermögenswerte) erlaubt ist, solange die Transaktion physisch oder durch ein äquivalentes, gedecktes Instrument erfolgt.",
+    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das den AAOIFI-Standards für Gold als Sharia-konformes Asset entspricht.",
     "purification": "0.00",
     "entscheidung": "WARTEN",
     "richtung": "null",
@@ -287,23 +263,33 @@
     "zeitraum": "null",
     "einsatz": 0,
     "exitStrategie": "null",
-    "waehrungsrisiko": "Der steigende EUR/USD (1.1390) könnte einen Trade auf US-amerikanische Assets leicht verteuern, während er für europäische Assets vorteilhaft sein könnte.",
-    "psychologie": "FOMO (Fear Of Missing Out) bei den KI-Gewinnern, gemischt mit PANIK aufgrund der allgemeinen Marktunsicherheit und der fallenden Indizes.",
+    "waehrungsrisiko": "Ein steigender EUR/USD würde Gold in Euro teurer machen, was bei einem Kauf in Euro einen zusätzlichen Puffer bieten könnte, aber auch das Risiko birgt, dass der USD-Preis von Gold nicht so stark steigt wie der EUR/USD.",
+    "psychologie": "PANIK Warnung. Der Fear & Greed Index bei 18/100 zeigt eine extreme Angst im Markt, was oft ein Kontraindikator sein kann. Dennoch ist Vorsicht geboten, da geopolitische Risiken und der Wagniskapital-Einbruch reale Probleme darstellen.",
     "ruhigerTag": false,
-    "lernpunkt": "Periphere Assets. Wenn ein Sektor wie KI stark gehypt wird, profitieren oft auch weniger offensichtliche, vorgelagerte oder nachgelagerte Sektoren. Diese 'peripheren' Assets, wie Rohstoffe für die Infrastruktur oder spezialisierte Zulieferer, können mit einer gewissen Verzögerung auf den Hype reagieren und bieten oft eine gute Chance für Anleger, die das Gesamtbild verstehen.",
-    "tagesfrage": "Inwieweit wird die steigende Energie- und Ressourcenabhängigkeit der KI-Infrastruktur die geopolitische Landschaft in den nächsten 5 Jahren verändern?",
-    "brief": "Mein lieber Ayman, heute sehen wir den Hype um KI, der die Software- und Dienstleistungsfirmen antreibt. Doch vergiss nicht das Fundament: Die physische Welt. Die KI braucht Energie, seltene Erden und fortschrittliche Halbleiter. Während die Masse auf die Software-Stars schaut, sollten wir die Rohstoff- und Infrastruktur-Zulieferer im Auge behalten, die mit Verzögerung profitieren werden. Die geopolitischen Spannungen und die allgemeine Marktunsicherheit mahnen zur Vorsicht; Gold und Silber sind stille Zeugen dieser Ängste. Bleibe wachsam und suche die verborgenen Werte jenseits des offensichtlichen Hypes."
+    "lernpunkt": "Sektorrotation: Beschreibt die Umschichtung von Kapital von einem Sektor in einen anderen, oft als Reaktion auf sich ändernde Marktbedingungen, Wirtschaftszyklen oder neue Trends. Sie ist ein Zeichen für eine dynamische Marktentwicklung und bietet Chancen für Anleger, die frühzeitig die neuen Trends erkennen.",
+    "tagesfrage": "Inwiefern beeinflusst die zunehmende Fragmentierung der globalen Wirtschaft (z.B. durch geopolitische Spannungen) die langfristige Attraktivität von global agierenden Tech-Giganten im Vergleich zu regional fokussierten Unternehmen oder Rohstoffproduzenten?",
+    "brief": "Ayman, der Markt zeigt heute eine interessante Dynamik. Während die Oberfläche von Immobilien- und Tech-Hypes spricht, sehen wir unter der Oberfläche eine deutliche Kapitalrotation weg von den 'Magnificent 7' hin zu spezifischen Nischen wie DRAM. Die geopolitischen Spannungen zwischen Iran und den USA sind ein ernstes Warnsignal, das die Rohstoffmärkte jederzeit beeinflussen kann. Der Einbruch des Wagniskapitals in Deutschland ist besorgniserregend für die Innovationskraft. Bleib wachsam und fokussiert auf die Kapitalflüsse, nicht nur auf die Schlagzeilen. Dein Mentor."
   },
   "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4096.2998046875,
+      "change": 0
+    },
     "SI=F": {
       "label": "Silber",
-      "price": 59.21699905395508,
-      "change": 1.4893389448898238
+      "price": 59.67399978637695,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 69.2300033569336,
+      "change": 0
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 60400.12109375,
-      "change": 0.6393106158561009
+      "price": 60125.58984375,
+      "change": 0.3094626047554639
     },
     "^GDAXI": {
       "label": "DAX",
@@ -314,26 +300,16 @@
       "label": "EUR/USD",
       "price": 1.1389521360397339,
       "change": 0.24487760002115228
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 69.2300033569336,
-      "change": -3.74025984496374
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4078.699951171875,
-      "change": 1.1958801928265725
     }
   },
   "fearGreed": [
-    23,
     20,
     23,
     17,
     12,
     13,
-    15
+    15,
+    18
   ],
   "simulation": {
     "buy": 10,
