@@ -1,6 +1,6 @@
 {
-  "date": "Sonntag, 28. Juni 2026",
-  "generatedAt": "2026-06-28T08:22:03.177Z",
+  "date": "Montag, 29. Juni 2026",
+  "generatedAt": "2026-06-29T09:26:03.589Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -17,200 +17,204 @@
       "origin": "GNews"
     },
     {
-      "title": "CoStar Group Stock And Remote Work Shifts Reshaping Real Estate Demand",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment",
+      "source": "Investing.com Nigeria",
+      "sentiment": "Neutral",
       "tickers": [
-        "CSGP(0.30)"
+        "AAPL(-0.26)",
+        "MU(0.11)",
+        "QCOM(0.08)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Raymond James Upgrades Essex Property Trust (ESS), Citing Strong Bay Area Growth",
-      "source": "Yahoo! Finance Canada",
+      "title": "Location is the New Lens for Financial Risk",
+      "source": "MSCI",
       "sentiment": "Bullish",
       "tickers": [
-        "ESS(0.40)"
+        "MSCI(0.46)",
+        "MSFT(0.33)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "JD.com (NASDAQ:JD; HKG:9618) trades close to 52-week low after 618 data, Daiwa trims target",
+      "title": "Nasdaq 100 Flashes Warning Signs After 5-Day Slide - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+      "source": "Benzinga",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "QQQ(-0.26)",
+        "INTC(-0.14)",
+        "MU(-0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Baidu Posts Dramatic Intraday Reversal on Nasdaq, Ends at $104 as AI Chip Subsidiary Targets $50-bn Hong Kong IPO",
+      "source": "HDFC Sky",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "BIDU(0.32)",
+        "QCOM(0.13)",
+        "AMAT(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Will Nvidia Follow Amazon's Dot-Com Path? Jeremy Grantham Warns Of Brutal Tech Stock Reversal",
+      "source": "Benzinga",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AMZN(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies After Tim Cook Defends Price Hikes: Need 'Consumer Protections' For People",
+      "source": "Benzinga",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "AAPL(-0.22)",
+        "MSFT(-0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "TQQQ ETF: Is the 3x Nasdaq Trade Exposing a Leverage Problem?",
+      "source": "EBC Financial Group",
+      "sentiment": "Neutral",
+      "tickers": [
+        "TQQQ(0.05)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Xunlei charms market with share buyback, as global business faces slowdown",
+      "source": "Bamboo Works",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "XNET(0.29)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "The Bull Case For Verizon (VZ) Could Change Following Dow Exit And Rising Starlink Competition",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "VZ(-0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Bernie Sanders Slams Apple (NASDAQ: AAPL) CEO Tim Cook Over MacBook And iPad Price Hikes As 'Corporate Greed'",
+      "source": "Foreign Policy Journal",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AAPL(-0.24)",
+        "TSLA(0.01)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
+      "source": "Benzinga",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AMZN(0.13)",
+        "NKE(-0.42)",
+        "MU(0.54)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "TeraWulf (NASDAQ:WULF) short interest, volume in focus as AI rally gets tested",
       "source": "TechStock²",
       "sentiment": "Neutral",
       "tickers": [
-        "JD(0.03)"
+        "WULF(0.01)",
+        "AMZN(-0.11)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "8QJ Forecast — Price Target — Prediction for 2027",
-      "source": "TradingView",
-      "sentiment": "Neutral",
+      "title": "8 High Growth Penny Stocks to Buy",
+      "source": "Insider Monkey",
+      "sentiment": "Bullish",
       "tickers": [
-        "MQ(0.12)"
+        "REAX(0.48)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "ManpowerGroup Inc (NYSE:MAN) Faces Big AI Workforce Test",
-      "source": "Kalkine Media",
-      "sentiment": "Neutral",
-      "tickers": [
-        "MAN(0.12)",
-        "KO(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Seagate Stock Fell 12% in a Day. Here’s Where the Stock Could Go in 2026",
+      "title": "Applied Materials Stock Is Up 144% in 2026, But Its Own Analysts See $550. Is It Time to Be Careful?",
       "source": "TIKR.com",
       "sentiment": "Neutral",
       "tickers": [
-        "STX(0.28)",
-        "WDC(-0.14)",
-        "NVDA(-0.18)"
+        "AMAT(-0.10)",
+        "LRCX(0.11)",
+        "NVDA(0.11)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Looking For a Growth Stock to Buy and Hold for the Decade? Here’s AAON, Inc. (AAON)",
-      "source": "Insider Monkey",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "AAON(0.45)",
-        "AMZN(0.10)",
-        "ORCL(0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "MAGS ETF: Magnificent 7 Outflows Surge as Investors Rotate Into DRAM",
-      "source": "Benzinga",
-      "sentiment": "Neutral",
-      "tickers": [
-        "MAGS(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Technical Reactions to MEM Trends in Macro Strategies",
-      "source": "Stock Traders Daily",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "MEM(0.26)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Daiwa Reduces PT on Alibaba Group Holding Limited (BABA) Stock",
-      "source": "Yahoo! Finance Canada",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "BABA(-0.27)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "TMC The Metals Company vs. MP Materials: 1 of These Industrial Stocks Is a Far Better Bet Right Now",
-      "source": "The Globe and Mail",
-      "sentiment": "Neutral",
-      "tickers": [
-        "TMC(-0.40)",
-        "NVDA(0.32)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Elastic’s AI-Focused Restructuring and Layoffs Might Change The Case For Investing In Elastic (ESTC)",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "ESTC(-0.22)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "3 ETFs Pairing Market-Beating Returns With High Dividend Yields",
-      "source": "MarketBeat",
-      "sentiment": "Neutral",
-      "tickers": [
-        "WLDR(0.00)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Benzinga Bulls And Bears: Micron, Take-Two, SpaceX — And Nasdaq Posts Sharpest Decline In Months",
-      "source": "Benzinga",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "TTWO(0.43)",
-        "MU(0.52)",
-        "NFLX(-0.42)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Uber Technologies, Inc. $UBER Shares Bought by Wesbanco Bank Inc.",
-      "source": "MarketBeat",
-      "sentiment": "Bullish",
-      "tickers": [
-        "UBER(0.53)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Austria and Algeria advance to World Cup round of 32, Iran eliminated - Reuters",
+      "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Austria draw with Algeria in World Cup thriller to progress and send Iran home - Reuters",
+      "title": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Iran, US continue escalating attacks, recriminations over peace deal - Reuters",
+      "title": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Tanker struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal - Reuters",
+      "title": "Indian shares flat as US-Iran talks temper escalation fears - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
+      "title": "Asia stocks adrift as Middle East worries meet rate-hike bets - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump's Iran deal falls short for these voters — and some fear it could cost Republicans the midterm - Reuters",
+      "title": "Philippines leads the world in rush to solar as power prices soar - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Alphabet burnishes one of its best weapons in the battle for AI supremacy",
+      "title": "Oil climbs following renewed US, Iran strikes in Middle East - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Straight women can’t get enough of gay romance stories like ‘Heated Rivalry’ and ‘Red, White & Royal Blue’",
-      "source": "CNBC",
+      "title": "Israel damaged heritage sites across south Lebanon, minister says - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -218,98 +222,113 @@
   ],
   "sections": {
     "oberflaeche": [
-      "Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
-      "STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
-      "Simply Wall Street: CoStar Group Stock And Remote Work Shifts Reshaping Real Estate Demand"
+      "GNews: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "GNews: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "AlphaVantage: Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment",
+      "AlphaVantage: Location is the New Lens for Financial Risk",
+      "AlphaVantage: Nasdaq 100 Flashes Warning Signs After 5-Day Slide",
+      "AlphaVantage: Baidu Posts Dramatic Intraday Reversal on Nasdaq, Ends at $104 as AI Chip Subsidiary Targets $50-bn Hong Kong IPO",
+      "AlphaVantage: Will Nvidia Follow Amazon's Dot-Com Path? Jeremy Grantham Warns Of Brutal Tech Stock Reversal",
+      "AlphaVantage: AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies",
+      "AlphaVantage: TQQQ ETF: Is the 3x Nasdaq Trade Exposing a Leverage Problem?",
+      "AlphaVantage: Xunlei charms market with share buyback, as global business faces slowdown",
+      "AlphaVantage: The Bull Case For Verizon (VZ) Could Change Following Dow Exit And Rising Starlink Competition",
+      "AlphaVantage: Bernie Sanders Slams Apple (NASDAQ: AAPL) CEO Tim Cook Over MacBook And iPad Price Hikes As 'Corporate Greed'",
+      "AlphaVantage: Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
+      "AlphaVantage: TeraWulf (NASDAQ:WULF) short interest, volume in focus as AI rally gets tested",
+      "AlphaVantage: 8 High Growth Penny Stocks to Buy",
+      "AlphaVantage: Applied Materials Stock Is Up 144% in 2026, But Its Own Analysts See $550. Is It Time to Be Careful?",
+      "Finnhub: Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh",
+      "Finnhub: Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus",
+      "Finnhub: Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says",
+      "Finnhub: Indian shares flat as US-Iran talks temper escalation fears"
     ],
     "hypeNews": [
-      "KI-Anpassung der Arbeitswelt",
-      "Immobilienmarkt-Verschiebungen",
-      "DRAM-Sektor-Rotation",
-      "SpaceX-Hype (indirekt)"
+      "AI-Chip-IPO-Spekulationen bei Baidu",
+      "Warnsignale im Nasdaq 100 und potenzielle Tech-Korrektur à la Dot-Com-Blase"
     ],
-    "hypeCenter": "Der Sektor 'Immobilien' zeigt heute den stärksten Hype, getrieben durch positive Nachrichten zu CoStar Group und Essex Property Trust, die von Remote Work und starkem Wachstum in der Bay Area profitieren. Dies deutet auf eine Neubewertung von Immobilienwerten hin, insbesondere in spezifischen geografischen Regionen und Segmenten.",
-    "peripherEffect": "Vom Immobilien-Hype profitieren verzögert Bauzulieferer (Baumaterialien, Smart-Home-Technologie), Logistikunternehmen (für Remote-Work-Ausstattung), sowie Dienstleister für Büro- und Wohnraumgestaltung. Im Kontext des SpaceX-Hypes sind es weiterhin Spezialmetalle (Titan, Nickel), fortschrittliche Verbundwerkstoffe und Präzisionsfertigungsunternehmen, die für Raumfahrtkomponenten benötigt werden.",
-    "narrativ": "Die Masse glaubt, dass der Immobilienmarkt sich erholt, insbesondere in attraktiven Regionen und durch die Anpassung an Remote Work. Gleichzeitig wird die KI als disruptiver Faktor für den Arbeitsmarkt wahrgenommen, was zu Unsicherheit führt, aber auch Chancen in der Technologiebranche birgt. Der Hype um SpaceX und die 'Magnificent 7' bleibt bestehen, auch wenn es Anzeichen für eine Rotation gibt.",
-    "realitaet": "Hinter den positiven Immobiliennachrichten steckt eine selektive Erholung, die stark von spezifischen Standorten und Nischen abhängt, während der breitere Markt weiterhin unter Druck stehen könnte (siehe Wagniskapital-Einbruch für Biotech). Die 'AI Workforce Test' bei ManpowerGroup und die Restrukturierung bei Elastic zeigen, dass KI nicht nur Wachstum, sondern auch massive Umwälzungen und Kosten mit sich bringt. Die Outflows bei den Magnificent 7 und die Rotation in DRAM deuten auf eine Umschichtung von Kapital hin, weg von überbewerteten Tech-Giganten hin zu fundamentaleren Sektoren oder spezifischen Chip-Segmenten. Der Rückgang von Wagniskapital in Deutschland ist ein Warnsignal für die Innovationskraft außerhalb der USA.",
-    "macht": "CoStar Group und Essex Property Trust profitieren von der aktuellen Immobilienmarktdynamik. Unternehmen im DRAM-Sektor (z.B. Micron) sehen Kapitalzuflüsse. Wesbanco Bank Inc. positioniert sich bei Uber. Die 'Magnificent 7' verlieren an Einfluss zugunsten anderer Tech-Segmente. Nvidia bleibt ein wichtiger Akteur, auch wenn es widersprüchliche Signale gibt.",
-    "geopolitik": "Die Eskalation der Angriffe und Beschuldigungen zwischen Iran und den USA bezüglich eines Friedensabkommens ist ein kritisches geopolitisches Signal. Dies erhöht die Unsicherheit im Nahen Osten und könnte Auswirkungen auf die Ölpreise und globale Lieferketten haben. Die Weltcup-Nachrichten sind irrelevant für Makro. Die Diskussion um 'The Metals Company' vs. 'MP Materials' unterstreicht die Bedeutung von Rohstoffen und kritischen Metallen für die industrielle Entwicklung und Technologie, was im Kontext von BRICS vs. G7 und der Kontrolle über Ressourcen relevant ist.",
-    "liquiditaet": "Kapital fließt in selektive Immobilienwerte (CSGP, ESS) und den DRAM-Sektor (MU). Es gibt Abflüsse aus den 'Magnificent 7' (MAGS ETF) und eine Reduzierung von Kurszielen für chinesische Tech-Giganten (JD, BABA). Wagniskapital für deutsche Biotech-Firmen bricht ein, was auf eine Risikoaversion in diesem Segment hindeutet. Der Fear & Greed Index bei 18/100 bestätigt eine hohe Risikoaversion im Gesamtmarkt.",
-    "kette": "Hohe Inflation/Zinsen -> Wagniskapital-Einbruch -> Selektive Immobilien-Erholung (Remote Work) & Tech-Rotation (MAGS Outflows zu DRAM) -> Geopolitische Spannungen (Iran/USA) erhöhen Unsicherheit -> Rohstoff-Fokus (Metals Company vs. MP Materials) wird wichtiger.",
-    "timing": "Mitte im Trend. Die Anpassung an Remote Work und die KI-Integration sind keine neuen Themen, aber ihre Auswirkungen auf spezifische Sektoren und Unternehmen werden jetzt erst richtig sichtbar. Die Rotation von den 'Magnificent 7' ist ein Zeichen für eine Reifung des Bullenmarktes in Tech, während die geopolitischen Spannungen ein latentes Risiko darstellen, das jederzeit eskalieren kann.",
-    "saisonalitaet": "Juni ist oft ein volatiler Monat, in dem Anleger ihre Portfolios neu ausrichten. Historisch gesehen können Rohstoffe in Phasen erhöhter geopolitischer Unsicherheit profitieren. Tech-Werte neigen nach starken Anstiegen zu Konsolidierungen oder Sektorrotationen.",
-    "masseFehler": "Die Masse sieht die 'Magnificent 7' immer noch als sicheren Hafen und übersieht die subtile, aber signifikante Rotation in andere Tech-Segmente wie DRAM. Sie unterschätzt die langfristigen Auswirkungen des Wagniskapital-Einbruchs in Deutschland auf die Innovationskraft und die geopolitischen Risiken im Nahen Osten, die jederzeit eine größere Marktkorrektur auslösen könnten. Der Fokus liegt zu stark auf den Headlines und zu wenig auf den Kapitalflüssen.",
-    "widerspruch": "Ja. Der 'Somewhat-Bullish' Hype um SpaceX (indirekt durch Benzinga) steht im Widerspruch zur allgemeinen Risikoaversion (Fear & Greed 18/100) und den Abflüssen aus den 'Magnificent 7'. Auch die positiven Immobiliennachrichten (CSGP, ESS) kontrastieren mit dem Einbruch des Wagniskapitals in Deutschland, was auf eine fragmentierte Marktwahrnehmung hindeutet.",
-    "markt": "Gold: null (stabil) | Silber: null (stabil) | Öl: null (stabil, aber geopolitische Risiken könnten steigen) | Bitcoin: null (leichter Anstieg, aber im Kontext der Risikoaversion nicht signifikant) | DAX: fällt | EUR/USD: steigt",
-    "opportunity": "Konkrete Chance im DRAM-Sektor und bei ausgewählten Immobilienwerten mit Fokus auf Remote Work. Auch Rohstoffe könnten bei weiterer geopolitischer Eskalation interessant werden.",
-    "positionierung": "Smart Money rotiert aus den überbewerteten 'Magnificent 7' in spezifische Tech-Segmente (DRAM) und defensive, aber wachsende Immobilienwerte. Das Sentiment ist insgesamt vorsichtig bis ängstlich (Fear & Greed 18/100), was auf eine mögliche Unterbewertung in einigen Nischen hindeuten könnte, aber auch auf eine breite Risikoaversion.",
-    "reflexivitaet": "Die positiven Nachrichten zu CoStar Group und Essex Property Trust könnten weitere Investitionen in den Immobilienmarkt anziehen, was die Preise in diesen Segmenten weiter treibt. Die Abflüsse aus den 'Magnificent 7' könnten sich verstärken, wenn die Rotation in DRAM und andere Sektoren als erfolgreiche Strategie wahrgenommen wird, was wiederum die Performance der 'Magnificent 7' weiter unter Druck setzt.",
+    "hypeCenter": "Künstliche Intelligenz (KI) und Halbleiter, getrieben durch Baidus IPO-Pläne und die anhaltende Debatte um Tech-Bewertungen (Nvidia/Amazon-Vergleich).",
+    "peripherEffect": "Spezialchemikalien und Materialien für fortschrittliche Halbleiterfertigung (z.B. AMAT, LRCX), Unternehmen, die in der Cybersicherheit tätig sind (wegen Iran-Konflikt), und möglicherweise Rohstoffe, die für die KI-Infrastruktur benötigt werden (z.B. seltene Erden, Kupfer).",
+    "narrativ": "Die Masse glaubt, dass die KI-Rallye weitergeht, aber es gibt auch wachsende Bedenken hinsichtlich überbewerteter Tech-Aktien, die zu einer breiteren Korrektur führen könnten. Der geopolitische Konflikt mit Iran sorgt für Volatilität bei Öl und Gold.",
+    "realitaet": "Die KI-Euphorie überdeckt die strukturellen Probleme in der Halbleiterlieferkette (Speicherkosten) und die überzogenen Bewertungen vieler Tech-Unternehmen. Geopolitische Spannungen werden zur kurzfristigen Ablenkung und zur Rechtfertigung von Rohstoffpreisen genutzt, während die De-Dollarisierung und die Suche nach alternativen Finanzsystemen im Hintergrund weiterlaufen.",
+    "macht": "Große Technologiekonzerne (MSFT, BIDU, AAPL), Investmentfonds (QQQ, TQQQ), Halbleiterhersteller (MU, AMAT, NVDA) und Finanzinstitutionen, die von der Marktvolatilität und den IPOs profitieren.",
+    "geopolitik": "Der Iran-Konflikt und die Cyberangriffe schaffen Unsicherheit und treiben Ölpreise. Dies könnte die BRICS-Staaten und ihre Verbündeten weiter stärken, die nach Alternativen zum Dollar suchen und ihre eigenen Rohstoffallianzen festigen. Die USA/G7 versuchen, die Kontrolle zu behalten.",
+    "liquiditaet": "Kapital fließt kurzfristig in sichere Häfen wie Gold und Öl, während im Tech-Sektor eine Konsolidierung stattfindet. Mittel- bis langfristig bleibt KI ein Magnet für Kapital, aber die Auswahl wird selektiver.",
+    "kette": "Baidu IPO-Pläne (KI-Chip) -> Erhöhte Nachfrage nach Halbleiter-Equipment -> Potenzielle Preissteigerungen bei AMAT/LRCX -> Spekulationen über weitere KI-getriebene IPOs -> Marktunsicherheit wegen Tech-Bewertungen und geopolitischen Risiken.",
+    "timing": "Mitte des Zyklus für KI-Hype, aber möglicherweise spät für breite Tech-Long-Positionen. Die Korrekturwarnungen deuten auf eine mögliche Trendwende oder eine Konsolidierungsphase hin. Geopolitische Risiken sind aktuell.",
+    "saisonalitaet": "Juni/Juli sind oft von geringerer Handelsaktivität geprägt, aber geopolitische Ereignisse können diese Muster durchbrechen. Die Tech-Saison ist normalerweise im Sommer und Herbst stark, aber die aktuellen Warnsignale deuten auf eine Abweichung hin.",
+    "masseFehler": "Die Masse konzentriert sich auf die offensichtlichen KI-Gewinner und ignoriert die Risiken von überbewerteten Tech-Aktien sowie die subtilen Auswirkungen geopolitischer Spannungen auf die globale Rohstoff- und Währungspolitik. Sie unterschätzen die Bedeutung von Cybersicherheit und spezialisierten Zulieferern.",
+    "widerspruch": "Ja. Während einige Tech-Aktien (BIDU, MU) positive Nachrichten haben und der KI-Sektor insgesamt als Hype gilt, warnen Analysten (Grantham) vor einer Tech-Korrektur und es gibt negative Nachrichten für Apple-Zulieferer und den Nasdaq 100. Die geopolitischen Spannungen treiben Öl und Gold, während der DAX leicht fällt.",
+    "markt": "Gold steigt/faellt: Gold leicht steigend (sicherer Hafen), Silber: stabil, Öl: stabil (geopolitische Spannung vs. Nachfrage), Bitcoin: leicht steigend, DAX: leicht fallend, EUR/USD: steigend.",
+    "opportunity": "JA",
+    "positionierung": "Smart Money scheint vorsichtig zu werden im breiten Tech-Sektor (QQQ, AAPL, MSFT), aber selektiv in KI-spezifische Bereiche (BIDU, AMAT, MU). Das 'Fear & Greed'-Index (12/100) deutet auf extreme Angst hin, was oft ein Kaufsignal für mutige Investoren ist, aber die Warnungen vor einer Tech-Korrektur müssen ernst genommen werden.",
+    "reflexivitaet": "Die Warnungen vor einer Tech-Korrektur könnten zu Verkäufen führen, was die Korrektur beschleunigt. Gleichzeitig könnten die geopolitischen Spannungen die Nachfrage nach Rohstoffen und Gold weiter ankurbeln, was wiederum die Inflation anheizt und die Zentralbanken unter Druck setzt.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Wir befinden uns in einer Phase des Umbruchs, geprägt von geopolitischen Spannungen, einer Neuausrichtung der globalen Lieferketten, der disruptiven Kraft der KI und einer selektiven Kapitalrotation weg von überbewerteten Tech-Giganten hin zu fundamentaleren Werten und spezifischen Nischen.",
+    "metaZyklus": "Umbruch/Krise",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das den AAOIFI-Standards für Gold als Sharia-konformes Asset entspricht.",
+    "halalBegruendung": "Gold als physisches Asset, das nicht auf Zinszahlungen basiert, ist nach AAOIFI-Standards für Investitionen zulässig.",
     "purification": "0.00",
-    "entscheidung": "WARTEN",
-    "richtung": "null",
-    "einstieg": "null",
-    "stopLoss": "null",
-    "ziel": "null",
-    "zeitraum": "null",
-    "einsatz": 0,
-    "exitStrategie": "null",
-    "waehrungsrisiko": "Ein steigender EUR/USD würde Gold in Euro teurer machen, was bei einem Kauf in Euro einen zusätzlichen Puffer bieten könnte, aber auch das Risiko birgt, dass der USD-Preis von Gold nicht so stark steigt wie der EUR/USD.",
-    "psychologie": "PANIK Warnung. Der Fear & Greed Index bei 18/100 zeigt eine extreme Angst im Markt, was oft ein Kontraindikator sein kann. Dennoch ist Vorsicht geboten, da geopolitische Risiken und der Wagniskapital-Einbruch reale Probleme darstellen.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 4000,
+    "stopLoss": 3800,
+    "ziel": 4500,
+    "zeitraum": "4-8 Wochen",
+    "einsatz": 3.13,
+    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei einem Bruch des Stop-Loss-Levels.",
+    "waehrungsrisiko": "EUR/USD steigt, was einen leicht negativen Effekt auf in USD gehandelte Assets hat, aber Gold in EUR tendenziell stützt.",
+    "psychologie": "FOMO bei den KI-Gewinnern, aber auch Angst vor einer breiten Tech-Korrektur und geopolitischen Risiken.",
     "ruhigerTag": false,
-    "lernpunkt": "Sektorrotation: Beschreibt die Umschichtung von Kapital von einem Sektor in einen anderen, oft als Reaktion auf sich ändernde Marktbedingungen, Wirtschaftszyklen oder neue Trends. Sie ist ein Zeichen für eine dynamische Marktentwicklung und bietet Chancen für Anleger, die frühzeitig die neuen Trends erkennen.",
-    "tagesfrage": "Inwiefern beeinflusst die zunehmende Fragmentierung der globalen Wirtschaft (z.B. durch geopolitische Spannungen) die langfristige Attraktivität von global agierenden Tech-Giganten im Vergleich zu regional fokussierten Unternehmen oder Rohstoffproduzenten?",
-    "brief": "Ayman, der Markt zeigt heute eine interessante Dynamik. Während die Oberfläche von Immobilien- und Tech-Hypes spricht, sehen wir unter der Oberfläche eine deutliche Kapitalrotation weg von den 'Magnificent 7' hin zu spezifischen Nischen wie DRAM. Die geopolitischen Spannungen zwischen Iran und den USA sind ein ernstes Warnsignal, das die Rohstoffmärkte jederzeit beeinflussen kann. Der Einbruch des Wagniskapitals in Deutschland ist besorgniserregend für die Innovationskraft. Bleib wachsam und fokussiert auf die Kapitalflüsse, nicht nur auf die Schlagzeilen. Dein Mentor."
+    "lernpunkt": "Der 'Fear & Greed'-Index ist ein Indikator für die Marktstimmung. Ein Wert nahe 0 (extreme Angst) kann auf eine Überverkauftheit und potenzielle Kaufgelegenheiten hindeuten, während ein Wert nahe 100 (extreme Gier) auf eine Überkauftheit und mögliche Korrekturen hinweist. Er hilft, emotionale Entscheidungen zu vermeiden.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach spezialisierten Cybersicherheitslösungen durch die Eskalation geopolitischer Spannungen wirklich ansteigen?",
+    "brief": "Ayman, heute sehen wir eine gemischte Marktstimmung. Die KI-Euphorie hält an, aber die Warnsignale für den breiteren Tech-Sektor werden lauter, ähnlich wie bei der Dot-Com-Blase. Gleichzeitig verschärfen sich die geopolitischen Spannungen, was Öl und Gold stützt. Konzentriere dich auf die Kernprinzipien: Die Nachricht ist die Oberfläche, das Geld zeigt die Wahrheit. Suche nach den peripheren Assets, die von diesen Hypes profitieren, aber oft übersehen werden. Achte auf die langfristigen Auswirkungen der De-Dollarisierung und der Rohstoffallianzen im Hintergrund."
   },
   "prices": {
     "GC=F": {
       "label": "Gold",
-      "price": 4096.2998046875,
-      "change": 0
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 59.67399978637695,
-      "change": 0
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 69.2300033569336,
+      "price": 4063.800048828125,
       "change": 0
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 60125.58984375,
-      "change": 0.3094626047554639
+      "price": 59751.1015625,
+      "change": 0.3674670260301665
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 58.540000915527344,
+      "change": 0
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 24671.220703125,
-      "change": -1.2947052409978845
+      "price": 24668.609375,
+      "change": -0.010584511226350604
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1389521360397339,
-      "change": 0.24487760002115228
+      "price": 1.1402509212493896,
+      "change": 0.35919018634577865
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 69.91999816894531,
+      "change": 0
     }
   },
   "fearGreed": [
-    20,
     23,
     17,
     12,
     13,
     15,
-    18
+    18,
+    12
   ],
   "simulation": {
     "buy": 10,
