@@ -1,6 +1,6 @@
 {
-  "date": "Montag, 29. Juni 2026",
-  "generatedAt": "2026-06-29T09:26:03.589Z",
+  "date": "Dienstag, 30. Juni 2026",
+  "generatedAt": "2026-06-30T08:31:09.800Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -17,318 +17,219 @@
       "origin": "GNews"
     },
     {
-      "title": "Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment",
-      "source": "Investing.com Nigeria",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AAPL(-0.26)",
-        "MU(0.11)",
-        "QCOM(0.08)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Location is the New Lens for Financial Risk",
-      "source": "MSCI",
-      "sentiment": "Bullish",
-      "tickers": [
-        "MSCI(0.46)",
-        "MSFT(0.33)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Nasdaq 100 Flashes Warning Signs After 5-Day Slide - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-      "source": "Benzinga",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "QQQ(-0.26)",
-        "INTC(-0.14)",
-        "MU(-0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Baidu Posts Dramatic Intraday Reversal on Nasdaq, Ends at $104 as AI Chip Subsidiary Targets $50-bn Hong Kong IPO",
-      "source": "HDFC Sky",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "BIDU(0.32)",
-        "QCOM(0.13)",
-        "AMAT(0.14)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Will Nvidia Follow Amazon's Dot-Com Path? Jeremy Grantham Warns Of Brutal Tech Stock Reversal",
-      "source": "Benzinga",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AMZN(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies After Tim Cook Defends Price Hikes: Need 'Consumer Protections' For People",
-      "source": "Benzinga",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "AAPL(-0.22)",
-        "MSFT(-0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "TQQQ ETF: Is the 3x Nasdaq Trade Exposing a Leverage Problem?",
-      "source": "EBC Financial Group",
-      "sentiment": "Neutral",
-      "tickers": [
-        "TQQQ(0.05)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Xunlei charms market with share buyback, as global business faces slowdown",
-      "source": "Bamboo Works",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "XNET(0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "The Bull Case For Verizon (VZ) Could Change Following Dow Exit And Rising Starlink Competition",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "VZ(-0.26)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Bernie Sanders Slams Apple (NASDAQ: AAPL) CEO Tim Cook Over MacBook And iPad Price Hikes As 'Corporate Greed'",
-      "source": "Foreign Policy Journal",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AAPL(-0.24)",
-        "TSLA(0.01)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
-      "source": "Benzinga",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AMZN(0.13)",
-        "NKE(-0.42)",
-        "MU(0.54)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "TeraWulf (NASDAQ:WULF) short interest, volume in focus as AI rally gets tested",
-      "source": "TechStock²",
-      "sentiment": "Neutral",
-      "tickers": [
-        "WULF(0.01)",
-        "AMZN(-0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "8 High Growth Penny Stocks to Buy",
-      "source": "Insider Monkey",
-      "sentiment": "Bullish",
-      "tickers": [
-        "REAX(0.48)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Applied Materials Stock Is Up 144% in 2026, But Its Own Analysts See $550. Is It Time to Be Careful?",
-      "source": "TIKR.com",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AMAT(-0.10)",
-        "LRCX(0.11)",
-        "NVDA(0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Indian shares flat as US-Iran talks temper escalation fears - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Asia stocks adrift as Middle East worries meet rate-hike bets - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Philippines leads the world in rush to solar as power prices soar - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Oil climbs following renewed US, Iran strikes in Middle East - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
+      "title": "Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Israel damaged heritage sites across south Lebanon, minister says - Reuters",
+      "title": "Oil set to end June down by about 20%, with investors focused on Doha - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Trump urges gasoline retailers to lower prices, warns of 'big problems' if they don't - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US and Iran negotiators head to Doha, but meeting uncertain - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Salesforce is on an AI buying spree, but Wall Street still has its doubts",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Our rating, price target and outlook for newly spun off Honeywell Aerospace",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Here's how Trump Accounts could affect women's retirement savings gap",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Resume trading on MAZAYA shares after disclosing the results of its BOD meeting",
+      "source": "english.mubasher.info",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Private sector drives rise in India's external debt as government debt declines: RBI",
+      "source": "thehindubusinessline.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Canada Pitches Stability to Japan as China Tensions Persist",
+      "source": "financialpost.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
     }
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
-      "GNews: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
-      "AlphaVantage: Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment",
-      "AlphaVantage: Location is the New Lens for Financial Risk",
-      "AlphaVantage: Nasdaq 100 Flashes Warning Signs After 5-Day Slide",
-      "AlphaVantage: Baidu Posts Dramatic Intraday Reversal on Nasdaq, Ends at $104 as AI Chip Subsidiary Targets $50-bn Hong Kong IPO",
-      "AlphaVantage: Will Nvidia Follow Amazon's Dot-Com Path? Jeremy Grantham Warns Of Brutal Tech Stock Reversal",
-      "AlphaVantage: AOC Targets Apple, Calls For Breakup Of 'Far Too Big' Companies",
-      "AlphaVantage: TQQQ ETF: Is the 3x Nasdaq Trade Exposing a Leverage Problem?",
-      "AlphaVantage: Xunlei charms market with share buyback, as global business faces slowdown",
-      "AlphaVantage: The Bull Case For Verizon (VZ) Could Change Following Dow Exit And Rising Starlink Competition",
-      "AlphaVantage: Bernie Sanders Slams Apple (NASDAQ: AAPL) CEO Tim Cook Over MacBook And iPad Price Hikes As 'Corporate Greed'",
-      "AlphaVantage: Top Three S&P 500 Stocks To Watch This Week: Nike, Micron, Amazon",
-      "AlphaVantage: TeraWulf (NASDAQ:WULF) short interest, volume in focus as AI rally gets tested",
-      "AlphaVantage: 8 High Growth Penny Stocks to Buy",
-      "AlphaVantage: Applied Materials Stock Is Up 144% in 2026, But Its Own Analysts See $550. Is It Time to Be Careful?",
-      "Finnhub: Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh",
-      "Finnhub: Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus",
-      "Finnhub: Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says",
-      "Finnhub: Indian shares flat as US-Iran talks temper escalation fears"
+      "GNews: Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "GNews: STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "Finnhub: CNBC: Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
+      "Finnhub: Reuters: Oil set to end June down by about 20%, with investors focused on Doha - Reuters",
+      "Finnhub: Reuters: Trump urges gasoline retailers to lower prices, warns of 'big problems' if they don't - Reuters",
+      "Finnhub: Reuters: Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump - Reuters",
+      "Finnhub: Reuters: US and Iran negotiators head to Doha, but meeting uncertain - Reuters",
+      "Finnhub: Reuters: Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds - Reuters",
+      "Finnhub: CNBC: Salesforce is on an AI buying spree, but Wall Street still has its doubts",
+      "Finnhub: CNBC: Our rating, price target and outlook for newly spun off Honeywell Aerospace",
+      "Finnhub: CNBC: Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
+      "Finnhub: CNBC: Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+      "Finnhub: CNBC: Chip stocks rebound, and Goldman racks up a series of M&A wins",
+      "Finnhub: CNBC: Here's how Trump Accounts could affect women's retirement savings gap",
+      "Marketaux: english.mubasher.info: Resume trading on MAZAYA shares after disclosing the results of its BOD meeting",
+      "Marketaux: thehindubusinessline.com: Private sector drives rise in India's external debt as government debt declines: RBI",
+      "Marketaux: financialpost.com: Canada Pitches Stability to Japan as China Tensions Persist"
     ],
     "hypeNews": [
-      "AI-Chip-IPO-Spekulationen bei Baidu",
-      "Warnsignale im Nasdaq 100 und potenzielle Tech-Korrektur à la Dot-Com-Blase"
+      "Geopolitische Entspannung USA-Iran",
+      "Tech-Sektor und KI-Akquisitionen",
+      "Chip-Aktien Rebound",
+      "Biotech-Investitionen (Rückgang in DE, Beschleunigung in US)"
     ],
-    "hypeCenter": "Künstliche Intelligenz (KI) und Halbleiter, getrieben durch Baidus IPO-Pläne und die anhaltende Debatte um Tech-Bewertungen (Nvidia/Amazon-Vergleich).",
-    "peripherEffect": "Spezialchemikalien und Materialien für fortschrittliche Halbleiterfertigung (z.B. AMAT, LRCX), Unternehmen, die in der Cybersicherheit tätig sind (wegen Iran-Konflikt), und möglicherweise Rohstoffe, die für die KI-Infrastruktur benötigt werden (z.B. seltene Erden, Kupfer).",
-    "narrativ": "Die Masse glaubt, dass die KI-Rallye weitergeht, aber es gibt auch wachsende Bedenken hinsichtlich überbewerteter Tech-Aktien, die zu einer breiteren Korrektur führen könnten. Der geopolitische Konflikt mit Iran sorgt für Volatilität bei Öl und Gold.",
-    "realitaet": "Die KI-Euphorie überdeckt die strukturellen Probleme in der Halbleiterlieferkette (Speicherkosten) und die überzogenen Bewertungen vieler Tech-Unternehmen. Geopolitische Spannungen werden zur kurzfristigen Ablenkung und zur Rechtfertigung von Rohstoffpreisen genutzt, während die De-Dollarisierung und die Suche nach alternativen Finanzsystemen im Hintergrund weiterlaufen.",
-    "macht": "Große Technologiekonzerne (MSFT, BIDU, AAPL), Investmentfonds (QQQ, TQQQ), Halbleiterhersteller (MU, AMAT, NVDA) und Finanzinstitutionen, die von der Marktvolatilität und den IPOs profitieren.",
-    "geopolitik": "Der Iran-Konflikt und die Cyberangriffe schaffen Unsicherheit und treiben Ölpreise. Dies könnte die BRICS-Staaten und ihre Verbündeten weiter stärken, die nach Alternativen zum Dollar suchen und ihre eigenen Rohstoffallianzen festigen. Die USA/G7 versuchen, die Kontrolle zu behalten.",
-    "liquiditaet": "Kapital fließt kurzfristig in sichere Häfen wie Gold und Öl, während im Tech-Sektor eine Konsolidierung stattfindet. Mittel- bis langfristig bleibt KI ein Magnet für Kapital, aber die Auswahl wird selektiver.",
-    "kette": "Baidu IPO-Pläne (KI-Chip) -> Erhöhte Nachfrage nach Halbleiter-Equipment -> Potenzielle Preissteigerungen bei AMAT/LRCX -> Spekulationen über weitere KI-getriebene IPOs -> Marktunsicherheit wegen Tech-Bewertungen und geopolitischen Risiken.",
-    "timing": "Mitte des Zyklus für KI-Hype, aber möglicherweise spät für breite Tech-Long-Positionen. Die Korrekturwarnungen deuten auf eine mögliche Trendwende oder eine Konsolidierungsphase hin. Geopolitische Risiken sind aktuell.",
-    "saisonalitaet": "Juni/Juli sind oft von geringerer Handelsaktivität geprägt, aber geopolitische Ereignisse können diese Muster durchbrechen. Die Tech-Saison ist normalerweise im Sommer und Herbst stark, aber die aktuellen Warnsignale deuten auf eine Abweichung hin.",
-    "masseFehler": "Die Masse konzentriert sich auf die offensichtlichen KI-Gewinner und ignoriert die Risiken von überbewerteten Tech-Aktien sowie die subtilen Auswirkungen geopolitischer Spannungen auf die globale Rohstoff- und Währungspolitik. Sie unterschätzen die Bedeutung von Cybersicherheit und spezialisierten Zulieferern.",
-    "widerspruch": "Ja. Während einige Tech-Aktien (BIDU, MU) positive Nachrichten haben und der KI-Sektor insgesamt als Hype gilt, warnen Analysten (Grantham) vor einer Tech-Korrektur und es gibt negative Nachrichten für Apple-Zulieferer und den Nasdaq 100. Die geopolitischen Spannungen treiben Öl und Gold, während der DAX leicht fällt.",
-    "markt": "Gold steigt/faellt: Gold leicht steigend (sicherer Hafen), Silber: stabil, Öl: stabil (geopolitische Spannung vs. Nachfrage), Bitcoin: leicht steigend, DAX: leicht fallend, EUR/USD: steigend.",
-    "opportunity": "JA",
-    "positionierung": "Smart Money scheint vorsichtig zu werden im breiten Tech-Sektor (QQQ, AAPL, MSFT), aber selektiv in KI-spezifische Bereiche (BIDU, AMAT, MU). Das 'Fear & Greed'-Index (12/100) deutet auf extreme Angst hin, was oft ein Kaufsignal für mutige Investoren ist, aber die Warnungen vor einer Tech-Korrektur müssen ernst genommen werden.",
-    "reflexivitaet": "Die Warnungen vor einer Tech-Korrektur könnten zu Verkäufen führen, was die Korrektur beschleunigt. Gleichzeitig könnten die geopolitischen Spannungen die Nachfrage nach Rohstoffen und Gold weiter ankurbeln, was wiederum die Inflation anheizt und die Zentralbanken unter Druck setzt.",
+    "hypeCenter": "Der Tech-Sektor, insbesondere KI und Halbleiter, zeigt heute den stärksten Hype. Die Nachrichten über den Rebound von Chip-Aktien und Salesforce's KI-Akquisitionen, trotz Skepsis, treiben die Stimmung. Die Entspannung im US-Iran-Konflikt beflügelt zusätzlich die allgemeine Risikobereitschaft an der Wall Street, was Tech-Werte oft überproportional profitieren lässt.",
+    "peripherEffect": "Vom Tech- und KI-Hype profitieren verzögert spezialisierte Software-Dienstleister für Datenintegration und -analyse, Anbieter von Hochleistungsrechenzentren (inkl. Kühlung und Energieinfrastruktur), sowie Hersteller von Spezialchemikalien und Materialien, die in der Halbleiterproduktion benötigt werden. Auch Anbieter von IT-Sicherheit für KI-Systeme werden mittelfristig stark nachgefragt.",
+    "narrativ": "Die Masse glaubt, dass die geopolitischen Spannungen nachlassen, was den Weg für eine Erholung der Märkte ebnet. Tech-Aktien, insbesondere im KI- und Chip-Bereich, sind wieder attraktiv. Die Sorge um Ölpreise wird durch Trumps Intervention und die Doha-Gespräche gemildert. Der Rückgang des Wagniskapitals in deutsche Biotech-Firmen wird als lokales Problem wahrgenommen, während US-Biotech durch FDA-Initiativen profitiert.",
+    "realitaet": "Hinter der Oberfläche der Entspannung und des Tech-Hypes verbirgt sich eine fragile Situation. Die 'Entspannung' zwischen den USA und dem Iran ist unsicher und könnte jederzeit kippen, was die Ölpreise wieder in die Höhe treiben würde. Die 'AI-buying spree' von Salesforce deutet auf einen Konsolidierungsdruck hin, bei dem große Player kleinere, innovative Firmen aufkaufen, um Marktanteile zu sichern, was nicht unbedingt ein Zeichen für organisch gesundes Wachstum ist. Der Einbruch des Wagniskapitals in deutsche Biotech-Firmen, während US-Firmen durch die FDA beschleunigt werden, zeigt eine Divergenz in der Innovationsförderung und Kapitalallokation, die langfristig die Wettbewerbsfähigkeit beeinflusst. Der Dow erreicht ein Rekordhoch, während der Fear & Greed Index bei 15 liegt – ein starker Kontrast, der auf eine ungesunde Marktbreite oder eine Manipulation der Indizes hindeuten könnte.",
+    "macht": "Goldman Sachs profitiert von M&A-Deals im Chip-Sektor. Große Tech-Konzerne wie Salesforce sichern sich durch Akquisitionen im KI-Bereich ihre Zukunft. Eli Lilly und Regeneron profitieren direkt von der FDA-Initiative. Die US-Regierung und ihre Verbündeten versuchen, durch Verhandlungen die Ölpreise zu stabilisieren und geopolitische Risiken zu managen. Trump übt direkten Druck auf den Einzelhandel aus, was die Macht der Exekutive demonstriert.",
+    "geopolitik": "Die Verhandlungen zwischen den USA und dem Iran in Doha sind zentral für die globale Ölversorgung und die Stabilität im Nahen Osten. Eine erfolgreiche Deeskalation könnte die Ölpreise weiter drücken und die geopolitische Landschaft neu ordnen. Kanadas Annäherung an Japan angesichts der Spannungen mit China zeigt eine Verschiebung von Allianzen und den Versuch, Lieferketten und Handelsbeziehungen zu diversifizieren, weg von einer zu starken Abhängigkeit von China. Der Rückgang der Ölpreise um 20% im Juni ist ein signifikanter Faktor, der die Macht der OPEC+ und die Rolle der USA als Ölproduzenten neu bewertet.",
+    "liquiditaet": "Kapital fließt in den Tech-Sektor, insbesondere in Halbleiter und KI-bezogene Unternehmen, was sich im Rebound der Chip-Aktien und den M&A-Aktivitäten zeigt. Auch der US-Biotech-Sektor zieht durch regulatorische Erleichterungen Kapital an. Wagniskapital zieht sich aus dem deutschen Biotech-Sektor zurück, was auf eine Umverteilung der Investitionen hindeutet. Der allgemeine Anstieg der Wall Street deutet auf eine breitere Risikobereitschaft hin, die durch die geopolitische Entspannung befeuert wird.",
+    "kette": "US-Iran-Entspannung -> Erhöhte Risikobereitschaft -> Kapital fließt in Tech/Chips -> Wall Street steigt -> Dow erreicht Rekordhoch -> Periphere Zulieferer profitieren verzögert.",
+    "timing": "Mitte im Trend. Der Tech-Hype ist etabliert, aber die geopolitische Entspannung ist noch fragil. Der Rebound der Chip-Aktien könnte eine kurzfristige Erholung sein, bevor die fundamentalen Herausforderungen wieder in den Vordergrund treten. Die peripheren Effekte sind noch nicht vollständig eingepreist.",
+    "saisonalitaet": "Juni ist oft ein volatiler Monat, in dem Investoren ihre Portfolios anpassen. Ein Rückgang der Ölpreise im Juni ist nicht ungewöhnlich, da die Nachfrage in den Sommermonaten oft schwankt. Der Anstieg der Tech-Aktien könnte eine 'Sommerrallye' einleiten, die jedoch oft von geringerem Volumen begleitet wird.",
+    "masseFehler": "Die Masse sieht die geopolitische Entspannung als dauerhaft und den Tech-Rebound als nachhaltig. Sie übersieht die Fragilität der Doha-Gespräche und die Tatsache, dass der Fear & Greed Index bei 15/100 liegt, was auf eine tiefer liegende Angst hindeutet, die von den Index-Rekorden nicht widergespiegelt wird. Der Fokus liegt auf den großen Namen, während die peripheren Profiteure übersehen werden.",
+    "widerspruch": "Ja. Der Dow erreicht ein Rekordhoch, während der Fear & Greed Index bei 15/100 liegt. Dies ist ein starker Widerspruch. Entweder ist der Markt extrem überkauft und die Angst der Anleger wird ignoriert, oder die Angst ist unbegründet und der Markt hat noch Aufwärtspotenzial. Es deutet aber eher auf eine ungesunde Marktbreite hin, bei der nur wenige große Werte den Index treiben, während die breite Masse der Aktien unter Druck steht.",
+    "markt": "Gold steigt | Silber steigt | Öl fällt | Bitcoin fällt | DAX steigt | EUR/USD steigt",
+    "opportunity": "Konkrete Chance im Bereich der Halbleiter-Zulieferer oder spezialisierten KI-Infrastruktur-Dienstleister, die noch nicht im Fokus der breiten Masse stehen.",
+    "positionierung": "Smart Money positioniert sich in ausgewählten Tech-Werten und Halbleiter-Zulieferern, während es gleichzeitig die geopolitischen Risiken im Auge behält. Das Sentiment ist insgesamt vorsichtig (Fear & Greed 15), aber selektiv bullish in bestimmten Sektoren. Die Ticker-Daten zeigen einen Sprung bei großen Tech-Aktien, was auf eine Konzentration des Kapitals hindeutet.",
+    "reflexivitaet": "Der Anstieg der Wall Street und der Tech-Aktien aufgrund der vermeintlichen US-Iran-Entspannung führt zu einer erhöhten Risikobereitschaft. Diese erhöhte Risikobereitschaft wiederum befeuert weitere Investitionen in Tech und Chips, was den Aufwärtstrend verstärkt. Sollten die Doha-Gespräche scheitern, könnte dieser positive Feedback-Loop schnell ins Gegenteil umschlagen.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch/Krise",
+    "metaZyklus": "Umbruch. Wir sehen geopolitische Neuausrichtungen, technologische Revolutionen (KI, Quantencomputing) und eine Umverteilung von Kapitalströmen. Die alte Ordnung wird in Frage gestellt.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als physisches Asset, das nicht auf Zinszahlungen basiert, ist nach AAOIFI-Standards für Investitionen zulässig.",
+    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das den AAOIFI-Standards für Gold als Währung und Wertaufbewahrungsmittel entspricht.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 4000,
-    "stopLoss": 3800,
-    "ziel": 4500,
-    "zeitraum": "4-8 Wochen",
-    "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei einem Bruch des Stop-Loss-Levels.",
-    "waehrungsrisiko": "EUR/USD steigt, was einen leicht negativen Effekt auf in USD gehandelte Assets hat, aber Gold in EUR tendenziell stützt.",
-    "psychologie": "FOMO bei den KI-Gewinnern, aber auch Angst vor einer breiten Tech-Korrektur und geopolitischen Risiken.",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Ein steigender EUR/USD würde die Attraktivität von US-Dollar-denominierten Assets für europäische Anleger mindern, aber gleichzeitig den Kauf von Gold in Euro günstiger machen.",
+    "psychologie": "FOMO. Der Dow auf Rekordhoch und der Rebound der Tech-Aktien könnten Anleger dazu verleiten, in den Markt zu springen, ohne die zugrunde liegenden Risiken und den niedrigen Fear & Greed Index zu beachten.",
     "ruhigerTag": false,
-    "lernpunkt": "Der 'Fear & Greed'-Index ist ein Indikator für die Marktstimmung. Ein Wert nahe 0 (extreme Angst) kann auf eine Überverkauftheit und potenzielle Kaufgelegenheiten hindeuten, während ein Wert nahe 100 (extreme Gier) auf eine Überkauftheit und mögliche Korrekturen hinweist. Er hilft, emotionale Entscheidungen zu vermeiden.",
-    "tagesfrage": "Wie stark wird die Nachfrage nach spezialisierten Cybersicherheitslösungen durch die Eskalation geopolitischer Spannungen wirklich ansteigen?",
-    "brief": "Ayman, heute sehen wir eine gemischte Marktstimmung. Die KI-Euphorie hält an, aber die Warnsignale für den breiteren Tech-Sektor werden lauter, ähnlich wie bei der Dot-Com-Blase. Gleichzeitig verschärfen sich die geopolitischen Spannungen, was Öl und Gold stützt. Konzentriere dich auf die Kernprinzipien: Die Nachricht ist die Oberfläche, das Geld zeigt die Wahrheit. Suche nach den peripheren Assets, die von diesen Hypes profitieren, aber oft übersehen werden. Achte auf die langfristigen Auswirkungen der De-Dollarisierung und der Rohstoffallianzen im Hintergrund."
+    "lernpunkt": "Fear & Greed Index: Ein Indikator, der die Marktstimmung misst. Werte unter 20 deuten auf extreme Angst hin, über 80 auf extreme Gier. Ein niedriger Wert bei gleichzeitig steigenden Indizes kann auf eine ungesunde Marktbreite oder eine bevorstehende Korrektur hindeuten.",
+    "tagesfrage": "Wie lange kann der Markt die Angst der Anleger ignorieren, bevor die Realität die Euphorie einholt?",
+    "brief": "Ayman, der heutige Tag zeigt eine klassische Diskrepanz zwischen Oberfläche und Wahrheit. Während die Wall Street Rekorde feiert und Tech-Aktien boomen, signalisiert der Fear & Greed Index tiefe Angst. Die vermeintliche Entspannung im US-Iran-Konflikt ist fragil, und Trumps Intervention bei den Ölpreisen ist ein politisches Manöver. Konzentriere dich auf die peripheren Profiteure im Tech-Sektor und bleibe wachsam gegenüber der Volatilität, die durch diese Widersprüche entsteht. Dein Fokus sollte auf langfristigen, fundamental starken Assets liegen, die nicht nur vom Hype getragen werden."
   },
   "prices": {
-    "GC=F": {
-      "label": "Gold",
-      "price": 4063.800048828125,
-      "change": 0
-    },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 59751.1015625,
-      "change": 0.3674670260301665
+      "price": 59306.62109375,
+      "change": -1.3830732181800762
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4035.699951171875,
+      "change": 0.3331402973692623
     },
     "SI=F": {
       "label": "Silber",
-      "price": 58.540000915527344,
-      "change": 0
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24668.609375,
-      "change": -0.010584511226350604
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1402509212493896,
-      "change": 0.35919018634577865
+      "price": 59.13999938964844,
+      "change": 1.658788423280519
     },
     "CL=F": {
       "label": "Öl",
-      "price": 69.91999816894531,
-      "change": 0
+      "price": 70.5199966430664,
+      "change": -0.32509308400507947
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1394712924957275,
+      "change": 0.07976161558628661
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24823.48046875,
+      "change": 0.7982731021285803
     }
   },
   "fearGreed": [
-    23,
     17,
     12,
     13,
     15,
     18,
-    12
+    12,
+    15
   ],
   "simulation": {
     "buy": 10,
