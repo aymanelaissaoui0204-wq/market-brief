@@ -1,6 +1,6 @@
 {
-  "date": "Dienstag, 30. Juni 2026",
-  "generatedAt": "2026-06-30T08:31:09.800Z",
+  "date": "Mittwoch, 1. Juli 2026",
+  "generatedAt": "2026-07-01T08:50:15.318Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -17,163 +17,243 @@
       "origin": "GNews"
     },
     {
-      "title": "Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
+      "title": "Wells Fargo Issues Bold Call on S&P 500",
+      "source": "TradingView",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "WFC(0.23)",
+        "SPGI(0.32)",
+        "MSFT(0.35)"
+      ],
+      "origin": "AlphaVantage"
     },
     {
-      "title": "Oil set to end June down by about 20%, with investors focused on Doha - Reuters",
+      "title": "American Institute for Advanced Investment Management LLP Purchases Shares of 990 Advanced Micro Devices, Inc. $AMD",
+      "source": "MarketBeat",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AMD(0.38)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Tesla new registrations in Norway fall 43% year-on-year in June",
+      "source": "Reuters",
+      "sentiment": "Bearish",
+      "tickers": [
+        "TSLA(-0.43)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "PDF Solutions Jumps 6.3% Amid Sector-Wide Rally",
+      "source": "AlphaStreet",
+      "sentiment": "Bullish",
+      "tickers": [
+        "PDFS(0.50)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Teledyne Technologies (TDY) Could Be 10% Undervalued Following Prism Ground ISR Launch",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TDY(0.46)",
+        "KEYS(0.12)",
+        "NFLX(0.24)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "SanDisk Stock Jumps 11% as Bernstein’s $3,000 Target Fuels Memory Rally",
+      "source": "FXLeaders",
+      "sentiment": "Bullish",
+      "tickers": [
+        "SNDK(0.60)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Harbor International Compounders ETF falls 5.3%, lagging MSCI benchmark amid tech and geopolitical concerns",
+      "source": "Pluang",
+      "sentiment": "Neutral",
+      "tickers": [
+        "OSEA(0.01)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "The Surprising Reason Companies Like Deere and Nokia Are Surging",
+      "source": "www.inc.com",
+      "sentiment": "Bullish",
+      "tickers": [
+        "DE(0.44)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Where Arista Networks Stock Is Most Exposed",
+      "source": "Trefis",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ANET(0.01)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "3 Growth Stocks Riding AI Data Center Demand",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "FN(0.31)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Texas Instruments (TXN) On Capacity Expansion Narrative And Whether The Stock Looks Fully Valued",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "TXN(0.09)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "S&P Global (SPGI) Could Be 8% Overvalued After Dividend And AI Product Momentum",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "SPGI(0.04)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BBAI vs. LDOS: Which Defense Tech Stock Has Better Upside Potential?",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "LDOS(0.33)",
+        "PLTR(-0.15)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Up by 3.02% on Jun 30: What Signal Does It Send?",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TSM(0.43)",
+        "NVDA(0.28)",
+        "AMD(0.32)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Arm Holdings PLC Stock (ARM) Moved Up by 3.76% on Jun 30: Facts Behind the Movement",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ARM(0.24)",
+        "MU(0.03)",
+        "NVDA(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Faces of elimination: World Cup fans in their moment of loss - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump urges gasoline retailers to lower prices, warns of 'big problems' if they don't - Reuters",
+      "title": "Global AI wave revs up Asian factories, offsetting war-induced pain - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump - Reuters",
+      "title": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US and Iran negotiators head to Doha, but meeting uncertain - Reuters",
+      "title": "Indian shares rise led by autos; Mideast caution caps gains - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds - Reuters",
+      "title": "Gold hovers near 7-month low on firm Treasury yields, Fed rate outlook - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Salesforce is on an AI buying spree, but Wall Street still has its doubts",
-      "source": "CNBC",
+      "title": "Oil edges higher as breakdown in Iran-US talks raises supply concerns - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Our rating, price target and outlook for newly spun off Honeywell Aerospace",
-      "source": "CNBC",
+      "title": "Pictures of the month: June - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
-      "source": "CNBC",
+      "title": "Boeing says IT outage affected computer systems, applications - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
-    },
-    {
-      "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Here's how Trump Accounts could affect women's retirement savings gap",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Resume trading on MAZAYA shares after disclosing the results of its BOD meeting",
-      "source": "english.mubasher.info",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Marketaux"
-    },
-    {
-      "title": "Private sector drives rise in India's external debt as government debt declines: RBI",
-      "source": "thehindubusinessline.com",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Marketaux"
-    },
-    {
-      "title": "Canada Pitches Stability to Japan as China Tensions Persist",
-      "source": "financialpost.com",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Marketaux"
     }
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
-      "GNews: STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
-      "Finnhub: CNBC: Buffett delays annual donation to Gates Foundation pending review of Jeffrey Epstein ties: WSJ",
-      "Finnhub: Reuters: Oil set to end June down by about 20%, with investors focused on Doha - Reuters",
-      "Finnhub: Reuters: Trump urges gasoline retailers to lower prices, warns of 'big problems' if they don't - Reuters",
-      "Finnhub: Reuters: Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump - Reuters",
-      "Finnhub: Reuters: US and Iran negotiators head to Doha, but meeting uncertain - Reuters",
-      "Finnhub: Reuters: Trading Day: Wall Street gains, Dow hits record closing high as fragile U.S.-Iran truce holds - Reuters",
-      "Finnhub: CNBC: Salesforce is on an AI buying spree, but Wall Street still has its doubts",
-      "Finnhub: CNBC: Our rating, price target and outlook for newly spun off Honeywell Aerospace",
-      "Finnhub: CNBC: Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
-      "Finnhub: CNBC: Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
-      "Finnhub: CNBC: Chip stocks rebound, and Goldman racks up a series of M&A wins",
-      "Finnhub: CNBC: Here's how Trump Accounts could affect women's retirement savings gap",
-      "Marketaux: english.mubasher.info: Resume trading on MAZAYA shares after disclosing the results of its BOD meeting",
-      "Marketaux: thehindubusinessline.com: Private sector drives rise in India's external debt as government debt declines: RBI",
-      "Marketaux: financialpost.com: Canada Pitches Stability to Japan as China Tensions Persist"
+      "Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "Reuters: Tesla new registrations in Norway fall 43% year-on-year in June"
     ],
     "hypeNews": [
-      "Geopolitische Entspannung USA-Iran",
-      "Tech-Sektor und KI-Akquisitionen",
-      "Chip-Aktien Rebound",
-      "Biotech-Investitionen (Rückgang in DE, Beschleunigung in US)"
+      "KI-Datenzentrum-Nachfrage",
+      "Halbleiter-Rallye",
+      "Verteidigungstechnologie"
     ],
-    "hypeCenter": "Der Tech-Sektor, insbesondere KI und Halbleiter, zeigt heute den stärksten Hype. Die Nachrichten über den Rebound von Chip-Aktien und Salesforce's KI-Akquisitionen, trotz Skepsis, treiben die Stimmung. Die Entspannung im US-Iran-Konflikt beflügelt zusätzlich die allgemeine Risikobereitschaft an der Wall Street, was Tech-Werte oft überproportional profitieren lässt.",
-    "peripherEffect": "Vom Tech- und KI-Hype profitieren verzögert spezialisierte Software-Dienstleister für Datenintegration und -analyse, Anbieter von Hochleistungsrechenzentren (inkl. Kühlung und Energieinfrastruktur), sowie Hersteller von Spezialchemikalien und Materialien, die in der Halbleiterproduktion benötigt werden. Auch Anbieter von IT-Sicherheit für KI-Systeme werden mittelfristig stark nachgefragt.",
-    "narrativ": "Die Masse glaubt, dass die geopolitischen Spannungen nachlassen, was den Weg für eine Erholung der Märkte ebnet. Tech-Aktien, insbesondere im KI- und Chip-Bereich, sind wieder attraktiv. Die Sorge um Ölpreise wird durch Trumps Intervention und die Doha-Gespräche gemildert. Der Rückgang des Wagniskapitals in deutsche Biotech-Firmen wird als lokales Problem wahrgenommen, während US-Biotech durch FDA-Initiativen profitiert.",
-    "realitaet": "Hinter der Oberfläche der Entspannung und des Tech-Hypes verbirgt sich eine fragile Situation. Die 'Entspannung' zwischen den USA und dem Iran ist unsicher und könnte jederzeit kippen, was die Ölpreise wieder in die Höhe treiben würde. Die 'AI-buying spree' von Salesforce deutet auf einen Konsolidierungsdruck hin, bei dem große Player kleinere, innovative Firmen aufkaufen, um Marktanteile zu sichern, was nicht unbedingt ein Zeichen für organisch gesundes Wachstum ist. Der Einbruch des Wagniskapitals in deutsche Biotech-Firmen, während US-Firmen durch die FDA beschleunigt werden, zeigt eine Divergenz in der Innovationsförderung und Kapitalallokation, die langfristig die Wettbewerbsfähigkeit beeinflusst. Der Dow erreicht ein Rekordhoch, während der Fear & Greed Index bei 15 liegt – ein starker Kontrast, der auf eine ungesunde Marktbreite oder eine Manipulation der Indizes hindeuten könnte.",
-    "macht": "Goldman Sachs profitiert von M&A-Deals im Chip-Sektor. Große Tech-Konzerne wie Salesforce sichern sich durch Akquisitionen im KI-Bereich ihre Zukunft. Eli Lilly und Regeneron profitieren direkt von der FDA-Initiative. Die US-Regierung und ihre Verbündeten versuchen, durch Verhandlungen die Ölpreise zu stabilisieren und geopolitische Risiken zu managen. Trump übt direkten Druck auf den Einzelhandel aus, was die Macht der Exekutive demonstriert.",
-    "geopolitik": "Die Verhandlungen zwischen den USA und dem Iran in Doha sind zentral für die globale Ölversorgung und die Stabilität im Nahen Osten. Eine erfolgreiche Deeskalation könnte die Ölpreise weiter drücken und die geopolitische Landschaft neu ordnen. Kanadas Annäherung an Japan angesichts der Spannungen mit China zeigt eine Verschiebung von Allianzen und den Versuch, Lieferketten und Handelsbeziehungen zu diversifizieren, weg von einer zu starken Abhängigkeit von China. Der Rückgang der Ölpreise um 20% im Juni ist ein signifikanter Faktor, der die Macht der OPEC+ und die Rolle der USA als Ölproduzenten neu bewertet.",
-    "liquiditaet": "Kapital fließt in den Tech-Sektor, insbesondere in Halbleiter und KI-bezogene Unternehmen, was sich im Rebound der Chip-Aktien und den M&A-Aktivitäten zeigt. Auch der US-Biotech-Sektor zieht durch regulatorische Erleichterungen Kapital an. Wagniskapital zieht sich aus dem deutschen Biotech-Sektor zurück, was auf eine Umverteilung der Investitionen hindeutet. Der allgemeine Anstieg der Wall Street deutet auf eine breitere Risikobereitschaft hin, die durch die geopolitische Entspannung befeuert wird.",
-    "kette": "US-Iran-Entspannung -> Erhöhte Risikobereitschaft -> Kapital fließt in Tech/Chips -> Wall Street steigt -> Dow erreicht Rekordhoch -> Periphere Zulieferer profitieren verzögert.",
-    "timing": "Mitte im Trend. Der Tech-Hype ist etabliert, aber die geopolitische Entspannung ist noch fragil. Der Rebound der Chip-Aktien könnte eine kurzfristige Erholung sein, bevor die fundamentalen Herausforderungen wieder in den Vordergrund treten. Die peripheren Effekte sind noch nicht vollständig eingepreist.",
-    "saisonalitaet": "Juni ist oft ein volatiler Monat, in dem Investoren ihre Portfolios anpassen. Ein Rückgang der Ölpreise im Juni ist nicht ungewöhnlich, da die Nachfrage in den Sommermonaten oft schwankt. Der Anstieg der Tech-Aktien könnte eine 'Sommerrallye' einleiten, die jedoch oft von geringerem Volumen begleitet wird.",
-    "masseFehler": "Die Masse sieht die geopolitische Entspannung als dauerhaft und den Tech-Rebound als nachhaltig. Sie übersieht die Fragilität der Doha-Gespräche und die Tatsache, dass der Fear & Greed Index bei 15/100 liegt, was auf eine tiefer liegende Angst hindeutet, die von den Index-Rekorden nicht widergespiegelt wird. Der Fokus liegt auf den großen Namen, während die peripheren Profiteure übersehen werden.",
-    "widerspruch": "Ja. Der Dow erreicht ein Rekordhoch, während der Fear & Greed Index bei 15/100 liegt. Dies ist ein starker Widerspruch. Entweder ist der Markt extrem überkauft und die Angst der Anleger wird ignoriert, oder die Angst ist unbegründet und der Markt hat noch Aufwärtspotenzial. Es deutet aber eher auf eine ungesunde Marktbreite hin, bei der nur wenige große Werte den Index treiben, während die breite Masse der Aktien unter Druck steht.",
-    "markt": "Gold steigt | Silber steigt | Öl fällt | Bitcoin fällt | DAX steigt | EUR/USD steigt",
-    "opportunity": "Konkrete Chance im Bereich der Halbleiter-Zulieferer oder spezialisierten KI-Infrastruktur-Dienstleister, die noch nicht im Fokus der breiten Masse stehen.",
-    "positionierung": "Smart Money positioniert sich in ausgewählten Tech-Werten und Halbleiter-Zulieferern, während es gleichzeitig die geopolitischen Risiken im Auge behält. Das Sentiment ist insgesamt vorsichtig (Fear & Greed 15), aber selektiv bullish in bestimmten Sektoren. Die Ticker-Daten zeigen einen Sprung bei großen Tech-Aktien, was auf eine Konzentration des Kapitals hindeutet.",
-    "reflexivitaet": "Der Anstieg der Wall Street und der Tech-Aktien aufgrund der vermeintlichen US-Iran-Entspannung führt zu einer erhöhten Risikobereitschaft. Diese erhöhte Risikobereitschaft wiederum befeuert weitere Investitionen in Tech und Chips, was den Aufwärtstrend verstärkt. Sollten die Doha-Gespräche scheitern, könnte dieser positive Feedback-Loop schnell ins Gegenteil umschlagen.",
+    "hypeCenter": "Der stärkste Hype liegt heute im Halbleiter- und KI-Sektor. Mehrere Nachrichten, insbesondere zu AMD, TSM, ARM, SNDK und PDFS, zeigen eine starke Aufwärtsbewegung und positive Stimmung, angetrieben durch die anhaltende Nachfrage nach KI-Datenzentren.",
+    "peripherEffect": "Vom Halbleiter- und KI-Hype profitieren verzögert Spezialmetalle (Gallium, Germanium, Silizium), Hersteller von Kühlungssystemen für Rechenzentren, Anbieter von Energieinfrastruktur für Rechenzentren, spezialisierte Logistikunternehmen für Hochtechnologie und möglicherweise auch Anbieter von Cybersicherheitslösungen für die wachsende Datenmenge.",
+    "narrativ": "Die Masse glaubt, dass der Tech-Sektor, insbesondere KI und Halbleiter, eine unaufhaltsame Wachstumsstory ist, die durch die steigende Nachfrage nach Datenzentren und neuen Technologien befeuert wird. Die positiven Kursbewegungen bei TSM, AMD und ARM verstärken dieses Narrativ.",
+    "realitaet": "Hinter dem Hype steckt die massive Investition von Großkonzernen und Staaten in die KI-Infrastruktur. Das Geld fließt in die Hardware-Hersteller, die die Basis für diese Entwicklung legen. Die Nachrichten über fallendes Wagniskapital in Biotech und sinkende Tesla-Zulassungen zeigen jedoch, dass nicht alle Sektoren gleichermaßen profitieren und eine selektive Kapitalallokation stattfindet. Die 'Global AI wave revs up Asian factories' deutet auf eine Verlagerung der Produktionskapazitäten und eine Stärkung Asiens in diesem Bereich hin.",
+    "macht": "Firmen wie AMD, TSM, ARM, NVIDIA, SanDisk (SNDK) und PDF Solutions (PDFS) profitieren direkt von den Investitionen in KI und Halbleiter. Institutionen wie der American Institute for Advanced Investment Management LLP, die AMD-Aktien kaufen, zeigen das Smart Money in diesem Sektor. Wells Fargo's 'Bold Call on S&P 500' deutet auf eine breitere institutionelle Unterstützung des Marktes hin.",
+    "geopolitik": "Die 'Global AI wave revs up Asian factories' unterstreicht die zentrale Rolle Asiens in der Halbleiterproduktion und der KI-Entwicklung, was die geopolitische Abhängigkeit des Westens von dieser Region verstärkt. Die Erwähnung des 'Strait of Hormuz after attack in Gulf' erinnert an die Fragilität globaler Lieferketten und die Bedeutung von Rohstofftransportwegen, die indirekt auch die Halbleiterindustrie betreffen können. Die Konzentration der Halbleiterproduktion in Taiwan (TSM) bleibt ein kritischer geopolitischer Faktor.",
+    "liquiditaet": "Das Kapital fließt primär in den Halbleiter- und KI-Sektor, wie die positiven Kursbewegungen und institutionellen Käufe zeigen. Es gibt eine Umschichtung weg von Sektoren mit sinkendem Wagniskapital (Biotech) und möglicherweise auch von traditionellen Automobilwerten (Tesla).",
+    "kette": "Steigende KI-Nachfrage -> Erhöhte Investitionen in Datenzentren -> Hoher Bedarf an Halbleiterchips -> Steigende Umsätze und Kurse bei Chipherstellern (TSM, AMD, ARM) -> Nachfrage nach Spezialmetallen und Infrastrukturkomponenten steigt verzögert.",
+    "timing": "Mitte im Trend. Der KI- und Halbleiter-Hype ist bereits etabliert, aber die Nachrichten zeigen, dass noch signifikantes Wachstumspotenzial und institutionelles Interesse vorhanden sind. Die 'Sector-Wide Rally' bei PDFS und die 'Memory Rally' bei SanDisk deuten auf eine breitere Akzeptanz und Momentum hin.",
+    "saisonalitaet": "Historisch gesehen ist der Juli oft ein Monat, in dem Tech-Werte nach einer starken ersten Jahreshälfte eine Konsolidierung erfahren können, bevor im Herbst neue Impulse kommen. Allerdings kann die aktuelle KI-Welle diese Muster überlagern.",
+    "masseFehler": "Die Masse konzentriert sich auf die offensichtlichen Gewinner wie NVIDIA und AMD. Der Fehler liegt darin, die peripheren Zulieferer und Infrastrukturanbieter zu übersehen, die mit Verzögerung ebenfalls stark profitieren werden. Zudem wird die Abhängigkeit von wenigen Produktionsstandorten und die damit verbundenen geopolitischen Risiken oft unterschätzt.",
+    "widerspruch": "Ja. Während der Tech-Sektor, insbesondere KI und Halbleiter, boomt, bricht das Wagniskapital für deutsche Biotech-Firmen ein. Dies zeigt eine selektive Kapitalallokation und nicht einen allgemeinen Aufschwung über alle innovativen Sektoren hinweg. Auch die fallenden Tesla-Zulassungen stehen im Kontrast zum breiteren Tech-Optimismus.",
+    "markt": "Gold: fällt | Silber: fällt | Öl: fällt | Bitcoin: steigt | DAX: steigt | EUR/USD: fällt",
+    "opportunity": "Konkrete Chance im Bereich der peripheren Zulieferer für den Halbleiter- und KI-Sektor.",
+    "positionierung": "Smart Money ist bullish auf Halbleiter (AMD, TSM, ARM) und den breiteren S&P 500. Das Sentiment ist insgesamt 'Fear' (11/100), was darauf hindeutet, dass die breite Masse noch zögerlich ist, während institutionelle Anleger bereits positioniert sind. Die positiven Sentiment-Scores für die genannten Ticker (AMD 0.38, TSM 0.43, SNDK 0.60) bestätigen dies.",
+    "reflexivitaet": "Der Hype um KI und Halbleiter führt zu steigenden Kursen, was wiederum mehr Investoren anzieht (FOMO). Diese erhöhte Nachfrage treibt die Kurse weiter in die Höhe und rechtfertigt weitere Investitionen in die Infrastruktur, was den Zyklus verstärkt. Die positiven Analysten-Calls (Wells Fargo, Bernstein) verstärken diesen Feedback-Loop.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Wir sehen geopolitische Neuausrichtungen, technologische Revolutionen (KI, Quantencomputing) und eine Umverteilung von Kapitalströmen. Die alte Ordnung wird in Frage gestellt.",
+    "metaZyklus": "Wachstum, angetrieben durch technologische Innovation (KI, Quantencomputer), aber mit Anzeichen von selektiver Kapitalallokation und geopolitischen Spannungen, die zu einem Umbruch führen könnten.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das den AAOIFI-Standards für Gold als Währung und Wertaufbewahrungsmittel entspricht.",
+    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold und erfüllt die AAOIFI-Standards für Gold als Zahlungsmittel oder Ware.",
     "purification": "0.00",
     "entscheidung": "WARTEN",
     "richtung": "null",
@@ -183,53 +263,53 @@
     "zeitraum": "null",
     "einsatz": 0,
     "exitStrategie": "null",
-    "waehrungsrisiko": "Ein steigender EUR/USD würde die Attraktivität von US-Dollar-denominierten Assets für europäische Anleger mindern, aber gleichzeitig den Kauf von Gold in Euro günstiger machen.",
-    "psychologie": "FOMO. Der Dow auf Rekordhoch und der Rebound der Tech-Aktien könnten Anleger dazu verleiten, in den Markt zu springen, ohne die zugrunde liegenden Risiken und den niedrigen Fear & Greed Index zu beachten.",
+    "waehrungsrisiko": "null",
+    "psychologie": "FOMO im Tech-Sektor, insbesondere bei KI und Halbleitern, könnte zu überzogenen Bewertungen führen. Die niedrige Fear & Greed-Rate (11/100) deutet jedoch darauf hin, dass die breite Masse noch nicht vollständig in den FOMO-Modus übergegangen ist.",
     "ruhigerTag": false,
-    "lernpunkt": "Fear & Greed Index: Ein Indikator, der die Marktstimmung misst. Werte unter 20 deuten auf extreme Angst hin, über 80 auf extreme Gier. Ein niedriger Wert bei gleichzeitig steigenden Indizes kann auf eine ungesunde Marktbreite oder eine bevorstehende Korrektur hindeuten.",
-    "tagesfrage": "Wie lange kann der Markt die Angst der Anleger ignorieren, bevor die Realität die Euphorie einholt?",
-    "brief": "Ayman, der heutige Tag zeigt eine klassische Diskrepanz zwischen Oberfläche und Wahrheit. Während die Wall Street Rekorde feiert und Tech-Aktien boomen, signalisiert der Fear & Greed Index tiefe Angst. Die vermeintliche Entspannung im US-Iran-Konflikt ist fragil, und Trumps Intervention bei den Ölpreisen ist ein politisches Manöver. Konzentriere dich auf die peripheren Profiteure im Tech-Sektor und bleibe wachsam gegenüber der Volatilität, die durch diese Widersprüche entsteht. Dein Fokus sollte auf langfristigen, fundamental starken Assets liegen, die nicht nur vom Hype getragen werden."
+    "lernpunkt": "Periphere Assets: Dies sind Vermögenswerte oder Unternehmen, die nicht direkt im Zentrum eines Hypes stehen, aber indirekt und oft mit einer Zeitverzögerung von dessen Erfolg profitieren. Sie sind oft Zulieferer, Dienstleister oder Infrastrukturanbieter für den Kernsektor und bieten oft ein besseres Risiko-Rendite-Verhältnis, da sie weniger im Fokus der Spekulation stehen.",
+    "tagesfrage": "Wie lange kann der aktuelle KI- und Halbleiter-Hype anhalten, bevor die Realität der Produktionskapazitäten und geopolitischen Risiken die Euphorie einholt?",
+    "brief": "Ayman, der Markt zeigt heute eine klare Divergenz. Während der Halbleiter- und KI-Sektor durch massive Investitionen und positive Nachrichten befeuert wird, sehen wir gleichzeitig einen Einbruch im Wagniskapital für Biotech und Rückgänge bei Tesla. Dies ist ein klares Zeichen für selektive Kapitalflüsse. Das Smart Money ist im Tech-Sektor positioniert, während die breite Masse noch zögerlich ist. Deine Aufgabe ist es nun, nicht den offensichtlichen Hype zu jagen, sondern die peripheren Profiteure zu identifizieren, die mit Verzögerung folgen werden. Denke an die Infrastruktur, die diese Revolution ermöglicht."
   },
   "prices": {
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 59306.62109375,
-      "change": -1.3830732181800762
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4035.699951171875,
-      "change": 0.3331402973692623
+      "price": 3987.800048828125,
+      "change": -0.8725012893106227
     },
     "SI=F": {
       "label": "Silber",
-      "price": 59.13999938964844,
-      "change": 1.658788423280519
+      "price": 58.09000015258789,
+      "change": -2.331995577857965
     },
-    "CL=F": {
-      "label": "Öl",
-      "price": 70.5199966430664,
-      "change": -0.32509308400507947
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1394712924957275,
-      "change": 0.07976161558628661
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 58607.671875,
+      "change": 0.08335630256630149
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 24823.48046875,
-      "change": 0.7982731021285803
+      "price": 25071.3203125,
+      "change": 0.3020896861231824
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1401208639144897,
+      "change": -0.1824139318405616
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 68.80999755859375,
+      "change": -0.9928092682104317
     }
   },
   "fearGreed": [
-    17,
     12,
     13,
     15,
     18,
     12,
-    15
+    15,
+    11
   ],
   "simulation": {
     "buy": 10,
