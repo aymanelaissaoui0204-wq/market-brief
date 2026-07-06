@@ -1,6 +1,6 @@
 {
-  "date": "Sonntag, 5. Juli 2026",
-  "generatedAt": "2026-07-05T07:57:06.687Z",
+  "date": "Montag, 6. Juli 2026",
+  "generatedAt": "2026-07-06T09:00:17.872Z",
   "news": [
     {
       "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
@@ -17,264 +17,154 @@
       "origin": "GNews"
     },
     {
-      "title": "Solaredge Technologies Inc (2ED) Stock, Price, News, Quotes, Forecast and Insights",
-      "source": "MSN",
-      "sentiment": "Bearish",
-      "tickers": [
-        "SEDG(-0.36)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Corning stock drops 11% in post-rally trade as AI fiber hopes hit test",
-      "source": "TechStock²",
-      "sentiment": "Neutral",
-      "tickers": [
-        "GLW(-0.21)",
-        "NVDA(0.33)",
-        "AMZN(0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Palo Alto Networks (NASDAQ:PANW) could see staged Israel index move after 14% weekly gain",
-      "source": "TechStock²",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "PANW(0.30)",
-        "CRWD(0.23)",
-        "WFC(0.30)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Does ADP’s Expanded US$9.2 Billion Credit Capacity (ADP) Reframe Its Capital Allocation Playbook?",
-      "source": "Simply Wall Street",
-      "sentiment": "Neutral",
-      "tickers": [
-        "ADP(0.34)",
-        "PAYC(-0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "CrowdStrike Holdings, Inc. Class A Trade Ideas — SIX:CRWD.USD",
-      "source": "TradingView",
-      "sentiment": "Neutral",
-      "tickers": [
-        "CRWD(0.32)",
-        "MSFT(-0.16)",
-        "PANW(-0.16)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "BigBear.ai (NYSE:BBAI) steady after Russell bump as cap overhang resurfaces",
-      "source": "TechStock²",
-      "sentiment": "Neutral",
-      "tickers": [
-        "BBAI(-0.16)",
-        "PLTR(0.28)",
-        "T(-0.16)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Travel Headwinds Result In Attractive Valuation For Global Payments (GPN) Stocks",
-      "source": "Yahoo Finance Singapore",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "GPN(0.34)",
-        "WFC(0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "iShares MSCI World ETF Faces Twin Tests: Fee Rivalry and a Tech Selloff Triggered by Weak Jobs Data",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Neutral",
-      "tickers": [
-        "URTH(0.04)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Does Insider’s Planned SBCF Share Sale and Margin Pressure Undermine Seacoast’s Tech-Focused Growth Narrative?",
-      "source": "Simply Wall Street",
-      "sentiment": "Neutral",
-      "tickers": [
-        "SBCF(-0.25)",
-        "ADBE(0.32)",
-        "MSFT(0.25)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Zillow Stock And Housing Rate Plays Retail Investors Are Watching",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "REAX(0.21)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "United Microelectronics eyes global chip demand as investors assess long-term growth",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Bullish",
-      "tickers": [
-        "UMC(0.43)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "BigBear.ai (NYSE: BBAI) Pushes Into Industrial AI With Shipyard Contracts And Supply-Chain Tools",
-      "source": "Foreign Policy Journal",
-      "sentiment": "Neutral",
-      "tickers": [
-        "BBAI(0.01)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "AT&T down 9% for the week; dividend yield, SpaceX issues ahead of Q2",
-      "source": "TechStock²",
-      "sentiment": "Bearish",
-      "tickers": [
-        "T(-0.50)",
-        "VZ(-0.44)",
-        "TMUS(-0.25)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Rep. Gilbert Ray Cisneros, Jr. Acquires Shares of Advanced Micro Devices, Inc. (NASDAQ:AMD)",
-      "source": "MarketBeat",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "AMD(0.33)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Photos of the week - Reuters",
+      "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "India withdraws gas curbs as Middle East LNG supply resumes - Reuters",
+      "title": "NATO Ankara summit: who's going and what to expect - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Israel hasn't said who its soldiers abused. Two Gaza mothers think it's their son - Reuters",
+      "title": "Morning Bid: Samsung to serve chip taster for earnings feast - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
+      "title": "Alternative-fuel vehicles hit record market share in June after Iran war - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "U.S. turns 250, Taylor-Travis wed and Iran mourns Khamenei - Reuters",
+      "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "The World Cup sends prediction market volumes soaring to record highs",
+      "title": "Oil drifts down after OPEC+ agrees to raise output targets - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "OPEC+ to boost crude output, but can it deliver and who will buy? - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UK tightens rules on overseas political donations to stop 'dodgy funding' - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Ukraine says Russia damaged more than 200 railway locomotives in 2026 - Reuters",
+      "title": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
+      "title": "Israel government says it will defy Supreme Court ruling on media regulator - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oil is little changed as Persian Gulf flows near pre-war levels",
-      "source": "Bloomberg",
+      "title": "Israeli strike kills two people in Gaza, medics say - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Phone Lady Mary Jane Copps Helps Young Workers Overcome Fears",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Biggest stock movers Monday: Crypto stocks, TSLA, and more (NYSE:CRCL)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Apple, Nvidia supplier Unimicron aims for $1.4B in global depositary share sale",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
     }
   ],
   "sections": {
     "oberflaeche": [
-      "Mannheimer Morgen: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
-      "STERN.de: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
-      "MSN: Solaredge Technologies Inc (2ED) Stock, Price, News, Quotes, Forecast and Insights",
-      "TechStock²: Corning stock drops 11% in post-rally trade as AI fiber hopes hit test",
-      "TechStock²: Palo Alto Networks (NASDAQ:PANW) could see staged Israel index move after 14% weekly gain",
-      "Simply Wall Street: Does ADP’s Expanded US$9.2 Billion Credit Capacity (ADP) Reframe Its Capital Allocation Playbook?",
-      "TradingView: CrowdStrike Holdings, Inc. Class A Trade Ideas — SIX:CRWD.USD",
-      "TechStock²: BigBear.ai (NYSE:BBAI) steady after Russell bump as cap overhang resurfaces",
-      "Yahoo Finance Singapore: Travel Headwinds Result In Attractive Valuation For Global Payments (GPN) Stocks",
-      "Ad-hoc-news.de: iShares MSCI World ETF Faces Twin Tests: Fee Rivalry and a Tech Selloff Triggered by Weak Jobs Data",
-      "Simply Wall Street: Does Insider’s Planned SBCF Share Sale and Margin Pressure Undermine Seacoast’s Tech-Focused Growth Narrative?",
-      "Simply Wall Street: Zillow Stock And Housing Rate Plays Retail Investors Are Watching",
-      "Ad-hoc-news.de: United Microelectronics eyes global chip demand as investors assess long-term growth",
-      "Foreign Policy Journal: BigBear.ai (NYSE: BBAI) Pushes Into Industrial AI With Shipyard Contracts And Supply-Chain Tools",
-      "TechStock²: AT&T down 9% for the week; dividend yield, SpaceX issues ahead of Q2",
-      "MarketBeat: Rep. Gilbert Ray Cisneros, Jr. Acquires Shares of Advanced Micro Devices, Inc. (NASDAQ:AMD)",
-      "Reuters: Photos of the week - Reuters",
-      "Reuters: India withdraws gas curbs as Middle East LNG supply resumes - Reuters",
-      "Reuters: Israel hasn't said who its soldiers abused. Two Gaza mothers think it's their son - Reuters",
-      "Reuters: Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters"
+      "GNews: Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "GNews: Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "Finnhub: World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
+      "Finnhub: Samsung to serve chip taster for earnings feast - Reuters",
+      "Finnhub: Alternative-fuel vehicles hit record market share in June after Iran war - Reuters",
+      "Finnhub: Asian shares slip as earnings loom, oil weighed by supply - Reuters",
+      "Finnhub: Oil drifts down after OPEC+ agrees to raise output targets - Reuters",
+      "Finnhub: OPEC+ to boost crude output, but can it deliver and who will buy?",
+      "CNBC: Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it",
+      "Marketaux: Apple, Nvidia supplier Unimicron aims for $1.4B in global depositary share sale"
     ],
     "hypeNews": [
-      "KI-Sektor resilient trotz einzelner Rücksetzer",
-      "Cybersicherheit im Fokus",
-      "Halbleiter-Nachfrage global",
-      "SpaceX-Probleme bei AT&T"
+      "Halbleiter-Sektor: Samsung liefert Chip-Vorschau für Quartalsergebnisse, Unimicron plant große Kapitalaufnahme, Jim Cramer kommentiert Chip-Aktien-Schwäche.",
+      "Ölmarkt: Welt absorbiert Iran-Kriegsverluste, aber Lagerbestände sind niedrig; OPEC+ erhöht Produktionsziele, was zu Preisdruck führt."
     ],
-    "hypeCenter": "Der KI-Sektor bleibt trotz einiger neutraler und bearish Nachrichten (Corning, BigBear.ai) ein Hype-Zentrum, da die zugrunde liegende Nachfrage nach KI-Infrastruktur und -Dienstleistungen (NVIDIA, AMD, Palo Alto Networks) weiterhin stark ist. Die positiven Sentiment-Scores für AMD und PANW stützen dies.",
-    "peripherEffect": "Vom KI-Hype profitieren verzögert: Spezialisierte Kühlungslösungen für Rechenzentren, Anbieter von sauberer Energie für den erhöhten Strombedarf von KI, seltene Erden für Hochleistungschips, und möglicherweise auch Infrastruktur-Anbieter für die physische Expansion von Rechenzentren. Im Kontext von SpaceX-Problemen könnten alternative Satelliten-Dienstleister oder Zulieferer für konkurrierende Raumfahrtprogramme profitieren.",
-    "narrativ": "Die Masse glaubt, dass der Tech-Sektor, insbesondere KI und Cybersicherheit, weiterhin der Wachstumsmotor ist, auch wenn es einzelne Rückschläge gibt. Die Probleme bei AT&T und SpaceX werden als isolierte Ereignisse wahrgenommen, nicht als systemisches Risiko. Die globale Chip-Nachfrage wird als bullish interpretiert.",
-    "realitaet": "Hinter den Kulissen sehen wir eine Verschiebung von Wagniskapital in Deutschland, was auf eine selektivere Finanzierung hindeutet. Die 'Tech Selloff Triggered by Weak Jobs Data' im iShares MSCI World ETF deutet auf eine makroökonomische Schwäche hin, die von den positiven Tech-Narrativen überdeckt wird. Die Probleme bei AT&T und SpaceX könnten auf tiefere, strukturelle Herausforderungen in der Telekommunikations- und Raumfahrtbranche hindeuten, die über die Oberfläche hinausgehen. Die Geopolitik im Nahen Osten (Israel, Iran, Türkei) und die Energieversorgung (Indien) sind unterschätzte Faktoren, die die globalen Lieferketten und damit auch die Tech-Branche beeinflussen können.",
-    "macht": "Firmen wie NVIDIA, AMD, Palo Alto Networks und CrowdStrike profitieren von der anhaltenden Nachfrage nach KI und Cybersicherheit. United Microelectronics profitiert von der globalen Chip-Nachfrage. Banken wie WFC profitieren von Finanzdienstleistungen im Tech-Sektor. Insider wie Rep. Gilbert Ray Cisneros, Jr. positionieren sich in AMD. Die geopolitischen Akteure im Nahen Osten beeinflussen die Energie- und Rohstoffmärkte.",
-    "geopolitik": "Die Wiederaufnahme der LNG-Lieferungen aus dem Nahen Osten nach Indien ist ein Zeichen für eine Stabilisierung der Energieversorgung, aber die Spannungen zwischen Israel, Iran und der Türkei bleiben ein erhebliches Risiko für die regionale Stabilität und globale Lieferketten. Erdogans Aussage bezüglich des US-Iran-Deals unterstreicht die Komplexität der Allianzen. Dies könnte die De-Dollarisierungstendenzen in Asien und dem Nahen Osten verstärken, da Länder nach alternativen Handelsrouten und Währungen suchen, um geopolitische Risiken zu mindern.",
-    "liquiditaet": "Kapital fließt weiterhin in ausgewählte, als 'sicher' oder 'wachstumsstark' wahrgenommene Tech-Aktien (KI, Cybersicherheit, Halbleiter). Es gibt jedoch Anzeichen für eine Verlangsamung des Wagniskapitals in bestimmten Sektoren (Biotech Deutschland) und eine allgemeine Vorsicht, die sich im niedrigen Fear & Greed Index widerspiegelt. Gold und Silber steigen, was auf eine Flucht in sichere Häfen hindeutet.",
-    "kette": "Schwache Arbeitsmarktdaten -> Tech Selloff -> Anstieg der sicheren Häfen (Gold, Silber) -> Selektivere Kapitalallokation in Tech (Wachstum vs. Value) -> Geopolitische Spannungen beeinflussen Rohstoffmärkte -> Unternehmen wie UMC profitieren von globaler Chip-Nachfrage, während andere (AT&T, Solaredge) unter Druck geraten.",
-    "timing": "Mitte im Trend. Der KI-Hype ist etabliert, aber es gibt erste Anzeichen von Selektivität und makroökonomischem Gegenwind. Die breite Euphorie weicht einer differenzierteren Betrachtung. Die Probleme bei AT&T und SpaceX könnten ein frühes Warnsignal für eine mögliche Überhitzung in bestimmten Bereichen sein.",
-    "saisonalitaet": "Juli ist historisch oft ein volatiler Monat, in dem Gewinne aus dem ersten Halbjahr konsolidiert oder neu bewertet werden. Oft sehen wir eine Rotation aus 'risk-on' Assets in 'risk-off' Assets, insbesondere wenn makroökonomische Daten enttäuschen. Der Anstieg von Gold und Silber könnte dieses Muster bestätigen.",
-    "masseFehler": "Die Masse sieht die positiven Sentiment-Scores für einzelne Tech-Aktien und ignoriert die breiteren makroökonomischen Warnsignale (schwache Arbeitsmarktdaten, Wagniskapital-Einbruch, niedriger Fear & Greed Index). Sie übersieht die potenziellen Auswirkungen der geopolitischen Spannungen auf die Lieferketten und die Energiepreise, die den Tech-Sektor indirekt belasten könnten. Der Fokus liegt zu stark auf den Headlines und zu wenig auf den Geldströmen.",
-    "widerspruch": "Ja. Der Anstieg von Gold und Silber bei gleichzeitigem Anstieg des DAX und Bitcoin (wenn auch Bitcoin stagniert) ist widersprüchlich. Gold und Silber signalisieren Risikoaversion und Unsicherheit, während ein steigender DAX und ein stabiler Bitcoin auf eine gewisse Marktstärke hindeuten. Dies deutet auf eine Divergenz zwischen traditionellen sicheren Häfen und risikoreicheren Assets hin, möglicherweise getrieben durch unterschiedliche Anlegergruppen oder eine selektive Risikobereitschaft.",
-    "markt": "Gold steigt | Silber steigt | Öl steigt leicht | Bitcoin stagniert | DAX steigt leicht | EUR/USD steigt leicht",
-    "opportunity": "Ja, in ausgewählten Halbleiter- und Cybersicherheitsunternehmen, die von struktureller Nachfrage profitieren, sowie in Edelmetallen als Absicherung gegen makroökonomische Unsicherheit.",
-    "positionierung": "Smart Money zeigt eine selektive Positionierung. Während es in AMD und PANW akkumuliert, gibt es Abverkäufe in AT&T und Solaredge. Der niedrige Fear & Greed Index (23/100) deutet auf eine allgemeine Vorsicht hin, was oft ein Kontraindikator für Smart Money ist, um sich in unterbewerteten Assets zu positionieren. Die positiven Sentiment-Scores für UMC, AMD und PANW bei gleichzeitig neutralem bis bearish Gesamtmarkt-Sentiment (Fear & Greed) zeigen eine Konzentration auf spezifische Sektoren.",
-    "reflexivitaet": "Die negativen Nachrichten über AT&T und SpaceX könnten zu einer Neubewertung der Telekommunikations- und Raumfahrtbranche führen, was wiederum zu weiteren Abverkäufen und einer Umverteilung von Kapital in andere Tech-Sektoren (KI, Cybersicherheit) führen könnte. Der Anstieg von Gold und Silber könnte die Angst verstärken und weitere Kapitalflucht aus risikoreicheren Assets auslösen, was einen selbstverstärkenden Effekt erzeugt.",
+    "hypeCenter": "Der Halbleitersektor ist heute der stärkste Hype. Dies wird durch die Ankündigung von Samsung, die als Vorbote für die Quartalsergebnisse dienen, die Kapitalpläne von Unimicron (einem Zulieferer von Apple und Nvidia) und die Kommentare von Jim Cramer zur aktuellen Chip-Aktien-Schwäche angetrieben.",
+    "peripherEffect": "Verzögert könnten Unternehmen profitieren, die kritische Rohstoffe für die Halbleiterproduktion liefern (z.B. seltene Erden, hochreine Chemikalien), sowie spezialisierte Maschinenbauer für die Chipfertigung und Unternehmen im Bereich der fortschrittlichen Verpackungstechnologien für Halbleiter.",
+    "narrativ": "Die Masse glaubt, dass der Halbleitersektor trotz kurzfristiger Schwäche eine starke Erholung bevorsteht, gestützt durch große Player wie Samsung und Zulieferer wie Unimicron. Gleichzeitig wird der Ölmarkt als volatil eingeschätzt, wobei die OPEC+ versucht, die Angebotsverluste auszugleichen, aber die Nachfrage unsicher bleibt.",
+    "realitaet": "Die Nachrichten deuten auf einen zyklischen Charakter des Halbleitersektors hin, mit kurzfristigen Schwankungen, aber potenziell starken langfristigen Aussichten aufgrund der fortschreitenden Digitalisierung und KI. Die Ölmarktnachrichten zeigen eine komplexe Gemengelage aus geopolitischen Spannungen und Angebotsmanagement, die die Preise kurzfristig dämpft, aber die Risiken durch niedrige Lagerbestände aufrechterhält.",
+    "macht": "Samsung, Unimicron, Apple, Nvidia, sowie die OPEC+-Mitgliedsstaaten und die großen Ölkonzerne. Auch die Analysten und Medienpersönlichkeiten wie Jim Cramer üben Einfluss aus.",
+    "geopolitik": "Die Nachrichten über den Iran-Krieg und die NATO-Gipfel deuten auf anhaltende geopolitische Spannungen hin, die die Rohstoffmärkte (insbesondere Öl) beeinflussen. Die Reaktion der alternativen Kraftfahrzeuge auf den Ölverlust könnte auf eine Diversifizierung der Energiequellen hindeuten, was langfristig die Abhängigkeit von traditionellen Ölproduzenten verringern könnte. Die BRICS-Staaten könnten von einer solchen Diversifizierung profitieren, während die G7-Staaten versuchen, ihre technologische und wirtschaftliche Dominanz zu wahren.",
+    "liquiditaet": "Kapital fließt in den Halbleitersektor, insbesondere in Unternehmen, die als Zulieferer für große Player wie Apple und Nvidia gelten. Gleichzeitig scheint Kapital aus dem Kryptomarkt abzuziehen (Bitcoin -1.12%, Fear & Greed 24/100), was auf eine Flucht in sicherere Anlagen oder eine Neubewertung von Risiken hindeutet.",
+    "kette": "Iran-Krieg -> Ölverlust -> Niedrige Lagerbestände -> OPEC+ erhöht Produktion -> Preisdruck Öl. Gleichzeitig: Samsung/Unimicron News -> Halbleiter-Hype -> Kapitalfluss in Chip-Aktien.",
+    "timing": "Mitte im Trend für Halbleiter. Die Nachrichten deuten auf eine Konsolidierungs- oder Erholungsphase nach einer Schwäche hin, was typisch für die Mitte eines Aufwärtszyklus ist, bevor die breitere Akzeptanz eintritt. Der Ölmarkt befindet sich in einer volatilen Phase, die von geopolitischen Ereignissen und Angebotsentscheidungen geprägt ist.",
+    "saisonalitaet": "Juli ist historisch oft ein Monat mit geringerer Handelsaktivität vor der Sommerpause, aber auch mit potenziellen Überraschungen durch Quartalsberichte und geopolitische Ereignisse.",
+    "masseFehler": "Die Masse sieht möglicherweise nur die kurzfristigen Schwankungen im Halbleitersektor und verpasst die langfristigen strukturellen Treiber wie KI und fortschreitende Digitalisierung. Beim Ölmarkt könnten sie die unterschwelligen Risiken durch niedrige Lagerbestände ignorieren und sich nur auf die kurzfristige Preisentwicklung konzentrieren.",
+    "widerspruch": "Ja. Die Nachrichten über den Ölverlust und die damit verbundenen Risiken stehen im Kontrast zu den Meldungen über die Erhöhung der OPEC+-Produktionsziele und den daraus resultierenden Preisdruck. Dies deutet auf eine Unsicherheit im Markt hin.",
+    "markt": "Gold: stabil | Silber: stabil | Öl: fallend | Bitcoin: fallend | DAX: steigend | EUR/USD: steigend",
+    "opportunity": "Konkrete Chance im Halbleiter-Zuliefersektor, insbesondere bei Unternehmen, die von den großen Playern (Nvidia, Apple) abhängig sind und deren Kapitalaufnahmepläne positiv sind.",
+    "positionierung": "Smart Money scheint sich im Halbleitersektor zu positionieren, wie die Kapitalaufnahmepläne von Unimicron zeigen. Das niedrige Sentiment (Fear & Greed 24/100) deutet auf eine allgemeine Vorsicht hin, die aber auch Chancen für kluge Investoren birgt, die antizyklisch agieren.",
+    "reflexivitaet": "Die positiven Nachrichten über die Kapitalaufnahme von Unimicron könnten weitere Zulieferer und damit den gesamten Halbleitersektor positiv beeinflussen, was wiederum die Nachfrage nach Halbleiterprodukten und damit die Produktionspläne der großen Hersteller ankurbelt.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Wir befinden uns in einer Phase des technologischen Umbruchs (KI, Quantencomputer), aber gleichzeitig auch in einem makroökonomischen Umbruch mit steigenden Zinsen, Inflation und geopolitischen Spannungen, die zu einer Neubewertung von Risiken und Chancen führen.",
+    "metaZyklus": "Umbruch. Die geopolitischen Spannungen, die Energiepreisschwankungen und die technologischen Verschiebungen (KI, alternative Antriebe) deuten auf eine Phase des Umbruchs hin, in der alte Strukturen herausgefordert und neue etabliert werden.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das die AAOIFI-Standards für Gold als Währung erfüllt und somit halal ist.",
+    "halalBegruendung": "Gold als physisches Edelmetall, das zu 100% hinterlegt ist und keine Zinsen generiert, ist nach AAOIFI-Standards als halal anerkannt.",
     "purification": "0.00",
     "entscheidung": "WARTEN",
     "richtung": "null",
@@ -284,53 +174,53 @@
     "zeitraum": "null",
     "einsatz": 0,
     "exitStrategie": "null",
-    "waehrungsrisiko": "Ein steigender EUR/USD würde den Wert von US-Dollar-denominierten Assets für europäische Anleger mindern, während er den Kauf von US-Assets günstiger machen würde. Bei Edelmetallen, die oft in USD gehandelt werden, könnte ein stärkerer Euro den Gewinn in Euro-Termen schmälern.",
-    "psychologie": "Der niedrige Fear & Greed Index deutet auf Angst im Markt hin. Dies könnte zu Panikverkäufen führen, bietet aber auch Chancen für antizyklische Anleger. FOMO könnte in den weiterhin gehypten KI-Aktien entstehen, aber die breitere Marktstimmung ist eher vorsichtig.",
+    "waehrungsrisiko": "Der steigende EUR/USD-Kurs könnte für nicht-US-basierte Investoren in US-Dollar-denominierten Assets wie Halbleiteraktien eine leichte Belastung darstellen, während er für europäische Anleger, die in Euro investieren, vorteilhaft sein könnte.",
+    "psychologie": "FOMO Warnung im Halbleitersektor, wenn die Kurse stark anziehen. Gleichzeitig Panik im Kryptomarkt aufgrund des niedrigen Fear & Greed Index.",
     "ruhigerTag": false,
-    "lernpunkt": "Fear & Greed Index: Ein Indikator, der die Marktstimmung misst, indem er verschiedene Faktoren wie Marktvolatilität, Momentum und Nachfrage nach sicheren Häfen kombiniert. Ein niedriger Wert (wie 23/100) deutet auf Angst hin, ein hoher Wert auf Gier.",
-    "tagesfrage": "Wie beeinflusst die zunehmende Fragmentierung der globalen Lieferketten durch geopolitische Spannungen die langfristige Wettbewerbsfähigkeit von Tech-Giganten, die auf globale Produktion angewiesen sind?",
-    "brief": "Ayman, die Oberfläche zeigt heute eine Mischung aus Tech-Hype und vereinzelten Rückschlägen. Doch das Geld spricht eine andere Sprache: Der niedrige Fear & Greed Index und der Anstieg von Gold und Silber signalisieren eine tiefere Unsicherheit. Während KI und Cybersicherheit weiterhin Kapital anziehen, dürfen wir die makroökonomischen Warnsignale und die geopolitischen Spannungen nicht ignorieren. Die Probleme bei AT&T und SpaceX sind mehr als nur Schlagzeilen; sie könnten auf strukturelle Schwächen hindeuten. Bleibe wachsam und fokussiert auf die wahren Geldströme, nicht auf den Hype."
+    "lernpunkt": "Periphere Assets: Dies sind Anlagen, die nicht direkt im Fokus eines Hypes stehen, aber indirekt davon profitieren. Sie sind oft weniger volatil und bieten eine Chance auf stabile Gewinne, wenn der Hauptsektor seine Dynamik entfaltet. Ein Beispiel ist die Kupfernachfrage, die durch den Hype um Elektrofahrzeuge steigt.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach alternativen Kraftfahrzeugen wirklich sein, wenn die Ölpreise wieder stabilisieren?",
+    "brief": "Ayman, heute sehen wir eine klare Fokussierung auf den Halbleitersektor, angetrieben von großen Namen wie Samsung und Unimicron. Dies ist eine klassische Gelegenheit, die peripheren Profiteure zu identifizieren, die oft übersehen werden. Gleichzeitig zeigt die Ölmarktsituation, wie schnell sich die Narrative ändern können, und die geopolitischen Spannungen bleiben ein ständiger Begleiter. Nutze die Marktunsicherheit, um kluge Entscheidungen zu treffen, anstatt der Masse zu folgen."
   },
   "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4159.7001953125,
+      "change": 0
+    },
     "SI=F": {
       "label": "Silber",
-      "price": 62.814998626708984,
-      "change": 3.5816120814742267
+      "price": 62.369998931884766,
+      "change": 0
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 25779.310546875,
-      "change": 0.7756952881756555
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 68.77999877929688,
-      "change": 0.1310181026232943
+      "price": 25834.5390625,
+      "change": 0.21423581334565547
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1440337896347046,
-      "change": 0.15444499779379198
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4187.2998046875,
-      "change": 1.8138839650900351
+      "price": 1.1423349380493164,
+      "change": 0.005719025528143659
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 62946.66015625,
+      "price": 62833.37890625,
+      "change": -1.124355170664247
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 68.44999694824219,
       "change": 0
     }
   },
   "fearGreed": [
-    12,
     15,
     11,
     19,
     21,
     22,
-    23
+    23,
+    24
   ],
   "simulation": {
     "buy": 10,
