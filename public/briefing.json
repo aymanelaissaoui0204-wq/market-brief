@@ -1,6 +1,6 @@
 {
-  "date": "Dienstag, 14. Juli 2026",
-  "generatedAt": "2026-07-14T07:10:30.670Z",
+  "date": "Mittwoch, 15. Juli 2026",
+  "generatedAt": "2026-07-15T07:14:32.268Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,213 +17,210 @@
       "origin": "GNews"
     },
     {
-      "title": "The Bull Case For MSCI (MSCI) Could Change Following New AI And ESG Private Markets Push - Learn Why",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "MSCI(0.45)",
-        "CME(0.13)",
-        "MCO(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Fair Isaac stock reflects steady growth as analytics demand supports the business",
-      "source": "Ad Hoc News",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "FICO(0.45)",
-        "EFX(0.22)",
-        "SPGI(0.22)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "HubSpot, ZoomInfo, and Paycom Stocks Trade Up, What You Need To Know",
+      "title": "Entegris, Kulicke and Soffa, and Power Integrations Stocks Trade Up, What You Need To Know",
       "source": "Yahoo Finance UK",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "HUBS(0.42)",
-        "CRM(0.45)",
-        "PAYC(0.42)"
+        "ENTG(0.40)",
+        "IBM(0.14)",
+        "INTC(0.21)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Power Integrations, NXP Semiconductors, and Universal Display Shares Are Falling, What You Need To Know",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Neutral",
+      "title": "EXCLUSIVE: ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show",
+      "source": "Reuters",
+      "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "NXPI(0.05)"
+        "NVDA(0.23)",
+        "AMD(0.28)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Teradyne stock holds steady as test equipment demand supports long-term outlook",
-      "source": "Ad Hoc News",
+      "title": "Liberty Broadband stock holds steady as cable interests anchor its long-term value",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "LBRDP(0.04)",
+        "CHTR(0.25)",
+        "CMCSA(0.22)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Take-Two Interactive (TTWO) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "source": "Yahoo Finance",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "TTWO(-0.27)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Microchip Technology and onsemi Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo Finance UK",
       "sentiment": "Bullish",
       "tickers": [
-        "TER(0.64)",
-        "AMAT(0.43)",
-        "LRCX(0.40)"
+        "MCHP(0.44)",
+        "ON(0.48)",
+        "IBM(0.33)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "How S&P Global's (SPGI) Market Intelligence Revamp and Debt Move Have Changed Its Investment Story",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "SPGI(0.23)",
-        "CME(0.10)",
-        "MCO(0.17)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Walmart Vs. Costco: Buy Walmart Over Costco for Defensive Coverage and AI Integration Superiority",
-      "source": "24/7 Wall St.",
+      "title": "HubSpot, Workday, and Asana Stocks Trade Down, What You Need To Know",
+      "source": "Yahoo Finance UK",
       "sentiment": "Neutral",
       "tickers": [
-        "COST(-0.22)",
-        "WMT(0.30)",
-        "FDS(0.33)"
+        "HUBS(-0.30)",
+        "WDAY(-0.34)",
+        "NOW(0.22)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Form 4 H2O America For: 13 July By Investing.com",
-      "source": "Investing.com Australia",
+      "title": "Ahead of Earnings, Traders Can Tune Into These Netflix ETFs",
+      "source": "ETF Database",
       "sentiment": "Neutral",
       "tickers": [
-        "HTO(0.15)"
+        "NFLX(-0.29)",
+        "WBD(0.11)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Cadence Design Systems (CDNS) Suffers a Larger Drop Than the General Market: Key Insights",
+      "title": "Cisco Systems (CSCO) Stock Dips While Market Gains: Key Facts",
       "source": "Yahoo Finance Singapore",
       "sentiment": "Neutral",
       "tickers": [
-        "CDNS(0.01)"
+        "CSCO(0.12)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Thomson Reuters (TRI) to Cut 500 Engineering Jobs Amid AI Expansion",
-      "source": "GuruFocus",
+      "title": "Form 4 Dell Technologies Inc For: 14 July By Investing.com",
+      "source": "Investing.com UK",
       "sentiment": "Neutral",
       "tickers": [
-        "TRI(0.08)"
+        "DELL(0.02)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Western Digital Stock Selloff Exposes a $240 Wall Street Split on AI Storage",
-      "source": "TechStock²",
+      "title": "Form 144 QUALCOMM Incorporated For: 14 July By Investing.com",
+      "source": "Investing.com Canada",
       "sentiment": "Neutral",
       "tickers": [
-        "WDC(-0.29)",
-        "C(0.40)",
-        "STX(-0.21)"
+        "QCOM(0.02)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Disney exiting streaming could spur 40% rally: Wells Fargo",
-      "source": "Financial Post",
+      "title": "Atlassian, monday.com, and Agilysys Stocks Trade Down, What You Need To Know",
+      "source": "Yahoo Finance",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AGYS(-0.25)",
+        "IBM(0.13)",
+        "NOW(0.35)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "TSMC (TSM) Stock Still Looks Undervalued Despite A Very Large Run",
+      "source": "Simply Wall Street",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "WFC(0.25)",
-        "DIS(0.31)",
-        "NFLX(0.14)"
+        "TSM(0.43)",
+        "TXN(0.20)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Automatic Data Processing Inc Stock (ADP) Closed Up by 3.83% on Jul 13: What Investors Need To Know",
+      "title": "SAP SE Stock (SAP) Closed Down by 3.07% on Jul 14: Drivers Behind the Movement",
       "source": "TradingKey",
-      "sentiment": "Somewhat-Bullish",
+      "sentiment": "Bearish",
       "tickers": [
-        "ADP(0.46)",
-        "META(0.15)",
-        "MSFT(0.26)"
+        "SAP(-0.44)",
+        "IBM(-0.49)",
+        "MSFT(-0.23)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "ASE Technology Holding Co Ltd Stock (ASX) Closed Down by 5.13% on Jul 13: What Signal Does It Send?",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bearish",
+      "title": "IBM stock closes down more than 25% after preannounced earnings results",
+      "source": "Yahoo Finance",
+      "sentiment": "Bearish",
       "tickers": [
-        "ASX(-0.41)",
-        "MU(-0.35)",
-        "NVDA(-0.30)"
+        "IBM(-0.72)",
+        "ORCL(-0.34)",
+        "MSFT(-0.32)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Apple’s iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low",
-      "source": "TradingView",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Intuitive Surgical (ISRG) Faces Recall Scrutiny, Is The Stock Still Cheap?",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
       "tickers": [
-        "AAPL(0.35)",
-        "GOOGL(0.09)"
+        "ISRG(-0.25)",
+        "MDT(0.10)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Gold recovers from two-week low ahead of US inflation figures - Reuters",
+      "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US says it has completed its latest wave of strikes on Iran - Reuters",
+      "title": "Iran-linked vessels pass through Hormuz ahead of US blockade - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oil hits one-month high as US, Iran step up attacks in Strait of Hormuz - Reuters",
+      "title": "Trump wants fees for Hormuz just like Iran - is that legal? - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump sends Congress formal notice that Iran conflict has resumed - Reuters",
+      "title": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump says US attacking Iran capabilities related to Strait of Hormuz - Reuters",
+      "title": "UK summons senior Iranian diplomat over alleged proxy attacks in Europe - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "3 things you need to know about cyclospora",
+      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
       "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US Russia sanctions bill eases threat of tariffs on China and India - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US Senate Democrats block $1.15 trillion defense bill over Iran war objections - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -231,113 +228,113 @@
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Heidenheimer Zeitung: Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
-      "GNews: n-tv NACHRICHTEN: Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
-      "AlphaVantage: Simply Wall Street: The Bull Case For MSCI (MSCI) Could Change Following New AI And ESG Private Markets Push - Learn Why",
-      "AlphaVantage: Ad Hoc News: Fair Isaac stock reflects steady growth as analytics demand supports the business",
-      "AlphaVantage: Yahoo Finance UK: HubSpot, ZoomInfo, and Paycom Stocks Trade Up, What You Need To Know",
-      "AlphaVantage: Yahoo Finance UK: Power Integrations, NXP Semiconductors, and Universal Display Shares Are Falling, What You Need To Know",
-      "AlphaVantage: Ad Hoc News: Teradyne stock holds steady as test equipment demand supports long-term outlook",
-      "AlphaVantage: Simply Wall Street: How S&P Global's (SPGI) Market Intelligence Revamp and Debt Move Have Changed Its Investment Story",
-      "AlphaVantage: 24/7 Wall St.: Walmart Vs. Costco: Buy Walmart Over Costco for Defensive Coverage and AI Integration Superiority",
-      "AlphaVantage: Investing.com Australia: Form 4 H2O America For: 13 July By Investing.com",
-      "AlphaVantage: Yahoo Finance Singapore: Cadence Design Systems (CDNS) Suffers a Larger Drop Than the General Market: Key Insights",
-      "AlphaVantage: GuruFocus: Thomson Reuters (TRI) to Cut 500 Engineering Jobs Amid AI Expansion",
-      "AlphaVantage: TechStock²: Western Digital Stock Selloff Exposes a $240 Wall Street Split on AI Storage",
-      "AlphaVantage: Financial Post: Disney exiting streaming could spur 40% rally: Wells Fargo",
-      "AlphaVantage: TradingKey: Automatic Data Processing Inc Stock (ADP) Closed Up by 3.83% on Jul 13: What Investors Need To Know",
-      "AlphaVantage: TradingKey: ASE Technology Holding Co Ltd Stock (ASX) Closed Down by 5.13% on Jul 13: What Signal Does It Send?",
-      "AlphaVantage: TradingView: Apple’s iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low",
-      "Finnhub: Reuters: Gold recovers from two-week low ahead of US inflation figures - Reuters",
-      "Finnhub: Reuters: US says it has completed its latest wave of strikes on Iran - Reuters",
-      "Finnhub: Reuters: Oil hits one-month high as US, Iran step up attacks in Strait of Hormuz - Reuters"
+      "GNews: Heidenheimer Zeitung: Lokale Politik im Landtag (Grüne)",
+      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "AlphaVantage: Yahoo Finance UK: Entegris, Kulicke and Soffa, Power Integrations Stocks Trade Up",
+      "AlphaVantage: Reuters: ZTE among Chinese firms licensed to purchase Nvidia's H200 chips",
+      "AlphaVantage: Ad-hoc-news.de: Liberty Broadband stock holds steady",
+      "AlphaVantage: Yahoo Finance: Take-Two Interactive (TTWO) Stock Slides",
+      "AlphaVantage: Yahoo Finance UK: Microchip Technology and onsemi Stocks Trade Up",
+      "AlphaVantage: Yahoo Finance UK: HubSpot, Workday, and Asana Stocks Trade Down",
+      "AlphaVantage: ETF Database: Netflix ETFs ahead of Earnings",
+      "AlphaVantage: Yahoo Finance Singapore: Cisco Systems (CSCO) Stock Dips",
+      "AlphaVantage: Investing.com UK: Dell Technologies Inc Form 4",
+      "AlphaVantage: Investing.com Canada: QUALCOMM Incorporated Form 144",
+      "AlphaVantage: Yahoo Finance: Atlassian, monday.com, and Agilysys Stocks Trade Down",
+      "AlphaVantage: Simply Wall Street: TSMC (TSM) Stock Still Looks Undervalued",
+      "AlphaVantage: TradingKey: SAP SE Stock Closed Down",
+      "AlphaVantage: Yahoo Finance: IBM stock closes down more than 25% after preannounced earnings",
+      "AlphaVantage: Simply Wall Street: Intuitive Surgical (ISRG) Faces Recall Scrutiny",
+      "Finnhub: Reuters: Iran threatens to block more vital seaways",
+      "Finnhub: Reuters: Iran-linked vessels pass through Hormuz",
+      "Finnhub: Reuters: Trump wants fees for Hormuz"
     ],
     "hypeNews": [
-      "KI und ESG treiben die Nachfrage nach privaten Märkten und Analysedaten (MSCI, FICO, SPGI).",
-      "Halbleiter- und Testausrüstungssektor zeigt gemischte Signale, aber Teradyne (TER) hält sich dank Nachfrage nach Testausrüstung stabil."
+      "Chinesische Firmen erhalten Lizenzen für Nvidias H200 Chips, was die Nachfrage nach fortschrittlicher KI-Hardware unterstreicht.",
+      "US-Halbleiterunternehmen (Microchip Technology, onsemi, Entegris) zeigen Stärke, was auf eine anhaltende Nachfrage nach Chipherstellung und -technologie hindeutet."
     ],
-    "hypeCenter": "Der stärkste Hype liegt im Bereich KI und Datenanalyse, getrieben durch neue Investitionsmöglichkeiten in privaten Märkten und die Integration von KI in Geschäftsmodelle. Dies spiegelt sich in der positiven Stimmung für Unternehmen wie MSCI und Fair Isaac wider.",
-    "peripherEffect": "Verzögert könnten Unternehmen profitieren, die spezialisierte Software für Datenanalyse und KI-Infrastruktur bereitstellen, sowie Anbieter von Cloud-Diensten und Cybersicherheitslösungen, die für die Skalierung von KI-Anwendungen unerlässlich sind. Auch Unternehmen, die in der Entwicklung und Wartung von Rechenzentren tätig sind, könnten profitieren.",
-    "narrativ": "Die Masse glaubt, dass KI und ESG die Zukunft der Investitionen sind und dass Unternehmen, die sich auf diese Bereiche konzentrieren, unaufhaltsam wachsen werden. Der Markt wird von der Erwartung getrieben, dass neue Technologien wie KI und die Fokussierung auf Nachhaltigkeit zu höheren Bewertungen führen.",
-    "realitaet": "Die Realität ist, dass der Hype um KI und ESG oft übertrieben ist. Viele Unternehmen nutzen diese Schlagworte, um ihre Bewertungen zu rechtfertigen, ohne dass eine substanzielle Veränderung im Geschäftsmodell stattgefunden hat. Die Nachfrage nach Datenanalyse und KI ist real, aber die Profitabilität und die tatsächliche Marktdurchdringung sind oft noch fraglich. Die Korrelation zwischen KI-Integration und tatsächlichem Geschäftserfolg ist noch nicht immer gegeben.",
-    "macht": "Konkret profitieren die großen Datenanalyse- und Beratungsunternehmen (MSCI, SPGI), Softwareanbieter im Bereich KI und Analytik (FICO, HUBS, CRM, PAYC) sowie die großen Technologiekonzerne, die die Infrastruktur für KI bereitstellen (z.B. Cloud-Anbieter, Halbleiterhersteller). Auch Investmentbanken und Vermögensverwalter, die diese neuen Anlageklassen und Produkte anbieten, profitieren.",
-    "geopolitik": "Die geopolitische Lage mit Spannungen im Nahen Osten (Ölpreis steigt) und der gleichzeitigen Suche nach technologischen Allianzen (KI, Halbleiter) deutet auf eine Verschiebung der globalen Machtverhältnisse hin. Während die USA und der Westen auf KI und Halbleiter setzen, könnten BRICS-Staaten versuchen, eigene technologische Kapazitäten aufzubauen und die Abhängigkeit vom US-Dollar durch alternative Handelsabkommen zu reduzieren. Die steigenden Ölpreise könnten auch die Inflation anheizen und die De-Dollarisierungstendenzen verstärken, wenn Öl weiterhin in anderen Währungen gehandelt wird.",
-    "liquiditaet": "Kapital fließt in technologieorientierte Sektoren, insbesondere in KI, Datenanalyse und ESG-bezogene private Märkte. Gleichzeitig sucht Kapital angesichts geopolitischer Unsicherheiten und steigender Ölpreise auch nach sicheren Häfen wie Gold, was dessen Erholung erklärt. Der Ölpreis steigt aufgrund von Spannungen im Nahen Osten.",
-    "kette": "Geopolitische Spannungen (Iran/Strait of Hormuz) -> Steigender Ölpreis -> Erhöhte Inflationserwartungen -> Suche nach sicheren Häfen (Gold steigt) -> KI/ESG Hype treibt Investitionen in Tech- und Datenanalyse-Unternehmen -> Nachfrage nach spezialisierter Hardware (Halbleiter, Testausrüstung) und Software.",
-    "timing": "Mitte des Trends. Der KI-Hype ist bereits etabliert, aber die Integration in private Märkte und die breitere Anwendung in verschiedenen Sektoren (wie von MSCI und FICO angedeutet) sind noch in der Entwicklung. Die Korrektur bei einigen Halbleiter- und Display-Aktien deutet auf eine Reifung des Marktes hin, während andere (wie Teradyne) von spezifischer Nachfrage profitieren.",
-    "saisonalitaet": "Juli ist traditionell ein Monat mit gemischten Marktbewegungen, oft geprägt von Sommerpausen und der Vorbereitung auf das dritte Quartal. Die aktuellen Nachrichten deuten jedoch auf spezifische Sektor-Hypes hin, die saisonale Muster überlagern könnten.",
-    "masseFehler": "Die Masse sieht den KI-Hype als universelle Wachstumsgeschichte, die alle damit verbundenen Unternehmen gleichermaßen betrifft. Sie übersehen, dass die tatsächliche Wertschöpfung und die Profitabilität stark variieren und dass viele Unternehmen nur auf den Zug aufspringen, ohne substanzielle Innovationen zu liefern. Der Edge liegt darin, die spezifischen Anwendungsfälle und die tatsächliche operative Umsetzung zu analysieren, anstatt blind dem Hype zu folgen.",
-    "widerspruch": "Ja. Während die Nachfrage nach KI und Datenanalyse generell als bullish für Unternehmen wie MSCI und FICO angesehen wird, fallen andere Halbleiter- und Display-Aktien (NXPI, CDNS, WDC, ASX). Dies deutet darauf hin, dass der Hype selektiv ist und nicht alle Akteure im Technologiebereich gleichermaßen profitieren.",
-    "markt": "Gold: steigend | Silber: steigend | Öl: steigend | Bitcoin: steigend | DAX: neutral | EUR/USD: fallend",
-    "opportunity": "JA. Die Korrelation zwischen dem KI-Hype und der Nachfrage nach spezialisierten Datenanalyse- und Infrastruktur-Assets ist ein klarer Indikator. Die Korrektur bei einigen Technologieaktien könnte Einstiegschancen für unterbewertete, aber strategisch wichtige Zulieferer oder Softwareanbieter im KI-Ökosystem bieten.",
-    "positionierung": "Smart Money scheint sich auf KI- und Datenanalyse-affine Unternehmen zu konzentrieren (MSCI, FICO, ADP, WMT mit AI-Integration). Die gemischten Signale bei Halbleitern (NXPI fällt, TER hält sich) und der Rückgang bei einigen Tech-Aktien (ASX) deuten auf eine selektive Positionierung hin. Der 'Fear & Greed Index' bei 22/100 zeigt extreme Angst, was oft ein Kontraindikator für Kaufgelegenheiten ist.",
-    "reflexivitaet": "Der Hype um KI und ESG treibt Investitionen in entsprechende Unternehmen, was deren Bewertungen erhöht. Dies wiederum generiert mehr positive Nachrichten und verstärkt den Hype, was zu weiteren Investitionen führt. Gleichzeitig könnten steigende Rohstoffpreise (Öl) und geopolitische Unsicherheiten die Nachfrage nach sicheren Häfen (Gold) erhöhen und die Liquidität für risikoreichere Tech-Investitionen verknappen.",
+    "hypeCenter": "Halbleiter und KI-Infrastruktur. Die Nachrichten über ZTE, das Nvidias H200-Chips erhält, und die Stärke von US-Halbleiteraktien wie Microchip Technology und onsemi deuten auf einen starken Fokus auf die fortschrittliche Technologie-Lieferkette hin. Dies ist entscheidend für die Entwicklung von KI und fortschrittlichen Rechenleistungen.",
+    "peripherEffect": "Rohstoffe, die für die Halbleiterproduktion und fortschrittliche Elektronik benötigt werden (z.B. seltene Erden, hochreine Chemikalien, Kupfer für Leiterplatten und Kühlung), sowie Unternehmen, die spezialisierte Ausrüstung für die Chipherstellung oder Satellitenkommunikation (die ebenfalls fortschrittliche Chips benötigt) liefern.",
+    "narrativ": "Die Welt bewegt sich schnell in Richtung fortschrittlicher KI und digitaler Infrastruktur. Unternehmen, die die notwendigen Komponenten und Technologien liefern, sind die Gewinner. Geopolitische Spannungen im Nahen Osten sind eine Randnotiz, die die Ölpreise kurzfristig beeinflusst, aber die technologische Entwicklung ist der Haupttreiber.",
+    "realitaet": "Die Abhängigkeit von wenigen Schlüsseltechnologien und -ländern (insbesondere bei fortschrittlichen Chips) schafft erhebliche systemische Risiken. Die geopolitischen Spannungen im Iran sind ein direkter Indikator für die Fragilität globaler Lieferketten und Energieflüsse, die die technologische Entwicklung indirekt, aber stark beeinflussen können. Die scheinbar isolierten Nachrichten über iranische Schifffahrtswege sind Teil eines größeren Spiels um globale Ressourcen und Handelsrouten, das die Kosten für alle technologiegetriebenen Industrien beeinflusst.",
+    "macht": "Nvidia, ZTE, und die Halbleiterhersteller (Microchip Technology, onsemi, Entegris, Kulicke and Soffa, Power Integrations, TSMC) profitieren direkt. Große Technologiekonzerne wie IBM und Microsoft (trotz kurzfristiger Schwäche einiger ihrer Aktien) sind ebenfalls wichtige Akteure. Finanzinstitute, die an diesen Unternehmen beteiligt sind, sowie die Regierungen, die die Handelspolitik und technologische Entwicklung steuern (USA, China), sind indirekte Gewinner.",
+    "geopolitik": "Die Spannungen im Iran deuten auf eine Eskalation im Kampf um globale Handelsrouten und Ressourcen hin. Dies könnte die BRICS-Staaten und ihre Verbündeten stärken, die nach Alternativen zu westlich dominierten Systemen suchen. Die USA versuchen, ihre Kontrolle über kritische Technologien und Handelswege zu behaupten, was zu einer Fragmentierung und potenziellen De-Dollarisierung führen kann, wenn andere Länder sich von US-dominierten Systemen abwenden.",
+    "liquiditaet": "Kapital fließt in die Halbleiterindustrie und die damit verbundenen Zulieferer. Angesichts der geopolitischen Unsicherheit und der Stagflationsängste (Fear & Greed Index bei 25) könnte ein Teil des Kapitals auch in traditionelle sichere Häfen wie Gold fließen, obwohl Gold heute leicht fällt. Öl steigt, was auf Angebotsbedenken aufgrund der geopolitischen Lage hindeutet.",
+    "kette": "Zunehmende globale Nachfrage nach KI und fortschrittlicher Rechenleistung -> Erhöhte Nachfrage nach fortschrittlichen Chips (Nvidia H200) -> Lizenzen für chinesische Firmen (ZTE) zur Beschaffung dieser Chips -> Stärke von Halbleiterherstellern und Zulieferern (Microchip, onsemi, Entegris) -> Potenzielle Engpässe und Preissteigerungen bei Rohstoffen und Spezialmetallen für die Chipherstellung -> Geopolitische Spannungen (Iran) verschärfen Lieferkettenrisiken und Energiepreise -> Erhöhte Kosten für Technologieproduktion und breitere Inflation.",
+    "timing": "Mitte des Trends. Die Halbleiter- und KI-Themen sind bereits etabliert, aber die spezifischen Nachrichten über Chip-Lizenzen und die anhaltende Stärke von Herstellern deuten darauf hin, dass die Investitionen und die Nachfrage weiterhin stark sind. Die geopolitischen Spannungen sind ein aktueller Auslöser für kurzfristige Marktvolatilität.",
+    "saisonalitaet": "Juli ist historisch oft ein Monat mit gemischter Performance, der von Sommerferien und der Vorbereitung auf das Q3-Ergebnisreporting geprägt ist. Die aktuellen Nachrichten scheinen jedoch stärker von spezifischen Sektor- und geopolitischen Treibern beeinflusst zu sein als von saisonalen Mustern.",
+    "masseFehler": "Die Masse sieht die Nachrichten über einzelne Unternehmen und Sektoren isoliert. Sie übersehen die tiefgreifenden Verbindungen zwischen Technologie, geopolitischen Spannungen und der globalen Rohstoffversorgung. Der Edge liegt im Verständnis, dass die geopolitischen Risiken die Kosten und die Verfügbarkeit von Technologiekomponenten direkt beeinflussen und dass die scheinbar bullishen Tech-Nachrichten durch diese Risiken gedämpft werden könnten.",
+    "widerspruch": "Ja. Die Nachrichten über die Stärke von Halbleiteraktien und die Lizenzen für chinesische Firmen sind bullisch für den Technologiesektor. Gleichzeitig deuten die geopolitischen Spannungen im Iran und der niedrige Fear & Greed Index auf erhöhte Risiken und potenzielle Marktunsicherheit hin. Der Anstieg des Ölpreises ist ein weiteres Zeichen für diese Unsicherheit.",
+    "markt": "Bitcoin: fällt | Gold: fällt | Silber: steigt leicht | Öl: steigt | EUR/USD: steigt | DAX: stabil",
+    "opportunity": "Eine Chance könnte in Unternehmen liegen, die kritische Rohstoffe oder spezialisierte Ausrüstung für die Halbleiterproduktion liefern, da diese von der anhaltenden Nachfrage profitieren, aber oft übersehen werden. Auch Unternehmen, die sich auf die Absicherung von Lieferkettenrisiken spezialisieren, könnten profitieren.",
+    "positionierung": "Smart Money scheint sich auf die Halbleiter- und KI-Lieferkette zu konzentrieren, wie die 'Somewhat-Bullish' und 'Bullish' Stimmungen bei den Ticker-Symbolen zeigen. Die 'Neutral' und 'Bearish' Stimmungen bei anderen Tech-Aktien (TTWO, HUBS, WDAY, NOW, NFLX, CSCO, SAP, IBM) deuten auf eine selektive Marktpositionierung hin. Der niedrige Fear & Greed Index (25) deutet auf eine allgemeine Vorsicht im Markt hin, trotz spezifischer Sektorstärke.",
+    "reflexivitaet": "Die steigende Nachfrage nach KI-Chips treibt die Nachfrage nach Rohstoffen und spezialisierten Produktionskapazitäten. Dies erhöht die Preise für diese Güter. Gleichzeitig erhöhen geopolitische Spannungen die Kosten und die Unsicherheit, was die Preise weiter treibt und die Nachfrage potenziell dämpft, was zu einem Zyklus von Preissteigerungen und Nachfragereduzierung führen kann.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die Kombination aus geopolitischen Spannungen, steigenden Rohstoffpreisen und dem disruptiven Potenzial von KI deutet auf eine Phase des Umbruchs hin, in der alte Strukturen herausgefordert und neue Machtzentren entstehen.",
+    "metaZyklus": "Umbruch. Die Kombination aus technologischem Wandel (KI, Halbleiter) und geopolitischen Spannungen deutet auf eine Phase des Umbruchs hin, in der alte Ordnungen herausgefordert und neue Machtstrukturen entstehen.",
     "halalAsset": "Gold (Xetra-Gold DE000A0S9GB0)",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als Sachwert ist nach islamischen Prinzipien erlaubt, solange es als Vermögenswert gehalten und nicht spekulativ gehandelt wird, und wenn es den Reinigungsabgaben unterliegt.",
+    "halalBegruendung": "Gold als Sachwert ist gemäß AAOIFI-Standards als halal anerkannt, da es als Vermögenswert gehalten und nicht spekulativ gehandelt wird, solange es physisch gedeckt ist und keine Zinsen generiert.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 4029,
-    "stopLoss": 3950,
-    "ziel": 4300,
-    "zeitraum": "4-8 Wochen",
-    "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Kursziels oder bei einem Bruch des Stop-Loss-Levels.",
-    "waehrungsrisiko": "Der fallende EUR/USD-Kurs (1.1392) könnte einen Trade in US-Dollar-denominierten Assets leicht verteuern, aber bei Gold als global gehandeltem Gut ist der Effekt moderat.",
-    "psychologie": "FOMO Warnung. Die breite positive Berichterstattung über KI und die steigenden Kurse in diesem Sektor könnten Anleger zu impulsiven Käufen verleiten, ohne die Risiken zu berücksichtigen.",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": null,
+    "stopLoss": null,
+    "ziel": null,
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Der Anstieg des EUR/USD auf 1.1435 könnte US-Dollar-basierte Investitionen für Euro-Investoren leicht verteuern, aber der Effekt ist moderat.",
+    "psychologie": "FOMO Warnung. Die Stärke in Halbleiteraktien könnte FOMO auslösen, aber die zugrunde liegenden geopolitischen Risiken und die allgemeine Marktunsicherheit (Fear & Greed Index) erfordern Vorsicht.",
     "ruhigerTag": false,
-    "lernpunkt": "Der 'Fear & Greed Index' ist ein Stimmungsindikator, der die Marktstimmung misst. Ein Wert nahe 0 deutet auf extreme Angst hin, was oft ein Kaufsignal sein kann, da die meisten Anleger panisch verkaufen. Ein Wert nahe 100 deutet auf extreme Gier hin, was oft ein Verkaufsignal ist, da die Kurse überbewertet sein könnten.",
-    "tagesfrage": "Wie können wir die tatsächliche operative Umsetzung von KI-Strategien in Unternehmen objektiv bewerten, um den Hype von der Substanz zu trennen?",
-    "brief": "Ayman, heute sehen wir, wie der Hype um KI und ESG die Märkte beeinflusst, während geopolitische Spannungen den Ölpreis und Gold antreiben. Die Masse glaubt an unendliches Wachstum in Tech, aber die Realität ist selektiver. Achte auf die Unternehmen, die wirklich Mehrwert schaffen, nicht nur auf die Schlagworte. Die Korrekturen im Halbleitersektor sind ein Zeichen, dass der Markt reift. Nutze die Angst (Fear & Greed Index bei 22), um strategisch zu investieren, aber sei dir des FOMO-Risikos bewusst. Die geopolitische Lage erfordert eine sorgfältige Abwägung von Risiken und Chancen."
+    "lernpunkt": "Peripherie-Effekte: Wenn ein Sektor stark im Hype ist, profitieren oft auch weniger offensichtliche, nachgelagerte oder vorgelagerte Assets. Diese 'Peripherie-Assets' sind oft Rohstoffe, spezialisierte Zulieferer oder Dienstleister, deren Wertschöpfung mit dem Haupt-Hype-Sektor verbunden ist, aber von der Masse übersehen wird.",
+    "tagesfrage": "Wie stark werden die geopolitischen Spannungen im Iran die globale Halbleiterproduktion und die damit verbundenen Rohstoffpreise beeinflussen, und wie schnell werden die Märkte dies einpreisen?",
+    "brief": "Ayman, heute sehen wir eine klare Stärke im Halbleitersektor, angetrieben durch die Nachfrage nach fortschrittlicher KI-Technologie. Die Nachrichten über ZTE und Nvidia sind ein klares Signal. Doch lass dich nicht vom Glanz blenden. Die geopolitischen Spannungen im Iran sind ein ernstzunehmender Schatten, der die Lieferketten und Energiepreise beeinflussen kann. Denke daran: Die Nachricht ist die Oberfläche, das Geld zeigt die Wahrheit. Wo fließt das Kapital wirklich hin, wenn die Risiken steigen? Halte Ausschau nach den oft übersehenen Rohstoffen und Zulieferern, die im Hintergrund von diesem Tech-Boom profitieren, aber auch von den globalen Spannungen betroffen sind. Sei geduldig und suche nach der wahren Wertschöpfung jenseits des offensichtlichen Hypes."
   },
   "prices": {
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 64830.98828125,
+      "change": -0.19263006001949032
+    },
     "GC=F": {
       "label": "Gold",
-      "price": 4029,
-      "change": 0.8006004503377533
+      "price": 4039.800048828125,
+      "change": -0.5244896288180073
     },
     "SI=F": {
       "label": "Silber",
-      "price": 58.404998779296875,
-      "change": 1.3377518887332067
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62511.23828125,
-      "change": 0.43721245210084725
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 25114.25,
-      "change": 0
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.139211654663086,
-      "change": -0.1082289771431355
+      "price": 58.82500076293945,
+      "change": 0.0901813863515593
     },
     "CL=F": {
       "label": "Öl",
-      "price": 80.55999755859375,
-      "change": 3.0970030558586115
+      "price": 80.30000305175781,
+      "change": 1.2099908724204393
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1435105800628662,
+      "change": 0.4459745638475573
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25147.029296875,
+      "change": 0
     }
   },
   "fearGreed": [
-    20,
     22,
     23,
     26,
     26,
     28,
-    22
+    22,
+    25
   ],
   "simulation": {
     "buy": 10,
