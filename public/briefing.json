@@ -1,6 +1,6 @@
 {
-  "date": "Mittwoch, 15. Juli 2026",
-  "generatedAt": "2026-07-15T07:14:32.268Z",
+  "date": "Donnerstag, 16. Juli 2026",
+  "generatedAt": "2026-07-16T07:22:42.412Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,209 +17,196 @@
       "origin": "GNews"
     },
     {
-      "title": "Entegris, Kulicke and Soffa, and Power Integrations Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Bank of New York Mellon Q2 2026 Earnings Call Transcript",
+      "source": "Benzinga",
+      "sentiment": "Neutral",
       "tickers": [
-        "ENTG(0.40)",
-        "IBM(0.14)",
-        "INTC(0.21)"
+        "BK(0.02)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "EXCLUSIVE: ZTE among Chinese firms licensed to purchase Nvidia's H200 chips, documents show",
-      "source": "Reuters",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "NVDA(0.23)",
-        "AMD(0.28)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Liberty Broadband stock holds steady as cable interests anchor its long-term value",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "LBRDP(0.04)",
-        "CHTR(0.25)",
-        "CMCSA(0.22)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Take-Two Interactive (TTWO) Stock Slides as Market Rises: Facts to Know Before You Trade",
-      "source": "Yahoo Finance",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "TTWO(-0.27)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Microchip Technology and onsemi Stocks Trade Up, What You Need To Know",
-      "source": "Yahoo Finance UK",
+      "title": "HPE’s 42x Multiple Tells Only Half the Story",
+      "source": "Trefis",
       "sentiment": "Bullish",
       "tickers": [
-        "MCHP(0.44)",
-        "ON(0.48)",
-        "IBM(0.33)"
+        "HPE(0.45)",
+        "DELL(0.35)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "HubSpot, Workday, and Asana Stocks Trade Down, What You Need To Know",
-      "source": "Yahoo Finance UK",
+      "title": "Arista’s Great Problem: Too Much Demand",
+      "source": "Trefis",
+      "sentiment": "Bullish",
+      "tickers": [
+        "ANET(0.47)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Paychex stock reflects steady payroll and HR demand",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Bullish",
+      "tickers": [
+        "PAYX(0.47)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Omnicom Group stock reflects steady agency demand as investors focus on marketing scale",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Bullish",
+      "tickers": [
+        "OMC(0.53)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BILL, Marqeta, and Upland Software Shares Skyrocket, What You Need To Know",
+      "source": "FinancialContent",
       "sentiment": "Neutral",
       "tickers": [
-        "HUBS(-0.30)",
-        "WDAY(-0.34)",
-        "NOW(0.22)"
+        "UPLD(0.41)",
+        "IBM(-0.28)",
+        "GOOG(0.15)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Ahead of Earnings, Traders Can Tune Into These Netflix ETFs",
-      "source": "ETF Database",
-      "sentiment": "Neutral",
-      "tickers": [
-        "NFLX(-0.29)",
-        "WBD(0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Stock Dips While Market Gains: Key Facts",
+      "title": "Western Digital (WDC) Stock Dips While Market Gains: Key Facts",
       "source": "Yahoo Finance Singapore",
-      "sentiment": "Neutral",
-      "tickers": [
-        "CSCO(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Form 4 Dell Technologies Inc For: 14 July By Investing.com",
-      "source": "Investing.com UK",
-      "sentiment": "Neutral",
-      "tickers": [
-        "DELL(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Form 144 QUALCOMM Incorporated For: 14 July By Investing.com",
-      "source": "Investing.com Canada",
-      "sentiment": "Neutral",
-      "tickers": [
-        "QCOM(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Atlassian, monday.com, and Agilysys Stocks Trade Down, What You Need To Know",
-      "source": "Yahoo Finance",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AGYS(-0.25)",
-        "IBM(0.13)",
-        "NOW(0.35)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "TSMC (TSM) Stock Still Looks Undervalued Despite A Very Large Run",
-      "source": "Simply Wall Street",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "TSM(0.43)",
-        "TXN(0.20)"
+        "WDC(0.18)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "SAP SE Stock (SAP) Closed Down by 3.07% on Jul 14: Drivers Behind the Movement",
+      "title": "CDW falls as enterprise IT spending worries weigh on the stock",
+      "source": "Quiver Quantitative",
+      "sentiment": "Bearish",
+      "tickers": [
+        "CDW(-0.41)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "SPDR Portfolio S&P 500 ETF gains as Trump accounts add $30B, but risks from Treasury yields and AI concentration loom.",
+      "source": "Pluang",
+      "sentiment": "Neutral",
+      "tickers": [
+        "SPYM(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Taoping Inc. (Nasdaq: TAOP) sells $3.2M convertible note with up to 2.97M shares",
+      "source": "Stock Titan",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "TAOP(-0.29)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Ciena Corp Stock (CIEN) Closed Down by 6.46% on Jul 15: Drivers Behind the Movement",
       "source": "TradingKey",
-      "sentiment": "Bearish",
+      "sentiment": "Neutral",
       "tickers": [
-        "SAP(-0.44)",
-        "IBM(-0.49)",
-        "MSFT(-0.23)"
+        "CIEN(0.04)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "IBM stock closes down more than 25% after preannounced earnings results",
-      "source": "Yahoo Finance",
-      "sentiment": "Bearish",
-      "tickers": [
-        "IBM(-0.72)",
-        "ORCL(-0.34)",
-        "MSFT(-0.32)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Intuitive Surgical (ISRG) Faces Recall Scrutiny, Is The Stock Still Cheap?",
+      "title": "monday.com (MNDY) Following IBM Warning Is The Software Story Now Priced In",
       "source": "Simply Wall Street",
       "sentiment": "Neutral",
       "tickers": [
-        "ISRG(-0.25)",
-        "MDT(0.10)"
+        "MNDY(0.01)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Reuters",
+      "title": "Is Micron indicative of a possible chip bubble to come?",
+      "source": "Yahoo Finance",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MU(0.04)",
+        "AMAT(-0.13)",
+        "LRCX(-0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Quantum Stocks Witness Correction: Why QUBT is the Best Buy Now",
+      "source": "TradingView",
+      "sentiment": "Bullish",
+      "tickers": [
+        "QUBT(0.54)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AVGO Stock Price Prediction 2025-2026 | Broadcom Inc Forecast",
+      "source": "24/7 Wall St.",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AVGO(0.53)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Fewer vessels travel through Hormuz as US, Iran continue strikes - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Iran-linked vessels pass through Hormuz ahead of US blockade - Reuters",
+      "title": "Oil eases as traders lock in gains, assess Iran escalation - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump wants fees for Hormuz just like Iran - is that legal? - Reuters",
+      "title": "Hegseth announces testosterone screening for US troops - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+      "title": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "UK summons senior Iranian diplomat over alleged proxy attacks in Europe - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Jim Cramer says concerns about AI market froth are overblown. Here's why",
+      "title": "Kalshi traders see gas prices crossing $4 by end of July",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US Russia sanctions bill eases threat of tariffs on China and India - Reuters",
+      "title": "Some ships refusing US-military guided Hormuz transits after attacks, sources say - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US Senate Democrats block $1.15 trillion defense bill over Iran war objections - Reuters",
+      "title": "Iran summons British envoy over IRGC designation - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "EXCLUSIVE: US strikes on Iran strengthen Trump's options for new escalation, officials say - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -228,112 +215,96 @@
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Heidenheimer Zeitung: Lokale Politik im Landtag (Grüne)",
-      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank",
-      "AlphaVantage: Yahoo Finance UK: Entegris, Kulicke and Soffa, Power Integrations Stocks Trade Up",
-      "AlphaVantage: Reuters: ZTE among Chinese firms licensed to purchase Nvidia's H200 chips",
-      "AlphaVantage: Ad-hoc-news.de: Liberty Broadband stock holds steady",
-      "AlphaVantage: Yahoo Finance: Take-Two Interactive (TTWO) Stock Slides",
-      "AlphaVantage: Yahoo Finance UK: Microchip Technology and onsemi Stocks Trade Up",
-      "AlphaVantage: Yahoo Finance UK: HubSpot, Workday, and Asana Stocks Trade Down",
-      "AlphaVantage: ETF Database: Netflix ETFs ahead of Earnings",
-      "AlphaVantage: Yahoo Finance Singapore: Cisco Systems (CSCO) Stock Dips",
-      "AlphaVantage: Investing.com UK: Dell Technologies Inc Form 4",
-      "AlphaVantage: Investing.com Canada: QUALCOMM Incorporated Form 144",
-      "AlphaVantage: Yahoo Finance: Atlassian, monday.com, and Agilysys Stocks Trade Down",
-      "AlphaVantage: Simply Wall Street: TSMC (TSM) Stock Still Looks Undervalued",
-      "AlphaVantage: TradingKey: SAP SE Stock Closed Down",
-      "AlphaVantage: Yahoo Finance: IBM stock closes down more than 25% after preannounced earnings",
-      "AlphaVantage: Simply Wall Street: Intuitive Surgical (ISRG) Faces Recall Scrutiny",
-      "Finnhub: Reuters: Iran threatens to block more vital seaways",
-      "Finnhub: Reuters: Iran-linked vessels pass through Hormuz",
-      "Finnhub: Reuters: Trump wants fees for Hormuz"
+      "Heidenheimer Zeitung: Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
+      "n-tv NACHRICHTEN: Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "Benzinga: Bank of New York Mellon Q2 2026 Earnings Call Transcript"
     ],
     "hypeNews": [
-      "Chinesische Firmen erhalten Lizenzen für Nvidias H200 Chips, was die Nachfrage nach fortschrittlicher KI-Hardware unterstreicht.",
-      "US-Halbleiterunternehmen (Microchip Technology, onsemi, Entegris) zeigen Stärke, was auf eine anhaltende Nachfrage nach Chipherstellung und -technologie hindeutet."
+      "IT-Infrastruktur & Software-Nachfrage",
+      "Quantencomputer-Korrektur & Kaufgelegenheiten",
+      "Geopolitische Spannungen im Nahen Osten"
     ],
-    "hypeCenter": "Halbleiter und KI-Infrastruktur. Die Nachrichten über ZTE, das Nvidias H200-Chips erhält, und die Stärke von US-Halbleiteraktien wie Microchip Technology und onsemi deuten auf einen starken Fokus auf die fortschrittliche Technologie-Lieferkette hin. Dies ist entscheidend für die Entwicklung von KI und fortschrittlichen Rechenleistungen.",
-    "peripherEffect": "Rohstoffe, die für die Halbleiterproduktion und fortschrittliche Elektronik benötigt werden (z.B. seltene Erden, hochreine Chemikalien, Kupfer für Leiterplatten und Kühlung), sowie Unternehmen, die spezialisierte Ausrüstung für die Chipherstellung oder Satellitenkommunikation (die ebenfalls fortschrittliche Chips benötigt) liefern.",
-    "narrativ": "Die Welt bewegt sich schnell in Richtung fortschrittlicher KI und digitaler Infrastruktur. Unternehmen, die die notwendigen Komponenten und Technologien liefern, sind die Gewinner. Geopolitische Spannungen im Nahen Osten sind eine Randnotiz, die die Ölpreise kurzfristig beeinflusst, aber die technologische Entwicklung ist der Haupttreiber.",
-    "realitaet": "Die Abhängigkeit von wenigen Schlüsseltechnologien und -ländern (insbesondere bei fortschrittlichen Chips) schafft erhebliche systemische Risiken. Die geopolitischen Spannungen im Iran sind ein direkter Indikator für die Fragilität globaler Lieferketten und Energieflüsse, die die technologische Entwicklung indirekt, aber stark beeinflussen können. Die scheinbar isolierten Nachrichten über iranische Schifffahrtswege sind Teil eines größeren Spiels um globale Ressourcen und Handelsrouten, das die Kosten für alle technologiegetriebenen Industrien beeinflusst.",
-    "macht": "Nvidia, ZTE, und die Halbleiterhersteller (Microchip Technology, onsemi, Entegris, Kulicke and Soffa, Power Integrations, TSMC) profitieren direkt. Große Technologiekonzerne wie IBM und Microsoft (trotz kurzfristiger Schwäche einiger ihrer Aktien) sind ebenfalls wichtige Akteure. Finanzinstitute, die an diesen Unternehmen beteiligt sind, sowie die Regierungen, die die Handelspolitik und technologische Entwicklung steuern (USA, China), sind indirekte Gewinner.",
-    "geopolitik": "Die Spannungen im Iran deuten auf eine Eskalation im Kampf um globale Handelsrouten und Ressourcen hin. Dies könnte die BRICS-Staaten und ihre Verbündeten stärken, die nach Alternativen zu westlich dominierten Systemen suchen. Die USA versuchen, ihre Kontrolle über kritische Technologien und Handelswege zu behaupten, was zu einer Fragmentierung und potenziellen De-Dollarisierung führen kann, wenn andere Länder sich von US-dominierten Systemen abwenden.",
-    "liquiditaet": "Kapital fließt in die Halbleiterindustrie und die damit verbundenen Zulieferer. Angesichts der geopolitischen Unsicherheit und der Stagflationsängste (Fear & Greed Index bei 25) könnte ein Teil des Kapitals auch in traditionelle sichere Häfen wie Gold fließen, obwohl Gold heute leicht fällt. Öl steigt, was auf Angebotsbedenken aufgrund der geopolitischen Lage hindeutet.",
-    "kette": "Zunehmende globale Nachfrage nach KI und fortschrittlicher Rechenleistung -> Erhöhte Nachfrage nach fortschrittlichen Chips (Nvidia H200) -> Lizenzen für chinesische Firmen (ZTE) zur Beschaffung dieser Chips -> Stärke von Halbleiterherstellern und Zulieferern (Microchip, onsemi, Entegris) -> Potenzielle Engpässe und Preissteigerungen bei Rohstoffen und Spezialmetallen für die Chipherstellung -> Geopolitische Spannungen (Iran) verschärfen Lieferkettenrisiken und Energiepreise -> Erhöhte Kosten für Technologieproduktion und breitere Inflation.",
-    "timing": "Mitte des Trends. Die Halbleiter- und KI-Themen sind bereits etabliert, aber die spezifischen Nachrichten über Chip-Lizenzen und die anhaltende Stärke von Herstellern deuten darauf hin, dass die Investitionen und die Nachfrage weiterhin stark sind. Die geopolitischen Spannungen sind ein aktueller Auslöser für kurzfristige Marktvolatilität.",
-    "saisonalitaet": "Juli ist historisch oft ein Monat mit gemischter Performance, der von Sommerferien und der Vorbereitung auf das Q3-Ergebnisreporting geprägt ist. Die aktuellen Nachrichten scheinen jedoch stärker von spezifischen Sektor- und geopolitischen Treibern beeinflusst zu sein als von saisonalen Mustern.",
-    "masseFehler": "Die Masse sieht die Nachrichten über einzelne Unternehmen und Sektoren isoliert. Sie übersehen die tiefgreifenden Verbindungen zwischen Technologie, geopolitischen Spannungen und der globalen Rohstoffversorgung. Der Edge liegt im Verständnis, dass die geopolitischen Risiken die Kosten und die Verfügbarkeit von Technologiekomponenten direkt beeinflussen und dass die scheinbar bullishen Tech-Nachrichten durch diese Risiken gedämpft werden könnten.",
-    "widerspruch": "Ja. Die Nachrichten über die Stärke von Halbleiteraktien und die Lizenzen für chinesische Firmen sind bullisch für den Technologiesektor. Gleichzeitig deuten die geopolitischen Spannungen im Iran und der niedrige Fear & Greed Index auf erhöhte Risiken und potenzielle Marktunsicherheit hin. Der Anstieg des Ölpreises ist ein weiteres Zeichen für diese Unsicherheit.",
-    "markt": "Bitcoin: fällt | Gold: fällt | Silber: steigt leicht | Öl: steigt | EUR/USD: steigt | DAX: stabil",
-    "opportunity": "Eine Chance könnte in Unternehmen liegen, die kritische Rohstoffe oder spezialisierte Ausrüstung für die Halbleiterproduktion liefern, da diese von der anhaltenden Nachfrage profitieren, aber oft übersehen werden. Auch Unternehmen, die sich auf die Absicherung von Lieferkettenrisiken spezialisieren, könnten profitieren.",
-    "positionierung": "Smart Money scheint sich auf die Halbleiter- und KI-Lieferkette zu konzentrieren, wie die 'Somewhat-Bullish' und 'Bullish' Stimmungen bei den Ticker-Symbolen zeigen. Die 'Neutral' und 'Bearish' Stimmungen bei anderen Tech-Aktien (TTWO, HUBS, WDAY, NOW, NFLX, CSCO, SAP, IBM) deuten auf eine selektive Marktpositionierung hin. Der niedrige Fear & Greed Index (25) deutet auf eine allgemeine Vorsicht im Markt hin, trotz spezifischer Sektorstärke.",
-    "reflexivitaet": "Die steigende Nachfrage nach KI-Chips treibt die Nachfrage nach Rohstoffen und spezialisierten Produktionskapazitäten. Dies erhöht die Preise für diese Güter. Gleichzeitig erhöhen geopolitische Spannungen die Kosten und die Unsicherheit, was die Preise weiter treibt und die Nachfrage potenziell dämpft, was zu einem Zyklus von Preissteigerungen und Nachfragereduzierung führen kann.",
+    "hypeCenter": "Der Sektor der Unternehmens-IT-Infrastruktur und Software zeigt heute den stärksten Hype. Mehrere Bullish-Meldungen für HPE, Arista Networks, Paychex und Omnicom Group deuten auf eine robuste Nachfrage in diesen Bereichen hin, trotz einiger Bedenken bezüglich der allgemeinen IT-Ausgaben.",
+    "peripherEffect": "Vom Hype in der Unternehmens-IT profitieren mit Verzögerung Anbieter von spezialisierten IT-Dienstleistungen, Rechenzentrums-Betreiber (Energieverbrauch!), Anbieter von Cybersicherheitslösungen und möglicherweise auch Hersteller von Netzwerkkomponenten und Server-Hardware, die nicht direkt in den News genannt wurden. Auch Beratungsfirmen für digitale Transformation könnten profitieren.",
+    "narrativ": "Die Masse glaubt, dass die Unternehmens-IT-Branche trotz allgemeiner wirtschaftlicher Unsicherheiten stark ist und dass es selektive Kaufgelegenheiten bei Technologieaktien gibt, insbesondere im Quantencomputing nach einer Korrektur. Gleichzeitig wächst die Sorge vor geopolitischen Risiken im Nahen Osten und deren Auswirkungen auf den Ölpreis.",
+    "realitaet": "Hinter der Oberfläche der starken IT-Nachfrage steckt möglicherweise ein Nachholbedarf oder eine fortgesetzte Digitalisierungswelle, die auch in einem schwächeren Umfeld Priorität hat. Die 'Korrektur' bei Quanten-Aktien könnte eine gesunde Konsolidierung sein, bevor der Sektor wirklich abhebt. Die Eskalation im Nahen Osten ist real und könnte weitreichendere Folgen für globale Lieferketten und Energiepreise haben, als nur kurzfristige Gewinnmitnahmen bei Öl.",
+    "macht": "Firmen wie HPE, Arista Networks, Paychex, Omnicom Group und Broadcom profitieren direkt von der starken Nachfrage. Im Quantenbereich könnte QUBT profitieren. Die Bankenbranche (Unicredit/Commerzbank) zeigt Konsolidierungstendenzen. Die US-Regierung und das Militär sind durch die Nahost-Spannungen und die 'Testosteron-Screening'-Nachricht impliziert.",
+    "geopolitik": "Die Spannungen zwischen den USA und Iran im Hormuz sind ein klares geopolitisches Signal. Weniger Schiffsverkehr bedeutet potenzielle Störungen der globalen Ölversorgung, was die Energiepreise beeinflusst. Dies stärkt die Position von Ölproduzenten außerhalb der Konfliktzone und könnte langfristig die De-Dollarisierungstendenzen verstärken, da Länder nach alternativen Handelsrouten und Währungen suchen, um solche Risiken zu umgehen.",
+    "liquiditaet": "Kapital fließt in ausgewählte Technologie- und IT-Infrastruktur-Aktien (HPE, ANET, PAYX, OMC, AVGO, QUBT) und möglicherweise in den Bankensektor (Unicredit/Commerzbank). Es gibt Anzeichen für Gewinnmitnahmen bei Öl, aber die geopolitische Lage könnte hier schnell eine Umkehr bewirken. Der Fear & Greed Index bei 25 deutet auf eine allgemeine Risikoaversion hin, was bedeutet, dass das Kapital selektiv und vorsichtig investiert wird.",
+    "kette": "Geopolitische Spannungen im Hormuz -> Weniger Schiffsverkehr -> Potenzielle Ölversorgungsengpässe -> Ölpreis-Volatilität. Gleichzeitig: Starke Nachfrage nach Unternehmens-IT-Lösungen -> Positive Earnings/Ausblicke für IT-Firmen -> Kapitalfluss in diesen Sektor.",
+    "timing": "Mitte im Trend. Die Digitalisierung ist ein etablierter Trend, aber die spezifische Nachfrage nach IT-Infrastruktur und Software zeigt eine anhaltende Dynamik. Quantencomputing ist noch früh im Trend, aber die aktuelle Korrektur könnte einen guten Einstiegspunkt bieten. Die geopolitischen Spannungen sind ein wiederkehrendes, aber aktuell eskalierendes Thema.",
+    "saisonalitaet": "Juli ist historisch oft ein ruhigerer Monat an den Märkten, manchmal mit einer 'Sommerrallye' oder einer Konsolidierung vor dem Herbst. Die aktuellen Nachrichten zeigen jedoch eine hohe Aktivität in spezifischen Sektoren und geopolitische Risiken, die über saisonale Muster hinausgehen.",
+    "masseFehler": "Die Masse könnte die geopolitischen Risiken im Nahen Osten unterschätzen und die langfristigen Auswirkungen auf die Lieferketten und die Inflation ignorieren, während sie sich zu sehr auf kurzfristige Gewinnmitnahmen bei Öl konzentriert. Zudem könnte die allgemeine IT-Nachfrage als 'normal' abgetan werden, anstatt die spezifischen Treiber und die Resilienz des Sektors zu erkennen.",
+    "widerspruch": "Ja. Der Fear & Greed Index bei 25 (Extreme Fear) steht im Widerspruch zu den zahlreichen bullish-Meldungen im Technologiesektor (HPE, ANET, PAYX, OMC, QUBT, AVGO). Dies deutet darauf hin, dass die allgemeine Marktstimmung pessimistisch ist, aber Smart Money selektiv in starke Sektoren investiert.",
+    "markt": "Gold: Fällt leicht. Silber: Steigt leicht. Öl: Fällt leicht (kurzfristig). Bitcoin: Fällt leicht. DAX: Steigt leicht. EUR/USD: Steigt leicht.",
+    "opportunity": "Ja, selektive Chancen in der IT-Infrastruktur und im Quantencomputing nach Korrektur. Auch Rohstoffe könnten bei weiterer Eskalation im Nahen Osten interessant werden.",
+    "positionierung": "Smart Money positioniert sich selektiv in resilienten Technologieunternehmen mit starker Nachfrage (HPE, ANET, PAYX, OMC, AVGO) und sieht möglicherweise eine Kaufgelegenheit bei Quantencomputing (QUBT) nach einer Korrektur. Das Sentiment für die breiteren Märkte ist vorsichtig (Fear & Greed 25), was auf eine defensive Haltung hindeutet, aber mit gezielten Wetten auf Wachstum in spezifischen Nischen.",
+    "reflexivitaet": "Die positiven Nachrichten über die Nachfrage nach Unternehmens-IT (HPE, ANET) könnten weitere Investitionen in diese Unternehmen anziehen, was ihre Aktienkurse weiter steigen lässt und andere Unternehmen dazu ermutigt, ihre IT-Ausgaben zu erhöhen, um wettbewerbsfähig zu bleiben. Dies schafft einen positiven Feedback-Loop für den Sektor. Umgekehrt könnten die Sorgen um IT-Ausgaben (CDW) zu einem negativen Loop führen, wenn sie sich verbreiten.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
-      "ratio": 2.3,
+      "ratio": 2.25,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die Kombination aus technologischem Wandel (KI, Halbleiter) und geopolitischen Spannungen deutet auf eine Phase des Umbruchs hin, in der alte Ordnungen herausgefordert und neue Machtstrukturen entstehen.",
-    "halalAsset": "Gold (Xetra-Gold DE000A0S9GB0)",
+    "metaZyklus": "Umbruch. Die geopolitischen Spannungen, die Konsolidierung im Bankensektor und die anhaltende Digitalisierungswelle mit neuen Technologien wie Quantencomputing deuten auf eine Phase des Umbruchs und der Neuausrichtung hin, weg von einem reinen Wachstumszyklus.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als Sachwert ist gemäß AAOIFI-Standards als halal anerkannt, da es als Vermögenswert gehalten und nicht spekulativ gehandelt wird, solange es physisch gedeckt ist und keine Zinsen generiert.",
+    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das die AAOIFI-Standards für Goldinvestitionen erfüllt.",
     "purification": "0.00",
     "entscheidung": "WARTEN",
     "richtung": "null",
-    "einstieg": null,
-    "stopLoss": null,
-    "ziel": null,
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
     "zeitraum": "null",
     "einsatz": 0,
     "exitStrategie": "null",
-    "waehrungsrisiko": "Der Anstieg des EUR/USD auf 1.1435 könnte US-Dollar-basierte Investitionen für Euro-Investoren leicht verteuern, aber der Effekt ist moderat.",
-    "psychologie": "FOMO Warnung. Die Stärke in Halbleiteraktien könnte FOMO auslösen, aber die zugrunde liegenden geopolitischen Risiken und die allgemeine Marktunsicherheit (Fear & Greed Index) erfordern Vorsicht.",
+    "waehrungsrisiko": "Ein steigender EUR/USD könnte Gold in Euro gerechnet günstiger machen, was den Wert des physischen Goldes für Euro-Anleger relativ stabil hält oder leicht erhöht, wenn der Goldpreis in USD steigt.",
+    "psychologie": "Der niedrige Fear & Greed Index (25) deutet auf eine allgemeine Angst im Markt hin, was zu überzogenen Reaktionen führen kann. Die bullish-Meldungen in der Tech-Branche könnten FOMO bei Anlegern auslösen, die den breiteren Markt meiden.",
     "ruhigerTag": false,
-    "lernpunkt": "Peripherie-Effekte: Wenn ein Sektor stark im Hype ist, profitieren oft auch weniger offensichtliche, nachgelagerte oder vorgelagerte Assets. Diese 'Peripherie-Assets' sind oft Rohstoffe, spezialisierte Zulieferer oder Dienstleister, deren Wertschöpfung mit dem Haupt-Hype-Sektor verbunden ist, aber von der Masse übersehen wird.",
-    "tagesfrage": "Wie stark werden die geopolitischen Spannungen im Iran die globale Halbleiterproduktion und die damit verbundenen Rohstoffpreise beeinflussen, und wie schnell werden die Märkte dies einpreisen?",
-    "brief": "Ayman, heute sehen wir eine klare Stärke im Halbleitersektor, angetrieben durch die Nachfrage nach fortschrittlicher KI-Technologie. Die Nachrichten über ZTE und Nvidia sind ein klares Signal. Doch lass dich nicht vom Glanz blenden. Die geopolitischen Spannungen im Iran sind ein ernstzunehmender Schatten, der die Lieferketten und Energiepreise beeinflussen kann. Denke daran: Die Nachricht ist die Oberfläche, das Geld zeigt die Wahrheit. Wo fließt das Kapital wirklich hin, wenn die Risiken steigen? Halte Ausschau nach den oft übersehenen Rohstoffen und Zulieferern, die im Hintergrund von diesem Tech-Boom profitieren, aber auch von den globalen Spannungen betroffen sind. Sei geduldig und suche nach der wahren Wertschöpfung jenseits des offensichtlichen Hypes."
+    "lernpunkt": "Fear & Greed Index: Ein Indikator, der die aktuelle Marktstimmung misst. Ein niedriger Wert (wie 25) deutet auf extreme Angst hin, während ein hoher Wert auf extreme Gier hindeutet. Er wird oft als Kontraindikator verwendet.",
+    "tagesfrage": "Wie beeinflusst die zunehmende Fragmentierung der globalen Lieferketten durch geopolitische Konflikte die langfristige Investitionsstrategie in Rohstoffe und Technologie?",
+    "brief": "Ayman, der Markt zeigt heute eine interessante Dichotomie. Während der Fear & Greed Index auf extreme Angst hindeutet, sehen wir starke, bullische Signale in spezifischen Technologiebereichen wie IT-Infrastruktur und Software. Das ist Smart Money, das selektiv agiert. Die geopolitischen Spannungen im Hormuz sind ein ernstes Thema, das die Ölpreise kurzfristig drücken, aber langfristig zu Engpässen führen könnte. Behalte die peripheren Effekte im Auge – wer profitiert, wenn die Digitalisierung weitergeht, auch wenn der breite Markt zögert? Das Geld lügt nicht, auch wenn die Nachrichten manchmal ablenken."
   },
   "prices": {
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 64830.98828125,
-      "change": -0.19263006001949032
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4039.800048828125,
-      "change": -0.5244896288180073
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 58.82500076293945,
-      "change": 0.0901813863515593
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25007.630859375,
+      "change": 0.032406860160413956
     },
     "CL=F": {
       "label": "Öl",
-      "price": 80.30000305175781,
-      "change": 1.2099908724204393
+      "price": 79.4000015258789,
+      "change": -0.2512524523567785
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 64546.9296875,
+      "change": -0.25566255681390154
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 57.36000061035156,
+      "change": 0.4377517025532755
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4034.300048828125,
+      "change": -0.23986031582282397
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1435105800628662,
-      "change": 0.4459745638475573
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 25147.029296875,
-      "change": 0
+      "price": 1.1475785970687866,
+      "change": 0.4475518054362122
     }
   },
   "fearGreed": [
-    22,
     23,
     26,
     26,
     28,
     22,
+    25,
     25
   ],
   "simulation": {
