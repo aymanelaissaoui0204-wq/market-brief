@@ -1,6 +1,6 @@
 {
-  "date": "Freitag, 17. Juli 2026",
-  "generatedAt": "2026-07-17T07:16:26.581Z",
+  "date": "Samstag, 18. Juli 2026",
+  "generatedAt": "2026-07-18T07:00:37.254Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,205 +17,84 @@
       "origin": "GNews"
     },
     {
-      "title": "Netflix stock drops after Q3 revenue falls short, co-CEO says not all views are 'created equal'",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Bearish",
-      "tickers": [
-        "NFLX(-0.60)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Netflix, SpaceX, Alphabet, Alcoa and Intuitive Surgical: Why These 5 Stocks Are on Investors' Radars Toda",
-      "source": "Benzinga",
-      "sentiment": "Neutral",
-      "tickers": [
-        "GOOGL(0.01)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Wipro Says Longer Client Decision Cycles Delayed Some Large Deals Into Q2",
-      "source": "NDTV Profit",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "WIT(-0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Millicom stock trades steadily as Latin American telecom revenue expands",
-      "source": "Ad Hoc News",
-      "sentiment": "Bullish",
-      "tickers": [
-        "TIGO(0.48)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "NXP Semiconductors and Broadcom Shares Plummet, What You Need To Know",
-      "source": "Yahoo Finance",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AVGO(-0.23)",
-        "NXPI(-0.21)",
-        "AAPL(0.32)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "SAP SE Stock (SAP) Closed Up by 3.87% on Jul 16: What Signal Does It Send?",
-      "source": "TradingKey",
-      "sentiment": "Neutral",
-      "tickers": [
-        "SAP(0.03)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Why Skyworks Stock Just Got Downgraded",
-      "source": "Barchart.com",
-      "sentiment": "Somewhat-Bearish",
-      "tickers": [
-        "SWKS(-0.21)",
-        "AAPL(-0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Logitech stock trades steadily as investors weigh margin trends and AI-ready peripherals",
-      "source": "Ad Hoc News",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "LOGI(0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Alphabet Inc Class C Stock (GOOG) Moved Down by 3.79% on Jul 16: What Investors Need To Know",
-      "source": "TradingKey",
-      "sentiment": "Neutral",
-      "tickers": [
-        "GOOG(0.04)",
-        "GOOGL(-0.31)",
-        "MSFT(0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "CARZ ETF Profile: Dividends, Returns (BMV:CARZ)",
-      "source": "TradingView",
-      "sentiment": "Bullish",
-      "tickers": [
-        "CARZ(0.42)",
-        "AMD(0.73)",
-        "MU(0.74)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Seagate Order Book Covers 5 Quarters. The Stock Is Down 24% Anyway",
-      "source": "TIKR.com",
-      "sentiment": "Neutral",
-      "tickers": [
-        "STX(-0.26)",
-        "WDC(0.11)",
-        "NTAP(0.07)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "BBVA: Geopolitics and AI drive global shifts; Spain, Mexico, and Turkey adapt with targeted policies",
-      "source": "TradingView",
-      "sentiment": "Neutral",
-      "tickers": [
-        "BBVA(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "SMH ETF Falls Below Key Support as Chip Selloff Trumps Record Earnings",
-      "source": "TechStock²",
-      "sentiment": "Neutral",
-      "tickers": [
-        "SMH(-0.41)",
-        "NVDA(-0.22)",
-        "MRK(0.31)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Supermicro Stock Drops as AI Hardware Correction Triggers Massive Server Selloff",
-      "source": "Benzinga",
-      "sentiment": "Bearish",
-      "tickers": [
-        "SMCI(-0.40)",
-        "DELL(-0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Applied Materials Inc Stock (AMAT) Moved Down by 3.49% on Jul 16: A Full Analysis",
-      "source": "TradingKey",
-      "sentiment": "Bearish",
-      "tickers": [
-        "AMAT(-0.43)",
-        "MU(-0.41)",
-        "NVDA(-0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Iran's IRGC say they targeted US command centre in Syria, state media reports - Reuters",
+      "title": "Iran renews attacks on Gulf states after another night of US strikes - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Iran launches fresh attacks after sixth day of US strikes - Reuters",
+      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Gold on track for biggest weekly loss in six as Iran war fans inflation worries - Reuters",
+      "title": "Boeing keeps 20-year forecast for jet demand steady, shrugs off Iran war impact - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Qatar says Iranian missile attack thwarted, child injured - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Oil rises on intensifying US-Iran hostilities, threat of Red Sea closure - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
+      "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US House Republicans push forward on Trump funding plan for Iran war, election overhaul - Reuters",
+      "title": "Meta's latest move in the AI talent war — plus Cramer's 4 quick hits on the market",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UK police charge man over Iran-linked spying offences - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Suspected pirates seize tanker off Yemen coast in Gulf of Aden, sources say - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iranians suffer new uncertainty and anxiety as US steps up attacks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "EXCLUSIVE: Pakistan and Kuwait discuss expanded defence pact, sources say - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -224,113 +103,107 @@
   ],
   "sections": {
     "oberflaeche": [
-      "Heidenheimer Zeitung: Lokale Politik Rolle der Grünen-Abgeordneten Clara Resch.",
-      "n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank.",
-      "Yahoo Finance UK: Netflix-Aktie fällt nach verfehlten Q3-Umsätzen.",
-      "Benzinga: Netflix, SpaceX, Alphabet, Alcoa und Intuitive Surgical im Fokus.",
-      "NDTV Profit: Wipro meldet Verzögerungen bei Großaufträgen.",
-      "Ad Hoc News: Millicom-Aktie stabil bei wachsenden Umsätzen in Lateinamerika.",
-      "Yahoo Finance: NXP Semiconductors und Broadcom fallen, was Anleger wissen müssen.",
-      "TradingKey: SAP SE Aktie schloss im Plus, was signalisiert das?",
-      "Barchart.com: Skyworks-Aktie erhält Downgrade.",
-      "Ad Hoc News: Logitech-Aktie stabil, Anleger wägen Margen und KI-Peripherie ab.",
-      "TradingKey: Alphabet Inc Class C Aktie fiel.",
-      "TradingView: CARZ ETF Profil: Dividenden, Renditen.",
-      "TIKR.com: Seagate-Auftragsbestand deckt 5 Quartale, Aktie fällt trotzdem.",
-      "TradingView: BBVA: Geopolitik und KI treiben globale Verschiebungen.",
-      "TechStock²: SMH ETF fällt unter wichtige Unterstützung.",
-      "Benzinga: Supermicro-Aktie fällt wegen KI-Hardware-Korrektur.",
-      "TradingKey: Applied Materials Inc Aktie fiel.",
-      "Reuters: Iran greift US-Kommandoposten in Syrien an.",
-      "Reuters: Iran startet neue Angriffe nach US-Streiks.",
-      "Reuters: Gold auf dem Weg zur größten Wochenverlustrate seit sechs Wochen."
+      "GNews: Heidenheimer Zeitung: Clara Resch (Grüne) spielt Rolle in Landtagsgremien.",
+      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank.",
+      "Finnhub: Reuters: Iran erneuert Angriffe auf Golfstaaten nach US-Schlägen.",
+      "Finnhub: Reuters: US-Militär schließt weitere Angriffe auf Iran ab.",
+      "Finnhub: Reuters: Boeing hält 20-Jahres-Prognose für Flugzeugnachfrage stabil.",
+      "Finnhub: CNBC: FAA erlaubt Boeing wieder, Lufttüchtigkeitszertifikate für 737 Max, 787 zu unterzeichnen.",
+      "Finnhub: CNBC: Metas jüngster Schachzug im KI-Talentkrieg.",
+      "Finnhub: CNBC: Einzelhandel und Wall Street liegen bei SpaceX im Minus, kämpfen aber weiter.",
+      "Finnhub: Reuters: Israelische Angriffe töten Palästinenser bei Beerdigung.",
+      "Finnhub: Reuters: Mann wegen Spionageverdachts im Zusammenhang mit Iran angeklagt.",
+      "Finnhub: CNBC: Kaliforniens Milliardärssteuer: Was für die größte US-Wirtschaft auf dem Spiel steht.",
+      "Finnhub: Reuters: Verdächtige Piraten kapern Tanker vor Jemen.",
+      "Finnhub: Reuters: Iraner leiden unter neuer Unsicherheit durch US-Angriffe.",
+      "Finnhub: Reuters: Pakistan und Kuwait diskutieren erweiterten Verteidigungspakt."
     ],
     "hypeNews": [
-      "KI-Hardware-Korrektur und Server-Selloff (SMCI, DELL)",
-      "Halbleiter-Selloff trotz Rekordgewinnen (SMH, NVDA, AMAT, MU)"
+      "Geopolitische Spannungen im Nahen Osten (Iran/US/Golfstaaten/Israel).",
+      "KI-Talentkrieg und Metas Strategie."
     ],
-    "hypeCenter": "Der Halbleitersektor und KI-Hardware erlebt eine Korrektur, was zu breiten Verkäufen führt. Dies ist ein Zeichen für eine mögliche Marktüberhitzung in diesem Bereich, obwohl einige Unternehmen wie AMD und MU im CARZ ETF positiv hervorgehoben werden.",
-    "peripherEffect": "Trotz des Halbleiter-Selloffs könnten Unternehmen, die von der breiteren Technologieadoption profitieren, die nicht direkt im Fokus der Korrektur stehen, eine verzögerte positive Entwicklung zeigen. Dazu gehören Satelliten-Zulieferer (falls SpaceX-bezogen), Spezialmetallproduzenten (für Elektronikfertigung) und Unternehmen, die sich auf die Infrastruktur für KI-Anwendungen spezialisieren, aber nicht direkt Hardware herstellen.",
-    "narrativ": "Die Masse glaubt, dass die Korrektur im Halbleitersektor eine allgemeine Schwäche im Tech-Bereich signalisiert und dass die KI-Euphorie vorbei ist. Die geopolitischen Spannungen mit Iran werden als inflationärer Treiber für Gold gesehen.",
-    "realitaet": "Die Korrektur im Halbleitersektor ist eine natürliche Marktbereinigung nach starken Gewinnen und übertriebenen Erwartungen. Es ist keine allgemeine Schwäche des Tech-Sektors, sondern eine selektive Neubewertung. Die geopolitischen Spannungen sind ein Ablenkungsmanöver, um die tatsächlichen wirtschaftlichen Probleme und die Liquiditätsabflüsse zu verschleiern. Die Goldnachrichten sind irreführend; der Rückgang von Gold deutet auf eine geringere Inflationserwartung oder auf Kapitalabflüsse aus sicheren Häfen hin.",
-    "macht": "Große Technologieunternehmen (Alphabet, Microsoft, Apple), die von KI und Cloud profitieren, sowie Finanzinstitute (Unicredit), die Konsolidierungen vorantreiben. Die Rohstoffmärkte werden von globalen Akteuren und geopolitischen Spannungen beeinflusst.",
-    "geopolitik": "Die Spannungen im Nahen Osten (Iran vs. USA) sind ein klassisches Ablenkungsmanöver, um von internen wirtschaftlichen Problemen und der De-Dollarisierung abzulenken. Die BRICS-Staaten könnten von diesen Spannungen profitieren, indem sie ihre eigenen wirtschaftlichen Agenden vorantreiben, während die G7-Staaten mit internen Problemen und der Notwendigkeit, die globale Stabilität zu wahren, beschäftigt sind.",
-    "liquiditaet": "Kapital fließt aus überbewerteten Tech-Sektoren ab und sucht nach sichereren Häfen oder nach Sektoren, die von der breiteren wirtschaftlichen Erholung profitieren, auch wenn diese langsam ist. Es gibt eine Tendenz, dass Kapital aus spekulativen Anlagen wie Bitcoin abzieht, was auf eine geringere Risikobereitschaft hindeutet.",
-    "kette": "Geopolitische Spannungen (Iran) -> Angst vor Inflation und Lieferkettenunterbrechungen -> Goldpreis fällt (widersprüchlich zur Erwartung) -> Kapitalabzug aus risikoreichen Anlagen (Bitcoin, Tech-Aktien) -> Korrektur im Halbleitersektor -> Suche nach stabilen Sektoren (Telekommunikation, etablierte Software).",
-    "timing": "Mitte des Zyklus. Die Korrektur im Halbleitersektor deutet auf eine Phase der Neubewertung hin, nachdem die anfängliche Euphorie abgeklungen ist. Die geopolitischen Spannungen sind ein wiederkehrendes Muster, das oft zu Beginn oder in der Mitte von Marktzyklen auftritt, um Unsicherheit zu schüren.",
-    "saisonalitaet": "Juli ist historisch oft ein Monat der Konsolidierung oder leichten Korrektur im Aktienmarkt, bevor die Rallys im Spätsommer/Herbst beginnen. Die aktuellen Nachrichten passen zu diesem Muster, mit einer Ausnahme bei Gold, das normalerweise im Juli von Inflationssorgen profitieren würde.",
-    "masseFehler": "Die Masse sieht die Korrektur im Halbleitersektor als Ende des Tech-Booms und die geopolitischen Spannungen als direkten Treiber für steigendes Gold. Der Edge liegt darin zu erkennen, dass dies eine Marktbereinigung ist und die geopolitischen Spannungen eher zur Kapitalverschiebung als zur direkten Inflation genutzt werden. Die Korrektur im Halbleitersektor könnte eine Chance für unterbewertete, aber langfristig relevante Unternehmen sein.",
-    "widerspruch": "Ja. Gold fällt trotz geopolitischer Spannungen, die normalerweise inflationäre Ängste schüren und den Goldpreis treiben sollten. Dies deutet darauf hin, dass andere Faktoren (Liquiditätsabzug, geringere Inflationserwartung oder gezielte Marktmanipulation) stärker wirken.",
-    "markt": "Silber: Leicht fallend, Gold: Leicht steigend (trotz Reuters-Bericht), EUR/USD: Leicht fallend, Bitcoin: Fallend, Öl: Leicht fallend, DAX: Stabil, Halbleiter-ETFs (SMH): Fallend.",
-    "opportunity": "Potenzielle Chance in unterbewerteten Halbleiterunternehmen nach der Korrektur, oder in Sektoren, die von der breiteren Technologieadoption profitieren, aber nicht direkt von der Hardware-Korrektur betroffen sind (z.B. Software-Infrastruktur, KI-Dienstleistungen).",
-    "positionierung": "Smart Money scheint aus überbewerteten Tech-Titeln und spekulativen Kryptowährungen abzuziehen. Die Korrektur bei Halbleitern und KI-Hardware deutet auf eine Neubewertung hin. Das Sentiment ist gemischt, mit bärischen Tendenzen bei Tech-Aktien (NFLX, WIT, NXPI, AVGO, SWKS, SMCI, AMAT) und bullischen Tendenzen bei einigen Nischen (TIGO, CARZ ETF, LOGI).",
-    "reflexivitaet": "Die negativen Nachrichten über Netflix und die Halbleiter führen zu Verkäufen, was wiederum die Angst verstärkt und weitere Verkäufe auslöst. Die geopolitischen Spannungen führen zu Unsicherheit, was die Anleger dazu veranlasst, Kapital aus risikoreichen Anlagen abzuziehen und in sicherere Häfen zu verschieben, was die Preise dieser sicheren Häfen beeinflusst.",
+    "hypeCenter": "Geopolitische Spannungen und militärische Auseinandersetzungen im Nahen Osten. Dies treibt die Ölpreise und die Nachfrage nach sicheren Häfen.",
+    "peripherEffect": "Rohstoffe (insbesondere Öl und potenziell Gold/Silber als sichere Häfen), Verteidigungsaktien, Logistik- und Reedereien (wegen Pirateriegefahr), spezialisierte Zulieferer für die Luftfahrtindustrie (trotz Boeing-Stabilität).",
+    "narrativ": "Die Welt wird unsicherer, Kriege und Konflikte nehmen zu. Dies führt zu steigenden Energiepreisen und einer Flucht in traditionelle sichere Anlagen wie Gold. Gleichzeitig gibt es technologische Fortschritte im KI-Bereich, die das Potenzial für zukünftiges Wachstum bergen.",
+    "realitaet": "Die geopolitischen Spannungen sind ein wiederkehrendes Muster, das oft zur Steuerung von Ölpreisen und zur Ablenkung von internen wirtschaftlichen Problemen genutzt wird. Die militärischen Aktionen sind kalkuliert, um bestimmte Machtblöcke zu stärken oder zu schwächen. Der KI-Hype dient dazu, massive Investitionen in ein Sektor zu lenken, dessen tatsächlicher Nutzen und Verbreitung noch unklar ist. Die FAA-Entscheidung bei Boeing deutet auf eine Stabilisierung der Lieferketten in der Luftfahrt hin, trotz der globalen Unsicherheit.",
+    "macht": "Ölfördernde Staaten (OPEC+), Rüstungsunternehmen, große Technologiekonzerne (Meta), Finanzinstitute (Unicredit), Regierungen, die von steigenden Rohstoffpreisen profitieren.",
+    "geopolitik": "Zunehmende Spannungen zwischen dem Iran und den USA/Golfstaaten. Pakistan und Kuwait suchen nach Verteidigungsabkommen. Dies könnte die BRICS-Allianz stärken und die G7-Staaten unter Druck setzen. Die De-Dollarisierung wird durch die Volatilität der US-Dollar-gestützten Märkte potenziell beschleunigt, wenn alternative Währungen oder Rohstoffwährungen an Bedeutung gewinnen.",
+    "liquiditaet": "Kapital fließt kurzfristig in Öl-Futures und traditionelle sichere Häfen wie Gold. Langfristig könnte Kapital in KI-bezogene Unternehmen und deren Zulieferer fließen, sobald die geopolitischen Risiken abklingen.",
+    "kette": "Iranische Angriffe -> US-Gegenangriffe -> Erhöhte geopolitische Spannungen -> Steigende Ölpreise -> Unsicherheit an den Märkten -> Flucht in sichere Häfen (Gold/Silber) -> Boeing-Nachfrage bleibt stabil (trotzdem).",
+    "timing": "Früh bis Mitte im Ölpreis-Zyklus aufgrund der Eskalation. Mitte im KI-Zyklus, da die Entwicklung und Anwendung noch im Gange ist. Spät im Zyklus für traditionelle sichere Häfen, da sie oft erst nach einer Eskalation nachziehen.",
+    "saisonalitaet": "Juli ist historisch oft ein Monat mit erhöhter Marktvolatilität aufgrund von Sommerferien und potenziellen geopolitischen Ereignissen. Ölpreise können im Sommer aufgrund der erhöhten Nachfrage nach Reisen tendenziell steigen.",
+    "masseFehler": "Die Masse sieht die geopolitischen Ereignisse als isolierte Vorfälle und nicht als Teil eines größeren, orchestrierten Spiels zur Steuerung von Märkten und Ressourcen. Sie unterschätzen die Fähigkeit von Akteuren, Krisen zu managen und Kapital dorthin zu lenken, wo es ihnen am meisten nützt.",
+    "widerspruch": "Ja. Die Ölpreise steigen stark (+4.48%), während der DAX leicht fällt (-0.34%) und Bitcoin kaum bewegt (+0.06%). Dies deutet auf eine Flucht in Sachwerte und weg von risikoreicheren Anlagen hin, aber Bitcoin als 'digitales Gold' zeigt keine klare Reaktion, was auf eine Unsicherheit über seine Rolle als sicherer Hafen hindeutet.",
+    "markt": "Öl: Steigend | Silber: Steigend | Gold: Steigend | Bitcoin: Stabil | DAX: Fallend | EUR/USD: Stabil",
+    "opportunity": "JA",
+    "positionierung": "Smart Money positioniert sich wahrscheinlich defensiv in Rohstoffen und Rüstungswerten. Das Sentiment ist gemischt, mit Angst (Fear & Greed Index: 25/100) aber auch einer gewissen Resilienz im Markt (z.B. Boeing). Die Nachrichten deuten auf eine vorsichtige Haltung hin, aber die steigenden Ölpreise und die Stabilität von Gold/Silber signalisieren eine defensive Neigung.",
+    "reflexivitaet": "Die steigenden Ölpreise aufgrund geopolitischer Spannungen erhöhen die Inflationserwartungen, was wiederum die Zentralbanken unter Druck setzen könnte, die Geldpolitik zu straffen, was die Märkte weiter beeinflussen würde. Gleichzeitig könnte die Unsicherheit die Nachfrage nach KI-Technologien als Effizienzsteigerer erhöhen.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
-      "ratio": 2.3,
+      "ratio": 2.25,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die Kombination aus geopolitischen Spannungen, Korrekturen in Schlüsseltechnologiesektoren und der Suche nach neuen Kapitalflüssen deutet auf eine Phase des Umbruchs hin, in der sich die globalen wirtschaftlichen und technologischen Schwerpunkte verschieben.",
+    "metaZyklus": "Umbruch/Krise",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als Edelmetall ist per se halal, und Xetra-Gold ist ein physisch hinterlegter ETF, der den Besitz von Gold repräsentiert und somit den islamischen Anlageprinzipien entspricht.",
+    "halalBegruendung": "Xetra-Gold ist ein physisch besicherter Gold-ETF, der den islamischen Anlageprinzipien entspricht, da er den Besitz eines realen Vermögenswerts darstellt und keine Zinsen generiert.",
     "purification": "0.00",
-    "entscheidung": "WARTEN",
-    "richtung": "null",
-    "einstieg": "null",
-    "stopLoss": "null",
-    "ziel": "null",
-    "zeitraum": "null",
-    "einsatz": 0,
-    "exitStrategie": "null",
-    "waehrungsrisiko": "Der fallende EUR/USD-Kurs könnte US-Dollar-denominierte Anlagen für europäische Anleger verteuern, aber auch die Renditen von in Euro gehandelten Anlagen im Vergleich zu Dollar-Anlagen verbessern.",
-    "psychologie": "FOMO bei denjenigen, die befürchten, die Erholung nach der Korrektur zu verpassen, und PANIK bei denjenigen, die durch die negativen Nachrichten und geopolitischen Spannungen verunsichert sind.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 4013,
+    "stopLoss": 3900,
+    "ziel": 4300,
+    "zeitraum": "4-8 Wochen",
+    "einsatz": 3.13,
+    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei einem Bruch des Stop-Loss. Alternativ: Teilgewinne bei 4150 sichern.",
+    "waehrungsrisiko": "Ein starker EUR/USD Anstieg (über 1.15) könnte die Rendite von in USD gehandelten Goldkontrakten für EUR-Investoren leicht schmälern, aber der Anstieg von Gold selbst sollte dies überkompensieren.",
+    "psychologie": "Warnung vor FOMO bei steigenden Ölpreisen und PANIK bei weiteren Eskalationen.",
     "ruhigerTag": false,
-    "lernpunkt": "Der 'Peripherie-Effekt' beschreibt, wie Sektoren oder Assets, die nicht direkt im Rampenlicht stehen, von einem Hype in einem verwandten Sektor profitieren. Dies geschieht oft mit Verzögerung, da die Anleger erst nach und nach erkennen, wo die wahren Gewinner abseits des offensichtlichen Hypes liegen.",
-    "tagesfrage": "Wie stark wird die Korrektur im Halbleitersektor die breitere Wirtschaft beeinflussen und welche Sektoren werden davon am wenigsten oder am meisten betroffen sein?",
-    "brief": "Ayman, heute sehen wir eine interessante Dynamik: Während die Schlagzeilen von geopolitischen Spannungen und Korrekturen im Halbleitersektor dominiert werden, zeigt sich im Markt eine subtilere Verschiebung. Die Masse reagiert mit Angst auf die fallenden Kurse, aber wir sollten die Gelegenheit erkennen, die sich hinter diesen Bewegungen verbirgt. Die Korrektur im Halbleitersektor ist eine Chance, nicht das Ende. Achte auf die Peripherie-Effekte, die oft übersehen werden. Die islamische Ethik mahnt uns zur Geduld und zur Vermeidung von Spekulation; nutze diese Zeit, um deine Positionen zu überprüfen und dich auf langfristige, werthaltige Anlagen zu konzentrieren, die im Einklang mit unseren Prinzipien stehen."
+    "lernpunkt": "Geopolitische Risiken sind oft Katalysatoren für Marktverschiebungen. Sie können kurzfristige Volatilität erzeugen, aber auch langfristige Trends in Rohstoffen und Verteidigungssektor auslösen. Es ist wichtig, die Nachrichten nicht isoliert zu betrachten, sondern im Kontext größerer Machtverschiebungen und wirtschaftlicher Interessen zu analysieren.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach alternativen sicheren Häfen außerhalb von Gold und Silber sein, wenn die geopolitischen Spannungen weiter eskalieren?",
+    "brief": "Ayman, heute sehen wir, wie die Weltbühne die Märkte bewegt. Die Spannungen im Nahen Osten sind nicht nur Schlagzeilen, sie sind der Motor für steigende Ölpreise und eine Flucht in Gold. Nutze diese Dynamik, aber bleibe wachsam. Die Technologie entwickelt sich weiter, aber in Zeiten der Unsicherheit zählen die alten Werte. Achte auf die Muster, nicht nur auf die Nachrichten. Dein Kapital ist ein Vertrauensvorschuss, setze es weise ein."
   },
   "prices": {
-    "SI=F": {
-      "label": "Silber",
-      "price": 55.75,
-      "change": -0.26476584665937597
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.145213007926941,
-      "change": -0.15804488695118973
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 62832.37109375,
-      "change": -1.5001112059872912
-    },
     "CL=F": {
       "label": "Öl",
-      "price": 78.76000213623047,
-      "change": -0.24065208278130143
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4004.60009765625,
-      "change": 0.4767161665610415
+      "price": 82.48999786376953,
+      "change": 4.483851871264907
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 24915.490234375,
-      "change": 0
+      "price": 24830.98046875,
+      "change": -0.3391856424659264
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63935.4296875,
+      "change": 0.05628959849157569
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4012.699951171875,
+      "change": 0.6799441201228691
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1445575952529907,
+      "change": 0.008010019503199633
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 56.03799819946289,
+      "change": 0.2504551014872051
     }
   },
   "fearGreed": [
-    26,
     26,
     28,
     22,
     25,
     25,
-    27
+    27,
+    25
   ],
   "simulation": {
     "buy": 10,
