@@ -1,6 +1,6 @@
 {
-  "date": "Dienstag, 21. Juli 2026",
-  "generatedAt": "2026-07-21T07:32:51.304Z",
+  "date": "Mittwoch, 22. Juli 2026",
+  "generatedAt": "2026-07-22T07:33:52.650Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,198 +17,196 @@
       "origin": "GNews"
     },
     {
-      "title": "Cisco stock trades steady as investors weigh latest earnings and AI networking push",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "CSCO(0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "KOSPI rebounds as chipmakers recover; Morgan Stanley says correction nears bottom By Investing.com",
-      "source": "Investing.com South Africa",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "MS(0.32)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Asian Steel Pressured in Q3; Future of ATJ Sustainable Aviation Fuel; and the NCTC's Role in Pay TV",
-      "source": "S&P Global",
-      "sentiment": "Neutral",
-      "tickers": [
-        "SPGI(0.11)",
-        "NUE(-0.34)",
-        "JBL(-0.35)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Keysight Technologies stock trades steady as test and measurement leader digests recent earnings and",
+      "title": "Applied Materials stock trades near record territory as chip equipment demand supports earnings momentum",
       "source": "Ad-hoc-news.de",
       "sentiment": "Bullish",
       "tickers": [
-        "KEYS(0.42)"
+        "AMAT(0.52)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "UBS Cuts Price Targets On Arm Holdings (NASDAQ: ARM), Qualcomm (NASDAQ: QCOM), And KLA Corp. (NASDAQ: KLAC)",
-      "source": "Foreign Policy Journal",
+      "title": "Anthony Scaramucci Calls Out Trump Media's Truth API for Selling Wall Street a Speed Advantage to 'Front-Run' Trades",
+      "source": "Benzinga",
       "sentiment": "Neutral",
       "tickers": [
-        "KLAC(0.11)",
-        "QCOM(0.07)"
+        "DJT(0.03)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "TTEC stock trades steady as recent earnings highlight revenue growth and margin pressure",
+      "title": "Autodesk (ADSK) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "source": "Yahoo Finance UK",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ADSK(0.29)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Cisco stock trades steadily as investors weigh recent earnings and AI-driven networking demand",
       "source": "Ad-hoc-news.de",
-      "sentiment": "Neutral",
-      "tickers": [
-        "TTEC(0.11)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "How Much Upside Can ANET Stock’s Growth Deliver?",
-      "source": "Trefis",
-      "sentiment": "Neutral",
-      "tickers": [
-        "ANET(0.49)",
-        "ISRG(-0.23)",
-        "CDNS(-0.21)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "WR Berkley Corp (WRB) Q2 2026 Earnings Call Highlights: Strong Investment Income and Shareholder Returns Amid Competitive Challenges",
-      "source": "GuruFocus",
       "sentiment": "Bullish",
       "tickers": [
-        "WRB(0.40)"
+        "CSCO(0.41)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Palo Alto Networks (PANW) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "title": "Aptiv (APTV) 16th Annual Wells Fargo Industrials & Materials Conference Summary",
+      "source": "Quartr",
+      "sentiment": "Bullish",
+      "tickers": [
+        "APTV(0.41)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Verisk Analytics stock trades steadily as recent earnings and index role frame valuation",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Bullish",
+      "tickers": [
+        "VRSK(0.61)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Trimble stock trades steady as investors weigh Q1 2026 earnings and geospatial growth",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TRMB(0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Iron Mountain stock trades near record territory as data center growth supports revenue",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Bullish",
+      "tickers": [
+        "IRM(0.46)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "STMicroelectronics' AI Pivot: A 384x P/E Hides a Powerful 2026 Earnings Rebound",
+      "source": "Kavout | AI",
+      "sentiment": "Neutral",
+      "tickers": [
+        "STM(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Roper Technologies (ROP) Stock Looks Reasonable On Earnings While Cash Flow Suggests More",
+      "source": "Simply Wall Street",
+      "sentiment": "Bullish",
+      "tickers": [
+        "ROP(0.40)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Business Process Outsourcing & Consulting Stocks Q1 Earnings: CBIZ (NYSE:CBZ) Best of the Bunch",
+      "source": "Yahoo Finance",
+      "sentiment": "Bullish",
+      "tickers": [
+        "CBZ(0.47)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
       "source": "Yahoo Finance Singapore",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "PANW(0.27)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "source": "Yahoo Finance Singapore",
       "sentiment": "Neutral",
       "tickers": [
-        "CSCO(0.02)"
+        "TTWO(0.03)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "TSME ETF Profile: Dividends, Returns (BOATS:TSME)",
-      "source": "TradingView",
-      "sentiment": "Neutral",
-      "tickers": [
-        "ESG(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Alibaba Stock Surges As Apple AI Deal Fuels New Rally",
-      "source": "StocksToTrade",
+      "title": "Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know",
+      "source": "Yahoo Finance",
       "sentiment": "Bullish",
       "tickers": [
-        "BABA(0.54)",
-        "AAPL(0.32)",
-        "NVDA(0.34)"
+        "INTC(0.49)",
+        "KLAC(0.47)",
+        "LRCX(0.46)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Hut 8 Corp Stock (HUT) Moved Up by 11.76% on Jul 20: Facts Behind the Movement",
+      "title": "Moody's posts strong Q1 growth, driven by bond market and AI strategies, despite cautious analyst outlook.",
+      "source": "Pluang",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MCO(0.48)",
+        "OKE(-0.42)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Corning Inc Stock (GLW) Closed Up by 6.06% on Jul 21: A Full Analysis",
       "source": "TradingKey",
-      "sentiment": "Bullish",
+      "sentiment": "Neutral",
       "tickers": [
-        "HUT(0.44)"
+        "GLW(0.48)",
+        "MU(0.22)",
+        "NVDA(0.19)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Jim Cramer: Alibaba Is “Still the Best Way to Play China” Despite Being Down 18% YTD",
-      "source": "24/7 Wall St.",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "BABA(0.27)",
-        "JNJ(0.33)",
-        "WFC(0.22)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally - Reuters",
+      "title": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks - Reuters",
+      "title": "Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meet - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Hormuz vessel crossings extend slide on fresh US-Iran attacks - Reuters",
+      "title": "Gold hits two-week high as Fed outlook, Mideast conflict stay in focus - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? - Reuters",
+      "title": "US military says its latest strikes on Iran have ended, marking 11th successive night of attacks - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Asian stocks bounce back as Mideast mediation takes oil lower - Reuters",
+      "title": "Oil extends gains to near six-week highs on new Middle East supply risks - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oil prices ease as mediators propose US-Iran ceasefire - Reuters",
+      "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Wall St ends higher on chip stocks recovery; earnings in focus - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Houthi Red Sea blockade would lift oil prices, but workarounds could limit impact - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "ASEAN top diplomats meet, voice 'serious concern' over Middle East hostilities - Reuters",
+      "title": "Saudi, UAE ministers use social media to signal unity after months of tension - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -219,117 +217,115 @@
     "oberflaeche": [
       "GNews: Heidenheimer Zeitung: Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
       "GNews: n-tv NACHRICHTEN: Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
-      "AlphaVantage: Ad-hoc-news.de: Cisco stock trades steady as investors weigh latest earnings and AI networking push",
-      "AlphaVantage: Investing.com South Africa: KOSPI rebounds as chipmakers recover; Morgan Stanley says correction nears bottom",
-      "AlphaVantage: S&P Global: Asian Steel Pressured in Q3; Future of ATJ Sustainable Aviation Fuel; and the NCTC's Role in Pay TV",
-      "AlphaVantage: Ad-hoc-news.de: Keysight Technologies stock trades steady as test and measurement leader digests recent earnings and",
-      "AlphaVantage: Foreign Policy Journal: UBS Cuts Price Targets On Arm Holdings (NASDAQ: ARM), Qualcomm (NASDAQ: QCOM), And KLA Corp. (NASDAQ: KLAC)",
-      "AlphaVantage: Ad-hoc-news.de: TTEC stock trades steady as recent earnings highlight revenue growth and margin pressure",
-      "AlphaVantage: Trefis: How Much Upside Can ANET Stock’s Growth Deliver?",
-      "AlphaVantage: GuruFocus: WR Berkley Corp (WRB) Q2 2026 Earnings Call Highlights: Strong Investment Income and Shareholder Returns Amid Competitive Challenges",
-      "AlphaVantage: Yahoo Finance Singapore: Palo Alto Networks (PANW) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "AlphaVantage: Yahoo Finance Singapore: Cisco Systems (CSCO) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "AlphaVantage: TradingView: TSME ETF Profile: Dividends, Returns (BOATS:TSME)",
-      "AlphaVantage: StocksToTrade: Alibaba Stock Surges As Apple AI Deal Fuels New Rally",
-      "AlphaVantage: TradingKey: Hut 8 Corp Stock (HUT) Moved Up by 11.76% on Jul 20: Facts Behind the Movement",
-      "AlphaVantage: 24/7 Wall St.: Jim Cramer: Alibaba Is “Still the Best Way to Play China” Despite Being Down 18% YTD",
-      "Finnhub: Reuters: Gold rises 1% as hopes for US-Iran diplomacy pause oil rally",
-      "Finnhub: Reuters: US military completes its latest strikes on Iran, marking the 10th successive night of attacks",
-      "Finnhub: Reuters: Hormuz vessel crossings extend slide on fresh US-Iran attacks",
-      "Finnhub: Reuters: What is China's next surprise for oil markets? Lower imports, higher fuel exports?"
+      "AlphaVantage: Ad-hoc-news.de: Applied Materials stock trades near record territory as chip equipment demand supports earnings momentum",
+      "AlphaVantage: Benzinga: Anthony Scaramucci Calls Out Trump Media's Truth API for Selling Wall Street a Speed Advantage to 'Front-Run' Trades",
+      "AlphaVantage: Yahoo Finance UK: Autodesk (ADSK) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "AlphaVantage: Ad-hoc-news.de: Cisco stock trades steadily as investors weigh recent earnings and AI-driven networking demand",
+      "AlphaVantage: Quartr: Aptiv (APTV) 16th Annual Wells Fargo Industrials & Materials Conference Summary",
+      "AlphaVantage: Ad-hoc-news.de: Verisk Analytics stock trades steadily as recent earnings and index role frame valuation",
+      "AlphaVantage: Ad-hoc-news.de: Trimble stock trades steady as investors weigh Q1 2026 earnings and geospatial growth",
+      "AlphaVantage: Ad-hoc-news.de: Iron Mountain stock trades near record territory as data center growth supports revenue",
+      "AlphaVantage: Kavout | AI: STMicroelectronics' AI Pivot: A 384x P/E Hides a Powerful 2026 Earnings Rebound",
+      "AlphaVantage: Simply Wall Street: Roper Technologies (ROP) Stock Looks Reasonable On Earnings While Cash Flow Suggests More",
+      "AlphaVantage: Yahoo Finance: Business Process Outsourcing & Consulting Stocks Q1 Earnings: CBIZ (NYSE:CBZ) Best of the Bunch",
+      "AlphaVantage: Yahoo Finance Singapore: Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
+      "AlphaVantage: Yahoo Finance: Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know",
+      "AlphaVantage: Pluang: Moody's posts strong Q1 growth, driven by bond market and AI strategies, despite cautious analyst outlook.",
+      "AlphaVantage: TradingKey: Corning Inc Stock (GLW) Closed Up by 6.06% on Jul 21: A Full Analysis",
+      "Finnhub: Reuters: Rubio says US still willing to negotiate over Iran crisis - Reuters",
+      "Finnhub: Reuters: Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meet - Reuters",
+      "Finnhub: Reuters: Gold hits two-week high as Fed outlook, Mideast conflict stay in focus - Reuters"
     ],
     "hypeNews": [
-      "KI-Netzwerkinfrastruktur und Test-/Messtechnik-Unternehmen zeigen Stärke (CSCO, KEYS)",
-      "Chiphersteller erholen sich, was auf eine Bodenbildung hindeutet (KOSPI, MS)",
-      "Alibaba-Aktie steigt aufgrund von KI-Deals mit Apple (BABA, AAPL, NVDA)",
-      "Hut 8 Corp (HUT) verzeichnet deutlichen Kursanstieg, was auf eine Erholung im Kryptosektor hindeutet"
+      "Starke Nachfrage nach Chip-Equipment treibt die Gewinne von Applied Materials (AMAT) und anderen Halbleiterfirmen wie Intel, KLA, Lam Research, Marvell und Micron an.",
+      "KI-getriebene Netzwerknachfrage und Datenzentren-Wachstum stützen die Kurse von Cisco (CSCO) und Iron Mountain (IRM)."
     ],
-    "hypeCenter": "Der Sektor der künstlichen Intelligenz (KI) und die damit verbundene Infrastruktur (Halbleiter, Netzwerktechnik) ist der stärkste Hype. Nachrichten über KI-Deals (Alibaba/Apple) und die Erholung von Chipherstellern treiben die Stimmung. Auch Unternehmen, die KI-Infrastruktur testen und messen, wie Keysight Technologies, profitieren.",
-    "peripherEffect": "Da der KI- und Halbleitersektor im Fokus steht, könnten nachgelagerte Zulieferer von Spezialmetallen (für Halbleiterproduktion), fortschrittliche Materialien für die Kühlung von Rechenzentren und Unternehmen, die sich auf die Datenverarbeitung und -speicherung für KI-Anwendungen spezialisieren, mit Verzögerung profitieren. Auch die Nachfrage nach Energie zur Versorgung der KI-Infrastruktur könnte indirekt steigen.",
-    "narrativ": "Die Masse glaubt, dass KI die nächste große technologische Revolution ist und dass Unternehmen, die direkt in KI investieren oder diese ermöglichen, astronomische Gewinne erzielen werden. Die Erholung bei Chipherstellern und die Stärke von Netzwerkkomponenten werden als Bestätigung für diesen Trend gesehen. Geopolitische Spannungen und die damit verbundenen Ölpreisschwankungen werden als kurzfristige Störfaktoren abgetan.",
-    "realitaet": "Die KI-Euphorie überdeckt die Tatsache, dass die tatsächliche Monetarisierung und Skalierung von KI-Anwendungen noch erhebliche Hürden aufweist. Die hohen Bewertungen vieler KI-bezogener Unternehmen spiegeln eher spekulative Erwartungen als fundamentale Realitäten wider. Die Erholung bei Chipherstellern könnte auch auf eine zyklische Erholung nach einem Abschwung hindeuten, nicht unbedingt auf einen KI-getriebenen Boom. Die geopolitischen Spannungen und ihre Auswirkungen auf Rohstoffe sind ein ernstzunehmendes Risiko, das die Kosten der KI-Infrastruktur erhöhen kann.",
-    "macht": "Große Technologiekonzerne (Apple, Alibaba), Halbleiterhersteller (Nvidia, Qualcomm), Netzwerk- und Testausrüstungsanbieter (Cisco, Keysight Technologies), Investmentbanken (Morgan Stanley, UBS) und Risikokapitalgeber, die in KI-Start-ups investieren. Auch die Betreiber von Rechenzentren und Energieversorger könnten profitieren.",
-    "geopolitik": "Die Spannungen zwischen den USA und dem Iran beeinflussen weiterhin die Ölpreise und die Schifffahrtsrouten im Persischen Golf. Dies könnte die globalen Lieferketten und die Energiekosten beeinflussen, was wiederum die Kosten für energieintensive Sektoren wie KI und Halbleiterfertigung erhöht. China versucht, seine Position im Ölmarkt zu nutzen. Die BRICS-Staaten könnten von der De-Dollarisierung profitieren, wenn die globalen Spannungen die Dominanz des US-Dollars weiter untergraben.",
-    "liquiditaet": "Kapital fließt in Technologieaktien, insbesondere in den KI-Sektor, getrieben von der Hoffnung auf zukünftiges Wachstum. Gleichzeitig suchen Anleger angesichts der geopolitischen Unsicherheiten und der steigenden Goldpreise auch nach sicheren Häfen. Silber zeigt ebenfalls eine starke Performance, was auf eine breitere Rohstoffrally hindeuten könnte. Der DAX bewegt sich seitwärts, was auf eine abwartende Haltung im europäischen Markt hindeutet.",
-    "kette": "KI-Fortschritte und -Deals (z.B. Alibaba/Apple) -> Erhöhte Nachfrage nach Rechenleistung und Netzwerkinfrastruktur -> Steigende Umsätze und Gewinne bei Halbleiter-, Netzwerk- und Testausrüstungsunternehmen -> Höhere Bewertungen dieser Unternehmen -> Spekulative Investitionen in den Sektor -> Mögliche Überbewertung und zukünftige Korrektur. Gleichzeitig: US-Iran-Konflikt -> Ölpreisvolatilität und Sorgen um Lieferketten -> Steigende Gold- und Silberpreise als sichere Häfen.",
-    "timing": "Mitte des Trends. Der KI-Hype ist bereits im Gange, aber die breitere Auswirkung auf periphere Assets und die tatsächliche Monetarisierung stehen noch bevor. Die Erholung bei Chipherstellern könnte auf eine frühere Phase der Zykluserholung hindeuten, während die geopolitischen Spannungen eher auf eine späte Phase der Unsicherheit hindeuten.",
-    "saisonalitaet": "Juli ist traditionell ein Monat mit gemischter Marktaktivität, oft geprägt von Sommerpausen und der Vorbereitung auf das dritte Quartal. Die aktuelle Rally in bestimmten Sektoren scheint eher von spezifischen Nachrichten als von saisonalen Mustern getrieben zu sein. Gold und Silber zeigen jedoch oft eine Stärke im späten Sommer/frühen Herbst.",
-    "masseFehler": "Die Masse konzentriert sich zu stark auf die direkten KI-Profiteure und ignoriert die potenziellen Kostensteigerungen durch geopolitische Spannungen und die Abhängigkeit von der Energieversorgung. Sie unterschätzt auch die zyklischen Natur von Halbleiter- und Technologieinvestitionen und die Möglichkeit einer Überbewertung, die zu einer Korrektur führen kann. Die breitere Rohstoffrally, die durch geopolitische Unsicherheit angetrieben wird, wird als Nebeneffekt abgetan.",
-    "widerspruch": "Ja. Während Technologieaktien (insbesondere KI-bezogene) stark sind, steigen auch traditionelle sichere Häfen wie Gold und Silber stark an. Dies deutet auf widersprüchliche Marktstimmungen hin: einerseits Optimismus bezüglich Technologie, andererseits Besorgnis über geopolitische Risiken und Inflation.",
-    "markt": "Gold: Steigend (sicherer Hafen, Inflationsschutz). Silber: Steigend (Rohstoffrally, industrieller Bedarf). Öl: Fallend (diplomatische Hoffnungen, aber volatile Aussichten). Bitcoin: Steigend (Risikobereitschaft, aber auch als digitaler Hafen). DAX: Leicht steigend (gemischte Signale, defensive Haltung). EUR/USD: Leicht fallend (stärkerer USD oder schwächerer EUR, abhängig von den globalen Kapitalflüssen).",
-    "opportunity": "Ja. Die Korrelation zwischen KI-Hype und Rohstoffen/Infrastruktur ist oft verzögert. Die aktuellen geopolitischen Spannungen treiben die Preise für sichere Häfen und potenziell auch für kritische Rohstoffe, die für die KI-Infrastruktur benötigt werden.",
-    "positionierung": "Smart Money scheint die KI-Aktien zu pushen (positive Ticker-Stimmungen für CSCO, KEYS, BABA, AAPL, NVDA), aber gleichzeitig positioniert es sich auch in Edelmetallen (Gold, Silber) aufgrund der geopolitischen Unsicherheit. Die breite Marktstimmung ist ängstlich (Fear & Greed: 25/100), was auf eine gute Einstiegsgelegenheit für risikobereite Anlagen hindeuten könnte, wenn die Angst übertrieben ist.",
-    "reflexivitaet": "Der KI-Hype treibt die Nachfrage nach Halbleitern und Infrastruktur, was wiederum die Umsätze und Gewinne der entsprechenden Unternehmen steigert. Dies bestätigt den Hype und zieht mehr Kapital an, was die Preise weiter in die Höhe treibt. Gleichzeitig können steigende Rohstoffpreise (wegen Geopolitik) die Kosten für diese Infrastruktur erhöhen und somit die Profitabilität der KI-Unternehmen beeinträchtigen, was den Hype dämpfen könnte.",
+    "hypeCenter": "Der stärkste Hype liegt im Halbleitersektor, angetrieben durch die anhaltend hohe Nachfrage nach Chip-Equipment und die Integration von KI-Technologien in Netzwerke und Rechenzentren. Unternehmen wie Applied Materials, Intel und Cisco zeigen hier deutliches Momentum.",
+    "peripherEffect": "Verzögert profitieren könnten Zulieferer von Spezialmetallen für die Halbleiterproduktion, Unternehmen im Bereich fortschrittlicher Kühltechnologien für Rechenzentren und Anbieter von Cybersecurity-Lösungen für KI-Infrastrukturen.",
+    "narrativ": "Die Masse glaubt, dass die aktuelle Rallye im Halbleitersektor und bei Technologieunternehmen auf fundamental starker Nachfrage und Innovation beruht, insbesondere durch KI. Dies wird als nachhaltiger Wachstumstrend wahrgenommen.",
+    "realitaet": "Die hohe Nachfrage wird auch durch staatliche Subventionen und geopolitische Bestrebungen zur Sicherung von Lieferketten künstlich angeheizt. Der Fokus auf KI lenkt von den enormen Investitionen in physische Infrastruktur ab, die für deren Betrieb notwendig sind.",
+    "macht": "Die Hauptprofiteure sind große Technologiekonzerne, Halbleiterhersteller, deren Zulieferer und die großen Investmentfonds, die diese Werte halten. Auch die Betreiber von Rechenzentren und Cloud-Anbieter ziehen erheblichen Nutzen.",
+    "geopolitik": "Die geopolitischen Spannungen (Iran-Krise, China-Gespräche) und die daraus resultierende Unsicherheit stützen Gold und Öl. Die Bemühungen um De-Dollarisierung und die Stärkung von BRICS-Allianzen könnten langfristig Rohstoffpreise beeinflussen, sind aber kurzfristig durch die aktuelle Tech-Rallye überlagert.",
+    "liquiditaet": "Kapital fließt aktuell stark in technologieorientierte Werte, insbesondere in den Halbleiter- und KI-Sektor. Ein Teil der Liquidität sucht auch weiterhin Sicherheit in Gold angesichts geopolitischer Risiken.",
+    "kette": "KI-Innovation -> Erhöhte Nachfrage nach Rechenleistung -> Wachstum von Rechenzentren und Netzwerkinfrastruktur -> Steigende Nachfrage nach Halbleitern und spezialisierter Ausrüstung -> Kursgewinne bei AMAT, CSCO, INTC etc. -> Nachfragesteigerung bei Rohstoffen für die Produktion dieser Güter (verzögert).",
+    "timing": "Mitte des Trends. Die Kerntechnologien (KI, Halbleiter) sind etabliert und zeigen starkes Wachstum. Periphere Effekte und Rohstoffnachfrage sind im Anlaufen, aber noch nicht auf dem Höhepunkt.",
+    "saisonalitaet": "Juli und August sind historisch oft von geringerer Handelsaktivität geprägt, aber starke Sektortrends können diese Muster durchbrechen. Der Fokus auf Technologie könnte diese saisonale Schwäche überlagern.",
+    "masseFehler": "Die Masse sieht nur den Hype um KI und vergisst die physischen und materiellen Grundlagen, die für diese Technologie benötigt werden. Sie unterschätzt die Abhängigkeit von Rohstoffen und spezialisierter Infrastruktur, die oft übersehen wird.",
+    "widerspruch": "Ja. Während Technologieaktien stark steigen, fällt Bitcoin leicht, und Gold steigt aufgrund geopolitischer Unsicherheit. Dies deutet auf eine Diversifizierung der Kapitalströme hin, weg von rein spekulativen Assets hin zu sichereren Häfen und fundamentalen Sektoren.",
+    "markt": "Silber: Leicht steigend | Gold: Steigend | Öl: Steigend | Bitcoin: Leicht fallend | DAX: Stabil | EUR/USD: Stabil",
+    "opportunity": "JA",
+    "positionierung": "Smart Money positioniert sich stark in Technologie- und Halbleiterwerten, wie die positiven Sentiment-Scores und die Nachrichtenlage zeigen. Die breite Masse folgt dem Hype, aber die tieferen, peripheren Effekte werden noch nicht vollständig eingepreist.",
+    "reflexivitaet": "Der Erfolg von KI-Anwendungen und die damit verbundenen Kursgewinne bei Technologieunternehmen verstärken das Vertrauen in die Technologie, was zu noch mehr Investitionen und damit zu weiterem Wachstum führt – ein positiver Feedback-Loop.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
-      "ratio": 2.25,
+      "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die Welt befindet sich in einem technologischen Umbruch (KI) und einem geopolitischen Umbruch (internationale Spannungen, De-Dollarisierung). Dies schafft sowohl Chancen als auch Risiken.",
-    "halalAsset": "Gold (Xetra-Gold DE000A0S9GB0)",
+    "metaZyklus": "Wachstum/Umbruch",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold ist ein physisches Asset, das als Wertaufbewahrungsmittel dient und dessen Handel gemäß islamischen Prinzipien (z.B. sofortige Übergabe) strukturiert werden kann.",
+    "halalBegruendung": "Physisch hinterlegtes Gold, das den Anforderungen an Besitz und Spekulation entspricht, ist nach AAOIFI-Standards halal.",
     "purification": "0.00",
     "entscheidung": "JA",
     "richtung": "LONG",
-    "einstieg": 4077,
-    "stopLoss": 3950,
-    "ziel": 4400,
+    "einstieg": 59.72,
+    "stopLoss": 57,
+    "ziel": 65,
     "zeitraum": "4-8 Wochen",
     "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei einem Bruch des Stop-Loss. Zusätzlicher Ausstieg, wenn sich die geopolitische Lage signifikant entspannt oder die KI-Euphorie die Rohstoffnachfrage überlagert.",
-    "waehrungsrisiko": "EUR/USD ist leicht fallend, was einen leicht positiven Effekt auf in USD gehandelte Assets für einen EUR-basierten Investor hätte, aber die Auswirkungen sind gering.",
-    "psychologie": "FOMO (Fear Of Missing Out) im KI-Sektor. Gleichzeitig Panik bei den Rohstoffpreisen aufgrund geopolitischer Unsicherheit.",
+    "exitStrategie": "Gewinne laufen lassen, solange der Aufwärtstrend anhält, aber bei Anzeichen einer Trendumkehr (z.B. Bruch wichtiger Unterstützungsniveaus) verkaufen.",
+    "waehrungsrisiko": "EUR/USD ist stabil, was das Währungsrisiko für in Euro gehandelte Assets minimiert.",
+    "psychologie": "FOMO (Fear Of Missing Out) treibt viele Anleger in den Halbleitersektor, während die geopolitischen Risiken eine gewisse Vorsicht bei risikoreicheren Anlagen wie Bitcoin bewirken.",
     "ruhigerTag": false,
-    "lernpunkt": "Peripherie-Effekte: Wenn ein Sektor stark gehypt wird, profitieren oft auch indirekte oder nachgelagerte Branchen mit Verzögerung. Diese 'peripheren' Assets sind oft weniger offensichtlich, können aber attraktive Renditen bieten, wenn man die Kausalketten versteht. Es ist wichtig, über die direkten Profiteure hinauszublicken und die breiteren Auswirkungen auf die Lieferketten und verwandte Industrien zu analysieren.",
-    "tagesfrage": "Inwieweit wird die steigende Energieintensität von KI-Anwendungen die Nachfrage nach traditionellen Energieträgern und erneuerbaren Energien beeinflussen und wie wirkt sich dies auf die Rohstoffpreise aus?",
-    "brief": "Ayman, heute sehen wir eine klare Dichotomie im Markt. Einerseits die KI-Euphorie, die Tech-Aktien antreibt, andererseits die geopolitischen Spannungen, die Gold und Silber beflügeln. Dein Fokus auf periphere Assets ist hier Gold wert. Die steigenden Goldpreise sind ein klares Signal für Unsicherheit, das wir nicht ignorieren dürfen. Nutze die Gelegenheit, um deine Positionen in Edelmetallen zu festigen, während die Masse noch auf die Tech-Welle schaut. Die wahre Stärke liegt oft im Verborgenen und in der Absicherung gegen das Unerwartete."
+    "lernpunkt": "Peripherie-Assets: Dies sind Anlagen, die nicht direkt im Fokus eines Hypes stehen, aber indirekt davon profitieren. Sie werden oft übersehen, da die Aufmerksamkeit auf den Hauptakteuren liegt. Die Analyse dieser Assets erfordert ein tieferes Verständnis der Wertschöpfungskette und der Marktmechanismen.",
+    "tagesfrage": "Inwieweit beeinflussen die steigenden Energiepreise (Öl) die Produktionskosten im Halbleitersektor und wie wird dies durch die aktuelle Nachfrage kompensiert?",
+    "brief": "Ayman, heute sehen wir einen klaren Hype im Halbleitersektor, getrieben von KI und Infrastruktur. Aber vergiss nicht die Peripherie: Rohstoffe, Spezialmetalle und Zulieferer werden später folgen, wenn die Nachfrage nach physischen Gütern steigt. Gold steigt wegen der geopolitischen Spannungen, was eine gute Absicherung darstellt. Bleib fokussiert auf die Kette der Wertschöpfung und die wahren Profiteure hinter der Schlagzeile. Die Masse folgt dem Hype, wir suchen die verborgenen Chancen."
   },
   "prices": {
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24870.7890625,
-      "change": 0.09699324097266793
-    },
     "SI=F": {
       "label": "Silber",
-      "price": 59.20500183105469,
-      "change": 4.230491481603833
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 65940.9765625,
-      "change": 1.0899109623294057
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1425960063934326,
-      "change": -0.014854665251578985
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 82.7300033569336,
-      "change": -0.6007448994754208
+      "price": 59.720001220703125,
+      "change": 1.5042103339881459
     },
     "GC=F": {
       "label": "Gold",
-      "price": 4076.5,
-      "change": 1.650748082832847
+      "price": 4124,
+      "change": 1.2994006797868887
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 65793.4765625,
+      "change": -1.0700655588573063
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 86.61000061035156,
+      "change": 2.0021162111912636
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1418131589889526,
+      "change": 0
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25017.5703125,
+      "change": 0.02487152121798455
     }
   },
   "fearGreed": [
-    25,
     25,
     27,
     25,
     28,
     29,
-    25
+    25,
+    33
   ],
   "simulation": {
-    "buy": 10,
-    "hold": 90,
+    "buy": 0,
+    "hold": 100,
     "sell": 0
   }
 }
