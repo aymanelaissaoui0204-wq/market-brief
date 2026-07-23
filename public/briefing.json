@@ -1,6 +1,6 @@
 {
-  "date": "Mittwoch, 22. Juli 2026",
-  "generatedAt": "2026-07-22T07:33:52.650Z",
+  "date": "Donnerstag, 23. Juli 2026",
+  "generatedAt": "2026-07-23T07:32:30.860Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,311 +17,217 @@
       "origin": "GNews"
     },
     {
-      "title": "Applied Materials stock trades near record territory as chip equipment demand supports earnings momentum",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Bullish",
-      "tickers": [
-        "AMAT(0.52)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Anthony Scaramucci Calls Out Trump Media's Truth API for Selling Wall Street a Speed Advantage to 'Front-Run' Trades",
-      "source": "Benzinga",
-      "sentiment": "Neutral",
-      "tickers": [
-        "DJT(0.03)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Autodesk (ADSK) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "ADSK(0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Cisco stock trades steadily as investors weigh recent earnings and AI-driven networking demand",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Bullish",
-      "tickers": [
-        "CSCO(0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Aptiv (APTV) 16th Annual Wells Fargo Industrials & Materials Conference Summary",
-      "source": "Quartr",
-      "sentiment": "Bullish",
-      "tickers": [
-        "APTV(0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Verisk Analytics stock trades steadily as recent earnings and index role frame valuation",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Bullish",
-      "tickers": [
-        "VRSK(0.61)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Trimble stock trades steady as investors weigh Q1 2026 earnings and geospatial growth",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "TRMB(0.26)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Iron Mountain stock trades near record territory as data center growth supports revenue",
-      "source": "Ad-hoc-news.de",
-      "sentiment": "Bullish",
-      "tickers": [
-        "IRM(0.46)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "STMicroelectronics' AI Pivot: A 384x P/E Hides a Powerful 2026 Earnings Rebound",
-      "source": "Kavout | AI",
-      "sentiment": "Neutral",
-      "tickers": [
-        "STM(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Roper Technologies (ROP) Stock Looks Reasonable On Earnings While Cash Flow Suggests More",
-      "source": "Simply Wall Street",
-      "sentiment": "Bullish",
-      "tickers": [
-        "ROP(0.40)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Business Process Outsourcing & Consulting Stocks Q1 Earnings: CBIZ (NYSE:CBZ) Best of the Bunch",
-      "source": "Yahoo Finance",
-      "sentiment": "Bullish",
-      "tickers": [
-        "CBZ(0.47)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
-      "source": "Yahoo Finance Singapore",
-      "sentiment": "Neutral",
-      "tickers": [
-        "TTWO(0.03)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know",
-      "source": "Yahoo Finance",
-      "sentiment": "Bullish",
-      "tickers": [
-        "INTC(0.49)",
-        "KLAC(0.47)",
-        "LRCX(0.46)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Moody's posts strong Q1 growth, driven by bond market and AI strategies, despite cautious analyst outlook.",
-      "source": "Pluang",
-      "sentiment": "Neutral",
-      "tickers": [
-        "MCO(0.48)",
-        "OKE(-0.42)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Corning Inc Stock (GLW) Closed Up by 6.06% on Jul 21: A Full Analysis",
-      "source": "TradingKey",
-      "sentiment": "Neutral",
-      "tickers": [
-        "GLW(0.48)",
-        "MU(0.22)",
-        "NVDA(0.19)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
+      "title": "Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meet - Reuters",
+      "title": "US military completes 12th straight night of strikes on Iran - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Gold hits two-week high as Fed outlook, Mideast conflict stay in focus - Reuters",
+      "title": "Euro heads for one-week high ahead of ECB policy decision - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US military says its latest strikes on Iran have ended, marking 11th successive night of attacks - Reuters",
+      "title": "Oil prices rise for a fifth day on supply concerns amid chokepoint threats - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oil extends gains to near six-week highs on new Middle East supply risks - Reuters",
+      "title": "US House passes $1 trillion defense bill despite Iran, Israel concerns - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Nike to cut off thousands of online distributors in China, restructure digital footprint",
+      "title": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "J&J gets a big win on its new robotic surgical system — plus, a flood of earnings",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Wall St ends higher on chip stocks recovery; earnings in focus - Reuters",
+      "title": "EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Saudi, UAE ministers use social media to signal unity after months of tension - Reuters",
+      "title": "QatarEnergy prepares to extend force majeure on LNG into mid-October, Bloomberg News reports - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "More ships change course in Red Sea after Houthi threats, data shows - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "India's Ambassador Kwatra meets US Senator Sheehy, discusses defence ties",
+      "source": "thehindubusinessline.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Tesla keeps Bitcoin stake intact through Q2, books $112M unrealized loss (TSLA:NASDAQ)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Nano One Advances Candiac LFP Capacity Expansion With Engineering 85% Complete",
+      "source": "financialpost.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
     }
   ],
   "sections": {
     "oberflaeche": [
       "GNews: Heidenheimer Zeitung: Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
       "GNews: n-tv NACHRICHTEN: Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
-      "AlphaVantage: Ad-hoc-news.de: Applied Materials stock trades near record territory as chip equipment demand supports earnings momentum",
-      "AlphaVantage: Benzinga: Anthony Scaramucci Calls Out Trump Media's Truth API for Selling Wall Street a Speed Advantage to 'Front-Run' Trades",
-      "AlphaVantage: Yahoo Finance UK: Autodesk (ADSK) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "AlphaVantage: Ad-hoc-news.de: Cisco stock trades steadily as investors weigh recent earnings and AI-driven networking demand",
-      "AlphaVantage: Quartr: Aptiv (APTV) 16th Annual Wells Fargo Industrials & Materials Conference Summary",
-      "AlphaVantage: Ad-hoc-news.de: Verisk Analytics stock trades steadily as recent earnings and index role frame valuation",
-      "AlphaVantage: Ad-hoc-news.de: Trimble stock trades steady as investors weigh Q1 2026 earnings and geospatial growth",
-      "AlphaVantage: Ad-hoc-news.de: Iron Mountain stock trades near record territory as data center growth supports revenue",
-      "AlphaVantage: Kavout | AI: STMicroelectronics' AI Pivot: A 384x P/E Hides a Powerful 2026 Earnings Rebound",
-      "AlphaVantage: Simply Wall Street: Roper Technologies (ROP) Stock Looks Reasonable On Earnings While Cash Flow Suggests More",
-      "AlphaVantage: Yahoo Finance: Business Process Outsourcing & Consulting Stocks Q1 Earnings: CBIZ (NYSE:CBZ) Best of the Bunch",
-      "AlphaVantage: Yahoo Finance Singapore: Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
-      "AlphaVantage: Yahoo Finance: Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know",
-      "AlphaVantage: Pluang: Moody's posts strong Q1 growth, driven by bond market and AI strategies, despite cautious analyst outlook.",
-      "AlphaVantage: TradingKey: Corning Inc Stock (GLW) Closed Up by 6.06% on Jul 21: A Full Analysis",
-      "Finnhub: Reuters: Rubio says US still willing to negotiate over Iran crisis - Reuters",
-      "Finnhub: Reuters: Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meet - Reuters",
-      "Finnhub: Reuters: Gold hits two-week high as Fed outlook, Mideast conflict stay in focus - Reuters"
+      "Finnhub: Reuters: Houthis say they attacked Saudi tankers in the Red Sea, threatening new chokepoint in Iran war - Reuters",
+      "Finnhub: Reuters: US military completes 12th straight night of strikes on Iran - Reuters",
+      "Finnhub: Reuters: Euro heads for one-week high ahead of ECB policy decision - Reuters",
+      "Finnhub: Reuters: Oil prices rise for a fifth day on supply concerns amid chokepoint threats - Reuters",
+      "Finnhub: Reuters: US House passes $1 trillion defense bill despite Iran, Israel concerns - Reuters",
+      "Finnhub: Reuters: Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea - Reuters",
+      "Finnhub: CNBC: J&J gets a big win on its new robotic surgical system — plus, a flood of earnings",
+      "Finnhub: Reuters: EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role - Reuters",
+      "Finnhub: Reuters: QatarEnergy prepares to extend force majeure on LNG into mid-October, Bloomberg News reports - Reuters",
+      "Finnhub: CNBC: Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+      "Finnhub: CNBC: Amazon cuts some jobs in its artificial general intelligence unit",
+      "Finnhub: Reuters: More ships change course in Red Sea after Houthi threats, data shows - Reuters",
+      "Marketaux: thehindubusinessline.com: India's Ambassador Kwatra meets US Senator Sheehy, discusses defence ties",
+      "Marketaux: seekingalpha.com: Tesla keeps Bitcoin stake intact through Q2, books $112M unrealized loss (TSLA:NASDAQ)",
+      "Marketaux: financialpost.com: Nano One Advances Candiac LFP Capacity Expansion With Engineering 85% Complete"
     ],
     "hypeNews": [
-      "Starke Nachfrage nach Chip-Equipment treibt die Gewinne von Applied Materials (AMAT) und anderen Halbleiterfirmen wie Intel, KLA, Lam Research, Marvell und Micron an.",
-      "KI-getriebene Netzwerknachfrage und Datenzentren-Wachstum stützen die Kurse von Cisco (CSCO) und Iron Mountain (IRM)."
+      "Geopolitische Spannungen im Nahen Osten und deren Auswirkungen auf den Ölpreis und globale Lieferketten.",
+      "Fortschritte in der Verteidigungspolitik und Rüstungsindustrie."
     ],
-    "hypeCenter": "Der stärkste Hype liegt im Halbleitersektor, angetrieben durch die anhaltend hohe Nachfrage nach Chip-Equipment und die Integration von KI-Technologien in Netzwerke und Rechenzentren. Unternehmen wie Applied Materials, Intel und Cisco zeigen hier deutliches Momentum.",
-    "peripherEffect": "Verzögert profitieren könnten Zulieferer von Spezialmetallen für die Halbleiterproduktion, Unternehmen im Bereich fortschrittlicher Kühltechnologien für Rechenzentren und Anbieter von Cybersecurity-Lösungen für KI-Infrastrukturen.",
-    "narrativ": "Die Masse glaubt, dass die aktuelle Rallye im Halbleitersektor und bei Technologieunternehmen auf fundamental starker Nachfrage und Innovation beruht, insbesondere durch KI. Dies wird als nachhaltiger Wachstumstrend wahrgenommen.",
-    "realitaet": "Die hohe Nachfrage wird auch durch staatliche Subventionen und geopolitische Bestrebungen zur Sicherung von Lieferketten künstlich angeheizt. Der Fokus auf KI lenkt von den enormen Investitionen in physische Infrastruktur ab, die für deren Betrieb notwendig sind.",
-    "macht": "Die Hauptprofiteure sind große Technologiekonzerne, Halbleiterhersteller, deren Zulieferer und die großen Investmentfonds, die diese Werte halten. Auch die Betreiber von Rechenzentren und Cloud-Anbieter ziehen erheblichen Nutzen.",
-    "geopolitik": "Die geopolitischen Spannungen (Iran-Krise, China-Gespräche) und die daraus resultierende Unsicherheit stützen Gold und Öl. Die Bemühungen um De-Dollarisierung und die Stärkung von BRICS-Allianzen könnten langfristig Rohstoffpreise beeinflussen, sind aber kurzfristig durch die aktuelle Tech-Rallye überlagert.",
-    "liquiditaet": "Kapital fließt aktuell stark in technologieorientierte Werte, insbesondere in den Halbleiter- und KI-Sektor. Ein Teil der Liquidität sucht auch weiterhin Sicherheit in Gold angesichts geopolitischer Risiken.",
-    "kette": "KI-Innovation -> Erhöhte Nachfrage nach Rechenleistung -> Wachstum von Rechenzentren und Netzwerkinfrastruktur -> Steigende Nachfrage nach Halbleitern und spezialisierter Ausrüstung -> Kursgewinne bei AMAT, CSCO, INTC etc. -> Nachfragesteigerung bei Rohstoffen für die Produktion dieser Güter (verzögert).",
-    "timing": "Mitte des Trends. Die Kerntechnologien (KI, Halbleiter) sind etabliert und zeigen starkes Wachstum. Periphere Effekte und Rohstoffnachfrage sind im Anlaufen, aber noch nicht auf dem Höhepunkt.",
-    "saisonalitaet": "Juli und August sind historisch oft von geringerer Handelsaktivität geprägt, aber starke Sektortrends können diese Muster durchbrechen. Der Fokus auf Technologie könnte diese saisonale Schwäche überlagern.",
-    "masseFehler": "Die Masse sieht nur den Hype um KI und vergisst die physischen und materiellen Grundlagen, die für diese Technologie benötigt werden. Sie unterschätzt die Abhängigkeit von Rohstoffen und spezialisierter Infrastruktur, die oft übersehen wird.",
-    "widerspruch": "Ja. Während Technologieaktien stark steigen, fällt Bitcoin leicht, und Gold steigt aufgrund geopolitischer Unsicherheit. Dies deutet auf eine Diversifizierung der Kapitalströme hin, weg von rein spekulativen Assets hin zu sichereren Häfen und fundamentalen Sektoren.",
-    "markt": "Silber: Leicht steigend | Gold: Steigend | Öl: Steigend | Bitcoin: Leicht fallend | DAX: Stabil | EUR/USD: Stabil",
-    "opportunity": "JA",
-    "positionierung": "Smart Money positioniert sich stark in Technologie- und Halbleiterwerten, wie die positiven Sentiment-Scores und die Nachrichtenlage zeigen. Die breite Masse folgt dem Hype, aber die tieferen, peripheren Effekte werden noch nicht vollständig eingepreist.",
-    "reflexivitaet": "Der Erfolg von KI-Anwendungen und die damit verbundenen Kursgewinne bei Technologieunternehmen verstärken das Vertrauen in die Technologie, was zu noch mehr Investitionen und damit zu weiterem Wachstum führt – ein positiver Feedback-Loop.",
+    "hypeCenter": "Der stärkste Hype liegt heute im Energiesektor, insbesondere bei Öl, getrieben durch die eskalierenden geopolitischen Spannungen im Nahen Osten und die Bedrohung von Lieferrouten. Dies führt zu steigenden Preisen und einer erhöhten Nachfrage nach sicheren Energiequellen.",
+    "peripherEffect": "Neben Öl könnten auch Unternehmen profitieren, die im Bereich der maritimen Sicherheit, der Logistik und der alternativen Energieinfrastruktur tätig sind. Auch Rohstoffe, die für die Rüstungsindustrie relevant sind (z.B. seltene Erden, Titan), könnten eine verzögerte positive Reaktion zeigen.",
+    "narrativ": "Die Masse glaubt, dass die steigenden Ölpreise und die geopolitischen Spannungen zu einer breiten Inflation führen und die Weltwirtschaft belasten werden. Sie sehen dies als eine kurzfristige Krise, die durch diplomatische Bemühungen gelöst wird.",
+    "realitaet": "Die eskalierenden Konflikte sind ein Symptom für einen tieferen Umbruch in der globalen Machtbalance und der Ressourcenverteilung. Die Bedrohung von Lieferketten ist real und wird die Preise für Energie und andere kritische Güter strukturell erhöhen. Die Reaktion der USA und die Stärkung der Verteidigungsbudgets deuten auf eine längerfristige Phase erhöhter geopolitischer Risiken hin.",
+    "macht": "Konzerne im Öl- und Gassektor, Rüstungsunternehmen, Logistikdienstleister, sowie Staaten, die von steigenden Energiepreisen profitieren (z.B. Ölförderländer), und die US-Rüstungsindustrie. Auch die Houthi-Bewegung und ihre Unterstützer gewinnen kurzfristig an Einfluss.",
+    "geopolitik": "Die Spannungen im Roten Meer und die US-Militärschläge gegen den Iran verschärfen die Rivalität zwischen den USA/G7 und dem von Iran unterstützten Block. Dies könnte die De-Dollarisierung beschleunigen, da Länder nach alternativen Handelswegen und Währungen suchen, um Sanktionen zu umgehen. Die BRICS-Staaten könnten von dieser Instabilität profitieren, indem sie ihre eigene wirtschaftliche und politische Agenda vorantreiben.",
+    "liquiditaet": "Kapital fließt aus risikoreicheren Anlagen (Aktien, Kryptowährungen) in sichere Häfen wie Gold und in Energie-Futures. Es gibt auch eine Verlagerung hin zu Verteidigungsaktien und Unternehmen, die von der Umstrukturierung globaler Lieferketten profitieren.",
+    "kette": "Eskalation im Nahen Osten (Angriffe auf Tanker, US-Schläge gegen Iran) -> Bedrohung von Seewegen (Rotes Meer) -> Anstieg der Ölpreise und Energieversorgungsängste -> Erhöhung der Verteidigungsausgaben (US-Kongress) -> Suche nach alternativen Handelswegen und Währungen -> Potenzielle Beschleunigung der De-Dollarisierung und Stärkung von BRICS.",
+    "timing": "Mitte des Trends. Die geopolitischen Spannungen sind nicht neu, aber die jüngsten Eskalationen und die Reaktion der USA deuten auf eine Intensivierung hin. Der Ölpreis steigt bereits seit einigen Tagen, was auf eine beginnende Marktanpassung hindeutet. Die Auswirkungen auf periphere Assets werden wahrscheinlich noch verzögert eintreten.",
+    "saisonalitaet": "Juli und August sind oft von geringerer Marktaktivität geprägt, aber geopolitische Schocks können diese Muster durchbrechen. Historisch gesehen können Sommerkrisen jedoch zu starken Preisbewegungen bei Rohstoffen führen.",
+    "masseFehler": "Die Masse sieht die aktuellen Ereignisse als isolierte Vorfälle, die bald durch Verhandlungen gelöst werden. Sie unterschätzen die strukturellen Verschiebungen in der globalen Ordnung und die langfristigen Auswirkungen auf Energiepreise und Lieferketten. Sie fokussieren sich zu sehr auf kurzfristige Kursbewegungen und ignorieren die zugrundeliegenden fundamentalen Veränderungen.",
+    "widerspruch": "Ja. Während Öl steigt, fallen Gold und Silber leicht, was auf eine kurzfristige Risikobereitschaft hindeutet, die aber durch den Fear & Greed Index (31/100) widerlegt wird. Der DAX fällt ebenfalls, was die allgemeine Unsicherheit widerspiegelt. Die EUR/USD-Bewertung zeigt eine leichte Stärke des Euros, was im Kontext der globalen Unsicherheit bemerkenswert ist.",
+    "markt": "Gold: fällt | Silber: fällt | Öl: steigt | Bitcoin: fällt | DAX: fällt | EUR/USD: steigt",
+    "opportunity": "JA. Die steigenden Ölpreise und die geopolitischen Spannungen schaffen Chancen im Energiesektor und bei Unternehmen, die von erhöhter Verteidigungsausgaben profitieren. Auch Rohstoffe, die für die Rüstungsindustrie wichtig sind, könnten interessant werden.",
+    "positionierung": "Smart Money scheint sich aus risikoreicheren Anlagen zurückzuziehen und in Rohstoffe (insbesondere Öl) und möglicherweise defensive Sektoren zu flüchten. Der niedrige Fear & Greed Index deutet auf Angst und Unsicherheit hin, was oft ein gutes Einstiegsignal für geduldige Investoren ist.",
+    "reflexivitaet": "Die steigenden Ölpreise erhöhen die Inflationserwartungen, was Zentralbanken zu einer restriktiveren Geldpolitik zwingen könnte. Dies wiederum könnte das Wirtschaftswachstum dämpfen und die Nachfrage nach Rohstoffen beeinflussen, was zu einer weiteren Preisvolatilität führen kann.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Wachstum/Umbruch",
+    "metaZyklus": "Krise/Umbruch. Die aktuellen Ereignisse deuten auf eine Phase erhöhter globaler Instabilität und Umstrukturierung hin, weg von einer rein globalisierten Wirtschaft hin zu regionalen Blöcken und einer stärkeren Betonung von nationaler Sicherheit und Ressourcenkontrolle.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Physisch hinterlegtes Gold, das den Anforderungen an Besitz und Spekulation entspricht, ist nach AAOIFI-Standards halal.",
+    "halalBegruendung": "Gold als physischer Vermögenswert ist nach AAOIFI-Standards halal, solange es nicht spekulativ gehandelt wird und die Transaktion sofortige Lieferung und Besitz vorsieht.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 59.72,
-    "stopLoss": 57,
-    "ziel": 65,
-    "zeitraum": "4-8 Wochen",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
     "einsatz": 3.13,
-    "exitStrategie": "Gewinne laufen lassen, solange der Aufwärtstrend anhält, aber bei Anzeichen einer Trendumkehr (z.B. Bruch wichtiger Unterstützungsniveaus) verkaufen.",
-    "waehrungsrisiko": "EUR/USD ist stabil, was das Währungsrisiko für in Euro gehandelte Assets minimiert.",
-    "psychologie": "FOMO (Fear Of Missing Out) treibt viele Anleger in den Halbleitersektor, während die geopolitischen Risiken eine gewisse Vorsicht bei risikoreicheren Anlagen wie Bitcoin bewirken.",
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Der steigende EUR/USD-Kurs könnte Gewinne aus US-Dollar-basierten Anlagen schmälern, während er für in Euro gehandelte Rohstoffe oder Importeure vorteilhaft sein könnte.",
+    "psychologie": "FOMO/PANIK Warnung. Die steigenden Ölpreise und die Nachrichten über Konflikte könnten bei Anlegern FOMO (Fear Of Missing Out) auslösen, in Energie-Assets zu investieren, oder Panik, aus anderen Märkten auszusteigen. Es ist wichtig, rational zu bleiben und die langfristigen Auswirkungen zu bewerten.",
     "ruhigerTag": false,
-    "lernpunkt": "Peripherie-Assets: Dies sind Anlagen, die nicht direkt im Fokus eines Hypes stehen, aber indirekt davon profitieren. Sie werden oft übersehen, da die Aufmerksamkeit auf den Hauptakteuren liegt. Die Analyse dieser Assets erfordert ein tieferes Verständnis der Wertschöpfungskette und der Marktmechanismen.",
-    "tagesfrage": "Inwieweit beeinflussen die steigenden Energiepreise (Öl) die Produktionskosten im Halbleitersektor und wie wird dies durch die aktuelle Nachfrage kompensiert?",
-    "brief": "Ayman, heute sehen wir einen klaren Hype im Halbleitersektor, getrieben von KI und Infrastruktur. Aber vergiss nicht die Peripherie: Rohstoffe, Spezialmetalle und Zulieferer werden später folgen, wenn die Nachfrage nach physischen Gütern steigt. Gold steigt wegen der geopolitischen Spannungen, was eine gute Absicherung darstellt. Bleib fokussiert auf die Kette der Wertschöpfung und die wahren Profiteure hinter der Schlagzeile. Die Masse folgt dem Hype, wir suchen die verborgenen Chancen."
+    "lernpunkt": "Geopolitische Risiken sind ein wesentlicher Treiber für Rohstoffpreise, insbesondere für Energie. Wenn Lieferketten bedroht sind, steigen die Preise für die betroffenen Güter und oft auch für verwandte Rohstoffe, da Märkte Unsicherheit einpreisen. Dies kann zu einer Kettenreaktion führen, die auch periphere Assets beeinflusst.",
+    "tagesfrage": "Wie stark wird die globale Nachfrage nach Energie durch die aktuellen geopolitischen Spannungen kurz- und langfristig beeinflusst, und welche alternativen Energiequellen könnten dadurch an Bedeutung gewinnen?",
+    "brief": "Ayman, die Welt dreht sich heute um Öl und Konflikte. Die Nachrichten über Angriffe im Roten Meer und die US-Reaktionen treiben die Energiepreise und die Unsicherheit. Denk daran, die Oberfläche ist oft irreführend; das Geld zeigt die wahre Richtung. Während die Masse in Panik gerät oder FOMO hat, suche nach den stillen Profiteuren: Unternehmen, die von der neuen Realität profitieren, sei es durch Sicherheit, Logistik oder alternative Ressourcen. Die globale Ordnung verschiebt sich, und das hat tiefgreifende Auswirkungen auf alle Märkte. Bleib wachsam und fokussiert auf die langfristigen Trends, nicht nur auf die täglichen Schlagzeilen."
   },
   "prices": {
-    "SI=F": {
-      "label": "Silber",
-      "price": 59.720001220703125,
-      "change": 1.5042103339881459
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4124,
-      "change": 1.2994006797868887
+      "price": 4111.10009765625,
+      "change": -0.8632907842136874
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 59.349998474121094,
+      "change": -1.1146512299997566
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 65793.4765625,
-      "change": -1.0700655588573063
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 86.61000061035156,
-      "change": 2.0021162111912636
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1418131589889526,
-      "change": 0
+      "price": 65402.8984375,
+      "change": -1.055809416064623
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 25017.5703125,
-      "change": 0.02487152121798455
+      "price": 24934.19921875,
+      "change": -0.8793771841761798
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.55000305175781,
+      "change": 3.1325592114986214
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1428571939468384,
+      "change": 0.21714978390601583
     }
   },
   "fearGreed": [
-    25,
     27,
     25,
     28,
     29,
     25,
-    33
+    33,
+    31
   ],
   "simulation": {
     "buy": 0,
