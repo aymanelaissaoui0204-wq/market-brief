@@ -1,6 +1,6 @@
 {
-  "date": "Freitag, 24. Juli 2026",
-  "generatedAt": "2026-07-24T07:30:50.900Z",
+  "date": "Samstag, 25. Juli 2026",
+  "generatedAt": "2026-07-25T07:16:33.094Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,84 +17,205 @@
       "origin": "GNews"
     },
     {
-      "title": "Morning Bid: Oil batters bonds as AI burns cash - Reuters",
+      "title": "A Look at PTC Inc (PTC) After 5.0% Gain -- GF Value $215.29 vs P",
+      "source": "GuruFocus",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "PTC(0.32)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Synopsys Stock: The Price Tag Hides a Patient Investor’s Discount",
+      "source": "Trefis",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "SNPS(0.41)",
+        "LRCX(0.11)",
+        "TER(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Uber Technologies Inc Stock (UBER) Closed Down by 4.16% on Jul 24: What Signal Does It Send?",
+      "source": "TradingKey",
+      "sentiment": "Neutral",
+      "tickers": [
+        "UBER(-0.40)",
+        "GOOGL(0.19)",
+        "MSFT(0.09)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "KLA Corp Stock (KLAC) Closed Down by 3.92% on Jul 24: Key Drivers Unveiled",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "KLAC(-0.42)",
+        "MU(-0.32)",
+        "NVDA(-0.21)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Oracle Corp Stock (ORCL) Closed Down by 4.27% on Jul 24: What Signal Does It Send?",
+      "source": "TradingKey",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ORCL(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 4.71% on Jul 24: Key Drivers Unveiled",
+      "source": "TradingKey",
+      "sentiment": "Bearish",
+      "tickers": [
+        "LRCX(-0.61)",
+        "MU(-0.62)",
+        "NVDA(-0.64)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "2 Quantum Stocks Set for Strong Q2 Earnings, Triple-Digit Price Target",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "IONQ(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Should You Buy, Sell, or Hold TER Stock Before Q2 Earnings Release?",
+      "source": "Yahoo Finance",
+      "sentiment": "Bullish",
+      "tickers": [
+        "TER(0.73)",
+        "KLAC(0.28)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "PayPal to Report Q2 Earnings: What Should Investors Do?",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "PYPL(0.09)",
+        "MA(0.14)",
+        "V(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Corning Inc Stock (GLW) Moved Down by 3.75% on Jul 24: A Full Analysis",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "GLW(-0.62)",
+        "MU(-0.42)",
+        "TSLA(0.21)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Digital Realty Trust DLR Soars After Big Q2 Beat",
+      "source": "Timothy Sykes",
+      "sentiment": "Bullish",
+      "tickers": [
+        "DLR(0.85)",
+        "EQIX(0.32)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Salesforce Inc Stock (CRM) Moved Up by 3.77% on Jul 24: Facts Behind the Movement",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "CRM(0.52)",
+        "GOOGL(0.22)",
+        "MSFT(0.22)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Sony Group Corporation (SONY) stock price, news, quote and history",
+      "source": "Yahoo Finance Singapore",
+      "sentiment": "Neutral",
+      "tickers": [
+        "SONY(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Discover July 2026's Top Penny Stocks",
+      "source": "Simply Wall Street",
+      "sentiment": "Bullish",
+      "tickers": [
+        "ASRV(0.40)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
+      "title": "Yemen teeters towards renewed war in shadow of Iran conflict - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
+      "title": "Trump says he trusts Russia and China's leaders not to enable Iran - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Brent hovers above $100/bbl, set for weekly rise on Middle East escalation - Reuters",
+      "title": "Trump says US and Iran are talking, but Tehran is not yet ready for deal - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
+      "title": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian embassy says - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Add a month at sea and $2.5 million - what it costs oil tankers to flee Hormuz and Bab el-Mandeb - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "title": "The 'sell chips, buy software' trade reappears as Wall Street caps off another volatile week",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US says Saudi nuclear deal off without Israel recognition - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "title": "Strait of Hormuz traffic may not return to normal for 12 months or more, according to prediction markets",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "US House votes to curb Trump's Iran war powers but Senate backs president - Reuters",
+      "title": "Pakistan, Iran explore path towards new talks with US in a China-initiated push, sources say - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "UK says armed forces ready to defend country after Iran warning over US bombers - Reuters",
+      "title": "US hits network of Iranian financier Zanjani with more sanctions - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -103,105 +224,113 @@
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Heidenheimer Zeitung: Clara Resch (Grüne) spielt Rolle in Landtagsgremien",
-      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank",
-      "Finnhub: Reuters: Brent hovers above $100/bbl, set for weekly rise on Middle East escalation",
-      "Finnhub: CNBC: OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-      "Finnhub: CNBC: Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug"
+      "GNews: Heidenheimer Zeitung: Lokale Politik in Heidenheim mit Grünen-Abgeordneter Clara Resch.",
+      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit an Commerzbank.",
+      "AlphaVantage: PTC Inc (PTC) verzeichnet 5.0% Gewinn, GF Value $215.29.",
+      "AlphaVantage: Synopsys Stock (SNPS) bietet Discount für geduldige Investoren.",
+      "AlphaVantage: Uber Technologies Inc (UBER) schloss 4.16% im Minus.",
+      "AlphaVantage: KLA Corp (KLAC) schloss 3.92% im Minus.",
+      "AlphaVantage: Oracle Corp (ORCL) schloss 4.27% im Minus.",
+      "AlphaVantage: Lam Research Corp (LRCX) verlor 4.71%.",
+      "AlphaVantage: 2 Quantum Stocks mit starkem Q2 Earnings erwartet.",
+      "AlphaVantage: TER Stock vor Q2 Earnings Release.",
+      "AlphaVantage: PayPal (PYPL) vor Q2 Earnings Release.",
+      "AlphaVantage: Corning Inc (GLW) verlor 3.75%.",
+      "AlphaVantage: Digital Realty Trust (DLR) steigt nach Q2 Beat.",
+      "AlphaVantage: Salesforce Inc (CRM) stieg 3.77%.",
+      "AlphaVantage: Sony Group Corporation (SONY) Kursentwicklung.",
+      "AlphaVantage: Top Penny Stocks im Juli 2026.",
+      "Finnhub: Reuters: Saudi-koalition trifft Houthi-Ziele im Jemen.",
+      "Finnhub: Reuters: Jemen am Rande eines neuen Krieges.",
+      "Finnhub: Reuters: Trump vertraut Russland und China bezüglich Iran.",
+      "Finnhub: Reuters: Trump: USA und Iran sprechen, aber kein Deal in Sicht."
     ],
     "hypeNews": [
-      "Geopolitische Spannungen im Nahen Osten treiben Ölpreise und Inflationsängste",
-      "KI-Sicherheit und Regulierung rücken nach Hack bei Hugging Face in den Fokus"
+      "Halbleiter-Sektor: Mehrere Unternehmen (SNPS, LRCX, KLAC, TER, MU, NVDA) zeigen gemischte bis negative Kursbewegungen, aber auch positive Einschätzungen bezüglich zukünftiger Earnings und Bewertungen.",
+      "Quantencomputer: Zwei Quantenaktien werden für starke Q2-Ergebnisse und hohe Kursziele prognostiziert (IONQ)."
     ],
-    "hypeCenter": "Geopolitik und Energiepreise. Die Eskalation im Nahen Osten treibt den Ölpreis über 100 USD/Barrel, was Inflationsängste schürt und die Märkte belastet.",
-    "peripherEffect": "Während Öl und Energie direkt betroffen sind, könnten verzögert auch Unternehmen profitieren, die alternative Energielösungen entwickeln, kritische Infrastrukturen absichern oder in der Logistik tätig sind, um Lieferkettenrisiken zu mindern. Auch die Nachfrage nach Edelmetallen als sicherer Hafen könnte steigen.",
-    "narrativ": "Die Welt steht am Rande eines größeren Konflikts, der die Energieversorgung bedroht und die Inflation anheizt. Gleichzeitig wird die KI-Entwicklung durch Sicherheitsbedenken und politische Eingriffe gebremst.",
-    "realitaet": "Die Ölpreissteigerung ist ein klassisches Beispiel für Angebotsverknappung durch geopolitische Risiken. Die KI-Diskussion ist ein Vorwand, um die Notwendigkeit strengerer Regulierungen und staatlicher Kontrolle über mächtige Technologien zu rechtfertigen, was wiederum bestimmten Lobbygruppen zugutekommt.",
-    "macht": "Ölfördernde Staaten und Konzerne, Rüstungsunternehmen, die sich auf die Sicherung von Seewegen spezialisieren, sowie Unternehmen, die von staatlichen Regulierungsinitiativen im KI-Bereich profitieren (z.B. Cybersicherheit).",
-    "geopolitik": "Die Spannungen im Nahen Osten verschärfen die globale Instabilität. Die BRICS-Staaten könnten versuchen, die Situation zu ihrem Vorteil zu nutzen, um die Abhängigkeit vom US-Dollar zu reduzieren, während die G7-Staaten auf die Sicherung ihrer Energieversorgung und die Eindämmung von Konflikten fokussiert sind. De-Dollarisierungstendenzen könnten durch die Ölpreisvolatilität verstärkt werden.",
-    "liquiditaet": "Kapital fließt aus risikoreicheren Anlagen (Aktien, Anleihen) in sichere Häfen wie Gold und potenziell in Rohstoffe, die von der Verknappung profitieren. Auch die Nachfrage nach Staatsanleihen könnte kurzfristig steigen, wenn die Angst vor einer Rezession zunimmt.",
-    "kette": "Iran/Houthi-Angriffe -> Eskalation im Roten Meer/Hormuz -> Ölpreis steigt über 100 USD -> Inflationsängste steigen -> Zentralbanken unter Druck -> Anleihen fallen -> Aktien unter Druck -> Suche nach sicheren Häfen.",
-    "timing": "Mitte des Trends. Die Ölpreissteigerung und die damit verbundenen geopolitischen Spannungen sind ein wiederkehrendes Muster, das sich nun in einer Phase erhöhter globaler Unsicherheit manifestiert. Die KI-Regulierungsdebatte ist ebenfalls im vollen Gange.",
-    "saisonalitaet": "Juli/August sind oft von geringerer Marktaktivität geprägt, aber geopolitische Schocks können diese Muster durchbrechen. Historisch gesehen können Sommerkrisen jedoch zu erhöhter Volatilität führen.",
-    "masseFehler": "Die Masse sieht nur die unmittelbare Ölpreissteigerung und die KI-Regulierung als isolierte Ereignisse. Sie übersehen die dahinterliegenden Machtstrukturen, die gezielt Krisen nutzen, um ihre Positionen zu stärken und neue Märkte zu erschließen (z.B. alternative Energien, Sicherheitstechnologien).",
-    "widerspruch": "Ja. Während Öl und damit verbundene Sektoren steigen, fallen Anleihen und Aktien, was auf eine allgemeine Marktunsicherheit hindeutet. Der Bitcoin zeigt sich relativ stabil, was auf eine mögliche Diversifizierung oder eine Neubewertung als digitaler Wertspeicher hindeutet, trotz der allgemeinen Risikoaversion.",
-    "markt": {
-      "Gold": "steigt",
-      "Silber": "steigt",
-      "Öl": "steigt",
-      "Bitcoin": "stabil/leicht steigend",
-      "DAX": "faellt/stabil",
-      "EUR/USD": "faellt"
-    },
-    "opportunity": "Null. Aktuell keine klare, isolierte Chance erkennbar, die islamischen ethischen Grundsätzen entspricht und die Kernprinzipien erfüllt. Die Marktbedingungen sind zu volatil und von externen geopolitischen Faktoren dominiert.",
-    "positionierung": "Smart Money positioniert sich defensiv, reduziert Risiko in Aktien und Anleihen, sucht Schutz in Rohstoffen und Edelmetallen. Sentiment ist klar negativ (Fear & Greed Index 28/100).",
-    "reflexivitaet": "Die steigenden Ölpreise führen zu höheren Transportkosten, was wiederum die Inflation anheizt. Dies erhöht den Druck auf Zentralbanken, die Zinsen zu erhöhen, was die Wirtschaft weiter abkühlen könnte und die Angst vor einer Rezession verstärkt.",
+    "hypeCenter": "Der Halbleitersektor zeigt aktuell gemischte Signale, mit einigen Rückgängen (LRCX, KLAC, ORCL, GLW) aber auch positiven Aussichten für Unternehmen wie Synopsys (SNPS) und TER. Der Hype liegt hier in der Erwartung starker zukünftiger Ergebnisse und der strategischen Bedeutung für KI und andere Tech-Trends, trotz kurzfristiger Volatilität.",
+    "peripherEffect": "Angesichts der Volatilität im Halbleitersektor und der allgemeinen Marktstimmung (Fear & Greed 27/100) könnten defensive Werte und Rohstoffe wie Gold und Silber (aktuell im Plus) von einer Flucht in Sicherheit profitieren. Auch Unternehmen, die indirekt von der Halbleiter-Nachfrage abhängen (z.B. spezialisierte Zulieferer, Logistik), könnten später nachziehen.",
+    "narrativ": "Die Masse glaubt, dass die Rückgänge bei einigen Tech-Aktien eine Korrektur darstellen, aber die langfristigen Wachstumsaussichten, insbesondere durch KI und Quantencomputing, intakt bleiben. Geopolitische Spannungen im Nahen Osten werden als kurzfristige Störfaktoren gesehen, die aber die globale Nachfrage nach Technologie nicht grundlegend beeinträchtigen.",
+    "realitaet": "Die gemischten Signale im Halbleitersektor deuten auf eine Konsolidierung nach starken Aufschwüngen hin. Die Abhängigkeit von globalen Lieferketten und geopolitischen Risiken (Jemen, Iran) wird unterschätzt. Die tatsächliche Nachfrage könnte durch makroökonomische Unsicherheiten und steigende Zinsen gedämpft werden, was zu längeren Korrekturen führen kann. Die Hype-Kurse sind oft nicht durch fundamentale Daten gedeckt.",
+    "macht": "Große Technologieunternehmen (GOOGL, MSFT, NVDA) und deren Zulieferer (SNPS, LRCX, KLAC) sowie Finanzinstitute (Unicredit) und deren strategische Investitionen (Commerzbank) profitieren. Institutionelle Investoren und Fondsmanager, die diese Sektoren dominieren, steuern die Kapitalflüsse.",
+    "geopolitik": "Die Spannungen im Jemen und die Beziehungen zwischen den USA, Russland und China im Kontext des Iran-Konflikts deuten auf eine anhaltende geopolitische Instabilität hin. Dies könnte die Ölpreise (aktuell im Minus, was ungewöhnlich ist bei solchen Nachrichten) beeinflussen und die De-Dollarisierungstendenzen durch eine Verlagerung zu alternativen Währungen und Rohstoffen verstärken, insbesondere im BRICS-Raum.",
+    "liquiditaet": "Kapital fließt tendenziell aus risikoreichen Anlagen (wie UBER, KLAC, LRCX, GLW) in sicherere Häfen wie Gold und Silber. Trotz der negativen Stimmung (Fear & Greed) gibt es gezielte Zuflüsse in ausgewählte Tech-Werte mit starkem Ausblick (PTC, TER, DLR, CRM).",
+    "kette": "Geopolitische Spannungen (Jemen/Iran) -> Unsicherheit über globale Lieferketten und Rohstoffpreise -> Volatilität im Technologiesektor (Halbleiter) -> Flucht in Edelmetalle (Gold/Silber) -> Selektive Käufe in unterbewerteten Tech-Werten mit starkem Ausblick.",
+    "timing": "Mitte des Trends. Die Halbleiterbranche hat bereits starke Zuwächse gesehen. Aktuelle Rückgänge könnten eine Konsolidierungsphase einleiten, bevor der nächste Aufschwung durch KI und neue Technologien beginnt. Quantencomputing ist noch in einer sehr frühen Phase.",
+    "saisonalitaet": "Juli und August sind oft von geringerer Handelsaktivität geprägt (Sommerpause), was zu erhöhter Volatilität bei geringen Volumina führen kann. \"Top Penny Stocks\" im Juli könnten auf eine Suche nach Schnäppchen in einem unsicheren Marktumfeld hindeuten.",
+    "masseFehler": "Die Masse sieht die aktuellen Rückgänge im Tech-Sektor als Kaufgelegenheit, ohne die tieferliegenden strukturellen Risiken (Lieferketten, geopolitische Spannungen, Inflation) vollständig zu berücksichtigen. Sie unterschätzt die Möglichkeit einer längeren Konsolidierung oder eines Bärenmarktes, der selektiver sein wird.",
+    "widerspruch": "Ja. Während einige Tech-Aktien (LRCX, KLAC, GLW) fallen und als 'Somewhat-Bearish' oder 'Bearish' eingestuft werden, gibt es gleichzeitig positive News und Bewertungen für andere im Sektor (SNPS, TER, PTC) und für Quantencomputing. Dies deutet auf eine Sektorrotation und eine klare Trennung zwischen Gewinnern und Verlierern hin.",
+    "markt": "Gold: Steigend | Silber: Steigend | Öl: Fallend (ungewöhnlich bei geopolitischen Spannungen) | Bitcoin: Leicht fallend | DAX: Stabil | EUR/USD: Leicht fallend",
+    "opportunity": "JA",
+    "positionierung": "Smart Money positioniert sich defensiv (Gold/Silber) und gleichzeitig selektiv in unterbewerteten oder stark prognostizierten Tech-Werten. Das Sentiment ist überwiegend ängstlich (Fear & Greed 27/100), was auf eine potenzielle Bodenbildung hindeuten könnte, aber Vorsicht ist geboten.",
+    "reflexivitaet": "Die negativen Kursbewegungen bei einigen Halbleiteraktien könnten weitere Verkäufe auslösen (Abwärtsspirale), während positive Nachrichten über Quantencomputing oder starke Earnings bei anderen Tech-Firmen kurzfristige Käufe anziehen. Die geopolitischen Nachrichten scheinen den Ölpreis nicht wie erwartet zu beeinflussen, was auf andere Marktdynamiken hindeutet.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
-      "ratio": 2.3,
-      "ev": 0.12
+      "ratio": 2.25,
+      "ev": 0.1
     },
-    "metaZyklus": "Umbruch/Stagflation. Die Kombination aus geopolitischen Krisen, steigender Inflation und der Notwendigkeit, auf neue Technologien wie KI zu reagieren, deutet auf eine Phase des Umbruchs und der Stagflation hin.",
+    "metaZyklus": "Umbruch. Die Kombination aus geopolitischen Spannungen, technologischem Wandel (KI, Quantencomputing) und wirtschaftlicher Unsicherheit deutet auf eine Phase des Umbruchs hin, in der alte Paradigmen hinterfragt und neue Strukturen aufgebaut werden.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als physischer Vermögenswert, der nicht verzinst wird und dessen Handel den islamischen Finanzprinzipien entspricht, ist halal.",
+    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegter Gold-ETF, der den Besitz von Gold repräsentiert und somit den islamischen Anlageprinzipien entspricht.",
     "purification": "0.00",
     "entscheidung": "WARTEN",
     "richtung": "null",
-    "einstieg": "null",
-    "stopLoss": "null",
-    "ziel": "null",
-    "zeitraum": "null",
+    "einstieg": null,
+    "stopLoss": null,
+    "ziel": null,
+    "zeitraum": null,
     "einsatz": 0,
-    "exitStrategie": "null",
-    "waehrungsrisiko": "Ein fallender EUR/USD würde den Wert von in USD gehandelten Rohstoffen und Gold für EUR-Investoren erhöhen, aber die allgemeine Marktunsicherheit überwiegt.",
-    "psychologie": "PANIK. Die Angst vor steigender Inflation und geopolitischer Eskalation treibt die Panik an den Märkten.",
+    "exitStrategie": "Keine konkrete Strategie, da keine Position eröffnet wird.",
+    "waehrungsrisiko": "Leicht fallender EUR/USD könnte US-Dollar-basierte Anlagen für Euro-Investoren teurer machen, aber der Effekt ist aktuell gering.",
+    "psychologie": "Warnung vor FOMO (Fear Of Missing Out) bei den potenziellen Gewinnern im Tech-Sektor und PANIK bei den Verlierern. Die Angst ist präsent (Fear & Greed Index).",
     "ruhigerTag": false,
-    "lernpunkt": "Stagflation: Stagflation beschreibt eine wirtschaftliche Situation, in der hohe Inflation, stagnierendes Wirtschaftswachstum und hohe Arbeitslosigkeit gleichzeitig auftreten. Dies ist eine besonders herausfordernde wirtschaftliche Konstellation, da traditionelle geldpolitische Instrumente zur Bekämpfung der Inflation (Zinserhöhungen) das Wachstum weiter dämpfen und die Arbeitslosigkeit erhöhen können.",
-    "tagesfrage": "Wie können wir sicherstellen, dass technologische Fortschritte wie KI dem Wohl aller dienen und nicht nur einer kleinen Elite, insbesondere in Zeiten geopolitischer Instabilität?",
-    "brief": "Ayman, die Märkte sind heute von zwei Hauptkräften getrieben: der Angst vor einem eskalierenden Konflikt im Nahen Osten, der die Ölpreise in die Höhe treibt, und der wachsenden Besorgnis über die Sicherheit und Regulierung von KI. Die Masse sieht nur die Oberfläche, aber wir müssen tiefer blicken. Die Ölpreissteigerung ist ein klassisches Spiel der Macht, das die Abhängigkeit von fossilen Brennstoffen ausnutzt. Die KI-Debatte wird genutzt, um Kontrolle zu rechtfertigen. Halte dich fern von Panikverkäufen und suche nach stabilen, ethisch vertretbaren Anlagen. Die Zeit des Wartens ist jetzt geboten."
+    "lernpunkt": "Peripherie-Effekte: Wenn ein Sektor (z.B. SpaceX) stark gehypt wird, profitieren oft indirekte oder nachgelagerte Industrien (z.B. Rohstoffe, Spezialzulieferer) mit Verzögerung. Diese Assets sind weniger offensichtlich und werden oft übersehen, bieten aber Chancen für geduldige Investoren, die das gesamte Ökosystem verstehen.",
+    "tagesfrage": "Wie stark wird die tatsächliche Nachfrage nach Halbleitern durch die geopolitischen Spannungen und die globale Konjunktur gedämpft, und wie lange wird die aktuelle Konsolidierungsphase andauern?",
+    "brief": "Ayman, heute sehen wir eine gemischte Lage im Markt. Der Halbleitersektor ist im Fokus, aber die Nachrichten sind widersprüchlich – Rückgänge bei einigen, Hoffnungen bei anderen. Die geopolitischen Spannungen im Nahen Osten sind besorgniserregend, aber der Ölpreis reagiert ungewöhnlich. Gold und Silber steigen, was auf Unsicherheit hindeutet. Angesichts der gemischten Signale und der niedrigen 'Fear & Greed'-Bewertung ist Vorsicht geboten. Wir warten auf klarere Signale, bevor wir uns positionieren."
   },
   "prices": {
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 65599.03125,
-      "change": 0.8520568031462924
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 24885.240234375,
-      "change": 0.49315715462376836
-    },
     "SI=F": {
       "label": "Silber",
-      "price": 58.54999923706055,
-      "change": 1.3010811740882806
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 90.54000091552734,
-      "change": -1.7897835797624668
+      "price": 58.65599822998047,
+      "change": 1.4844767799989955
     },
     "GC=F": {
       "label": "Gold",
-      "price": 4049.89990234375,
-      "change": 0.08154511461142933
+      "price": 4067.60009765625,
+      "change": 0.5189541712353288
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1402509212493896,
-      "change": -0.08094753640680477
+      "price": 1.1375269889831543,
+      "change": -0.013653170286049112
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.30999755859375,
+      "change": -3.123988292161031
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63955.7109375,
+      "change": -0.22275898024372282
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24763.119140625,
+      "change": 0
     }
   },
   "fearGreed": [
-    25,
     28,
     29,
     25,
     33,
     31,
-    28
+    28,
+    27
   ],
   "simulation": {
     "buy": 10,
