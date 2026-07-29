@@ -1,6 +1,6 @@
 {
-  "date": "Dienstag, 28. Juli 2026",
-  "generatedAt": "2026-07-28T07:38:19.538Z",
+  "date": "Mittwoch, 29. Juli 2026",
+  "generatedAt": "2026-07-29T07:43:30.297Z",
   "news": [
     {
       "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
@@ -17,211 +17,210 @@
       "origin": "GNews"
     },
     {
-      "title": "Microsoft and Amazon Earnings: Cloud Results in Focus",
+      "title": "ARKW ETF rated Hold amid short-term challenges from AI and cloud spending, despite long-term growth potential.",
+      "source": "Pluang",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ARKW(-0.23)",
+        "AMD(0.10)",
+        "AAPL(0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Scorpio Tankers (STNG) Q2 Earnings: What To Expect",
+      "source": "TradingView",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "STNG(0.34)",
+        "NSC(0.14)",
+        "JBHT(-0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Why Costco, Verizon, Kroger, and Other Safe Dividend Stocks Are Rising",
+      "source": "The Globe and Mail",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "KR(0.10)",
+        "VZ(0.28)",
+        "COST(0.29)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Marvell Technology (MRVL) Stock Slides As AI Funding Doubts Hit Chip Stocks",
+      "source": "Yahoo Finance",
+      "sentiment": "Bearish",
+      "tickers": [
+        "MRVL(-0.41)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Onto Innovation (ONTO) Stock Falls Amid Market Uptick: What Investors Need to Know",
       "source": "Yahoo Finance Singapore",
       "sentiment": "Neutral",
       "tickers": [
-        "AMZN(0.21)",
-        "MSFT(-0.15)",
-        "AAPL(0.07)"
+        "ONTO(-0.31)",
+        "AMAT(0.14)",
+        "KLAC(0.13)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Earnings call transcript: Kforce beats Q2 2026 estimates as stock trims gains",
-      "source": "Investing.com",
+      "title": "NXP Semiconductors Q2 Earnings Beat Expectations",
+      "source": "Intellectia AI",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "NXPI(0.80)",
+        "AVGO(0.30)",
+        "NVDA(0.31)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Apple is the most valuable company in the world, again",
+      "source": "TechSpot",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "AAPL(0.46)",
+        "NVDA(-0.43)",
+        "AMZN(-0.28)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Earnings Flash (TER) Teradyne, Inc. Reports Q2 Revenue $1.33B, vs. FactSet Est of $1.22B",
+      "source": "marketscreener.com",
       "sentiment": "Bullish",
       "tickers": [
-        "KFRC(0.63)",
-        "WDAY(0.14)"
+        "TER(0.62)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Amkor Technology, Inc (AMKR) Q2 2026 Earnings Call Transcript",
-      "source": "AlphaStreet",
+      "title": "Teradyne (NASDAQ:TER) Reports Upbeat Q2, Stock Jumps 12.8%",
+      "source": "TradingView",
       "sentiment": "Bullish",
       "tickers": [
-        "AMKR(0.52)",
-        "NVDA(0.33)"
+        "TER(0.48)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Arista Networks (NYSE:ANET) Trading Down 2% - Time to Sell?",
-      "source": "MarketBeat",
+      "title": "Western Digital Corp Stock (WDC) Closed Down by 7.00% on Jul 28: Key Drivers Unveiled",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "WDC(-0.42)",
+        "MU(-0.31)",
+        "NVDA(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Salesforce Inc Stock (CRM) Closed Up by 4.51% on Jul 28: Key Drivers Unveiled",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "CRM(0.41)",
+        "MSFT(0.23)",
+        "GOOGL(0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Seagate, Western Digital, FormFactor, Teradyne, and Entegris Shares Are Falling, What You Need To Know",
+      "source": "The Globe and Mail",
       "sentiment": "Neutral",
       "tickers": [
-        "ANET(0.14)"
+        "FORM(0.01)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Kyndryl Holdings Jumps 7.0% Amid Sector-Wide Rally",
-      "source": "AlphaStreet",
-      "sentiment": "Bullish",
-      "tickers": [
-        "KD(0.45)",
-        "IT(0.30)",
-        "CTSH(0.33)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "5 Stocks to Buy While They’re Still Reasonably Priced",
-      "source": "Morningstar",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "GOOGL(0.34)",
-        "TSLA(0.33)",
-        "INTC(0.13)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Uber Technologies Inc Stock (UBER) Closed Up by 3.35% on Jul 27: What Investors Need To Know",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "UBER(0.52)",
-        "MSFT(0.12)",
-        "GOOGL(0.08)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "AI Infrastructure Boom Drives Record Backlog For AAON (NASDAQ: AAON)",
-      "source": "Foreign Policy Journal",
-      "sentiment": "Bullish",
-      "tickers": [
-        "AAON(0.61)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Corning Inc Stock (GLW) Moved Down by 4.45% on Jul 27: What Investors Need To Know",
-      "source": "TradingKey",
+      "title": "Amazon, Apple, Meta, Microsoft Earnings on Deck: 33% of Benzinga Viewers Say This is Top Report to Watch",
+      "source": "Benzinga",
       "sentiment": "Neutral",
       "tickers": [
-        "GLW(0.02)"
+        "AMZN(0.09)",
+        "AAPL(0.08)",
+        "META(0.10)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Adobe Stock Jumped 6% Today. Here’s What Could Drive Shares in 2026",
-      "source": "TIKR.com",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Kulicke and Soffa, Applied Materials, AMD, Intel, and KLA Corporation Stocks Trade Down, What You Need To Know",
+      "source": "TradingView",
+      "sentiment": "Somewhat-Bearish",
       "tickers": [
-        "ADBE(0.30)"
+        "KLAC(-0.27)",
+        "AMAT(-0.26)",
+        "AMD(-0.27)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Q1 Earnings Highs And Lows: Angi (NASDAQ:ANGI) Vs The Rest Of The Gig Economy Stocks",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Neutral",
-      "tickers": [
-        "ANGIV(0.04)",
-        "DASH(0.13)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Microsoft Corp Stock (MSFT) Moved Up by 3.09% on Jul 27: What Investors Need To Know",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "GOOGL(0.12)",
-        "GOOG(0.10)",
-        "MSFT(0.43)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Salesforce Inc Stock (CRM) Moved Up by 8.05% on Jul 27: What Signal Does It Send?",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "CRM(0.47)",
-        "MSFT(0.25)",
-        "GOOGL(0.22)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Booking Holdings Inc Stock (BKNG) Moved Up by 5.09% on Jul 27: A Full Analysis",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "BKNG(0.42)",
-        "MCD(0.22)",
-        "WBD(-0.22)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Apple overtakes Nvidia as world's most valuable company",
-      "source": "Quartz",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AAPL(0.48)",
-        "NVDA(0.10)",
-        "GOOGL(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Apple ends day as world's most valuable company, passing Nvidia",
-      "source": "CNBC",
+      "title": "Oil rises as US-Iran tension escalates after Iraq strikes, missile attack - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
-      "source": "CNBC",
+      "title": "Iran rules out Omani proposal to manage Strait of Hormuz - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
-      "source": "CNBC",
+      "title": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "More tech pain means gains elsewhere. What's winning in Monday's mixed market",
-      "source": "CNBC",
+      "title": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
-      "source": "CNBC",
+      "title": "Zelenskiy says he told Trump, senators that Ukraine needs anti-ballistic systems, missiles - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Why Boeing and Corning are moving in opposite directions and what to expect next",
-      "source": "CNBC",
+      "title": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say",
-      "source": "CNBC",
+      "title": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "We're buying more of a slumping industrial stock and a hard-hit chipmaker",
-      "source": "CNBC",
+      "title": "Petrobras cuts imports as it pushes local output amid U.S.-Iran conflict - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -229,112 +228,111 @@
   ],
   "sections": {
     "oberflaeche": [
-      "Heidenheimer Zeitung: Lokale Politik im Landtag",
-      "n-tv: Unicredit nähert sich Mehrheit bei Commerzbank",
-      "Yahoo Finance Singapore: Microsoft and Amazon Earnings: Cloud Results in Focus",
-      "Investing.com: Kforce beats Q2 2026 estimates",
-      "AlphaStreet: Amkor Technology, Inc (AMKR) Q2 2026 Earnings Call Transcript",
-      "MarketBeat: Arista Networks (NYSE:ANET) Trading Down 2%",
-      "AlphaStreet: Kyndryl Holdings Jumps 7.0% Amid Sector-Wide Rally",
-      "Morningstar: 5 Stocks to Buy While They’re Still Reasonably Priced",
-      "TradingKey: Uber Technologies Inc Stock (UBER) Closed Up by 3.35%",
-      "Foreign Policy Journal: AI Infrastructure Boom Drives Record Backlog For AAON (NASDAQ: AAON)",
-      "TradingKey: Corning Inc Stock (GLW) Moved Down by 4.45%",
-      "TIKR.com: Adobe Stock Jumped 6% Today",
-      "Yahoo Finance UK: Angi (NASDAQ:ANGI) Vs The Rest Of The Gig Economy Stocks",
-      "TradingKey: Microsoft Corp Stock (MSFT) Moved Up by 3.09%",
-      "TradingKey: Salesforce Inc Stock (CRM) Moved Up by 8.05%",
-      "TradingKey: Booking Holdings Inc Stock (BKNG) Moved Up by 5.09%",
-      "Quartz: Apple overtakes Nvidia as world's most valuable company",
-      "CNBC: Apple ends day as world's most valuable company, passing Nvidia",
-      "CNBC: Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
-      "CNBC: From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week"
+      "GNews: Heidenheimer Zeitung: Lokale Politik der Grünen-Abgeordneten Clara Resch.",
+      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank.",
+      "AlphaVantage: ARKW ETF: Neutral bewertet wegen kurzfristiger KI/Cloud-Herausforderungen, langfristiges Wachstumspotenzial.",
+      "AlphaVantage: Scorpio Tankers (STNG) Q2 Earnings: Erwartungen.",
+      "AlphaVantage: Sichere Dividendenaktien (Costco, Verizon, Kroger) steigen.",
+      "AlphaVantage: Marvell Technology (MRVL) fällt wegen KI-Finanzierungszweifeln bei Chip-Aktien.",
+      "AlphaVantage: Onto Innovation (ONTO) fällt trotz Markt-Uptick.",
+      "AlphaVantage: NXP Semiconductors (NXPI) Q2 Ergebnisse übertreffen Erwartungen.",
+      "AlphaVantage: Apple ist wieder das wertvollste Unternehmen der Welt.",
+      "AlphaVantage: Teradyne, Inc. (TER) Q2 Umsatz übertrifft Erwartungen, Aktie steigt.",
+      "AlphaVantage: Western Digital Corp (WDC) fällt nach Bekanntgabe der Treiber.",
+      "AlphaVantage: Salesforce Inc (CRM) steigt nach Bekanntgabe der Treiber.",
+      "AlphaVantage: Seagate, Western Digital, FormFactor, Teradyne, Entegris fallen.",
+      "AlphaVantage: Amazon, Apple, Meta, Microsoft Earnings stehen an.",
+      "AlphaVantage: Kulicke and Soffa, Applied Materials, AMD, Intel, KLA Corporation fallen.",
+      "Finnhub: Reuters: Öl steigt wegen US-Iran-Spannungen im Irak.",
+      "Finnhub: Reuters: Iran schließt Oman-Vorschlag zur Straße von Hormus aus.",
+      "Finnhub: Reuters: Iran erhält bald chinesische Raketensysteme.",
+      "Finnhub: Reuters: US-Militär und Saudi-Kräfte schlugen Ziele von Iran-nahen Gruppen im Irak."
     ],
     "hypeNews": [
-      "Starker Fokus auf Tech-Giganten wie Microsoft, Amazon, Apple und Nvidia, insbesondere im Cloud- und KI-Infrastruktur-Bereich.",
-      "Positive Quartalsergebnisse und Kursgewinne bei Unternehmen wie Kforce, Amkor Technology, Kyndryl Holdings, Uber, AAON, Adobe, Salesforce und Booking Holdings signalisieren Stärke in ihren jeweiligen Sektoren."
+      "Geopolitische Spannungen im Nahen Osten treiben Ölpreise in die Höhe und deuten auf eine Eskalation hin.",
+      "Halbleitersektor zeigt gemischte Signale: Einige übertreffen Erwartungen (NXPI), andere leiden unter KI-Finanzierungszweifeln (MRVL) oder fallen generell (AMAT, KLAC)."
     ],
-    "hypeCenter": "Der stärkste Hype liegt eindeutig im Technologie-Sektor, getrieben durch starke Earnings-Reports und die anhaltende Begeisterung für KI-Infrastruktur und Cloud-Computing. Unternehmen wie Microsoft, Amazon, Apple und Nvidia stehen im Mittelpunkt, wobei Apple Nvidia als wertvollstes Unternehmen überholt hat, was die Dynamik im Sektor unterstreicht.",
-    "peripherEffect": "Verzögert profitieren könnten Unternehmen, die kritische Materialien für die Tech-Produktion liefern (z.B. seltene Erden, Spezialmetalle für Halbleiter und Server), sowie Anbieter von spezialisierten Dienstleistungen für die Cloud- und KI-Infrastruktur (z.B. Datenzentrums-Kühlsysteme, Netzwerkinfrastruktur-Zulieferer wie Arista Networks, obwohl diese aktuell unter Druck steht). Auch Unternehmen im Bereich der Cybersicherheit und Datenanalyse könnten indirekt profitieren.",
-    "narrativ": "Die Masse glaubt, dass die großen Tech-Unternehmen weiterhin unaufhaltsam wachsen werden, angetrieben durch KI und Cloud. Die aktuellen Earnings bestätigen diese Erwartungen und lassen die Anleger optimistisch in die Zukunft blicken, wobei die Bewertung von Unternehmen wie Apple und Nvidia als Indikatoren für den allgemeinen Tech-Markt dienen.",
-    "realitaet": "Die Realität ist, dass der Hype um KI und Cloud zwar stark ist, aber auch zu Überbewertungen und Konzentrationsrisiken führt. Die Nachricht, dass Nvidia möglicherweise OpenAI mit 250 Milliarden Dollar unterstützt, könnte ein Zeichen für eine Konsolidierung oder eine erhöhte Abhängigkeit sein, was gegen die breite 'AI-Trade'-These spricht. Der Wettbewerb, insbesondere zwischen Apple und Nvidia, zeigt auch die Volatilität und die sich schnell ändernden Marktanteile. Die Kursrückgänge bei einigen Tech-Aktien trotz positiver Nachrichten deuten auf Gewinnmitnahmen oder eine vorsichtigere Marktstimmung hin.",
-    "macht": "Konkret profitieren die führenden Tech-Konzerne wie Microsoft, Amazon, Apple und Nvidia, sowie deren Top-Management und Großaktionäre. Auch Investmentbanken, die an den Deals und der Finanzierung beteiligt sind (z.B. Unicredit im Bankensektor), sowie die Zulieferer und Dienstleister in der Tech-Wertschöpfungskette erzielen Gewinne. Die Kapitalmärkte als Ganzes profitieren von der Liquidität, die in diese Sektoren fließt.",
-    "geopolitik": "Die Dominanz der US-Tech-Giganten wirft Fragen zur globalen Machtbalance auf. Während die USA ihre technologische Vormachtstellung ausbauen, könnten sich andere Blöcke wie BRICS auf alternative Technologien oder Lieferketten konzentrieren. Die Abhängigkeit von Schlüsseltechnologien wie Halbleitern und KI-Chips birgt geopolitische Risiken und könnte zu einer stärkeren Fokussierung auf nationale Souveränität in diesen Bereichen führen. De-Dollarisierungstendenzen könnten durch die Stärke des US-Dollars und der US-Tech-Werte kurzfristig gedämpft werden.",
-    "liquiditaet": "Das Kapital fließt primär in die großen Technologieaktien, insbesondere in die Bereiche Cloud-Computing, KI-Infrastruktur und Halbleiter. Auch die Automobilindustrie (Tesla) und die Softwarebranche (Salesforce, Adobe) ziehen Kapital an. Es gibt eine klare Präferenz für Wachstumsaktien mit starkem Cashflow und positiven Zukunftsaussichten.",
-    "kette": "Starke Quartalsergebnisse von Tech-Unternehmen (A) -> Erhöhte Investitionen in KI und Cloud-Infrastruktur (B) -> Steigende Nachfrage nach spezialisierten Chips und Hardware (C) -> Wachstum bei Zulieferern und Herstellern von Infrastrukturkomponenten (D) -> Potenzielle Überbewertung und erhöhte Volatilität im Sektor (E).",
-    "timing": "Mitte des Trends. Die aktuellen Earnings und die Marktreaktionen deuten darauf hin, dass wir uns in einer fortgeschrittenen Phase des aktuellen Tech-Hypes befinden. Die Nachricht über Apple, das Nvidia überholt, und die Bedenken bezüglich des 'AI-Trades' könnten auf eine mögliche Konsolidierung oder eine Rotation in andere Sektoren hindeuten. Die breite positive Stimmung bei vielen Tech-Aktien (Kforce, Amkor, Kyndryl, Uber, AAON, Adobe, Salesforce, Booking) zeigt jedoch, dass der Hype noch nicht vorbei ist.",
-    "saisonalitaet": "Juli und August sind historisch oft von geringerer Handelsaktivität geprägt (Sommerpause), was zu erhöhter Volatilität bei einzelnen Nachrichten führen kann. Die starken Earnings-Saison-Ergebnisse könnten jedoch diese saisonale Schwäche überlagern. Langfristig ist der Sommer oft eine Zeit der Konsolidierung, bevor im Herbst neue Trends entstehen.",
-    "masseFehler": "Die Masse sieht den aktuellen Tech-Boom als unaufhaltsam und investiert blind in die größten Namen, ohne die zugrunde liegenden Risiken wie Überbewertung, Wettbewerb und die Abhängigkeit von wenigen Schlüsseltechnologien zu berücksichtigen. Sie übersehen, dass die 'peripheren' Assets, die von diesem Hype profitieren, oft erst mit deutlicher Verzögerung oder nur selektiv reagieren.",
-    "widerspruch": "Ja. Einerseits berichten viele Tech-Unternehmen von starken Ergebnissen und die Kurse steigen (z.B. MSFT, AMZN, KFRC, AMKR, KD, UBER, AAON, ADBE, CRM, BKNG). Andererseits gibt es Warnsignale wie die Bedenken gegen den 'AI-Trade' im Zusammenhang mit Nvidia und OpenAI, sowie Kursrückgänge bei einigen etablierten Tech-Titeln (z.B. ANET, GLW). Die Tatsache, dass Apple Nvidia überholt hat, ist ein Zeichen für eine Verschiebung der Marktführerschaft, was die Dynamik und Unsicherheit im Sektor unterstreicht.",
-    "markt": "Silber: Leicht fallend, Gold: Leicht fallend, Öl: Fallend, Bitcoin: Leicht fallend, DAX: Steigend, EUR/USD: Fallend (USD steigt)",
-    "opportunity": "Die Gelegenheit liegt darin, die periphere Effekte des Tech-Hypes zu identifizieren und zu antizipieren, bevor sie vom breiten Markt bemerkt werden. Dies erfordert eine tiefere Analyse der Lieferketten und der unterstützenden Industrien, die von der KI- und Cloud-Explosion profitieren.",
-    "positionierung": "Das Sentiment ist gemischt, aber mit einer starken Neigung zu Bullishness im Tech-Sektor. Die positiven Ticker-Scores bei vielen Tech-Aktien (KFRC, AMKR, KD, AAON, ADBE, MSFT, CRM, BKNG, GOOGL, TSLA) deuten auf eine starke Kapitalzuweisung in diese Bereiche hin. Die neutralen bis leicht negativen Scores bei ANET und die Bedenken um NVDA zeigen jedoch, dass nicht alle Tech-Werte gleichermaßen profitieren und es Sektoren gibt, die unter Druck geraten könnten.",
-    "reflexivitaet": "Der Hype um KI und Cloud führt zu erhöhten Investitionen, was wiederum die Nachfrage nach den entsprechenden Technologien und Dienstleistungen steigert. Dies treibt die Umsätze und Gewinne der beteiligten Unternehmen, was den Hype weiter befeuert und Anleger anzieht. Die steigenden Bewertungen rechtfertigen weitere Investitionen, was einen positiven Feedback-Loop erzeugt, bis möglicherweise eine Überbewertung erreicht wird.",
+    "hypeCenter": "Der stärkste Hype heute liegt im Energiesektor, angetrieben durch die eskalierenden geopolitischen Spannungen zwischen den USA und dem Iran, die den Ölpreis stark nach oben treiben. Dies wird durch die Nachrichten über Waffenlieferungen an den Iran und militärische Aktionen im Irak weiter befeuert.",
+    "peripherEffect": "Während der Ölpreis direkt steigt, könnten verzögert davon profitieren: 1. Unternehmen im Bereich der Energiesicherheit und Verteidigung (z.B. Rüstungsaktien, Cybersicherheit für kritische Infrastrukturen). 2. Logistikunternehmen, die von steigenden Transportkosten betroffen sind, aber auch von erhöhter Nachfrage nach bestimmten Gütern (z.B. Scorpio Tankers, die bereits eine positive Tendenz zeigen). 3. Rohstofflieferanten für die Rüstungsindustrie oder für den Wiederaufbau nach Konflikten.",
+    "narrativ": "Die Masse glaubt, dass die steigenden Ölpreise und die geopolitischen Spannungen zu einer breiten Inflation führen werden, die die Zentralbanken zwingt, die Zinsen länger hoch zu halten. Gleichzeitig wird erwartet, dass Technologieaktien, insbesondere im KI-Bereich, trotz kurzfristiger Schwankungen langfristig weiter wachsen werden. Sichere Dividendenaktien werden als Zufluchtsort gesucht.",
+    "realitaet": "Die eskalierenden Spannungen sind ein klassischer 'Kauf die Nachricht'-Moment für Öl, der kurzfristig die Preise treibt. Die tieferliegende Wahrheit ist die strategische Neuordnung der globalen Energieversorgung und die zunehmende Bedeutung von Allianzen (z.B. Iran-China). Im Tech-Sektor sind die Schwankungen im Halbleiterbereich ein Zeichen für eine Konsolidierung und eine Neubewertung der KI-Investitionen, weg von Hype hin zu realen Anwendungen und Profitabilität. Die 'sicheren' Dividendenaktien profitieren von einer Flucht in Qualität angesichts der Unsicherheit.",
+    "macht": "Direkte Profiteure des Öl-Hypes sind Ölproduzenten und -händler (z.B. Scorpio Tankers, aber auch größere Player). Indirekt profitieren Rüstungsunternehmen und Staaten, die ihre strategischen Reserven aufstocken. Im Tech-Sektor profitieren Unternehmen, die weiterhin führend in der KI-Infrastruktur sind (z.B. NXPI, AVGO, NVDA, obwohl letztere gemischte Signale zeigt), während schwächere Player unter Druck geraten. Institutionelle Anleger mit Fokus auf defensive Anlagen profitieren von den steigenden Dividendenaktien.",
+    "geopolitik": "Die Spannungen zwischen den USA und dem Iran, mit Beteiligung von Saudi-Arabien und dem Irak, verschärfen die Fronten. Die Lieferung chinesischer Raketensysteme an den Iran deutet auf eine wachsende strategische Partnerschaft und eine mögliche De-Dollarisierung im Handel mit Energie hin. Die BRICS-Staaten könnten von einer solchen Instabilität profitieren, indem sie alternative Handelsrouten und Währungen stärken, während die G7-Staaten versuchen, die Kontrolle zu behalten. Die Straße von Hormus bleibt ein kritischer Engpass.",
+    "liquiditaet": "Kapital fließt kurzfristig in Rohöl und damit verbundene Unternehmen. Es gibt eine Flucht in als sicher geltende Vermögenswerte wie Gold und bestimmte Dividendenaktien. Im Tech-Sektor wird Kapital selektiver eingesetzt, weg von überbewerteten KI-Playern hin zu etablierten Anbietern mit nachgewiesener Profitabilität oder kritischer Infrastruktur (z.B. Halbleiter-Testausrüster wie Teradyne).",
+    "kette": "US-Iran-Spannungen eskalieren -> Militärische Aktionen im Irak -> Iran erhält chinesische Raketensysteme -> Unsicherheit über Ölversorgung steigt -> Ölpreis steigt -> Logistik- und Energieunternehmen profitieren -> Inflationäre Erwartungen steigen -> Flucht in sichere Häfen (Gold, Dividendenaktien) -> Selektive Investitionen im Tech-Sektor.",
+    "timing": "Spät im Trend für Öl, da die Spannungen bereits eskaliert sind und der Preis reagiert. Früh im Trend für die peripheren Effekte (Verteidigung, Logistik), die erst mit Verzögerung auf die Eskalation reagieren werden. Im Halbleitersektor sind wir in einer Konsolidierungsphase, die für einige Unternehmen das Ende eines Hypes und für andere den Beginn einer neuen Wachstumsphase bedeuten könnte.",
+    "saisonalitaet": "Der Juli und August sind oft von geringerer Handelsaktivität geprägt, was Nachrichten wie die geopolitischen Spannungen eine größere Auswirkung auf die Märkte haben kann. Historisch gesehen können Rohstoffpreise im Spätsommer/Herbst aufgrund von saisonaler Nachfrage (z.B. Heizöl) oder Angebotsschocks steigen.",
+    "masseFehler": "Die Masse sieht die steigenden Ölpreise als isoliertes Ereignis, das nur die Tankstellenpreise beeinflusst. Sie übersehen die strategische Bedeutung der Spannungen für globale Allianzen, Handelsrouten und die De-Dollarisierung. Ebenso wird die Konsolidierung im Halbleitersektor oft als genereller Tech-Crash missverstanden, anstatt als notwendige Neubewertung und Bereinigung des Marktes.",
+    "widerspruch": "Ja. Während Öl und sichere Dividendenaktien steigen (bullish), fallen wichtige Technologieaktien wie Marvell und einige Halbleiter-Zulieferer (bearish). Dies deutet auf eine Marktsegmentierung und eine Unsicherheit über die zukünftige Richtung des breiteren Marktes hin, trotz des offensichtlichen Hypes im Energiesektor.",
+    "markt": "Gold: Steigend | Silber: Steigend | Öl: Steigend | Bitcoin: Leicht steigend | DAX: Stabil | EUR/USD: Steigend",
+    "opportunity": "Konkrete Chance: Investition in Unternehmen, die von der Eskalation im Nahen Osten und der damit verbundenen steigenden Energienachfrage und Verteidigungsausgaben profitieren. Auch eine Short-Position auf überbewertete Tech-Aktien, die unter dem Druck der KI-Finanzierungszweifel stehen, könnte eine Chance darstellen.",
+    "positionierung": "Smart Money positioniert sich defensiv in Gold und Dividendenaktien, während sie selektiv in Energie- und Verteidigungsaktien investieren. Im Tech-Sektor wird eine klare Trennung zwischen Gewinnern und Verlierern vorgenommen. Das Sentiment ist gemischt, mit deutlicher Angst (Fear & Greed Index: 29/100), aber auch opportunistischen Wetten auf steigende Rohstoffpreise.",
+    "reflexivitaet": "Die steigenden Ölpreise durch geopolitische Spannungen führen zu Inflationsängsten, was wiederum die Zentralbanken unter Druck setzt, die Zinsen hoch zu halten oder sogar weiter zu erhöhen. Dies erhöht die Attraktivität von Rohstoffen und sicheren Anlagen und reduziert die Risikobereitschaft für spekulative Tech-Investitionen, was wiederum die Volatilität in diesen Sektoren erhöht.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.25,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Wir befinden uns in einer Phase des technologischen Umbruchs, der von KI und Cloud angetrieben wird. Dies geschieht inmitten einer globalen Wirtschaft, die sich von den Nachwirkungen früherer Krisen erholt, aber auch mit neuen Herausforderungen wie Inflation und geopolitischen Spannungen konfrontiert ist. Es ist eine Mischung aus Wachstum in bestimmten Sektoren und potenziellen Risiken in anderen.",
+    "metaZyklus": "Umbruch",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegter Gold-ETF, dessen Handel und Besitz gemäß islamischer Finanzprinzipien als halal gilt, da er auf dem Besitz eines realen Vermögenswerts basiert und keine Zinsen (Riba) beinhaltet.",
+    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegtes Goldinvestment, das den islamischen Anlageprinzipien entspricht, da es sich um einen realen Vermögenswert handelt und keine Zinsen generiert.",
     "purification": "0.00",
-    "entscheidung": "WARTEN",
-    "richtung": "null",
-    "einstieg": null,
-    "stopLoss": null,
-    "ziel": null,
-    "zeitraum": null,
-    "einsatz": 0,
-    "exitStrategie": "Keine Positionierung aufgrund der aktuellen Marktunsicherheit und der Notwendigkeit, die peripheren Effekte genauer zu analysieren.",
-    "waehrungsrisiko": "Der fallende EUR/USD-Kurs (steigender USD) könnte US-Aktien für europäische Anleger teurer machen, aber auch die Renditen von US-Investitionen in Euro umrechnen. Für in Euro denominierten Handel ist dies ein Faktor, der die Performance beeinflusst.",
-    "psychologie": "FOMO (Fear Of Missing Out) ist bei den Anlegern stark ausgeprägt, die befürchten, die Gewinne im Tech-Sektor zu verpassen. Gleichzeitig könnten Gewinnmitnahmen und die Sorge vor einer Korrektur zu Panik führen, wenn sich die Marktstimmung dreht.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 4104,
+    "stopLoss": 3950,
+    "ziel": 4500,
+    "zeitraum": "4-8 Wochen",
+    "einsatz": 3.13,
+    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei deutlicher Entspannung der geopolitischen Lage im Nahen Osten.",
+    "waehrungsrisiko": "EUR/USD steigt, was einen leicht negativen Effekt auf in USD gehandelte Rohstoffe wie Gold haben könnte, aber die Stärke des Goldpreises überwiegt wahrscheinlich.",
+    "psychologie": "FOMO (Fear Of Missing Out) auf steigende Ölpreise und die Angst vor Inflation.",
     "ruhigerTag": false,
-    "lernpunkt": "Peripherie-Effekte: Dies bezieht sich auf Sektoren oder Vermögenswerte, die nicht direkt im Fokus eines Hypes stehen, aber indirekt davon profitieren. Wenn beispielsweise die Raumfahrttechnologie (wie SpaceX) boomt, könnten Unternehmen, die Speziallegierungen oder fortschrittliche Materialien für Raketen und Satelliten herstellen, mit Verzögerung ebenfalls eine erhöhte Nachfrage erfahren. Diese Effekte sind oft weniger offensichtlich, können aber lukrative Investitionsmöglichkeiten bieten.",
-    "tagesfrage": "Inwieweit wird die zunehmende Konzentration von Macht und Kapital bei wenigen Tech-Giganten die Innovationskraft und die Wettbewerbslandschaft langfristig beeinflussen?",
-    "brief": "Ayman, heute sehen wir eine Fortsetzung des Tech-Hypes, mit starken Ergebnissen und einer anhaltenden Fokussierung auf KI und Cloud. Apple hat Nvidia überholt, was die Dynamik zeigt, aber auch die Risiken einer sich verschiebenden Marktführerschaft. Achte auf die Unternehmen, die im Hintergrund von diesem Hype profitieren, wie Zulieferer von Spezialmaterialien oder Infrastrukturdienstleister. Die breite Masse ist im FOMO-Modus, aber wir müssen die Realität hinter den Schlagzeilen erkennen und die versteckten Chancen identifizieren, bevor sie offensichtlich werden. Bleibe diszipliniert und warte auf die klaren Signale."
+    "lernpunkt": "Der 'Fear & Greed Index' ist ein Stimmungsindikator, der die Marktstimmung misst. Ein Wert nahe 0 deutet auf extreme Angst hin, während ein Wert nahe 100 für extreme Gier steht. Er kann als Kontraindikator dienen: Extreme Angst kann auf Kaufgelegenheiten hindeuten, während extreme Gier auf eine bevorstehende Korrektur hinweisen kann.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach alternativen Währungen im Energiehandel zunehmen, wenn die Spannungen im Nahen Osten weiter eskalieren?",
+    "brief": "Ayman, heute sehen wir, wie geopolitische Spannungen die Märkte bewegen. Der Ölpreis steigt stark, was uns an die Bedeutung von Energie als treibende Kraft erinnert. Gleichzeitig sehen wir eine klare Trennung im Tech-Sektor: KI-Hype hin oder her, die Profitabilität zählt. Deine Aufgabe ist es, die Oberfläche zu durchdringen und die wahren Profiteure zu identifizieren, die oft im Verborgenen agieren. Halte Ausschau nach den peripheren Effekten, die mit Verzögerung eintreten. Die islamische Ethik lehrt uns Geduld und Weisheit – handle nicht aus Gier oder Angst, sondern aus fundierter Analyse."
   },
   "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4104.39990234375,
+      "change": 1.687185112400073
+    },
     "SI=F": {
       "label": "Silber",
-      "price": 57.755001068115234,
-      "change": -1.2262263176532697
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 81.20999908447266,
-      "change": -1.6947119180912789
+      "price": 58.439998626708984,
+      "change": 1.9966440305508668
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 63420.69140625,
-      "change": -0.4773754665899698
+      "price": 64391.7109375,
+      "change": 0.8146806792876967
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 25517.439453125,
-      "change": 0.6167342595565432
+      "price": 25514.990234375,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 82.08999633789062,
+      "change": 3.5705199664214238
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.137268304824829,
-      "change": -0.19561040951182554
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4052.300048828125,
-      "change": -0.5448509307123574
+      "price": 1.1402509212493896,
+      "change": 0.29077149650858214
     }
   },
   "fearGreed": [
-    33,
     31,
     28,
     27,
     26,
     30,
+    29,
     29
   ],
   "simulation": {
