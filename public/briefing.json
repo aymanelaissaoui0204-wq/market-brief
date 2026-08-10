@@ -1,6 +1,6 @@
 {
-  "date": "Sonntag, 9. August 2026",
-  "generatedAt": "2026-08-09T05:46:27.068Z",
+  "date": "Montag, 10. August 2026",
+  "generatedAt": "2026-08-10T06:09:34.304Z",
   "news": [
     {
       "title": "Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
@@ -17,203 +17,211 @@
       "origin": "GNews"
     },
     {
-      "title": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-      "source": "Sahm",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "ZBRA(0.61)",
-        "PLTR(0.78)",
-        "TTD(-0.65)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "nLight (NASDAQ:LASR) Issues Quarterly Earnings Results, Beats Expectations By $0.01 EPS",
-      "source": "MarketBeat",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "LASR(0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Why Keysight Technologies (KEYS) Is Up 6.9% After EV And Renewable Testing Demand Outlook Improves - And What's Next",
-      "source": "Yahoo Finance",
-      "sentiment": "Bullish",
-      "tickers": [
-        "KEYS(0.44)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Why Jabil (JBL) Is Up 11.7% After Bullish Earnings Revisions And Analyst Upgrades And What's Next",
-      "source": "Sahm",
-      "sentiment": "Bullish",
-      "tickers": [
-        "JBL(0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Applied Materials Has Beaten Estimates 5 Quarters Straight. Here’s Where the Stock Could Go",
-      "source": "TIKR.com",
-      "sentiment": "Neutral",
-      "tickers": [
-        "AMAT(0.07)",
-        "LRCX(-0.13)",
-        "NVDA(0.10)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ahead of July Jobs Report—Atlassian, Trade Desk, Cloudflare in Focus",
-      "source": "Sahm",
+      "title": "UPST INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds",
+      "source": "The National Law Review",
       "sentiment": "Bearish",
       "tickers": [
-        "TTD(-0.64)"
+        "UPST(-0.44)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "CoStar Group (CSGP) Sees US Industrial Demand Outpacing Supply By Late 2027",
-      "source": "Yahoo Finance",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "CSGP(0.23)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Dear Analog Devices Stock Fans, Mark Your Calendars for August 19",
-      "source": "Barchart.com",
+      "title": "Applied Materials (NASDAQ:AMAT) Weekly Gain Highlights Cash Conversion After Earnings",
+      "source": "TechStock²",
       "sentiment": "Bullish",
       "tickers": [
-        "ADI(0.47)"
+        "AMAT(0.48)",
+        "LRCX(0.35)",
+        "KLAC(0.35)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Is Waste Management (WM) Trading At A Discount As Remote Controlled Equipment Rolls Out?",
+      "title": "How Investors May Respond To New Oriental Education (EDU) Earnings Beat, 2027 Guidance And New Cash Returns",
       "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
+      "sentiment": "Bullish",
       "tickers": [
-        "WM(0.34)",
-        "CAT(0.34)"
+        "EDU(0.50)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Microchip Technology Surges As Earnings Beat Triggers Breakout",
-      "source": "Timothy Sykes",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
+      "source": "The Motley Fool",
+      "sentiment": "Bullish",
       "tickers": [
-        "MCHP(0.46)",
-        "MS(0.22)",
-        "C(0.23)"
+        "GOGL(0.41)",
+        "GOOG(0.47)",
+        "GOOGL(0.49)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Global Payments Inc. (GPN) Stock Forecasts",
-      "source": "Yahoo! Finance Canada",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "GPN(0.37)",
-        "EBAY(0.11)",
-        "JCI(0.14)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "US$85.40 - That's What Analysts Think Digi International Inc. (NASDAQ:DGII) Is Worth After These Results",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "DGII(0.34)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Benzinga Bulls And Bears: Palantir, Marvell, AppLovin",
+      "title": "Nvidia-Backed Lumentum Soaring Again: Will It Rise or Fall After Earnings?",
       "source": "Benzinga",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "MRVL(0.42)",
-        "PLTR(0.47)",
-        "WDC(-0.27)"
+        "NVDA(0.33)",
+        "AMD(0.12)",
+        "AAPL(0.22)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It",
-      "source": "24/7 Wall St.",
+      "title": "Unpacking the Latest Pullback in Micron Stock",
+      "source": "The Globe and Mail",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "KLAC(0.42)",
-        "AMAT(0.20)",
-        "LRCX(0.20)"
+        "MU(0.41)",
+        "NVDA(0.32)",
+        "GOOGL(0.33)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
+      "title": "Microchip Technology (MCHP) Could Be 25% Undervalued As Q1 Results Beat Guidance",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "MCHP(0.48)",
+        "MU(0.14)",
+        "INTC(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Verisk Analytics (VRSK) Q2 Update Puts Its Pricey Valuation Back In Focus",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "VRSK(-0.24)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Credo Technology (NASDAQ:CRDO) Soars 21% as Wall Street Target Gap Narrows",
+      "source": "TechStock²",
+      "sentiment": "Bullish",
+      "tickers": [
+        "CRDO(0.48)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Why Astera Labs (ALAB) Is Up 7.4% After Surging Q2 Results And Upbeat Q3 Guidance",
+      "source": "Simply Wall Street",
+      "sentiment": "Bullish",
+      "tickers": [
+        "ALAB(0.73)",
+        "NVDA(0.35)",
+        "AVGO(0.27)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Top Stocks to Watch Next Week: Plug Power, Applied Materials, Berkshire Hathaway",
+      "source": "Benzinga",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AMAT(0.50)",
+        "NVDA(0.41)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "The Bull Case For Sonoco Products (SON) Could Change Following New Packaging Chief And AI-Focused Investment Shift",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "SON(0.33)",
+        "PKG(0.13)",
+        "SW(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "US-China AI War: Inside the Battle for Global Tech Dominance",
+      "source": "Benzinga",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "AVGO(-0.31)",
+        "NVDA(-0.34)",
+        "AAPL(-0.31)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "F5 (FFIV) Stock Looks Fully Priced Even After Strong Gains",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "FFIV(-0.26)",
+        "CSCO(0.13)",
+        "ANET(0.10)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AMAT|Applied Materials Inc|Price:539.140|Chg%:+11.660",
+      "source": "TradingKey",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AMAT(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "China is balancing Asia's crude oil demand by itself - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran ties Hormuz reopening to US concessions on several demands - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil rises as Iran tempers hopes for swift Hormuz reopening - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30 - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Netanyahu says Trump's new Gaza plan is unacceptable - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
       "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Iran's Revolutionary Guard says re-opening Strait of Hormuz does not depend on talks with Oman - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
-      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -221,113 +229,97 @@
   ],
   "sections": {
     "oberflaeche": [
-      "Quelle: n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
-      "Quelle: n-tv NACHRICHTEN: Wall Street deutlich im Plus: Kursfeuerwerk bei Microsoft - Börsenwert steigt um 450 Milliarden Dollar",
-      "Quelle: Sahm: The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-      "Quelle: MarketBeat: nLight (NASDAQ:LASR) Issues Quarterly Earnings Results, Beats Expectations By $0.01 EPS",
-      "Quelle: Yahoo Finance: Why Keysight Technologies (KEYS) Is Up 6.9% After EV And Renewable Testing Demand Outlook Improves - And What's Next",
-      "Quelle: Sahm: Why Jabil (JBL) Is Up 11.7% After Bullish Earnings Revisions And Analyst Upgrades And What's Next",
-      "Quelle: TIKR.com: Applied Materials Has Beaten Estimates 5 Quarters Straight. Here’s Where the Stock Could Go",
-      "Quelle: Sahm: Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains Ahead of July Jobs Report—Atlassian, Trade Desk, Cloudflare in Focus",
-      "Quelle: Yahoo Finance: CoStar Group (CSGP) Sees US Industrial Demand Outpacing Supply By Late 2027",
-      "Quelle: Barchart.com: Dear Analog Devices Stock Fans, Mark Your Calendars for August 19",
-      "Quelle: Simply Wall Street: Is Waste Management (WM) Trading At A Discount As Remote Controlled Equipment Rolls Out?",
-      "Quelle: Timothy Sykes: Microchip Technology Surges As Earnings Beat Triggers Breakout",
-      "Quelle: Yahoo! Finance Canada: Global Payments Inc. (GPN) Stock Forecasts",
-      "Quelle: Simply Wall Street: US$85.40 - That's What Analysts Think Digi International Inc. (NASDAQ:DGII) Is Worth After These Results",
-      "Quelle: Benzinga: Benzinga Bulls And Bears: Palantir, Marvell, AppLovin",
-      "Quelle: 24/7 Wall St.: KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It",
-      "Quelle: CNBC: Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
-      "Quelle: Reuters: Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
-      "Quelle: Reuters: Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
-      "Quelle: CNBC: Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’"
+      "n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
+      "n-tv NACHRICHTEN: Wall Street deutlich im Plus: Kursfeuerwerk bei Microsoft - Börsenwert steigt um 450 Milliarden Dollar",
+      "The National Law Review: UPST INVESTOR ALERT: Bronstein, Gewirtz and Grossman, LLC Reminds"
     ],
     "hypeNews": [
-      "Starke Quartalsergebnisse und positive Ausblicke in der Halbleiter- und Technologiebranche (z.B. Microsoft, Applied Materials, Analog Devices, Microchip Technology, Keysight Technologies).",
-      "Anhaltende Nachfrage in Sektoren wie KI (Palantir), Cloud (Cloudflare, Atlassian) und industrielle Infrastruktur (CoStar Group)."
+      "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
+      "Nvidia-Backed Lumentum Soaring Again: Will It Rise or Fall After Earnings?",
+      "Applied Materials (NASDAQ:AMAT) Weekly Gain Highlights Cash Conversion After Earnings"
     ],
-    "hypeCenter": "Der stärkste Hype konzentriert sich auf den Technologiesektor, insbesondere auf Halbleiter und KI-bezogene Unternehmen. Dies wird durch starke Quartalsergebnisse, positive Analystenbewertungen und die allgemeine Markterholung (Wall Street im Plus) angetrieben.",
-    "peripherEffect": "Verzögert könnten Unternehmen profitieren, die kritische Materialien oder Dienstleistungen für die Technologiebranche liefern. Dazu gehören spezialisierte Metallproduzenten (z.B. für seltene Erden, die in Elektronik benötigt werden), Hersteller von Präzisionswerkzeugen und Automatisierungstechnik für die Halbleiterfertigung (z.B. KLA, AMAT, LRCX), sowie Unternehmen im Bereich der industriellen Logistik und des Supply Chain Managements, die von der erhöhten Produktion profitieren.",
-    "narrativ": "Die Masse glaubt, dass die Technologiebranche weiterhin stark wachsen wird, angetrieben durch Innovationen in KI und die anhaltende Digitalisierung. Starke Unternehmensgewinne und positive Marktentwicklungen bestärken diese Annahme.",
-    "realitaet": "Während die Technologiebranche stark ist, werden die zugrundeliegenden Lieferketten und die Abhängigkeit von spezifischen Rohstoffen oft übersehen. Die hohen Bewertungen einiger Unternehmen könnten anfällig für Korrekturen sein, wenn sich die makroökonomischen Bedingungen ändern oder geopolitische Spannungen zunehmen. Die Nachrichten über die Biden-Familie und die geopolitischen Spannungen im Nahen Osten werden als Ablenkung oder Randnotiz abgetan.",
-    "macht": "Große Technologiekonzerne (Microsoft), Halbleiterhersteller (Applied Materials, Analog Devices, Microchip Technology), KI-Unternehmen (Palantir) und deren institutionelle Investoren profitieren direkt von den Kurssteigerungen. Zulieferer und Dienstleister in diesen Sektoren profitieren ebenfalls.",
-    "geopolitik": "Die Nachrichten über die Türkei, Pakistan und Saudi-Arabien deuten auf eine Stärkung von Allianzen außerhalb der traditionellen westlichen Blöcke hin, was langfristig die globale Wirtschaftsordnung beeinflussen könnte. Die Spannungen im Hormus-Strasse bleiben ein latentes Risiko für globale Lieferketten und Energiepreise. Die De-Dollarisierung ist ein schleichender Prozess, der durch solche Allianzen und die Suche nach alternativen Handelsrouten gestärkt werden könnte.",
-    "liquiditaet": "Kapital fließt weiterhin stark in technologieorientierte Wachstumsaktien, die von positiven Ertragsberichten und Zukunftsaussichten angezogen werden. Ein Teil des Kapitals könnte auch in defensive Werte oder Rohstoffe fließen, falls geopolitische Risiken zunehmen.",
-    "kette": "Starke Quartalsergebnisse und positive Ausblicke in der Tech-Branche -> Erhöhte Nachfrage nach Halbleitern und spezialisierten Komponenten -> Steigende Umsätze und Gewinne bei Zulieferern und Rohstofflieferanten -> Langfristige Investitionen in Produktionskapazitäten und Forschung -> Potenzielle Preissteigerungen bei spezialisierten Rohstoffen und Komponenten.",
-    "timing": "Mitte des Trends. Die starken Ergebnisse zeigen, dass die Unternehmen in diesem Sektor bereits gut performen. Die peripheren Effekte (Rohstoffe, Zulieferer) treten typischerweise mit einer gewissen Verzögerung auf, wenn die Nachfrage weiter anzieht und die Kapazitäten ausgelastet sind.",
-    "saisonalitaet": "August kann saisonal eine gemischte Performance aufweisen, oft mit einer Sommerflaute, die aber durch starke Sektor-spezifische Nachrichten durchbrochen werden kann. Die Berichtsaison für das zweite Quartal ist in vollem Gange und treibt die Kurse.",
-    "masseFehler": "Die Masse sieht nur die direkten Gewinner im Tech-Sektor und ignoriert die Abhängigkeiten in der Lieferkette und die potenziellen Risiken durch geopolitische Instabilität oder eine Überbewertung. Sie unterschätzen die verzögerten Profiteure in den vorgelagerten Sektoren.",
-    "widerspruch": "Ja. Während die Technologie-Nachrichten überwiegend positiv sind (Bullish), gibt es geopolitische Spannungen (Iran, Biden-Familie) und eine 'Fear & Greed' Indikator von 31 (Angst), was auf eine zugrundeliegende Unsicherheit hindeutet.",
-    "markt": "Gold: Richtung neutral, leichte Tendenz zu Stabilität bei Unsicherheit. Silber: Richtung neutral, folgt Gold. Öl: Richtung neutral, geopolitische Risiken sind eingepreist, aber Nachfrage bleibt ein Faktor. Bitcoin: Richtung neutral, Korrelation zu Tech-Aktien könnte kurzfristig bestehen. DAX: Richtung leicht steigend, profitiert von globalen Tech-Trends. EUR/USD: Richtung leicht steigend, könnte auf relative Stärke des Euro hindeuten.",
-    "opportunity": "Ja, in den peripheren Assets, die von der Tech-Nachfrage profitieren.",
-    "positionierung": "Smart Money positioniert sich wahrscheinlich weiterhin in den Kerntechnologie-Aktien, aber auch in vorgelagerten Unternehmen, die von der erhöhten Nachfrage profitieren werden. Das Sentiment ist gemischt, mit deutlicher Stärke im Tech-Sektor, aber auch mit spürbarer Angst (Fear & Greed Index).",
-    "reflexivitaet": "Die positiven Nachrichten über Tech-Unternehmen führen zu Käufen, was die Kurse weiter treibt. Dies wiederum ermutigt mehr Investoren, einzusteigen (FOMO), was den Hype verstärkt und die Nachfrage nach den entsprechenden Rohstoffen und Komponenten erhöht.",
+    "hypeCenter": "Der Hype liegt klar im Technologie-Sektor, insbesondere bei KI-bezogenen Unternehmen und Halbleiterherstellern. Die starken Wachstumszahlen von Alphabet Cloud und die positiven Nachrichten zu Nvidia-gestützten Unternehmen wie Lumentum und Applied Materials treiben die Kurse. Der Fokus liegt auf starkem Umsatzwachstum und positiven Gewinnaussichten.",
+    "peripherEffect": "Verzögert profitieren könnten Unternehmen, die kritische Rohstoffe für die Halbleiterproduktion liefern (z.B. seltene Erden, hochreine Chemikalien), spezialisierte Logistikdienstleister für empfindliche Elektronik, sowie Unternehmen, die fortschrittliche Kühltechnologien für Rechenzentren entwickeln, da die KI-Infrastruktur massiv ausgebaut wird.",
+    "narrativ": "Die Masse glaubt, dass die aktuelle Rallye durch starke Unternehmensgewinne und das anhaltende Wachstum im KI-Sektor getragen wird. Microsofts Wertsteigerung und die positiven Aussichten für Alphabet und Nvidia werden als Bestätigung für eine gesunde Tech-Blase gesehen, die weiter nach oben strebt.",
+    "realitaet": "Hinter den Kulissen wird die Marktposition durch strategische Allianzen und die Kontrolle über kritische Lieferketten gefestigt. Die hohen Bewertungen spiegeln nicht nur aktuelle Gewinne wider, sondern auch die Erwartung zukünftiger Monopolstellungen in Schlüsseltechnologien. Die US-China Tech-Rivalität ist ein treibender Faktor, der zu überhöhten Investitionen in heimische Kapazitäten führt.",
+    "macht": "Die größten Profiteure sind die etablierten Tech-Giganten (Microsoft, Alphabet, Nvidia), ihre Zulieferer (Applied Materials, Lumentum, Astera Labs) und die institutionellen Investoren, die frühzeitig in diese Unternehmen investiert haben. Auch die Investmentbanken und Analystenhäuser, die diese Narrative verbreiten, profitieren.",
+    "geopolitik": "Die US-China Tech-Rivalität ist ein zentrales Thema. Die Nachrichten über den 'US-China AI War' deuten auf eine Fortsetzung der De-Dollarisierungstendenzen hin, da Länder versuchen, ihre technologische Souveränität zu stärken und sich von westlichen Abhängigkeiten zu lösen. Iran versucht, seine Ölverkäufe an Gegenleistungen zu knüpfen, was die globale Energieversorgung weiter verkompliziert.",
+    "liquiditaet": "Kapital fließt massiv in Technologieaktien, insbesondere in die KI- und Halbleiterbranche. Es gibt auch eine Tendenz zur Flucht in vermeintlich sichere Häfen wie Gold, aber die aktuellen Kurse zeigen hier keine klare Richtung. Bitcoin zeigt ebenfalls keine klare Bewegung, was auf eine Abwartshaltung hindeutet.",
+    "kette": "Starkes Umsatzwachstum bei Cloud-Diensten (Alphabet) -> Erhöhte Nachfrage nach leistungsfähiger Hardware (Nvidia, AMAT) -> Steigende Aufträge für Halbleiterhersteller und Zulieferer (CRDO, ALAB, MCHP) -> Höhere Bewertungen und Aktienkurse dieser Unternehmen -> Kapitalzufluss in den Tech-Sektor.",
+    "timing": "Mitte des Trends. Die starken Quartalsergebnisse und das anhaltende Wachstum deuten darauf hin, dass der Hype um KI und Halbleiter noch nicht seinen Höhepunkt erreicht hat. Jedoch beginnen erste Anzeichen von Überbewertung und regulatorischer Aufmerksamkeit aufzutauchen (z.B. US-China AI War).",
+    "saisonalitaet": "August ist traditionell ein eher ruhigerer Monat an den Börsen (Sommerpause), aber die starken Tech-Nachrichten scheinen diesen Effekt zu überlagern. Historisch gesehen kann der August jedoch auch von unerwarteten Korrekturen geprägt sein.",
+    "masseFehler": "Die Masse sieht nur das schnelle Geld und die beeindruckenden Wachstumszahlen. Sie übersehen die zunehmenden geopolitischen Spannungen, die Abhängigkeit von wenigen Schlüsselakteuren und die potenziellen regulatorischen Eingriffe, die diesen Hype abrupt beenden könnten. Die 'US-China AI War'-Nachricht ist ein klares Warnsignal, das ignoriert wird.",
+    "widerspruch": "Ja. Während die meisten Tech-Nachrichten bullish sind (Microsoft, Alphabet, AMAT, CRDO, ALAB), gibt es auch bearishere Töne bezüglich der KI-Rivalität (US-China AI War) und Warnungen vor überbewerteten Unternehmen (VRSK, FFIV). Dies deutet auf eine Spaltung im Markt hin, wo die breite Masse dem Hype folgt, während informierte Kreise Risiken erkennen.",
+    "markt": "Gold: Neutral, Silber: Neutral, Öl: Neutral, Bitcoin: Neutral, DAX: Leicht steigend, EUR/USD: Leicht steigend",
+    "opportunity": "Die Gelegenheit liegt in der Identifizierung von Unternehmen, die von der KI- und Halbleiter-Nachfrage profitieren, aber noch nicht im Rampenlicht stehen. Dies könnten spezialisierte Materiallieferanten, Kühltechnologie-Anbieter oder Unternehmen sein, die Infrastruktur für die KI-Entwicklung bereitstellen.",
+    "positionierung": "Die Ticker-Daten zeigen eine klare Präferenz für Tech-Werte mit positiven Sentiment-Scores (AMAT, CRDO, ALAB, EDU, GOOGL). Die 'Somewhat-Bullish'-Bewertungen für Unternehmen wie MU und MCHP deuten auf eine breitere Beteiligung im Halbleitersektor hin. Die 'Bearish'-Stimmung bei UPST und 'Somewhat-Bearish' bei VRSK zeigt, dass nicht alle Sektoren gleichermaßen profitieren.",
+    "reflexivitaet": "Der Hype um KI und Halbleiter treibt die Nachfrage nach den entsprechenden Aktien. Dies wiederum erhöht die Bewertungen, was weitere Investitionen und Aufmerksamkeit auf den Sektor zieht. Die positiven Nachrichten über Wachstumsraten und Gewinne verstärken diesen positiven Kreislauf.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.25,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die starken Tech-Gewinne deuten auf Wachstum in spezifischen Sektoren hin, während geopolitische Spannungen und die allgemeine Marktstimmung auf eine Phase des Umbruchs und der Unsicherheit hindeuten.",
+    "metaZyklus": "Wachstum/Umbruch. Der starke Fokus auf Technologie und KI deutet auf eine Phase des technologischen Wachstums hin, die jedoch von geopolitischen Spannungen und der Notwendigkeit einer Neuausrichtung globaler Lieferketten begleitet wird.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als Anlage ist nach AAOIFI-Standards zulässig, sofern es physisch gehalten oder durch ein entsprechendes Zertifikat gedeckt ist und Zinszahlungen vermieden werden.",
+    "halalBegruendung": "Gold als physisch gedeckter Vermögenswert, der nicht auf Zinszahlungen basiert, ist nach AAOIFI-Standards als halal anerkannt.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 15.5,
-    "stopLoss": 14.2,
-    "ziel": 20,
-    "zeitraum": "4-8 Wochen",
-    "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Kursziels oder bei einem Bruch des Stop-Loss. Alternativ ein Trailing-Stop-Loss, um Gewinne abzusichern.",
-    "waehrungsrisiko": "EUR/USD bei 1.1562 leicht steigend. Dies könnte die Rendite eines Investments in US-Dollar-denominierten Assets für einen europäischen Investor leicht schmälern, falls der Euro weiter aufwertet.",
-    "psychologie": "FOMO (Fear Of Missing Out) könnte bei Anlegern entstehen, die die starken Kursgewinne im Technologiesektor sehen und befürchten, den Zug zu verpassen.",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": null,
+    "stopLoss": null,
+    "ziel": null,
+    "zeitraum": null,
+    "einsatz": 0,
+    "exitStrategie": "Keine Positionierung aufgrund der aktuellen Marktunsicherheit und des überhitzten Hypes.",
+    "waehrungsrisiko": "Der steigende EUR/USD-Kurs könnte Gewinne aus US-Dollar-basierten Investments schmälern, wenn sie in Euro umgerechnet werden.",
+    "psychologie": "FOMO (Fear Of Missing Out) ist bei vielen Marktteilnehmern präsent, die den schnellen Gewinnen im Tech-Sektor hinterherlaufen.",
     "ruhigerTag": false,
-    "lernpunkt": "Periphere Assets: Dies sind oft übersehene Unternehmen oder Rohstoffe, die indirekt von einem Hype in einem Hauptsektor profitieren. Sie sind oft weniger volatil und bieten eine Chance auf überdurchschnittliche Gewinne, wenn der Hype sich ausweitet und die Nachfrage in der Lieferkette steigt.",
-    "tagesfrage": "Inwieweit werden die geopolitischen Spannungen und die Nachrichten über die Biden-Familie die Marktstimmung kurzfristig beeinflussen und die positive Tech-Story überschatten?",
-    "brief": "Ayman, heute sehen wir eine starke Performance im Technologiesektor, angetrieben von guten Ergebnissen. Deine Aufgabe ist es, über den Tellerrand hinauszuschauen. Die eigentliche Chance liegt oft in den Zulieferern und Rohstoffen, die diese Tech-Giganten benötigen. Achte auf die Unternehmen, die die Bausteine liefern. Die geopolitischen Spannungen sind ein ständiger Begleiter; sie können schnell die Marktstimmung ändern, also bleibe wachsam und diversifiziere deine Positionen. Die islamische Ethik mahnt zur Vorsicht und zur Vermeidung von Spekulation, konzentriere dich auf fundierte Investitionen mit klarem Mehrwert."
+    "lernpunkt": "Der 'Peripherie-Effekt' beschreibt, wie Sektoren oder Assets, die nicht direkt im Fokus eines Hypes stehen, mit Verzögerung profitieren. Dies geschieht oft, wenn die Nachfrage nach den Kernprodukten eines Hypes steigt und somit auch die Nachfrage nach unterstützenden Gütern und Dienstleistungen zunimmt. Ein Beispiel ist die Nachfrage nach Kupfer, wenn die Elektromobilität boomt.",
+    "tagesfrage": "Inwieweit werden die geopolitischen Spannungen im 'US-China AI War' die globalen Lieferketten für Halbleiter tatsächlich stören und welche Unternehmen können davon profitieren, indem sie alternative Lösungen anbieten?",
+    "brief": "Ayman, heute sehen wir wieder die typische Dynamik: Ein starker Hype im Tech-Sektor, getrieben von beeindruckenden Wachstumszahlen und der KI-Euphorie. Die Masse rennt den Gewinnen hinterher, aber wir müssen tiefer blicken. Die Nachrichten über den 'US-China AI War' sind ein klares Signal für bevorstehende Verwerfungen und die Notwendigkeit, die Lieferketten neu zu bewerten. Halte Ausschau nach den stillen Profiteuren, die von dieser Umstrukturierung profitieren könnten, anstatt nur dem offensichtlichen Hype zu folgen. Die islamische Ethik mahnt uns zur Vorsicht vor übermäßiger Spekulation und zur Suche nach fundamental soliden, ethisch vertretbaren Investments."
   },
   "prices": {
     "GC=F": {
       "label": "Gold",
-      "price": 4399.7001953125,
+      "price": 4407.89990234375,
       "change": 0
     },
     "SI=F": {
       "label": "Silber",
-      "price": 63.499000549316406,
+      "price": 64.3499984741211,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1558021306991577,
+      "change": 0.288953783530948
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 65134.66015625,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 77.8499984741211,
       "change": 0
     },
     "^GDAXI": {
       "label": "DAX",
       "price": 26319.44921875,
       "change": 0.6859887593511743
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 64731.05078125,
-      "change": 0
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.156203031539917,
-      "change": 0.3237399504904819
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 78.18000030517578,
-      "change": 0
     }
   },
   "fearGreed": [
-    28,
     25,
     27,
     25,
     29,
     30,
-    31
+    31,
+    30
   ],
   "simulation": {
     "buy": 0,
