@@ -1,6 +1,6 @@
 {
-  "date": "Freitag, 14. August 2026",
-  "generatedAt": "2026-08-14T06:13:39.605Z",
+  "date": "Samstag, 15. August 2026",
+  "generatedAt": "2026-08-15T05:23:54.086Z",
   "news": [
     {
       "title": "KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
@@ -17,200 +17,208 @@
       "origin": "GNews"
     },
     {
-      "title": "Micron Faces a New Burry Bet as China Memory Pressure Builds",
-      "source": "TradingView",
+      "title": "Motorola Solutions (MSI) Stock Looks Above Fair Value As 106% Run Continues",
+      "source": "Simply Wall Street",
+      "sentiment": "Bearish",
+      "tickers": [
+        "MSI(-0.45)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "RTX (RTX), Why Is The Latest RTX News Drawing Attention?",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "RTX(0.50)",
+        "LMT(0.24)",
+        "NOC(0.24)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet",
+      "source": "Yahoo Finance Singapore",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "VST(0.48)",
+        "CEG(0.17)",
+        "NRG(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
+      "source": "Yahoo! Finance Canada",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "NVDA(0.50)",
+        "AMAT(0.11)",
+        "LRCX(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Seagate Technology (NASDAQ:STX) Trading 5.7% Higher - Still a Buy?",
+      "source": "MarketBeat",
+      "sentiment": "Bullish",
+      "tickers": [
+        "STX(0.45)",
+        "WDC(0.28)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%",
+      "source": "Yahoo Finance",
       "sentiment": "Somewhat-Bearish",
       "tickers": [
-        "MU(-0.44)",
-        "AMD(-0.21)"
+        "AVGO(-0.62)",
+        "BAC(-0.20)",
+        "AMAT(-0.23)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Earnings call transcript: Veritone Q2 2026 misses estimates, shares drop 23%",
-      "source": "Investing.com",
-      "sentiment": "Neutral",
-      "tickers": [
-        "VERI(-0.42)",
-        "ORCL(0.27)",
-        "WDAY(0.19)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Cognex Earnings Call Highlights Record Growth and Margins",
-      "source": "The Globe and Mail",
-      "sentiment": "Bullish",
-      "tickers": [
-        "CGNX(0.84)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "York Space Systems cuts FY26 sales guidance to $375M-$405M",
-      "source": "scanx.trade",
-      "sentiment": "Bearish",
-      "tickers": [
-        "YSS(-0.42)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Earnings call transcript: York Space Systems Q2 2026 revenue rises, but guidance cut hits shares",
-      "source": "Investing.com",
-      "sentiment": "Bearish",
-      "tickers": [
-        "YSS(-0.42)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Is Stronger Earnings And Higher Guidance Altering The Investment Case For GDS Holdings (GDS)?",
-      "source": "Simply Wall Street",
-      "sentiment": "Bullish",
-      "tickers": [
-        "GDS(0.40)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Should AI Investments and “Undervalued” Signals Shift How Investors View KeyCorp’s (KEY) Long-Term Strategy?",
-      "source": "Simply Wall Street",
+      "title": "Advanced Micro Devices (NASDAQ:AMD) Trading 6.5% Higher - Time to Buy?",
+      "source": "MarketBeat",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "KEY(0.29)"
+        "AMD(0.40)",
+        "NVDA(0.26)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Axon Shares: Flock Privacy Criticism Creates $285 Million Competitive Opportunity",
-      "source": "TechStock²",
-      "sentiment": "Bullish",
-      "tickers": [
-        "AXON(0.38)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Earnings call transcript: Vuzix posts Q2 2026 revenue miss as stock falls after hours",
-      "source": "Investing.com",
+      "title": "Lam Research (NASDAQ:LRCX) Shares Down 1.4% - Here's Why",
+      "source": "MarketBeat",
       "sentiment": "Neutral",
       "tickers": [
-        "VUZI(-0.25)",
-        "AMZN(0.21)",
-        "PWR(0.20)"
+        "LRCX(0.01)",
+        "AMAT(0.12)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Why Quality Investing Is About More Than Outperformance",
-      "source": "ETF Database",
+      "title": "Market Wrap: Stocks Up 0.48% as Energy Rises",
+      "source": "Morningstar",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "MORN(0.03)",
+        "TPR(-0.44)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Li Lu's Bold Q2 2026 Move: PDD Holdings Inc Surges to a 12.68% Portfolio Impact",
+      "source": "GuruFocus",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "PDD(0.42)",
+        "GOOGL(0.35)",
+        "GOOG(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Warby Parker (WRBY) Is Down 13.5% After Returning To Profitability And Reaffirming 2026 Revenue Guidance",
+      "source": "Sahm",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "WRBY(-0.18)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Is American Tower (NYSE:AMT) Redefining What A Real Estate Company Looks Like?",
+      "source": "Kalkine Media",
       "sentiment": "Bullish",
       "tickers": [
-        "SPHQ(0.44)",
-        "LRCX(0.34)",
-        "V(0.31)"
+        "AMT(0.64)",
+        "EQIX(0.52)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Energous (WATT) posts 368% revenue surge, higher cash burn and ongoing net losses",
+      "title": "Smith Micro Software (SMSI) narrows loss but flags going concern risk",
       "source": "Stock Titan",
-      "sentiment": "Neutral",
-      "tickers": [
-        "WATT(0.03)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Q2 Earnings Highlights: Euronet Worldwide (NASDAQ:EEFT) Vs The Rest Of The Diversified Financial Services Stocks",
-      "source": "Yahoo Finance",
       "sentiment": "Bearish",
       "tickers": [
-        "EEFT(-0.39)"
+        "SMSI(-0.44)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Salesforce Inc Stock (CRM) Moved Up by 3.27% on Aug 13: What Investors Need To Know",
-      "source": "TradingKey",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Applied Materials Stock Drops 4.5% Despite Record $9.12 Billion Revenue",
+      "source": "Yahoo! Finance Canada",
+      "sentiment": "Somewhat-Bearish",
       "tickers": [
-        "CRM(0.41)",
-        "MSFT(0.12)",
-        "PLTR(0.29)"
+        "AMAT(-0.28)",
+        "MU(-0.11)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "5 Revealing Analyst Questions From Transcat’s Q2 Earnings Call",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Bullish",
+      "title": "Is Microchip Technology (MCHP) Fully Valued After Strong AI Led Growth?",
+      "source": "Yahoo Finance",
+      "sentiment": "Somewhat-Bearish",
       "tickers": [
-        "TRNS(0.49)"
+        "MCHP(-0.44)",
+        "COIN(0.12)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "AMG GW&K Small Cap Value Fund Q2 2026 Commentary",
-      "source": "Seeking Alpha",
-      "sentiment": "Bullish",
-      "tickers": [
-        "AMG(0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Hormuz shipping traffic capped amid competing claims from US and Iran - Reuters",
+      "title": "UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
+      "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters",
+      "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Oil steadies after US threatens indefinite blockade of Iran - Reuters",
+      "title": "Oil prices rally, US data dents chances of Fed rate hike - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Bessent says US to apply measures never seen on Iran - Reuters",
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Iran war a boon for China's e-trucks, fuelling export surge - Reuters",
+      "title": "Mount Etna erupts in fiery display, disrupting hundreds of flights - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
+      "title": "Oil climbs over $1 on tanker attacks, no progrees on peace - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
+      "title": "Yemen government says Houthi missiles kill four civilians in port city - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -219,117 +227,117 @@
   ],
   "sections": {
     "oberflaeche": [
-      "Quelle: Frankfurter Allgemeine Zeitung (Faz): KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
-      "Quelle: n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
-      "Quelle: TradingView: Micron Faces a New Burry Bet as China Memory Pressure Builds",
-      "Quelle: Investing.com: Earnings call transcript: Veritone Q2 2026 misses estimates, shares drop 23%",
-      "Quelle: The Globe and Mail: Cognex Earnings Call Highlights Record Growth and Margins",
-      "Quelle: scanx.trade: York Space Systems cuts FY26 sales guidance to $375M-$405M",
-      "Quelle: Investing.com: Earnings call transcript: York Space Systems Q2 2026 revenue rises, but guidance cut hits shares",
-      "Quelle: Simply Wall Street: Is Stronger Earnings And Higher Guidance Altering The Investment Case For GDS Holdings (GDS)?",
-      "Quelle: Simply Wall Street: Should AI Investments and “Undervalued” Signals Shift How Investors View KeyCorp’s (KEY) Long-Term Strategy?",
-      "Quelle: TechStock²: Axon Shares: Flock Privacy Criticism Creates $285 Million Competitive Opportunity",
-      "Quelle: Investing.com: Earnings call transcript: Vuzix posts Q2 2026 revenue miss as stock falls after hours",
-      "Quelle: ETF Database: Why Quality Investing Is About More Than Outperformance",
-      "Quelle: Stock Titan: Energous (WATT) posts 368% revenue surge, higher cash burn and ongoing net losses",
-      "Quelle: Yahoo Finance: Q2 Earnings Highlights: Euronet Worldwide (NASDAQ:EEFT) Vs The Rest Of The Diversified Financial Services Stocks",
-      "Quelle: TradingKey: Salesforce Inc Stock (CRM) Moved Up by 3.27% on Aug 13: What Investors Need To Know",
-      "Quelle: Yahoo Finance UK: 5 Revealing Analyst Questions From Transcat’s Q2 Earnings Call",
-      "Quelle: Seeking Alpha: AMG GW&K Small Cap Value Fund Q2 2026 Commentary",
-      "Quelle: Reuters: Hormuz shipping traffic capped amid competing claims from US and Iran",
-      "Quelle: Reuters: The US says more oil is leaving the Middle East, but is it really?",
-      "Quelle: Reuters: Asian stocks head for strong weekly gains as US rate hike bets fade"
+      "GNews: Frankfurter Allgemeine Zeitung (Faz): KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
+      "GNews: n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
+      "AlphaVantage: Simply Wall Street: Motorola Solutions (MSI) Stock Looks Above Fair Value As 106% Run Continues (Stimmung: Bearish) (Ticker: MSI(-0.45))",
+      "AlphaVantage: Simply Wall Street: RTX (RTX), Why Is The Latest RTX News Drawing Attention? (Stimmung: Somewhat-Bullish) (Ticker: RTX(0.50), LMT(0.24), NOC(0.24))",
+      "AlphaVantage: Yahoo Finance Singapore: Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet (Stimmung: Somewhat-Bullish) (Ticker: VST(0.48), CEG(0.17), NRG(0.14))",
+      "AlphaVantage: Yahoo! Finance Canada: Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand (Stimmung: Somewhat-Bullish) (Ticker: NVDA(0.50), AMAT(0.11), LRCX(0.13))",
+      "AlphaVantage: MarketBeat: Seagate Technology (NASDAQ:STX) Trading 5.7% Higher - Still a Buy? (Stimmung: Bullish) (Ticker: STX(0.45), WDC(0.28))",
+      "AlphaVantage: Yahoo Finance: Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6% (Stimmung: Somewhat-Bearish) (Ticker: AVGO(-0.62), BAC(-0.20), AMAT(-0.23))",
+      "AlphaVantage: MarketBeat: Advanced Micro Devices (NASDAQ:AMD) Trading 6.5% Higher - Time to Buy? (Stimmung: Somewhat-Bullish) (Ticker: AMD(0.40), NVDA(0.26))",
+      "AlphaVantage: MarketBeat: Lam Research (NASDAQ:LRCX) Shares Down 1.4% - Here's Why (Stimmung: Neutral) (Ticker: LRCX(0.01), AMAT(0.12))",
+      "AlphaVantage: Morningstar: Market Wrap: Stocks Up 0.48% as Energy Rises (Stimmung: Somewhat-Bearish) (Ticker: MORN(0.03), TPR(-0.44))",
+      "AlphaVantage: GuruFocus: Li Lu's Bold Q2 2026 Move: PDD Holdings Inc Surges to a 12.68% Portfolio Impact (Stimmung: Somewhat-Bullish) (Ticker: PDD(0.42), GOOGL(0.35), GOOG(0.33))",
+      "AlphaVantage: Sahm: Warby Parker (WRBY) Is Down 13.5% After Returning To Profitability And Reaffirming 2026 Revenue Guidance (Stimmung: Somewhat-Bearish) (Ticker: WRBY(-0.18))",
+      "AlphaVantage: Kalkine Media: Is American Tower (NYSE:AMT) Redefining What A Real Estate Company Looks Like? (Stimmung: Bullish) (Ticker: AMT(0.64), EQIX(0.52))",
+      "AlphaVantage: Stock Titan: Smith Micro Software (SMSI) narrows loss but flags going concern risk (Stimmung: Bearish) (Ticker: SMSI(-0.44))",
+      "AlphaVantage: Yahoo! Finance Canada: Applied Materials Stock Drops 4.5% Despite Record $9.12 Billion Revenue (Stimmung: Somewhat-Bearish) (Ticker: AMAT(-0.28), MU(-0.11))",
+      "AlphaVantage: Yahoo Finance: Is Microchip Technology (MCHP) Fully Valued After Strong AI Led Growth? (Stimmung: Somewhat-Bearish) (Ticker: MCHP(-0.44), COIN(0.12))",
+      "Finnhub: Reuters: UAE's ADNOC says one of its vessels came under attack while transiting Hormuz - Reuters",
+      "Finnhub: Reuters: Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+      "Finnhub: Reuters: Trump says USS Abraham Lincoln deployment 'not nearly long enough' - Reuters"
     ],
     "hypeNews": [
-      "KI-Sektor: Europa hinkt bei der Nutzung hinterher, während US-Unternehmen (z.B. Salesforce, CRM) wachsen.",
-      "Space Tech: York Space Systems senkt Umsatzprognose, was auf Herausforderungen in der Lieferkette oder Nachfrage hindeutet, während Cognex (CGNX) stark wächst."
+      "KI-getriebene Infrastruktur und Halbleiter-Nachfrage",
+      "Geopolitische Spannungen im Nahen Osten beeinflussen Energiepreise und Lieferketten"
     ],
-    "hypeCenter": "Der Hype liegt weiterhin im KI-Sektor, getrieben von den anhaltenden Investitionen und dem Potenzial für Wachstum, wie die positiven Nachrichten zu Salesforce (CRM) und Cognex (CGNX) zeigen. Gleichzeitig gibt es eine starke Performance im Bereich der Qualitätsinvestitionen (SPHQ, LRCX).",
-    "peripherEffect": "Die Schwäche bei Halbleiterherstellern wie Micron (MU) und die Unsicherheiten bei spezialisierten Satelliten-Zulieferern (York Space Systems) könnten auf eine Konsolidierung oder eine Verlagerung der Investitionen innerhalb des breiteren Tech-Sektors hindeuten. Möglicherweise profitieren Unternehmen, die KI-gestützte Analysen oder Automatisierungslösungen anbieten, die nicht direkt an die Hardware gebunden sind (z.B. Veritone, obwohl die Q2-Zahlen enttäuschten, oder Unternehmen, die von der 'Flock Privacy'-Kritik bei Axon profitieren).",
-    "narrativ": "Die Masse glaubt, dass KI weiterhin der dominierende Sektor ist und Europa aufholen muss. Gleichzeitig wird eine solide Börsenentwicklung erwartet, wobei Qualitätsaktien und Unternehmen mit starkem Gewinnwachstum (Cognex) im Fokus stehen. Es gibt auch Anzeichen für eine Erholung im breiteren Markt, da die Wetten auf US-Zinserhöhungen schwinden.",
-    "realitaet": "Die Realität ist komplexer. Während KI ein starker Treiber bleibt, zeigen die Nachrichten zu Micron und York Space Systems, dass es auch erhebliche Herausforderungen und Selektivität im Sektor gibt. Die geopolitischen Spannungen im Nahen Osten (Hormuz-Straße) und die US-Ölförderung könnten die Rohstoffpreise beeinflussen, was die Inflation und die Zinspolitik weiter beeinflusst. Die schwache Performance von Veritone trotz KI-Fokus deutet auf operative Risiken hin.",
-    "macht": "Große Technologieunternehmen, die in KI investieren (z.B. Microsoft, Salesforce), sowie Unternehmen, die spezialisierte Hardware oder Dienstleistungen für diese Sektoren anbieten (z.B. Cognex für Bildverarbeitung, Axon für Technologie-Anwendungen). Auch Investmentfonds, die sich auf Qualitätsaktien konzentrieren (z.B. SPHQ, AMG GW&K Small Cap Value Fund), profitieren.",
-    "geopolitik": "Die Spannungen im Hormuz-Schifffahrtsweg und die US-Ölförderung sind kritisch. Dies könnte die Energiepreise beeinflussen und die De-Dollarisierungstendenzen verstärken, wenn Länder versuchen, ihre Abhängigkeit von US-Dollar-gesteuerten Energiehandelsrouten zu verringern. Die Rivalität zwischen den USA und Europa im KI-Bereich ist ebenfalls ein geopolitischer Faktor.",
-    "liquiditaet": "Kapital fließt in Qualitätsaktien (SPHQ, LRCX) und in Unternehmen mit starkem Gewinnwachstum (Cognex). Es gibt auch eine Bewegung hin zu KI-bezogenen Unternehmen (CRM, MSFT, PLTR), aber mit zunehmender Selektivität, wie die Veritone-Nachrichten zeigen. Die Rohstoffpreise (Öl) zeigen eine leichte Erholung, was auf eine mögliche Kapitalverschiebung in Richtung realer Werte hindeutet.",
-    "kette": "KI-Investitionen -> Nachfrage nach spezialisierten Halbleitern und Komponenten -> Herausforderungen in der Lieferkette/Nachfrage (Micron, York Space Systems) -> Selektivität im Sektor -> Fokus auf profitable KI-Anwendungen und Qualitätsaktien (Cognex, Salesforce). Gleichzeitig: Geopolitische Spannungen im Nahen Osten -> Ölpreis steigt -> Potenzial für Inflation -> Einfluss auf Zinspolitik.",
-    "timing": "Mitte des Trends. KI ist weiterhin ein starker Hype, aber die ersten Anzeichen von Selektivität und Herausforderungen bei einigen Unternehmen (York Space Systems, Micron) deuten darauf hin, dass der Markt reifer wird. Qualitätsinvestitionen sind ein anhaltender Trend, der sich in unsicheren Zeiten bewährt.",
-    "saisonalitaet": "August ist traditionell ein Monat mit geringerer Handelsaktivität (Sommerpause), was zu stärkeren Bewegungen bei geringerem Volumen führen kann. Die Nachrichten deuten jedoch auf eine anhaltende Marktaktivität hin, insbesondere im Tech-Sektor.",
-    "masseFehler": "Die Masse sieht den KI-Hype als monolithisch und unterschätzt die Bedeutung von operativen Risiken und Lieferkettenproblemen bei einzelnen Unternehmen. Sie verkennt auch, dass 'Qualität' nicht nur aus Wachstum, sondern auch aus Widerstandsfähigkeit und Margenstärke besteht, besonders in Zeiten geopolitischer Unsicherheit.",
-    "widerspruch": "Ja. Während die allgemeine Marktstimmung (Fear & Greed Index bei 29/100 deutet auf Angst hin) und einige Nachrichten (Micron, York Space Systems) auf Vorsicht hindeuten, zeigen andere Nachrichten (Cognex, Salesforce, GDS Holdings) und die allgemeine Börsenentwicklung (DAX leicht im Minus, aber asiatische Aktien stark) eine gemischte, aber tendenziell positive Marktstimmung für bestimmte Sektoren. Die Experten rechnen mit solider Börsenentwicklung, was im Widerspruch zum niedrigen Fear & Greed Index steht.",
-    "markt": "Bitcoin: 63252 (+0.00%) - Stabil, aber ohne klare Richtung. Silber: 64.4000 (+0.00%) - Stabil. Öl: 81.9800 (+0.90%) - Leicht steigend, getrieben von geopolitischen Faktoren. DAX: 26300 (-0.12%) - Leicht fallend, europäische Märkte unter Druck. EUR/USD: 1.1545 (+0.13%) - Steigend, was auf eine Schwäche des USD oder eine Stärke des EUR hindeutet.",
-    "opportunity": "Konkrete Chance im Bereich der Qualitätsinvestitionen und bei Unternehmen, die von der KI-Adaption profitieren, aber operative Stärke und solide Margen aufweisen (z.B. Cognex). Auch Unternehmen, die von der Kritik an anderen profitieren (Axon), könnten eine Chance darstellen.",
-    "positionierung": "Smart Money positioniert sich wahrscheinlich in Qualitätsaktien und ausgewählten KI-Unternehmen, die nachweislich profitabel sind und operative Exzellenz zeigen. Die negativen Ticker-Bewegungen bei MU und YSS deuten darauf hin, dass einige institutionelle Anleger ihre Positionen in schwächeren Segmenten des Halbleiter- und Raumfahrtsektors reduzieren. Die positiven Ticker-Bewegungen bei CRM, CGNX, GDS, KEY, AXON, SPHQ, LRCX, V, PLTR, TRNS, AMG deuten auf eine breitere positive Stimmung in diesen Bereichen hin.",
-    "reflexivitaet": "Die anhaltende positive Berichterstattung über KI und Qualitätsinvestitionen (Hype) führt zu Kapitalzuflüssen in diese Sektoren, was wiederum die Aktienkurse treibt und die positive Berichterstattung weiter verstärkt. Umgekehrt führen negative Nachrichten bei Unternehmen wie York Space Systems zu Verkäufen, was die negativen Schlagzeilen verstärkt und zu weiteren Verkäufen führen kann.",
+    "hypeCenter": "Der stärkste Hype liegt eindeutig im Bereich KI und der dazugehörigen Infrastruktur (Rechenzentren, Halbleiter). Dies wird durch die positiven Stimmungsdaten für NVDA, AMD, AMAT, LRCX und STX sowie die Erwähnung von KI-Infrastruktur bei Vistra (VST) untermauert. Die Nachrichten über die USA und Europa bei KI unterstreichen die strategische Bedeutung.",
+    "peripherEffect": "Angesichts des KI-Hypes und der geopolitischen Spannungen könnten Unternehmen profitieren, die kritische Rohstoffe für die Halbleiterproduktion liefern (z.B. seltene Erden, Spezialmetalle), sowie Unternehmen, die in der Satellitenkommunikation tätig sind, um die Konnektivität für verteilte KI-Systeme zu gewährleisten. Auch Cybersecurity-Firmen könnten von erhöhter Nachfrage profitieren.",
+    "narrativ": "Die Masse glaubt, dass die USA ihren Vorsprung in der KI-Entwicklung weiter ausbauen und die Technologiebranche weiterhin stark wachsen wird. Gleichzeitig wird die Energieversorgung als stabil angesehen, trotz kleinerer geopolitischer Störungen.",
+    "realitaet": "Die Realität ist, dass die KI-Entwicklung enorme Mengen an Energie und spezialisierter Hardware benötigt, was zu Engpässen und Preissteigerungen bei bestimmten Rohstoffen und Halbleiterkomponenten führen kann. Die geopolitischen Spannungen im Hormuz sind ein ernsthaftes Risiko für die globale Ölversorgung und könnten zu einer deutlichen Preisrallye führen, die von der Masse unterschätzt wird.",
+    "macht": "Technologiegiganten wie NVIDIA, AMD und Broadcom (trotz kurzfristiger Rückschläge), sowie die Zulieferer in der Halbleiterkette (AMAT, LRCX, STX) und Infrastrukturanbieter (VST, AMT). Geopolitisch profitieren Ölproduzenten und Verteidigungsunternehmen (RTX, LMT, NOC) von erhöhter Unsicherheit.",
+    "geopolitik": "Die Spannungen im Hormuz deuten auf eine Eskalation hin, die die BRICS-Staaten und ihre Verbündeten nutzen könnten, um den Einfluss der G7 und die Dominanz des US-Dollars zu schwächen. Die Abhängigkeit von globalen Lieferketten wird weiter aufgedeckt, was die De-Dollarisierung beschleunigen könnte.",
+    "liquiditaet": "Kapital fließt in KI-bezogene Technologieaktien und in Energie-Assets aufgrund der geopolitischen Risiken. Es gibt auch eine Tendenz zur Flucht in sicherere Häfen wie Gold, obwohl dies heute nicht stark ausgeprägt ist.",
+    "kette": "KI-Nachfrage -> Erhöhte Halbleiterproduktion -> Höherer Bedarf an Rohstoffen und Energie -> Geopolitische Spannungen im Hormuz -> Ölpreis steigt -> Inflation steigt -> Zinsen bleiben hoch oder steigen weiter -> Druck auf Wachstumsaktien, aber KI bleibt resilient.",
+    "timing": "Mitte des Trends. Der KI-Hype ist etabliert, aber die peripheren Effekte und die volle Auswirkung der geopolitischen Risiken auf die Rohstoffpreise entfalten sich noch. Die Korrektur bei Broadcom (AVGO) deutet auf eine mögliche Konsolidierung hin, aber die Kern-KI-Nachfrage bleibt stark.",
+    "saisonalitaet": "August und September sind historisch oft von einer gewissen Sommerflaute oder Konsolidierung geprägt, bevor die Märkte im Herbst wieder anziehen. Die aktuellen geopolitischen Spannungen könnten diese Saisonalität jedoch durchbrechen.",
+    "masseFehler": "Die Masse unterschätzt die Auswirkungen von geopolitischen Spannungen auf die Energiepreise und die damit verbundene Inflation. Sie konzentriert sich zu stark auf die kurzfristigen Kursbewegungen einzelner Tech-Aktien und ignoriert die breiteren Rohstoff- und Lieferkettenrisiken.",
+    "widerspruch": "Ja. Die Nachrichten über eine \"solide Börsenentwicklung\" und die positiven Stimmungsdaten für viele Tech-Aktien stehen im Kontrast zu den \"disappointing consumer data\" und den geopolitischen Risiken, die auf eine erhöhte Volatilität hindeuten.",
+    "markt": "Gold steigt | Silber steigt | Öl steigt | Bitcoin stagniert | DAX steigt | EUR/USD steigt",
+    "opportunity": "JA. Die Kombination aus KI-getriebenem Infrastrukturbedarf und geopolitischen Risiken schafft Chancen in spezialisierten Rohstoffen und Energie-Sektoren, die oft übersehen werden.",
+    "positionierung": "Smart Money scheint sich auf KI-Infrastruktur und potenziell auf Energie-Assets zu konzentrieren, während die breite Masse noch von der Tech-Rallye getrieben wird. Die negativen Stimmungsdaten für MSI und die Korrektur bei AVGO deuten auf eine gewisse Vorsicht hin, aber die positiven Ticker-Daten für RTX, VST, NVDA, STX, AMD, AMT und PDD überwiegen.",
+    "reflexivitaet": "Die steigenden Ölpreise aufgrund geopolitischer Spannungen könnten die Inflation anheizen, was wiederum die Zentralbanken zu einer strafferen Geldpolitik zwingen könnte. Dies würde die Bewertungen von Wachstumsaktien unter Druck setzen, könnte aber auch die Nachfrage nach Gold als Inflationsschutz weiter steigern.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
-      "ratio": 2.25,
+      "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Die Weltwirtschaft befindet sich in einem Umbruch, geprägt von technologischen Sprüngen (KI, Quanten), geopolitischen Spannungen und der Notwendigkeit, Lieferketten zu diversifizieren und zu sichern. Die Inflation und die Zinspolitik bleiben wichtige Faktoren.",
+    "metaZyklus": "Umbruch. Die Welt bewegt sich weg von reiner Wachstumsfokussierung hin zu einer Phase, in der geopolitische Risiken, Ressourcenknappheit und die Notwendigkeit einer resilienten Infrastruktur (KI, Energie) im Vordergrund stehen. Dies deutet auf eine Stagflation oder eine Phase erhöhter Volatilität hin.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold ist als Edelmetall und Wertaufbewahrungsmittel im Islam grundsätzlich erlaubt, solange es nicht spekulativ gehandelt wird und die Transaktion den islamischen Finanzprinzipien entspricht.",
+    "halalBegruendung": "Gold als physisches Asset, das nicht verzinst wird und dessen Handel den islamischen Finanzprinzipien entspricht, ist halal.",
     "purification": "0.00",
-    "entscheidung": "WARTEN",
-    "richtung": "null",
-    "einstieg": "null",
-    "stopLoss": "null",
-    "ziel": "null",
-    "zeitraum": "null",
-    "einsatz": 0,
-    "exitStrategie": "null",
-    "waehrungsrisiko": "Der steigende EUR/USD-Kurs (1.1545) könnte US-Dollar-denominierte Anlagen für europäische Investoren verteuern, während er europäische Anlagen für US-Investoren verbilligt. Dies ist bei der Bewertung von US-Aktien wie CRM, MU, CGNX zu berücksichtigen.",
-    "psychologie": "FOMO (Fear Of Missing Out) könnte bei Anlegern entstehen, die die Rallye im KI-Sektor verpassen. Gleichzeitig könnte die Angst (Fear & Greed Index bei 29) zu übermäßiger Vorsicht führen, was eine Chance für diejenigen darstellt, die unterbewertete Qualitätswerte identifizieren können.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 64.988,
+    "stopLoss": 62,
+    "ziel": 75,
+    "zeitraum": "4-8 Wochen",
+    "einsatz": 3.13,
+    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei einem Bruch des Stop-Loss. Zusätzlicher Ausstieg bei deutlicher Entspannung der geopolitischen Lage im Hormuz.",
+    "waehrungsrisiko": "Ein starker EUR/USD Anstieg (aktuell +0.32%) würde den Wert eines in USD gehandelten Rohstoffs wie Silber für einen EUR-basierten Anleger reduzieren.",
+    "psychologie": "FOMO Warnung für die Tech-Aktien, die bereits stark gestiegen sind. Gleichzeitig Panik bei denjenigen, die die geopolitischen Risiken ignorieren und auf fallende Ölpreise spekulieren.",
     "ruhigerTag": false,
-    "lernpunkt": "Periphere Assets: Dies sind oft weniger offensichtliche Unternehmen oder Rohstoffe, die indirekt von einem Haupt-Hype-Sektor profitieren. Sie sind oft mit einer Verzögerung betroffen, da die Kapitalflüsse erst nach und nach in die breiteren Lieferketten oder unterstützenden Industrien fließen. Die Identifizierung dieser Assets erfordert ein tiefes Verständnis der Wertschöpfungskette und der Marktmechanismen.",
-    "tagesfrage": "Wie können wir die operative Stärke und Widerstandsfähigkeit von Unternehmen in einem sich schnell entwickelnden Sektor wie KI bewerten, um die Risiken von Hype-getriebenen Korrekturen zu minimieren?",
-    "brief": "Mein lieber Ayman, heute sehen wir, dass der KI-Hype zwar anhält, aber die Marktteilnehmer selektiver werden. Unternehmen wie Cognex und Salesforce zeigen, dass operative Exzellenz und nachweisbares Wachstum weiterhin belohnt werden. Gleichzeitig mahnen die Nachrichten zu Micron und York Space Systems zur Vorsicht bei überbewerteten oder operativ schwachen Unternehmen. Die geopolitischen Spannungen im Nahen Osten erinnern uns daran, dass reale Werte wie Öl und Gold weiterhin eine Rolle spielen. Konzentriere dich auf die Fundamentaldaten und die Widerstandsfähigkeit der Unternehmen, um die Spreu vom Weizen zu trennen."
+    "lernpunkt": "Periphere Assets: Dies sind oft übersehene oder indirekt betroffene Anlagen, die von einem Haupt-Hype-Sektor profitieren. Sie sind oft weniger volatil als die Kern-Assets, bieten aber dennoch attraktive Renditen, wenn der Hype sich ausbreitet und die Nachfrage auf die Zulieferer oder verwandte Sektoren übergreift.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach spezialisierten Rohstoffen für KI-Chips steigen, wenn die geopolitischen Spannungen die Lieferketten weiter stören?",
+    "brief": "Mein lieber Ayman, heute sehen wir eine klare Dichotomie: Einerseits der unaufhaltsame KI-Hype, der die Tech-Giganten und ihre Zulieferer antreibt. Andererseits die unterschätzten geopolitischen Risiken im Nahen Osten, die das Potenzial haben, die Energiepreise und die globale Inflation neu zu entfachen. Das wahre Geld liegt oft in den peripheren Assets, die von diesen beiden Kräften profitieren. Achte auf die Rohstoffe und die Energieinfrastruktur, denn dort wird die nächste Welle der Wertschöpfung stattfinden, während die Masse noch auf die Tech-Aktien starrt. Bleibe wachsam und handle mit Bedacht."
   },
   "prices": {
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 63252.08984375,
-      "change": 0
-    },
     "SI=F": {
       "label": "Silber",
-      "price": 64.4000015258789,
+      "price": 64.98799896240234,
+      "change": 0.17726613818079523
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4380.39990234375,
+      "change": 0.38499872379513894
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63064.62890625,
       "change": 0
     },
     "CL=F": {
       "label": "Öl",
-      "price": 81.9800033569336,
-      "change": 0.8984656700721153
+      "price": 82.4000015258789,
+      "change": 1.4153864933894231
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 26299.740234375,
-      "change": -0.11898520551261772
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4389.89990234375,
-      "change": 0
+      "price": 26440.310546875,
+      "change": 0.534493159427742
     },
     "EURUSD=X": {
       "label": "EUR/USD",
-      "price": 1.1544678211212158,
-      "change": 0.1269942034274891
+      "price": 1.157273530960083,
+      "change": 0.32404084179519205
     }
   },
   "fearGreed": [
-    30,
     31,
     30,
     29,
     27,
     29,
-    29
+    29,
+    34
   ],
   "simulation": {
-    "buy": 10,
-    "hold": 90,
+    "buy": 0,
+    "hold": 100,
     "sell": 0
   }
 }
