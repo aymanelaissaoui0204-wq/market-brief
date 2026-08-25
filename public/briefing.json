@@ -1,6 +1,6 @@
 {
-  "date": "Montag, 24. August 2026",
-  "generatedAt": "2026-08-24T05:37:21.444Z",
+  "date": "Dienstag, 25. August 2026",
+  "generatedAt": "2026-08-25T05:31:18.984Z",
   "news": [
     {
       "title": "KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
@@ -17,203 +17,211 @@
       "origin": "GNews"
     },
     {
-      "title": "Jim Cramer Defends Apple Inc. (NASDAQ: AAPL) Amid Memory Shortage Pressure And Mixed Earnings Results",
-      "source": "Foreign Policy Journal",
-      "sentiment": "Somewhat-Bullish",
+      "title": "INTU INVESTOR DEADLINE: Intuit Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit Before September 8, 2026 Deadline",
+      "source": "TMX Newsfile",
+      "sentiment": "Bearish",
       "tickers": [
-        "AAPL(0.28)"
+        "INTU(-0.45)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
-      "source": "Yahoo Finance Singapore",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "DHR(0.21)",
-        "ISRG(0.12)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Top S&P 500 Stocks to Watch This Week: CrowdStrike, Salesforce, Workday",
-      "source": "Benzinga",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "CRM(0.29)",
-        "WDAY(0.32)",
-        "CRWD(0.42)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain",
-      "source": "Benzinga",
+      "title": "How Investors May Respond To Analog Devices (ADI) Strong Q3 Results, Margin Guidance and Steady Dividend",
+      "source": "Simply Wall Street",
       "sentiment": "Neutral",
       "tickers": [
-        "WDC(-0.05)",
-        "MU(-0.07)",
-        "STX(-0.06)"
+        "ADI(0.00)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Musk’s Net Worth Claws Back Up to $851 Billion as Analysts See More Tesla, SpaceX Upside",
-      "source": "Benzinga",
-      "sentiment": "Bullish",
-      "tickers": [
-        "TSLA(0.41)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "3 Low-P/E Stocks That Look Cheap as the S&P 500 Trades Near Record Highs",
-      "source": "MarketBeat",
-      "sentiment": "Bullish",
-      "tickers": [
-        "SOHU(0.46)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Does Synchrony’s AI Pivot and OpenAI Partnership Reframe The Bull Case For Synchrony Financial (SYF)?",
-      "source": "Simply Wall Street",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "SYF(0.29)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Korea Investment CORP Buys New Stake in AeroVironment, Inc. $AVAV",
-      "source": "MarketBeat",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "AVAV(0.32)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Elevation Point Wealth Partners LLC Purchases Shares of 32,118 Microchip Technology Incorporated $MCHP",
-      "source": "MarketBeat",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "MCHP(0.25)",
-        "AMAT(0.19)",
-        "MU(0.19)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Wealthedge Investment Advisors LLC Reduces Stake in Tesla, Inc. $TSLA",
-      "source": "MarketBeat",
+      "title": "Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED)",
+      "source": "Yahoo Finance",
       "sentiment": "Neutral",
       "tickers": [
-        "TSLA(-0.10)"
+        "MU(-0.21)",
+        "AMAT(0.22)",
+        "NVDA(0.32)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Is Freeport-McMoRan (FCX) Becoming a Copper Platform for Electrification and AI Infrastructure?",
-      "source": "Simply Wall Street",
+      "title": "Q2 Earnings Season Winds Down: 3 Companies That Broke Records",
+      "source": "TradingView",
       "sentiment": "Bullish",
       "tickers": [
-        "FCX(0.44)"
+        "EME(0.50)",
+        "AAPL(0.41)",
+        "JNJ(0.39)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "DHI Group, Inc. (DHX) Soars to 52-Week High, Time to Cash Out?",
-      "source": "Eastern Progress",
+      "title": "Visa Inc Stock (V) Closed Up by 3.06% on Aug 24: Facts Behind the Movement",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "V(0.47)",
+        "GOOGL(0.23)",
+        "META(0.18)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA",
+      "source": "TradingView",
       "sentiment": "Bullish",
       "tickers": [
-        "DHX(0.46)"
+        "SDA(0.40)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "The iShares MSCI World ETF: Record Inflows Meet a Measured Pullback",
+      "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "source": "Yahoo Finance",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "WDC(-0.22)",
+        "MU(-0.30)",
+        "STX(-0.16)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Can Apple Inc. (NASDAQ:AAPL) Keep Its Steady Hand As Big Tech Leads Markets Higher?",
+      "source": "Kalkine Media",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AAPL(0.43)",
+        "GOOGL(0.34)",
+        "GOOG(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook",
+      "source": "Yahoo Finance",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "HONAV(0.05)",
+        "HON(0.35)",
+        "GE(0.15)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Super Micro Computer (SMCI)’s Guidance Just Crushed Estimates. Can it Outrun its Legal Troubles?",
+      "source": "Yahoo! Finance Canada",
+      "sentiment": "Neutral",
+      "tickers": [
+        "SMCI(-0.14)",
+        "NVDA(0.25)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Is Alphabet (NASDAQ:GOOGL) Turning AI And Cloud Strength Into Search Momentum?",
+      "source": "Kalkine Media",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "GOOGL(0.47)",
+        "WFC(0.06)",
+        "BAC(0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Autodesk (ADSK) Q2 2027 Preview: EPS Est. $3.12; Reports on August 27",
+      "source": "AlphaStreet",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ADSK(0.25)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Berkshire Hathaway stock holds firm as Greg Abel ramps up equity buying",
       "source": "Ad-hoc-news.de",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "URTH(0.03)",
-        "MSCI(0.22)",
-        "NVDA(0.31)"
+        "BRK-B(0.05)",
+        "GOOGL(0.31)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "AudioEye (AEYE) Q2 Earnings and Revenues Beat Estimates",
-      "source": "Eastern Progress",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Why GDS Holdings (GDS) Is Back In The Spotlight",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
       "tickers": [
-        "AEYE(0.25)"
+        "GDS(0.32)",
+        "MU(-0.14)",
+        "AAPL(0.13)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters",
-      "source": "24/7 Wall St.",
-      "sentiment": "Somewhat-Bullish",
+      "title": "Alphabet C stock advances on strong Q2 2026 AI and cloud momentum",
+      "source": "Ad-hoc-news.de",
+      "sentiment": "Bullish",
       "tickers": [
-        "MSFT(0.63)",
-        "NVDA(0.26)",
-        "GOOGL(0.14)"
+        "GOOG(0.48)",
+        "GOOGL(0.40)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Oil falls as US prepares to unveil new Iran sanctions - Reuters",
+      "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says - Reuters",
+      "title": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+      "title": "Asia shares fall on tech nerves; oil prices slip - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Ampol profit surges nearly five-fold as Iran war boosts refining margins - Reuters",
+      "title": "Iran vows to retaliate after US widens sanctions - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+      "title": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Here are the 2 big things we're watching in the stock market this week",
+      "title": "Here's what Jim Cramer says stock investors need to know about the bond market",
       "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports - Reuters",
-      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -223,111 +231,111 @@
     "oberflaeche": [
       "GNews: Frankfurter Allgemeine Zeitung (Faz): KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
       "GNews: n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
-      "AlphaVantage: Foreign Policy Journal: Jim Cramer Defends Apple Inc. (NASDAQ: AAPL) Amid Memory Shortage Pressure And Mixed Earnings Results",
-      "AlphaVantage: Yahoo Finance Singapore: Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
-      "AlphaVantage: Benzinga: Top S&P 500 Stocks to Watch This Week: CrowdStrike, Salesforce, Workday",
-      "AlphaVantage: Benzinga: SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain",
-      "AlphaVantage: Benzinga: Musk’s Net Worth Claws Back Up to $851 Billion as Analysts See More Tesla, SpaceX Upside",
-      "AlphaVantage: MarketBeat: 3 Low-P/E Stocks That Look Cheap as the S&P 500 Trades Near Record Highs",
-      "AlphaVantage: Simply Wall Street: Does Synchrony’s AI Pivot and OpenAI Partnership Reframe The Bull Case For Synchrony Financial (SYF)?",
-      "AlphaVantage: MarketBeat: Korea Investment CORP Buys New Stake in AeroVironment, Inc. $AVAV",
-      "AlphaVantage: MarketBeat: Elevation Point Wealth Partners LLC Purchases Shares of 32,118 Microchip Technology Incorporated $MCHP",
-      "AlphaVantage: MarketBeat: Wealthedge Investment Advisors LLC Reduces Stake in Tesla, Inc. $TSLA",
-      "AlphaVantage: Simply Wall Street: Is Freeport-McMoRan (FCX) Becoming a Copper Platform for Electrification and AI Infrastructure?",
-      "AlphaVantage: Eastern Progress: DHI Group, Inc. (DHX) Soars to 52-Week High, Time to Cash Out?",
-      "AlphaVantage: Ad-hoc-news.de: The iShares MSCI World ETF: Record Inflows Meet a Measured Pullback",
-      "AlphaVantage: Eastern Progress: AudioEye (AEYE) Q2 Earnings and Revenues Beat Estimates",
-      "AlphaVantage: 24/7 Wall St.: Microsoft Has Something Nvidia Doesn’t and Here’s Why it Matters",
-      "Finnhub: Reuters: Oil falls as US prepares to unveil new Iran sanctions - Reuters",
-      "Finnhub: Reuters: Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says - Reuters",
-      "Finnhub: Reuters: Syria foreign minister sees Israel security talks resuming despite no trust - Reuters"
+      "AlphaVantage: TMX Newsfile: INTU INVESTOR DEADLINE: Intuit Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit Before September 8, 2026 Deadline (Stimmung: Bearish) (Ticker: INTU(-0.45))",
+      "AlphaVantage: Simply Wall Street: How Investors May Respond To Analog Devices (ADI) Strong Q3 Results, Margin Guidance and Steady Dividend (Stimmung: Neutral) (Ticker: ADI(0.00))",
+      "AlphaVantage: Yahoo Finance: Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED) (Stimmung: Neutral) (Ticker: MU(-0.21), AMAT(0.22), NVDA(0.32))",
+      "AlphaVantage: TradingView: Q2 Earnings Season Winds Down: 3 Companies That Broke Records (Stimmung: Bullish) (Ticker: EME(0.50), AAPL(0.41), JNJ(0.39))",
+      "AlphaVantage: TradingKey: Visa Inc Stock (V) Closed Up by 3.06% on Aug 24: Facts Behind the Movement (Stimmung: Somewhat-Bullish) (Ticker: V(0.47), GOOGL(0.23), META(0.18))",
+      "AlphaVantage: TradingView: SunCar Technology Group Inc. Class A Trade Ideas — NASDAQ:SDA (Stimmung: Bullish) (Ticker: SDA(0.40))",
+      "AlphaVantage: Yahoo Finance: Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know (Stimmung: Somewhat-Bearish) (Ticker: WDC(-0.22), MU(-0.30), STX(-0.16))",
+      "AlphaVantage: Kalkine Media: Can Apple Inc. (NASDAQ:AAPL) Keep Its Steady Hand As Big Tech Leads Markets Higher? (Stimmung: Bullish) (Ticker: AAPL(0.43), GOOGL(0.34), GOOG(0.33))",
+      "AlphaVantage: Yahoo Finance: Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook (Stimmung: Somewhat-Bullish) (Ticker: HONAV(0.05), HON(0.35), GE(0.15))",
+      "AlphaVantage: Yahoo! Finance Canada: Super Micro Computer (SMCI)’s Guidance Just Crushed Estimates. Can it Outrun its Legal Troubles? (Stimmung: Neutral) (Ticker: SMCI(-0.14), NVDA(0.25))",
+      "AlphaVantage: Kalkine Media: Is Alphabet (NASDAQ:GOOGL) Turning AI And Cloud Strength Into Search Momentum? (Stimmung: Somewhat-Bullish) (Ticker: GOOGL(0.47), WFC(0.06), BAC(0.26))",
+      "AlphaVantage: AlphaStreet: Autodesk (ADSK) Q2 2027 Preview: EPS Est. $3.12; Reports on August 27 (Stimmung: Somewhat-Bullish) (Ticker: ADSK(0.25))",
+      "AlphaVantage: Ad-hoc-news.de: Berkshire Hathaway stock holds firm as Greg Abel ramps up equity buying (Stimmung: Somewhat-Bullish) (Ticker: BRK-B(0.05), GOOGL(0.31))",
+      "AlphaVantage: Simply Wall Street: Why GDS Holdings (GDS) Is Back In The Spotlight (Stimmung: Neutral) (Ticker: GDS(0.32), MU(-0.14), AAPL(0.13))",
+      "AlphaVantage: Ad-hoc-news.de: Alphabet C stock advances on strong Q2 2026 AI and cloud momentum (Stimmung: Bullish) (Ticker: GOOG(0.48), GOOGL(0.40))",
+      "Finnhub: Reuters: Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
+      "Finnhub: Reuters: Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks - Reuters",
+      "Finnhub: Reuters: Asia shares fall on tech nerves; oil prices slip - Reuters"
     ],
     "hypeNews": [
-      "Starke positive Stimmung für KI-bezogene Unternehmen und Halbleiter, mit Fokus auf die USA und deren Vorsprung.",
-      "Elon Musk's Nettovermögen steigt, was auf positives Sentiment für Tesla und SpaceX hindeutet."
+      "KI-Speicherengpass: Micron warnt vor Lieferengpässen bis 2028, was die Nachfrage weiter antreibt.",
+      "Starke Quartalsergebnisse und positive Ausblicke bei Tech-Giganten wie Apple, Alphabet und Honeywell treiben die Märkte."
     ],
-    "hypeCenter": "KI und Technologie-Sektor, insbesondere in den USA, getrieben durch positive Analystenmeinungen und Unternehmensnachrichten zu Innovation und Wachstum.",
-    "peripherEffect": "Rohstoffe wie Kupfer (FCX), Spezialmetalle und Unternehmen, die Zulieferer für die Technologieinfrastruktur sind (z.B. Halbleiterhersteller wie MCHP, AMAT, MU, STX, WDC), sowie Unternehmen im Bereich Luft- und Raumfahrt (AVAV).",
-    "narrativ": "Die Masse glaubt, dass die USA ihren Vorsprung in der KI-Entwicklung weiter ausbauen und dass Unternehmen wie Apple, Microsoft, Nvidia, Tesla und SpaceX weiterhin stark performen werden. Es gibt auch eine Erwartung an eine solide Börsenentwicklung insgesamt.",
-    "realitaet": "Der Fokus auf die USA ignoriert die globalen Verflechtungen und die Bemühungen anderer Regionen (wie Europa) aufzuholen. Die 'KI-Blase' könnte überhitzt sein, und die tatsächliche Profitabilität vieler KI-Anwendungen ist noch unklar. Die Rohstoffnachfrage wird oft unterschätzt, während die geopolitischen Spannungen (Iran, Syrien) die Ölpreise beeinflussen, aber nicht die Kern-Technologie-Hypes.",
-    "macht": "Große Technologiekonzerne (Microsoft, Nvidia, Apple, Google, Salesforce, CrowdStrike, Workday), deren Zulieferer (Halbleiterfirmen), Investoren wie Korea Investment CORP und Elevation Point Wealth Partners, sowie die Gründer/CEOs dieser Unternehmen (Elon Musk).",
-    "geopolitik": "Die Nachrichten über Syrien und Iran deuten auf anhaltende geopolitische Spannungen hin, die potenziell die Ölpreise beeinflussen könnten. Der Fokus auf den US-KI-Vorsprung unterstreicht die technologische Dominanz der G7-Staaten, während BRICS-Staaten in anderen Bereichen aufholen.",
-    "liquiditaet": "Kapital fließt in Technologieaktien, insbesondere in KI-bezogene Unternehmen und deren Zulieferer. Es gibt auch Zuflüsse in ETFs wie iShares MSCI World.",
-    "kette": "US-KI-Fortschritt -> Erhöhte Nachfrage nach Halbleitern und Infrastruktur -> Steigende Nachfrage nach Rohstoffen (Kupfer) -> Potenzielle Preissteigerungen bei diesen Rohstoffen.",
-    "timing": "Mitte des Trends. Der KI-Hype ist bereits etabliert, aber die peripheren Effekte (Rohstoffe, Zulieferer) beginnen sich erst jetzt zu zeigen. Die positiven Analystenmeinungen und Käufe von institutionellen Investoren deuten auf eine Fortsetzung hin.",
-    "saisonalitaet": "August und September sind historisch oft von einer gewissen Marktvolatilität geprägt, aber auch von einer Fortsetzung von Sommertrends, insbesondere in Technologie-Sektoren.",
-    "masseFehler": "Die Masse fokussiert sich zu stark auf die direkten Gewinner des KI-Hypes (Software, Cloud) und übersieht die nachgelagerten Profiteure in der physischen Lieferkette und den Rohstoffen, die für den Ausbau der notwendigen Infrastruktur benötigt werden.",
-    "widerspruch": "Ja. Während viele Tech-Aktien mit positiver Stimmung bewertet werden (AAPL, CRWD, WDAY, CRM, SYF, AVAV, MCHP), gibt es auch neutrale bis leicht negative Ticker-Stimmungen für einige Halbleiteraktien (WDC, MU, STX) aufgrund von 'Bubble Concerns'. Dies deutet auf eine selektive Bewertung innerhalb des Sektors hin.",
-    "markt": "Silber: Stabil | Bitcoin: Stabil | DAX: Leicht steigend | EUR/USD: Leicht fallend | Öl: Leicht fallend | Gold: Stabil",
-    "opportunity": "JA",
-    "positionierung": "Smart Money scheint in Technologie-Aktien und deren Zulieferer zu investieren, was durch die positiven Sentiment-Scores und die Käufe institutioneller Investoren bestätigt wird. Die breite Marktstimmung ist 'Greedy' (73/100).",
-    "reflexivitaet": "Der Hype um KI treibt die Nachfrage nach den notwendigen Komponenten (Chips, Kupfer), was wiederum die Kurse dieser Komponenten und Rohstoffe erhöht, was wiederum den Hype um KI und die damit verbundenen Unternehmen verstärkt.",
+    "hypeCenter": "Künstliche Intelligenz (KI) und die damit verbundene Nachfrage nach Speicherchips und Rechenleistung. Die positiven Ergebnisse und Ausblicke von Unternehmen wie Apple, Alphabet und Honeywell, die stark in KI investieren oder davon profitieren, untermauern diesen Sektor.",
+    "peripherEffect": "Spezialchemikalien für die Halbleiterfertigung, fortschrittliche Materialien für Kühltechnologien in Rechenzentren, Cybersecurity-Lösungen für KI-Infrastrukturen und Unternehmen, die sich auf die Optimierung von Energieeffizienz in Rechenzentren spezialisieren.",
+    "narrativ": "Die Masse glaubt, dass die aktuelle Rallye von Big Tech und KI getragen wird, und dass Unternehmen, die direkt in diesen Bereichen tätig sind (wie Chip-Hersteller und Software-Anbieter), weiterhin stark performen werden. Die Sorge um Lieferengpässe bei Speicherchips wird als kurzfristiges Problem gesehen, das die Nachfrage weiter ankurbelt.",
+    "realitaet": "Die KI-Euphorie überdeckt die strukturellen Probleme in der Lieferkette und die zunehmenden regulatorischen Hürden, insbesondere in Europa. Die Abhängigkeit von wenigen Schlüsseltechnologien und -produzenten birgt erhebliche Risiken. Die Nachrichten über Klagen gegen Intuit und fallende Aktien von Speicherherstellern deuten auf eine ��berhitzung und potenzielle Korrekturen hin, die von der breiten Masse ignoriert werden.",
+    "macht": "Große Technologiekonzerne (Apple, Alphabet, Microsoft, Nvidia), Halbleiterhersteller (auch wenn einige unter Druck stehen, profitieren die führenden) und die Unternehmen, die die Infrastruktur für KI bereitstellen (Rechenzentren, Cloud-Anbieter).",
+    "geopolitik": "Die USA bauen ihren KI-Vorsprung aus, während Europa zurückfällt, was zu geopolitischen Spannungen und Handelsungleichgewichten führen könnte. Die Sanktionen gegen den Iran und die damit verbundenen Ölpreisschwankungen sowie die Dollarstärke deuten auf eine anhaltende globale Unsicherheit hin, die von den Tech-Nachrichten überschattet wird.",
+    "liquiditaet": "Kapital fließt weiterhin in technologieorientierte Sektoren, insbesondere in KI und Cloud-Computing, getrieben von der Erwartung hoher Renditen. Es gibt jedoch auch Anzeichen für eine Kapitalflucht aus Unternehmen mit rechtlichen Problemen (INTU) oder kurzfristigen Lieferkettenengpässen (MU).",
+    "kette": "KI-Nachfrage steigt -> Bedarf an Speicherchips und Rechenleistung steigt -> Micron warnt vor Engpässen -> Preise für Speicher steigen potenziell -> Unternehmen mit starker KI-Ausrichtung (AAPL, GOOGL) profitieren von positiven Erwartungen -> Anleger suchen nach weiteren Profiteuren, auch in peripheren Sektoren.",
+    "timing": "Mitte des Trends. Die KI-Entwicklung ist im vollen Gange, aber die Warnungen vor Lieferengpässen und die rechtlichen Probleme einiger Unternehmen deuten darauf hin, dass der Hype seinen Höhepunkt erreichen könnte und erste Korrekturen eintreten. Die breite Marktstimmung ist noch positiv (Fear & Greed 74), aber die ersten Risse sind sichtbar.",
+    "saisonalitaet": "August und September sind historisch oft von einer gewissen Volatilität geprägt, da die Sommerferien enden und die institutionellen Anleger zurückkehren. Die aktuellen Nachrichten deuten auf eine Fortsetzung der positiven Stimmung hin, aber die Warnungen vor Engpässen könnten diese Saisonalität durchbrechen.",
+    "masseFehler": "Die Masse sieht nur den direkten Hype um KI-Unternehmen und ignoriert die Abhängigkeiten und Risiken in der Lieferkette sowie die potenziellen negativen Auswirkungen von Klagen und regulatorischen Eingriffen. Sie übersehen, dass die 'peripheren' Assets oft erst mit Verzögerung und mit höherem Risiko profitieren.",
+    "widerspruch": "Ja. Während viele Tech-Aktien (AAPL, GOOGL, EME) starke positive Stimmungen und Kursbewegungen zeigen, gibt es gleichzeitig negative Nachrichten für wichtige Akteure im Speichersektor (MU, WDC, STX) und rechtliche Probleme (INTU). Dies deutet auf eine selektive Marktbewegung hin, bei der nicht alle Sektoren gleichermaßen profitieren.",
+    "markt": "Gold: steigt | Silber: faellt | Öl: faellt | Bitcoin: stabil | DAX: faellt | EUR/USD: faellt",
+    "opportunity": "JA. Die Korrektur bei Speicherherstellern (MU) und die Warnungen vor Engpässen könnten Chancen für Unternehmen eröffnen, die Lösungen für diese Probleme anbieten oder von steigenden Preisen profitieren.",
+    "positionierung": "Smart Money scheint sich auf die führenden KI- und Big-Tech-Unternehmen zu konzentrieren, die von positiven Erwartungen profitieren (AAPL, GOOGL, NVDA). Es gibt jedoch auch Anzeichen für Vorsicht bei Unternehmen mit spezifischen Problemen (INTU, MU). Die breite Marktstimmung ist 'Greedy' (74/100), was auf eine mögliche Überhitzung hindeutet.",
+    "reflexivitaet": "Die positive Stimmung um KI treibt die Nachfrage nach Speicherchips, was wiederum die Warnungen vor Engpässen verstärkt. Diese Engpässe könnten die Preise für Speicher erhöhen, was die Profitabilität von KI-Anbietern beeinflusst und möglicherweise zu einer Neubewertung der gesamten Branche führt.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Wachstum/Umbruch",
+    "metaZyklus": "Umbruch. Die starke Fokussierung auf KI und die damit verbundenen technologischen Sprünge deuten auf einen Umbruch hin, der jedoch von globalen Unsicherheiten (Geopolitik, Lieferketten) und potenziellen Marktüberhitzungen begleitet wird.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegtes Goldprodukt, das den islamischen Anlageprinzipien entspricht, da es auf einem realen Vermögenswert basiert und keine Zinsen generiert.",
+    "halalBegruendung": "Gold als physisch hinterlegtes Edelmetall ist gemäß AAOIFI-Standards als halal anerkannt, da es als Vermögenswert und nicht als spekulatives Finanzinstrument betrachtet wird.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 68,
-    "stopLoss": 65,
-    "ziel": 75,
-    "zeitraum": "4-8 Wochen",
-    "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Ziels oder bei einem Rückgang unter 66.0000.",
-    "waehrungsrisiko": "EUR/USD fällt leicht, was für in Euro denominierten Anlagen tendenziell positiv ist, aber der Effekt ist hier gering.",
-    "psychologie": "FOMO (Fear Of Missing Out) bezüglich KI-Aktien und deren potenziellen Gewinnen.",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Der fallende EUR/USD-Kurs (1.1660) könnte US-Dollar-denominierte Anlagen für europäische Anleger verteuern, was bei einem Long-Investment in US-Aktien zu berücksichtigen ist.",
+    "psychologie": "FOMO (Fear Of Missing Out) ist bei den Anlegern präsent, die die Rallye der KI-Aktien nicht verpassen wollen. Die Warnungen vor Engpässen könnten jedoch auch Panik bei denjenigen auslösen, die sich Sorgen um die Stabilität der Lieferketten machen.",
     "ruhigerTag": false,
-    "lernpunkt": "Periphere Assets: Dies sind Anlagen, die nicht direkt im Fokus eines Hypes stehen, aber indirekt davon profitieren. Wenn ein Sektor wie KI boomt, steigen oft auch die Kurse von Rohstoffen, Zulieferern oder Infrastrukturanbietern, die für diesen Sektor notwendig sind. Diese Profiteure werden oft übersehen, da die Aufmerksamkeit auf den direkten Hype-Aktien liegt.",
-    "tagesfrage": "Wie können wir die 'KI-Blase' von den fundamentalen, langfristigen Bedürfnissen nach Rohstoffen und Infrastruktur unterscheiden?",
-    "brief": "Ayman, heute sehen wir, wie der KI-Hype weiter die Märkte dominiert, aber die wahre Story liegt oft im Verborgenen. Während die Masse auf die bekannten Tech-Giganten schaut, sollten wir die Rohstoffe und Zulieferer im Auge behalten, die diese Revolution erst ermöglichen. Die Nachrichten zeigen, dass Europa aufholt, aber die USA führen – das bedeutet mehr Nachfrage nach den Bausteinen. Dein Fokus auf islamische Ethik erinnert uns daran, dass wahre Werte in realen Vermögenswerten liegen, nicht nur in digitalen Versprechungen. Halte Ausschau nach den unterbewerteten Assets, die im Schatten des großen Hypes wachsen."
+    "lernpunkt": "Der KI-Speicherengpass ist ein klassisches Beispiel für eine sich entwickelnde Lieferkettenproblematik. Wenn die Nachfrage nach einem kritischen Bauteil (hier: KI-Speicherchips) das Angebot übersteigt, kann dies zu Preiserhöhungen führen und die Profitabilität der Endprodukte beeinträchtigen. Unternehmen, die Lösungen für solche Engpässe anbieten oder von steigenden Preisen profitieren, können hier Chancen finden.",
+    "tagesfrage": "Wie stark wird die europäische KI-Industrie die aktuellen Rückstände aufholen können, und welche spezifischen Nischen könnten trotz des US-Vorsprungs attraktiv werden?",
+    "brief": "Ayman, heute sehen wir, wie der KI-Hype weiter die Märkte dominiert, aber die Schlagzeilen verbergen tiefere Risiken. Die Warnung vor Speicherengpässen ist kein kleines Problem, sondern ein potenzieller Bremsklotz für das gesamte Wachstum. Konzentriere dich nicht nur auf die offensichtlichen Gewinner, sondern suche nach den Unternehmen, die die Lieferkettenprobleme lösen oder von den daraus resultierenden Preissteigerungen profitieren. Die geopolitische Lage bleibt angespannt, und der Dollar zeigt sich robust, was die globalen Kapitalflüsse beeinflusst. Bleibe wachsam und suche nach den versteckten Chancen abseits des Mainstreams."
   },
   "prices": {
     "SI=F": {
       "label": "Silber",
-      "price": 68.875,
-      "change": 0
+      "price": 68.18000030517578,
+      "change": -0.526692139166852
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4701.5,
+      "change": 1.3079684077556841
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.16604483127594,
+      "change": -0.18072898377551727
     },
     "BTC-USD": {
       "label": "Bitcoin",
-      "price": 76874.2734375,
+      "price": 80621.7890625,
       "change": 0
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 26136.560546875,
-      "change": 0.5908526866534629
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1682243347167969,
-      "change": -0.047896510898292124
+      "price": 26106.599609375,
+      "change": -0.1146322885379892
     },
     "CL=F": {
       "label": "Öl",
-      "price": 85.55000305175781,
-      "change": 0
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4695.2998046875,
-      "change": 0
+      "price": 84.97000122070312,
+      "change": -0.047054363630342426
     }
   },
   "fearGreed": [
-    41,
     46,
     62,
     72,
     71,
     66,
-    73
+    73,
+    74
   ],
   "simulation": {
     "buy": 0,
