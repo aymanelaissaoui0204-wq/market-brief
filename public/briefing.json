@@ -1,7 +1,14 @@
 {
-  "date": "Donnerstag, 27. August 2026",
-  "generatedAt": "2026-08-27T16:07:46.453Z",
+  "date": "Freitag, 28. August 2026",
+  "generatedAt": "2026-08-28T17:10:25.464Z",
   "news": [
+    {
+      "title": "Wie Frauen beruflich durchstarten können",
+      "source": "Weser-Kurier",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
     {
       "title": "KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
       "source": "Frankfurter Allgemeine Zeitung (Faz)",
@@ -10,19 +17,30 @@
       "origin": "GNews"
     },
     {
-      "title": "Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
-      "source": "n-tv NACHRICHTEN",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "GNews"
+      "title": "Primecap Management Co. CA Takes Position in Bank of America Corporation $BAC",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "BAC(0.24)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "DoorDash (DASH) Q1 2026 Earnings: Results, Market Reaction & History",
+      "source": "24/7 Wall St.",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "DASH(-0.22)"
+      ],
+      "origin": "AlphaVantage"
     },
     {
       "title": "Alphabet A stock trades in the mid-$340s as AI capex and cloud growth shape the Q2 2026 story",
       "source": "Ad-hoc-news.de",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "GOOGL(0.28)",
-        "GOOG(0.22)"
+        "GOOGL(0.25)",
+        "GOOG(0.23)"
       ],
       "origin": "AlphaVantage"
     },
@@ -31,8 +49,8 @@
       "source": "TradingView",
       "sentiment": "Neutral",
       "tickers": [
-        "AAPL(-0.20)",
-        "DIS(0.31)"
+        "AAPL(-0.22)",
+        "DIS(0.34)"
       ],
       "origin": "AlphaVantage"
     },
@@ -41,7 +59,7 @@
       "source": "Ad-hoc-news.de",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "SYY(0.25)"
+        "SYY(0.29)"
       ],
       "origin": "AlphaVantage"
     },
@@ -50,7 +68,7 @@
       "source": "Ad-hoc-news.de",
       "sentiment": "Bullish",
       "tickers": [
-        "ALLE(0.51)"
+        "ALLE(0.49)"
       ],
       "origin": "AlphaVantage"
     },
@@ -59,9 +77,9 @@
       "source": "24/7 Wall St.",
       "sentiment": "Somewhat-Bearish",
       "tickers": [
-        "NOW(-0.34)",
-        "INTU(-0.63)",
-        "ADBE(-0.30)"
+        "NOW(-0.31)",
+        "INTU(-0.61)",
+        "ADBE(-0.35)"
       ],
       "origin": "AlphaVantage"
     },
@@ -70,9 +88,9 @@
       "source": "CNBC",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "NVDA(0.26)",
+        "NVDA(0.25)",
         "AMZN(0.11)",
-        "GOOG(0.14)"
+        "GOOG(0.11)"
       ],
       "origin": "AlphaVantage"
     },
@@ -81,9 +99,9 @@
       "source": "Yahoo! Finance Canada",
       "sentiment": "Somewhat-Bullish",
       "tickers": [
-        "NVDA(0.20)",
-        "CRWD(0.12)",
-        "WSM(0.13)"
+        "NVDA(0.23)",
+        "CRWD(0.11)",
+        "WSM(0.11)"
       ],
       "origin": "AlphaVantage"
     },
@@ -92,7 +110,7 @@
       "source": "WSJ",
       "sentiment": "Neutral",
       "tickers": [
-        "INTU(0.02)"
+        "INTU(0.04)"
       ],
       "origin": "AlphaVantage"
     },
@@ -101,7 +119,7 @@
       "source": "Investing.com Canada",
       "sentiment": "Bullish",
       "tickers": [
-        "TH(0.90)"
+        "TH(0.88)"
       ],
       "origin": "AlphaVantage"
     },
@@ -110,9 +128,9 @@
       "source": "The Globe and Mail",
       "sentiment": "Bullish",
       "tickers": [
-        "WDC(0.48)",
-        "STX(0.51)",
-        "DELL(0.49)"
+        "WDC(0.49)",
+        "STX(0.47)",
+        "DELL(0.47)"
       ],
       "origin": "AlphaVantage"
     },
@@ -131,8 +149,8 @@
       "sentiment": "Neutral",
       "tickers": [
         "NVDA(0.25)",
-        "AMZN(-0.10)",
-        "GOOG(-0.11)"
+        "AMZN(-0.13)",
+        "GOOG(-0.13)"
       ],
       "origin": "AlphaVantage"
     },
@@ -141,84 +159,62 @@
       "source": "Ad-hoc-news.de",
       "sentiment": "Neutral",
       "tickers": [
-        "FICO(0.09)"
+        "FICO(0.08)"
       ],
       "origin": "AlphaVantage"
     },
     {
-      "title": "Zacks.com featured highlights Super Micro Computer, State Street and Pinnacle West Capital",
-      "source": "Yahoo Finance UK",
-      "sentiment": "Somewhat-Bullish",
-      "tickers": [
-        "SMCI(0.49)",
-        "STT(0.35)",
-        "PNW(0.30)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
-      "source": "Yahoo Finance",
-      "sentiment": "Neutral",
-      "tickers": [
-        "NVDA(0.22)",
-        "BLK(0.12)",
-        "COIN(0.02)"
-      ],
-      "origin": "AlphaVantage"
-    },
-    {
-      "title": "We went 3 for 3 — what we learned from wins at Nvidia, Salesforce, and CrowdStrike",
+      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
+      "title": "52% of Gen Z investors have redirected investing money to sports bets",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "This is ‘one of the worst’ credit card habits, experts say—41% of cardholders do it",
+      "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "American Airlines adds batch of new international routes on its XLR planes",
+      "title": "BitGo to acquire NYDIG’s institutional trading business as crypto trading rebounds",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "What the Buss family Lakers dispute can teach the wealthy about trusts",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "After six months, the Iran war has reached its endgame - a costly stalemate - Reuters",
+      "title": "UN refugee agency scales back posts and budget for 2027, documents show - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Canada excludes US seafood from retaliatory tariffs - Reuters",
+      "title": "QatarEnergy cancels gas deliveries to Italy's Edison until early November - Reuters",
       "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Imax says it's open to a sale. Why is no one buying?",
+      "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
@@ -226,114 +222,113 @@
   ],
   "sections": {
     "oberflaeche": [
-      "GNews: Frankfurter Allgemeine Zeitung (Faz): KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
-      "GNews: n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
-      "AlphaVantage: Ad-hoc-news.de: Alphabet A stock trades in the mid-$340s as AI capex and cloud growth shape the Q2 2026 story",
-      "AlphaVantage: TradingView: Disney vs. Apple: Which Consumer Brand Stock Has an Edge Right Now?",
-      "AlphaVantage: Ad-hoc-news.de: Sysco stock trades below analyst target as investors eye FY 2027 AI savings plan",
-      "AlphaVantage: Ad-hoc-news.de: Allegion stock holds near $160 as Q2 2026 beat supports guidance",
-      "AlphaVantage: 24/7 Wall St.: Intuit Sinks 12% as AI Disruption Fears Spread From TurboTax to QuickBooks, Adobe and ServiceNow Drop 3%",
-      "AlphaVantage: CNBC: Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk",
-      "AlphaVantage: Yahoo! Finance Canada: Futures flat as traders brace for inflation data and Nvidia",
-      "AlphaVantage: WSJ: Intuit’s CFO on the Tough Choice to Lower Guidance",
-      "AlphaVantage: Investing.com Canada: Target Hospitality wins $250M data center contract, raises outlook By Investing.com",
-      "AlphaVantage: The Globe and Mail: Zacks.com featured highlights Seagate Technology, Western Digital and Dell",
-      "AlphaVantage: MarketBeat: Ieq Capital LLC Buys Shares of 22,790 Global Payments Inc. $GPN",
-      "AlphaVantage: Yahoo Finance UK: Nvidia earnings preview: The report the entire market is waiting on",
-      "AlphaVantage: Ad-hoc-news.de: Fair Isaac stock steadies after July selloff as guidance and analyst targets diverge",
-      "AlphaVantage: Yahoo Finance UK: Zacks.com featured highlights Super Micro Computer, State Street and Pinnacle West Capital",
-      "AlphaVantage: Yahoo Finance: Nvidia Earnings Give Investors a Barometer for State of AI Trade",
-      "Finnhub: CNBC: We went 3 for 3 — what we learned from wins at Nvidia, Salesforce, and CrowdStrike",
-      "Finnhub: CNBC: Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-      "Finnhub: CNBC: This is ‘one of the worst’ credit card habits, experts say—41% of cardholders do it"
+      "GNews: Wie Frauen beruflich durchstarten können",
+      "Faz: KI-Vorsprung der USA: Warum Europa bei der Nutzung zurückliegt",
+      "MarketBeat: Primecap Management Co. CA Takes Position in Bank of America Corporation $BAC",
+      "24/7 Wall St.: DoorDash (DASH) Q1 2026 Earnings: Results, Market Reaction & History",
+      "Ad-hoc-news.de: Alphabet A stock trades in the mid-$340s as AI capex and cloud growth shape the Q2 2026 story",
+      "TradingView: Disney vs. Apple: Which Consumer Brand Stock Has an Edge Right Now?",
+      "Ad-hoc-news.de: Sysco stock trades below analyst target as investors eye FY 2027 AI savings plan",
+      "Ad-hoc-news.de: Allegion stock holds near $160 as Q2 2026 beat supports guidance",
+      "24/7 Wall St.: Intuit Sinks 12% as AI Disruption Fears Spread From TurboTax to QuickBooks, Adobe and ServiceNow Drop 3%",
+      "CNBC: Nvidia's earnings track record, Canada retaliates, Waymo's international push and more in Morning Squawk",
+      "Yahoo! Finance Canada: Futures flat as traders brace for inflation data and Nvidia",
+      "WSJ: Intuit’s CFO on the Tough Choice to Lower Guidance",
+      "Investing.com Canada: Target Hospitality wins $250M data center contract, raises outlook By Investing.com",
+      "The Globe and Mail: Zacks.com featured highlights Seagate Technology, Western Digital and Dell",
+      "MarketBeat: Ieq Capital LLC Buys Shares of 22,790 Global Payments Inc. $GPN",
+      "Yahoo Finance UK: Nvidia earnings preview: The report the entire market is waiting on",
+      "Ad-hoc-news.de: Fair Isaac stock steadies after July selloff as guidance and analyst targets diverge",
+      "CNBC: Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+      "CNBC: 52% of Gen Z investors have redirected investing money to sports bets",
+      "CNBC: Big Tech's massive AI spending is putting one of its longtime strengths to the test"
     ],
     "hypeNews": [
-      "Nvidia als zentraler Indikator für den KI-Handel, mit Erwartungen an die Quartalszahlen.",
-      "Alphabet (Google) profitiert von KI-Investitionen und Cloud-Wachstum.",
-      "Target Hospitality gewinnt 250-Millionen-Dollar-Auftrag für Rechenzentren."
+      "KI-getriebene Innovationen und deren Auswirkungen auf Unternehmensgewinne und Marktpositionierung.",
+      "Die anhaltende Dominanz von Nvidia und die Erwartungen an deren Quartalsergebnisse als wichtiger Marktindikator."
     ],
-    "hypeCenter": "Der Sektor der Künstlichen Intelligenz (KI) und damit verbundene Technologieinfrastruktur (Halbleiter, Rechenzentren) ist heute der stärkste Hype. Dies wird durch die Fokussierung auf Nvidia als Marktbarometer, die positiven Nachrichten zu Alphabet und die Auftragsvergabe für Rechenzentren von Target Hospitality untermauert.",
-    "peripherEffect": "Rohstoffe wie Kupfer und Spezialmetalle, die für die Herstellung von Halbleitern und die Infrastruktur von Rechenzentren benötigt werden, sowie Unternehmen, die spezialisierte Komponenten oder Dienstleistungen für KI-Systeme und Rechenzentren liefern (z.B. Kühlung, Stromversorgung, Speicherlösungen), könnten mit Verzögerung profitieren.",
-    "narrativ": "Die Masse glaubt, dass KI und die damit verbundenen Technologieunternehmen weiterhin stark wachsen werden, angeführt von Unternehmen wie Nvidia und Alphabet. Europa hinkt bei der KI-Nutzung hinterher, was die Dominanz der USA unterstreicht. Die Börse wird generell als solide eingeschätzt, trotz einiger Rückschläge bei Intuit wegen KI-Disruptionsängsten.",
-    "realitaet": "Der KI-Hype treibt massive Investitionen in Hardware und Infrastruktur. Die Fokussierung auf wenige große Player wie Nvidia und Alphabet verdeckt jedoch die Abhängigkeiten von vorgelagerten Rohstofflieferanten und spezialisierten Zulieferern. Die Angst vor KI-Disruption bei etablierten Softwareunternehmen wie Intuit zeigt, dass nicht alle Akteure gleichermaßen profitieren und es Gewinner und Verlierer geben wird. Die europäischen Rückstände sind strukturell und nicht nur eine Frage der aktuellen Nutzung.",
-    "macht": "Große Technologiekonzerne (Alphabet, Nvidia), Halbleiterhersteller, Betreiber von Rechenzentren und deren Investoren (Family Offices, institutionelle Anleger).",
-    "geopolitik": "Die USA bauen ihren Vorsprung in der KI aus, was zu geopolitischen Spannungen mit Europa und anderen Regionen führen könnte. Die Nachfrage nach Rohstoffen für die KI-Infrastruktur könnte die Abhängigkeiten von Rohstoffförderländern erhöhen und bestehende Allianzen (G7 vs. BRICS) beeinflussen.",
-    "liquiditaet": "Kapital fließt stark in KI-bezogene Technologieaktien, insbesondere in Halbleiter und Cloud-Infrastruktur. Mit Verzögerung könnte Kapital auch in die vorgelagerten Rohstoff- und Komponentenlieferanten fließen, die für diese Infrastruktur benötigt werden.",
-    "kette": "Starker KI-Hype -> Erhöhte Nachfrage nach Rechenleistung und Speicher -> Massive Investitionen in Halbleiter und Rechenzentren -> Steigende Nachfrage nach Rohstoffen (Kupfer, seltene Erden) und spezialisierten Komponenten -> Potenzielle Preissteigerungen bei diesen peripheren Assets.",
-    "timing": "Mitte des Trends. Der KI-Hype ist etabliert, aber die breitere Auswirkung auf vorgelagerte Sektoren und Rohstoffe beginnt sich gerade erst zu entfalten. Die starken Quartalszahlen von Nvidia und die Investitionen in Rechenzentren sind ein klares Signal für die Fortsetzung des Hypes.",
-    "saisonalitaet": "August und September sind historisch oft von geringerer Volatilität geprägt, bevor das vierte Quartal mit stärkeren Bewegungen beginnt. Der aktuelle Hype könnte diese saisonalen Muster jedoch überlagern.",
-    "masseFehler": "Die Masse konzentriert sich auf die direkten KI-Player (Nvidia, Alphabet) und übersieht die Abhängigkeiten und nachgelagerten Profiteure in der Lieferkette. Sie unterschätzt die disruptive Kraft von KI auf etablierte Geschäftsmodelle (siehe Intuit) und die geopolitischen Implikationen des technologischen Vorsprungs.",
-    "widerspruch": "Ja. Während viele Tech-Aktien (GOOGL, NVDA) bullish bewertet werden, gibt es auch negative Nachrichten für Intuit (-0.63), was auf eine selektive Natur des Marktes hindeutet. Die breite Börsenentwicklung wird als solide eingeschätzt, aber spezifische Sektoren (KI) sind deutlich stärker im Fokus.",
-    "markt": "Gold: \"+\", Silber: \"+\", Öl: \"+\", Bitcoin: \"+\", DAX: \"+\", EUR/USD: \"-\"",
-    "opportunity": "Ja, in den peripheren Assets, die von der KI-Nachfrage profitieren (Rohstoffe, spezialisierte Zulieferer).",
-    "positionierung": "Smart Money scheint stark auf KI-bezogene Unternehmen (NVDA, GOOGL, ALLE, SYY, TH, WDC, STX, DELL, SMCI, GPN) ausgerichtet zu sein, was durch die positiven Sentiment-Scores und die Nachrichten über Aufträge und Ergebnisse belegt wird. Es gibt jedoch auch Bedenken (INTU, ADBE, NOW).",
-    "reflexivitaet": "Der Hype um KI führt zu erhöhten Investitionen, was wiederum die Nachfrage nach den benötigten Ressourcen und Technologien steigert. Dies bestätigt den Hype und zieht weitere Investitionen an, was einen positiven Feedback-Loop für die KI-bezogenen Sektoren und ihre Zulieferer schafft.",
+    "hypeCenter": "Künstliche Intelligenz (KI) und die damit verbundenen Investitionen in Rechenzentren und Halbleiter. Die Nachrichten konzentrieren sich stark auf die Erwartungen an die Ergebnisse von Nvidia und die Auswirkungen von KI auf verschiedene Sektoren, was auf eine starke Marktstimmung in diesem Bereich hindeutet.",
+    "peripherEffect": "Unternehmen, die spezialisierte Komponenten für Rechenzentren liefern (z.B. Kühlung, Stromversorgung), Anbieter von Cybersicherheitslösungen für KI-Infrastrukturen, und Unternehmen, die Datenmanagement- und Analysetools für KI-Anwendungen entwickeln.",
+    "narrativ": "Die Masse glaubt, dass KI die Zukunft ist und Unternehmen, die führend in diesem Bereich sind, wie Nvidia und Alphabet, weiterhin astronomische Gewinne erzielen werden. Es wird erwartet, dass KI-Ausgaben zu einem breiten Wirtschaftswachstum führen.",
+    "realitaet": "Die massive KI-Investition ist eine Konzentration von Kapital in wenigen Händen, die zu einer Blase führen kann. Die tatsächliche Wertschöpfung und Rentabilität vieler KI-Anwendungen ist noch unklar. Gleichzeitig werden durch die Fokussierung auf KI andere wichtige Sektoren vernachlässigt, und es entstehen neue Abhängigkeiten und Risiken (z.B. Intuit-Beispiel).",
+    "macht": "Primär Big Tech Unternehmen (Nvidia, Alphabet, Apple, Microsoft), große Investmentfonds (Primecap Management Co.) und die Halbleiterindustrie. Auch Unternehmen, die von der Infrastruktur für KI profitieren (z.B. Target Hospitality für Rechenzentren).",
+    "geopolitik": "Die USA bauen ihren KI-Vorsprung aus, was zu geopolitischen Spannungen mit Europa führt. Die Abhängigkeit von Halbleiterlieferketten und die Kontrolle über KI-Technologie werden zu zentralen strategischen Zielen.",
+    "liquiditaet": "Kapital fließt stark in KI-bezogene Unternehmen, insbesondere in Halbleiter und Cloud-Infrastruktur. Es gibt auch eine Verlagerung von traditionellen Konsumgütern hin zu technologiegetriebenen Dienstleistungen und Produkten.",
+    "kette": "Massive KI-Investitionen (A) -> Starker Bedarf an Rechenleistung und spezialisierten Chips (B) -> Rekordgewinne bei Halbleiterherstellern wie Nvidia (C) -> Erwartung weiterer Innovationen und breiterer KI-Anwendung (D)",
+    "timing": "Mitte des Trends. Die KI-Investitionen sind bereits im Gange, und die Ergebnisse von Schlüsselakteuren wie Nvidia werden nun genau beobachtet. Es ist eine Phase der Konsolidierung und des Ausbaus, aber auch der ersten Anzeichen von Überbewertung und Verdrängungseffekten.",
+    "saisonalitaet": "August/September sind oft von einer gewissen Marktunsicherheit geprägt, da die Sommerferien enden und die Vorbereitung auf das vierte Quartal beginnt. Die Fokussierung auf Nvidia-Ergebnisse könnte diese Unsicherheit verstärken.",
+    "masseFehler": "Die Masse sieht KI als universelle Lösung und übersieht die Risiken von Überbewertung, Abhängigkeiten und die Tatsache, dass nicht alle Unternehmen gleichermaßen profitieren werden. Sie unterschätzen die Auswirkungen von Zinsänderungen und regulatorischen Eingriffen auf wachstumsstarke Technologieaktien.",
+    "widerspruch": "Ja. Während viele KI-Aktien (GOOGL, NVDA) positiv bewertet werden, gibt es auch negative Reaktionen auf KI-bezogene Nachrichten (INTU fällt stark wegen KI-Disruption). Dies deutet auf eine differenzierte Marktreaktion hin, bei der nicht jede KI-Story gleichermaßen gut ankommt.",
+    "markt": "Gold: faellt | Silber: faellt | Öl: faellt | Bitcoin: faellt | DAX: steigt | EUR/USD: faellt",
+    "opportunity": "Die Gelegenheit liegt in der Identifizierung von Unternehmen, die indirekt von den KI-Ausgaben profitieren, aber noch nicht im Rampenlicht stehen. Dies könnten Zulieferer von Spezialkomponenten, Unternehmen im Bereich Datenmanagement oder Cybersicherheit für KI-Infrastrukturen sein.",
+    "positionierung": "Smart Money scheint weiterhin in KI-nahe Werte wie BAC, GOOGL, SYY, ALLE, GPN und TH zu investieren, was auf eine fortgesetzte Bullishness in diesen Bereichen hindeutet. Die negativen Reaktionen auf DASH und INTU deuten auf Vorsicht bei Konsumgütern und Softwareanwendungen hin, die von KI gestört werden könnten.",
+    "reflexivitaet": "Der Hype um KI führt zu erhöhten Investitionen, was wiederum die Entwicklung und Anwendung von KI beschleunigt. Dies schafft eine positive Rückkopplungsschleife, die die Nachfrage nach KI-bezogenen Technologien und Dienstleistungen weiter antreibt.",
     "asymmetrie": {
       "verlust": 8,
       "gewinn": 18,
       "ratio": 2.3,
       "ev": 0.12
     },
-    "metaZyklus": "Umbruch. Der rasante Fortschritt in der KI markiert einen tiefgreifenden technologischen Umbruch, der bestehende Industrien verändert und neue schafft. Dies geschieht in einem Umfeld, das von wirtschaftlicher Unsicherheit und geopolitischen Verschiebungen geprägt ist.",
+    "metaZyklus": "Umbruch. Die massive Investition in KI signalisiert einen technologischen Umbruch, der bestehende Industrien verändert und neue schafft. Die Marktvolatilität und die unterschiedlichen Reaktionen auf KI-Nachrichten deuten auf eine Phase der Unsicherheit und Anpassung hin.",
     "halalAsset": "Xetra-Gold DE000A0S9GB0",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold als physisch hinterlegtes Edelmetall ist gemäß AAOIFI-Standards als halal anerkannt, da es als Vermögenswert und nicht als spekulatives Finanzinstrument gehandelt wird.",
+    "halalBegruendung": "Gold als physischer Vermögenswert ist gemäß AAOIFI-Standards als halal anerkannt, da es keine Zinsen generiert und als Ware gehandelt wird.",
     "purification": "0.00",
-    "entscheidung": "JA",
-    "richtung": "LONG",
-    "einstieg": 4600,
-    "stopLoss": 4400,
-    "ziel": 5000,
-    "zeitraum": "4-8 Wochen",
-    "einsatz": 3.13,
-    "exitStrategie": "Verkauf bei Erreichen des Kursziels oder bei einem Bruch des Stop-Loss. Zusätzliche Prüfung bei signifikanten negativen Nachrichten bezüglich Rohstofflieferketten oder KI-Regulierung.",
-    "waehrungsrisiko": "Der steigende EUR/USD-Kurs (aktuell -0.17%) könnte den Wert von in USD gehandelten Rohstoffen und Aktien für einen Euro-Anleger leicht reduzieren, jedoch ist der Effekt bei Gold (als globaler Wertspeicher) oft geringer.",
-    "psychologie": "FOMO (Fear Of Missing Out) treibt Investoren in den KI-Sektor. Die Angst vor Verpassen der nächsten großen Welle ist präsent.",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Der fallende EUR/USD-Kurs (1.1589, -0.57%) könnte US-Dollar-denominierte Anlagen für Euro-Investoren verteuern, was bei Long-Positionen in US-Aktien zu berücksichtigen ist.",
+    "psychologie": "FOMO (Fear Of Missing Out) ist bei den Anlegern stark ausgeprägt, da sie befürchten, die nächste große KI-Welle zu verpassen. Dies treibt die Investitionen in die Höhe, birgt aber auch das Risiko einer Korrektur.",
     "ruhigerTag": false,
-    "lernpunkt": "Periphere Assets: Dies sind oft übersehene Vermögenswerte, die indirekt von einem Haupt-Hype profitieren. Wenn beispielsweise der Hype um Elektroautos zunimmt, könnten Unternehmen, die seltene Erden für Batterien liefern, mit Verzögerung profitieren. Es geht darum, die gesamte Wertschöpfungskette eines Trends zu verstehen und nicht nur die offensichtlichen Gewinner.",
-    "tagesfrage": "Wie können wir die Abhängigkeiten in der globalen KI-Lieferkette nutzen, um strategische Vorteile zu erzielen, anstatt nur den Hype-Assets hinterherzujagen?",
-    "brief": "Ayman, heute sehen wir den klaren Fokus auf KI, mit Nvidia als Leuchtturm. Die Masse rennt den Tech-Giganten hinterher. Aber denk daran: Die wahre Stärke liegt oft in den Schatten. Die Rohstoffe und spezialisierten Zulieferer, die diese KI-Maschine am Laufen halten, sind unsere Chance. Die USA bauen ihren Vorsprung aus, was die geopolitische Bedeutung dieser Lieferketten erhöht. Bleib wachsam für die nachgelagerten Effekte, dort liegt das versteckte Gold. Halte dich an die islamischen Prinzipien, suche nach dem halal-gewinn und vermeide das Spekulative, das die Masse blind macht."
+    "lernpunkt": "Peripherie-Assets: Dies sind oft übersehene Anlagen, die indirekt von einem Haupt-Hype-Sektor profitieren. Sie bieten oft eine höhere Rendite mit geringerem Risiko, da sie nicht im direkten Fokus der Masse stehen. Die Identifizierung dieser Assets erfordert tiefere Marktkenntnisse und eine Analyse der Wertschöpfungskette.",
+    "tagesfrage": "Inwieweit wird die Fokussierung auf KI die Innovationskraft in anderen, nicht-technologischen Sektoren beeinträchtigen?",
+    "brief": "Ayman, heute sehen wir wieder die starke Konzentration auf KI. Die Masse rennt Nvidia und Co. hinterher, aber vergiss nicht die islamische Ethik: Wo ist der wahre, nachhaltige Nutzen für die Gesellschaft? Die Realität ist, dass diese Konzentration Risiken birgt und viele übersehen, dass die wahren Gewinne oft in den Zulieferketten und den weniger offensichtlichen Technologien liegen. Halte Ausschau nach diesen Peripherie-Assets, dort liegt oft die versteckte Chance, die der Masse entgeht. Sei geduldig und suche nach dem halal-konformen Weg."
   },
   "prices": {
     "GC=F": {
       "label": "Gold",
-      "price": 4663.2001953125,
-      "change": 1.413596564722483
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 70.17500305175781,
-      "change": 3.2137156297112126
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 80269.890625,
-      "change": 1.572199523306289
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 26367.240234375,
-      "change": 0.3092118148857384
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1655012369155884,
-      "change": -0.16898992932340823
+      "price": 4529,
+      "change": -1.7506603877311198
     },
     "CL=F": {
       "label": "Öl",
-      "price": 82.56999969482422,
-      "change": 0.41346993069526206
+      "price": 83.51000213623047,
+      "change": -0.023939474869670976
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 77780.3671875,
+      "change": -3.086528572812231
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 26569.990234375,
+      "change": 0.7689466102549276
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1588828563690186,
+      "change": -0.5666976140194474
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 67.68499755859375,
+      "change": -2.511923366942126
     }
   },
   "fearGreed": [
-    72,
     71,
     66,
     73,
     74,
     65,
-    71
+    71,
+    73
   ],
   "simulation": {
     "buy": 0,
