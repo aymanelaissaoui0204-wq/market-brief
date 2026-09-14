@@ -186,6 +186,7 @@ DEINE AUFGABE HEUTE:
 2. Zerlege die wichtigsten Bewegungen in KLARE WIRKUNGSKETTEN: Wenn A passiert, was folgt für B, C, D? (z.B. "Ölpreis steigt -> Fluglinien-Kosten hoch -> Airlines fallen, aber Energiewerte steigen -> Inflationsdruck -> Anleihen fallen -> Gold profitiert").
 3. Für JEDE Kette: was ist daraus KONKRET investierbar auf Trade Republic?
 4. Gib eine RANGLISTE von 3-5 Chancen quer über VERSCHIEDENE Assetklassen. NICHT jeden Tag dasselbe. NICHT automatisch Gold – erwähne Gold nur wenn die News es wirklich hergeben.
+5. ANTIZIPIERENDER ERKLÄRER: Zu JEDER Chance beantwortest du im "erklaerung"-Objekt alle typischen Anfängerfragen VON SELBST, bevor Ayman sie stellen muss – wie ein geduldiger Lehrer, jede Antwort 2-3 volle Sätze. Er ist Anfänger; setze nichts voraus, erkläre das "warum" hinter jedem Punkt.
 
 WICHTIGE REGELN:
 - Erklär jede Verbindung so, dass ein Anfänger den Mechanismus versteht ("warum" nicht nur "was").
@@ -218,7 +219,18 @@ Antworte NUR mit validem JSON (alle Felder ausfüllen, deutsch):
     }
   ],
   "chancen": [
-    { "rang": 1, "asset": "Name", "isin": "ISIN oder null", "klasse": "Aktien-ETF/Rohstoff/Krypto/Einzelaktie/Sektor-ETF", "richtung": "LONG/MEIDEN/REDUZIEREN", "halal": "halal/nicht-halal/fraglich", "einstieg": "Preis", "stopLoss": "Preis", "ziel": "Preis", "zeitraum": "z.B. 4-8 Wochen", "kette": "die Wirkungskette die diese Chance erzeugt", "konfidenz": 65 }
+    { "rang": 1, "asset": "Name", "isin": "ISIN oder null", "klasse": "Aktien-ETF/Rohstoff/Krypto/Einzelaktie/Sektor-ETF", "richtung": "LONG/MEIDEN/REDUZIEREN", "halal": "halal/nicht-halal/fraglich", "einstieg": "Preis", "stopLoss": "Preis", "ziel": "Preis", "zeitraum": "z.B. 4-8 Wochen", "kette": "die Wirkungskette die diese Chance erzeugt", "konfidenz": 65,
+      "erklaerung": {
+        "wasIstDas": "Was ist dieses Asset überhaupt? 2-3 Sätze für einen kompletten Anfänger.",
+        "warumJetzt": "Warum ist gerade JETZT der Moment? Welche News/welcher Auslöser? 2-3 Sätze.",
+        "wannKaufen": "Sofort kaufen, auf Rücksetzer warten oder auf Bestätigung? Nenne konkret den Preis/die Bedingung. 2-3 Sätze.",
+        "wieViel": "Wie viel bei ca. 50€ Budget? Erkläre Positionsgröße und warum klein anfangen. 2-3 Sätze.",
+        "wannRaus": "Bei welchem Preis Gewinn mitnehmen, bei welchem Stop raus? Erkläre die Logik dahinter. 2-3 Sätze.",
+        "wasKannSchiefgehen": "Das Gegen-Szenario: Was wenn es nicht klappt? Welches Risiko konkret? 2-3 Sätze.",
+        "woranErkenneIchFalsch": "Woran erkennt Ayman FRÜH, dass seine These kaputt ist – noch bevor der Stop greift? 2-3 Sätze.",
+        "begriffDesTrades": "Ein Fachbegriff der bei diesem Trade vorkommt, einfach erklärt. 2 Sätze."
+      }
+    }
   ],
   "narrativ": "Was die Masse glaubt",
   "realitaet": "Was wirklich dahinter steckt",
