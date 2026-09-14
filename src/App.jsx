@@ -59,25 +59,39 @@ SPRACHE: Deutsch. Kurze Sätze. Profi-Denken, Einsteiger-Sprache.`;
 // ═══════════════════════════════════════════════════════════════════════════
 // CONSTANTS
 // ═══════════════════════════════════════════════════════════════════════════
-// Nur Assets die auf Trade Republic verfügbar sind
+// Breites Markt-Universum (Kurse via Yahoo, handelbar/abbildbar auf Trade Republic)
 const TICKERS = [
-  { symbol: "GC=F",     label: "Gold",       emoji: "🥇", color: "#FFD700",  tr: "Xetra-Gold ETC" },
-  { symbol: "SI=F",     label: "Silber",     emoji: "🥈", color: "#C0C0C0",  tr: "Silber ETC" },
-  { symbol: "BTC-USD",  label: "Bitcoin",    emoji: "₿",  color: "#F7931A",  tr: "Bitcoin" },
-  { symbol: "^GDAXI",   label: "DAX",        emoji: "📈", color: "#00C896",  tr: "iShares Core DAX" },
-  { symbol: "EURUSD=X", label: "EUR/USD",    emoji: "💶", color: "#4ECDC4",  tr: "Kurs-Indikator" },
-  { symbol: "CL=F",     label: "Öl",         emoji: "🛢️", color: "#FF8C00",  tr: "WisdomTree Oil ETC" },
-  { symbol: "GLD",      label: "MSCI World", emoji: "🌍", color: "#6C8EFF",  tr: "iShares MSCI World Islamic" },
+  { symbol: "GC=F",     label: "Gold",     emoji: "🥇", color: "#FFD700" },
+  { symbol: "SI=F",     label: "Silber",   emoji: "🥈", color: "#C0C0C0" },
+  { symbol: "HG=F",     label: "Kupfer",   emoji: "🔶", color: "#FF6B35" },
+  { symbol: "CL=F",     label: "Öl",       emoji: "🛢️", color: "#FF8C00" },
+  { symbol: "NG=F",     label: "Erdgas",   emoji: "🔥", color: "#4ECDC4" },
+  { symbol: "BTC-USD",  label: "Bitcoin",  emoji: "₿",  color: "#F7931A" },
+  { symbol: "ETH-USD",  label: "Ethereum", emoji: "Ξ",  color: "#627EEA" },
+  { symbol: "^GDAXI",   label: "DAX",      emoji: "📈", color: "#00C896" },
+  { symbol: "^GSPC",    label: "S&P 500",  emoji: "🇺🇸", color: "#6C8EFF" },
+  { symbol: "^IXIC",    label: "Nasdaq",   emoji: "💻", color: "#B98EFF" },
+  { symbol: "EURUSD=X", label: "EUR/USD",  emoji: "💶", color: "#4ECDC4" },
+  { symbol: "DX-Y.NYB", label: "DXY",      emoji: "💵", color: "#6C8EFF" },
+  { symbol: "^TNX",     label: "US 10J",   emoji: "📊", color: "#FF6B9D" },
+  { symbol: "ZW=F",     label: "Weizen",   emoji: "🌾", color: "#E8C468" },
 ];
 
 const TV_CHARTS = [
-  { label: "🥇 Gold (Xetra-Gold)",           symbol: "TVC:GOLD" },
-  { label: "🥈 Silber ETC",                  symbol: "TVC:SILVER" },
-  { label: "₿ Bitcoin",                      symbol: "BINANCE:BTCUSDT" },
-  { label: "📈 DAX (iShares Core DAX)",      symbol: "XETRA:DAX" },
-  { label: "🛢️ Öl (WisdomTree Oil)",         symbol: "TVC:USOIL" },
-  { label: "🌍 MSCI World Islamic",          symbol: "SP:SPX" },
-  { label: "💶 EUR/USD",                     symbol: "FX:EURUSD" },
+  { label: "🥇 Gold (Xetra-Gold)",       symbol: "TVC:GOLD" },
+  { label: "🥈 Silber ETC",              symbol: "TVC:SILVER" },
+  { label: "🔶 Kupfer",                  symbol: "TVC:COPPER" },
+  { label: "🛢️ Öl (Brent/WTI)",          symbol: "TVC:USOIL" },
+  { label: "🔥 Erdgas",                  symbol: "TVC:NATGAS" },
+  { label: "₿ Bitcoin",                  symbol: "BINANCE:BTCUSDT" },
+  { label: "Ξ Ethereum",                 symbol: "BINANCE:ETHUSDT" },
+  { label: "📈 DAX",                     symbol: "XETRA:DAX" },
+  { label: "🇺🇸 S&P 500",                symbol: "SP:SPX" },
+  { label: "💻 Nasdaq 100",              symbol: "NASDAQ:NDX" },
+  { label: "💶 EUR/USD",                 symbol: "FX:EURUSD" },
+  { label: "💵 DXY (Dollar-Index)",      symbol: "TVC:DXY" },
+  { label: "📊 US 10J Rendite",          symbol: "TVC:US10Y" },
+  { label: "🌾 Weizen",                  symbol: "CBOT:ZW1!" },
 ];
 
 // Kein fake Sample – App zeigt klaren Hinweis wenn noch kein Briefing da ist
@@ -224,7 +238,6 @@ function TickerBar({ prices }) {
             <div style={{ fontSize: "9px", color: d ? (up ? "#00C896" : "#FF5050") : "rgba(255,255,255,0.2)", fontFamily: "'DM Mono'" }}>
               {d ? `${up ? "+" : ""}${d.change.toFixed(2)}%` : "—"}
             </div>
-            <div style={{ fontSize: "7px", color: "rgba(255,215,0,0.25)", fontFamily: "'DM Mono'", marginTop: "1px" }}>TR ✓</div>
           </div>
         );
       })}
@@ -507,6 +520,90 @@ function ChartBlock({ label, symbol }) {
         <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.2)" }}>{open ? "▲" : "▼"}</span>
       </div>
       {open && <div style={{ height: "340px" }} ref={ref} />}
+    </div>
+  );
+}
+
+function halalBadge(status) {
+  const s = (status || "").toLowerCase();
+  if (s.includes("nicht")) return { txt: "❌ nicht halal", col: "#FF5050" };
+  if (s.includes("fraglich") || s.includes("zweifel")) return { txt: "⚠️ fraglich", col: "#FFB800" };
+  if (s.includes("halal")) return { txt: "✅ halal", col: "#00C896" };
+  return { txt: "", col: "rgba(255,255,255,0.3)" };
+}
+
+function richtungBadge(r) {
+  const x = (r || "").toUpperCase();
+  if (x.includes("LONG")) return { col: "#00C896", bg: "rgba(0,200,100,0.1)" };
+  if (/MEIDEN|SHORT|REDUZIEREN/.test(x)) return { col: "#FF5050", bg: "rgba(255,80,80,0.1)" };
+  return { col: "#FFB800", bg: "rgba(255,184,0,0.1)" };
+}
+
+function BewegungenBlock({ bewegungen }) {
+  if (!Array.isArray(bewegungen) || bewegungen.length === 0) return null;
+  return (
+    <div style={{ marginBottom: "11px" }}>
+      <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,140,0,0.55)", fontFamily: "'DM Mono'", marginBottom: "9px" }}>🔗 MARKTBEWEGUNGEN – WIRKUNGSKETTEN</div>
+      {bewegungen.map((b, i) => {
+        const inv = b.investierbar || {};
+        const hb = halalBadge(inv.halal);
+        const rb = richtungBadge(inv.richtung);
+        return (
+          <div key={i} style={{ background: "rgba(255,255,255,0.025)", border: "1px solid rgba(255,140,0,0.15)", borderRadius: "11px", padding: "12px", marginBottom: "8px" }}>
+            <div style={{ fontSize: "12px", color: "#FFD700", fontWeight: "600", fontFamily: "'DM Mono'", marginBottom: "6px" }}>{b.ausloeser}</div>
+            {b.kette && <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.8)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "6px", padding: "7px 9px", background: "rgba(255,140,0,0.06)", borderRadius: "7px" }}>{b.kette}</div>}
+            {b.warum && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.55)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "7px" }}>💡 {b.warum}</div>}
+            {inv.asset && (
+              <div style={{ display: "flex", flexWrap: "wrap", gap: "6px", alignItems: "center", paddingTop: "7px", borderTop: "1px solid rgba(255,255,255,0.05)" }}>
+                <span style={{ fontSize: "10px", padding: "3px 8px", borderRadius: "6px", background: rb.bg, color: rb.col, fontFamily: "'DM Mono'", fontWeight: "600" }}>{inv.richtung}</span>
+                <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.75)", fontFamily: "'DM Mono'" }}>{inv.asset}</span>
+                {inv.isin && inv.isin !== "null" && <span style={{ fontSize: "9px", color: "rgba(255,215,0,0.4)", fontFamily: "'DM Mono'" }}>{inv.isin}</span>}
+                {hb.txt && <span style={{ fontSize: "9px", color: hb.col, fontFamily: "'DM Mono'" }}>{hb.txt}</span>}
+              </div>
+            )}
+            {inv.wie && <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", marginTop: "5px", lineHeight: "1.5" }}>{inv.wie}</div>}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+function ChancenList({ chancen }) {
+  if (!Array.isArray(chancen) || chancen.length === 0) return null;
+  return (
+    <div style={{ marginBottom: "11px" }}>
+      <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,215,0,0.5)", fontFamily: "'DM Mono'", marginBottom: "9px" }}>🎯 CHANCEN-RANGLISTE (ALLE ASSETKLASSEN)</div>
+      {chancen.map((c, i) => {
+        const hb = halalBadge(c.halal);
+        const rb = richtungBadge(c.richtung);
+        const konf = parseFloat(c.konfidenz);
+        return (
+          <div key={i} style={{ background: "rgba(255,255,255,0.025)", border: `1px solid ${rb.col}33`, borderRadius: "11px", padding: "12px", marginBottom: "8px" }}>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "7px" }}>
+              <div style={{ display: "flex", gap: "7px", alignItems: "center" }}>
+                <span style={{ fontSize: "13px", fontWeight: "800", fontFamily: "'Syne'", color: "#FFD700" }}>#{c.rang || i + 1}</span>
+                <span style={{ fontSize: "12px", color: "white", fontFamily: "'DM Mono'", fontWeight: "600" }}>{c.asset}</span>
+              </div>
+              <span style={{ fontSize: "10px", padding: "3px 8px", borderRadius: "6px", background: rb.bg, color: rb.col, fontFamily: "'DM Mono'", fontWeight: "600" }}>{c.richtung}</span>
+            </div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "6px", marginBottom: "7px" }}>
+              {c.klasse && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'", padding: "2px 7px", background: "rgba(255,255,255,0.04)", borderRadius: "5px" }}>{c.klasse}</span>}
+              {hb.txt && <span style={{ fontSize: "9px", color: hb.col, fontFamily: "'DM Mono'" }}>{hb.txt}</span>}
+              {c.isin && c.isin !== "null" && <span style={{ fontSize: "9px", color: "rgba(255,215,0,0.4)", fontFamily: "'DM Mono'" }}>{c.isin}</span>}
+              {!isNaN(konf) && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'" }}>Konfidenz {konf}%</span>}
+            </div>
+            {c.kette && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "7px" }}>{c.kette}</div>}
+            {(c.einstieg || c.stopLoss || c.ziel) && (
+              <div style={{ display: "flex", gap: "6px" }}>
+                {c.einstieg && <div style={{ flex: 1, background: "rgba(255,215,0,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>EINSTIEG</div><div style={{ fontSize: "11px", color: "#FFD700", fontFamily: "'DM Mono'" }}>{c.einstieg}</div></div>}
+                {c.stopLoss && <div style={{ flex: 1, background: "rgba(255,80,80,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>STOP</div><div style={{ fontSize: "11px", color: "#FF5050", fontFamily: "'DM Mono'" }}>{c.stopLoss}</div></div>}
+                {c.ziel && <div style={{ flex: 1, background: "rgba(0,200,100,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>ZIEL</div><div style={{ fontSize: "11px", color: "#00C896", fontFamily: "'DM Mono'" }}>{c.ziel}</div></div>}
+              </div>
+            )}
+          </div>
+        );
+      })}
     </div>
   );
 }
@@ -963,12 +1060,15 @@ export default function App() {
 
           {s && <KernLeiste s={s} fg={fg} prices={prices} sim={sim} />}
 
+          {s && s.brief && <Brief text={s.brief} date={briefing?.date || today()} />}
+
+          {s && <BewegungenBlock bewegungen={s.bewegungen} />}
+
           <HypeAnalysis hypeCenter={s?.hypeCenter} peripherEffect={s?.peripherEffect} hypeNews={s?.hypeNews} />
 
           <NewsBoard news={news} />
 
           {s && !schnell && <>
-            <Brief text={s.brief} date={briefing?.date || today()} />
             <div style={{ marginBottom: "8px" }}>
               <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,255,255,0.22)", marginBottom: "7px" }}>📰 OBERFLÄCHE</div>
               {(s.oberflaeche || []).map((item, i) => (
@@ -1047,6 +1147,7 @@ export default function App() {
               </div>
             </div>
           ) : <>
+          <ChancenList chancen={s.chancen} />
           <Block icon="💡" title="Opportunity" accent="rgba(255,215,0,0.22)">{s.opportunity || "Kein klares Setup heute."}</Block>
           <AsymmetrieCard a={s.asymmetrie} />
           {s.entscheidung === "JA" && <TradingViewChart asset={s.halalAsset} stopLoss={s.stopLoss} ziel={s.ziel} einstieg={s.einstieg} />}
