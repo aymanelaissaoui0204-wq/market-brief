@@ -569,41 +569,73 @@ function BewegungenBlock({ bewegungen }) {
   );
 }
 
+function ChanceCard({ c, i }) {
+  const [showErkl, setShowErkl] = useState(i === 0); // Top-Chance direkt offen
+  const hb = halalBadge(c.halal);
+  const rb = richtungBadge(c.richtung);
+  const konf = parseFloat(c.konfidenz);
+  const e = c.erklaerung || {};
+  const fragen = [
+    ["📌 Was ist das?", e.wasIstDas],
+    ["⏰ Warum jetzt?", e.warumJetzt],
+    ["🛒 Wann kaufen?", e.wannKaufen],
+    ["💰 Wie viel?", e.wieViel],
+    ["🚪 Wann wieder raus?", e.wannRaus],
+    ["⚠️ Was kann schiefgehen?", e.wasKannSchiefgehen],
+    ["🔍 Woran erkenne ich, dass ich falsch lag?", e.woranErkenneIchFalsch],
+    ["📖 Begriff des Trades", e.begriffDesTrades],
+  ].filter(([, v]) => v);
+
+  return (
+    <div style={{ background: "rgba(255,255,255,0.025)", border: `1px solid ${rb.col}33`, borderRadius: "11px", padding: "12px", marginBottom: "8px" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "7px" }}>
+        <div style={{ display: "flex", gap: "7px", alignItems: "center" }}>
+          <span style={{ fontSize: "13px", fontWeight: "800", fontFamily: "'Syne'", color: "#FFD700" }}>#{c.rang || i + 1}</span>
+          <span style={{ fontSize: "12px", color: "white", fontFamily: "'DM Mono'", fontWeight: "600" }}>{c.asset}</span>
+        </div>
+        <span style={{ fontSize: "10px", padding: "3px 8px", borderRadius: "6px", background: rb.bg, color: rb.col, fontFamily: "'DM Mono'", fontWeight: "600" }}>{c.richtung}</span>
+      </div>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: "6px", marginBottom: "7px" }}>
+        {c.klasse && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'", padding: "2px 7px", background: "rgba(255,255,255,0.04)", borderRadius: "5px" }}>{c.klasse}</span>}
+        {hb.txt && <span style={{ fontSize: "9px", color: hb.col, fontFamily: "'DM Mono'" }}>{hb.txt}</span>}
+        {c.isin && c.isin !== "null" && <span style={{ fontSize: "9px", color: "rgba(255,215,0,0.4)", fontFamily: "'DM Mono'" }}>{c.isin}</span>}
+        {!isNaN(konf) && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'" }}>Konfidenz {konf}%</span>}
+      </div>
+      {c.kette && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "7px" }}>{c.kette}</div>}
+      {(c.einstieg || c.stopLoss || c.ziel) && (
+        <div style={{ display: "flex", gap: "6px", marginBottom: fragen.length ? "9px" : "0" }}>
+          {c.einstieg && <div style={{ flex: 1, background: "rgba(255,215,0,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>EINSTIEG</div><div style={{ fontSize: "11px", color: "#FFD700", fontFamily: "'DM Mono'" }}>{c.einstieg}</div></div>}
+          {c.stopLoss && <div style={{ flex: 1, background: "rgba(255,80,80,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>STOP</div><div style={{ fontSize: "11px", color: "#FF5050", fontFamily: "'DM Mono'" }}>{c.stopLoss}</div></div>}
+          {c.ziel && <div style={{ flex: 1, background: "rgba(0,200,100,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>ZIEL</div><div style={{ fontSize: "11px", color: "#00C896", fontFamily: "'DM Mono'" }}>{c.ziel}</div></div>}
+        </div>
+      )}
+      {fragen.length > 0 && (
+        <>
+          <button onClick={() => setShowErkl(o => !o)} style={{ width: "100%", padding: "8px", background: "rgba(255,215,0,0.06)", border: "1px solid rgba(255,215,0,0.15)", borderRadius: "8px", color: "#FFD700", fontSize: "11px", fontFamily: "'DM Mono'", cursor: "pointer", display: "flex", justifyContent: "center", gap: "6px", alignItems: "center" }}>
+            👨‍🏫 {showErkl ? "Erklärung schließen" : "Alles erklären lassen"} <span style={{ fontSize: "9px" }}>{showErkl ? "▲" : "▼"}</span>
+          </button>
+          {showErkl && (
+            <div style={{ marginTop: "9px", display: "flex", flexDirection: "column", gap: "8px" }}>
+              {fragen.map(([frage, antwort], k) => (
+                <div key={k} style={{ padding: "9px 10px", background: "rgba(255,255,255,0.02)", borderRadius: "8px", borderLeft: "2px solid rgba(255,215,0,0.3)" }}>
+                  <div style={{ fontSize: "11px", color: "#FFD700", fontFamily: "'DM Mono'", fontWeight: "600", marginBottom: "4px" }}>{frage}</div>
+                  <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.72)", fontFamily: "'DM Mono'", lineHeight: "1.7" }}>{antwort}</div>
+                </div>
+              ))}
+            </div>
+          )}
+        </>
+      )}
+    </div>
+  );
+}
+
 function ChancenList({ chancen }) {
   if (!Array.isArray(chancen) || chancen.length === 0) return null;
   return (
     <div style={{ marginBottom: "11px" }}>
       <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,215,0,0.5)", fontFamily: "'DM Mono'", marginBottom: "9px" }}>🎯 CHANCEN-RANGLISTE (ALLE ASSETKLASSEN)</div>
-      {chancen.map((c, i) => {
-        const hb = halalBadge(c.halal);
-        const rb = richtungBadge(c.richtung);
-        const konf = parseFloat(c.konfidenz);
-        return (
-          <div key={i} style={{ background: "rgba(255,255,255,0.025)", border: `1px solid ${rb.col}33`, borderRadius: "11px", padding: "12px", marginBottom: "8px" }}>
-            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "7px" }}>
-              <div style={{ display: "flex", gap: "7px", alignItems: "center" }}>
-                <span style={{ fontSize: "13px", fontWeight: "800", fontFamily: "'Syne'", color: "#FFD700" }}>#{c.rang || i + 1}</span>
-                <span style={{ fontSize: "12px", color: "white", fontFamily: "'DM Mono'", fontWeight: "600" }}>{c.asset}</span>
-              </div>
-              <span style={{ fontSize: "10px", padding: "3px 8px", borderRadius: "6px", background: rb.bg, color: rb.col, fontFamily: "'DM Mono'", fontWeight: "600" }}>{c.richtung}</span>
-            </div>
-            <div style={{ display: "flex", flexWrap: "wrap", gap: "6px", marginBottom: "7px" }}>
-              {c.klasse && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'", padding: "2px 7px", background: "rgba(255,255,255,0.04)", borderRadius: "5px" }}>{c.klasse}</span>}
-              {hb.txt && <span style={{ fontSize: "9px", color: hb.col, fontFamily: "'DM Mono'" }}>{hb.txt}</span>}
-              {c.isin && c.isin !== "null" && <span style={{ fontSize: "9px", color: "rgba(255,215,0,0.4)", fontFamily: "'DM Mono'" }}>{c.isin}</span>}
-              {!isNaN(konf) && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'" }}>Konfidenz {konf}%</span>}
-            </div>
-            {c.kette && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "7px" }}>{c.kette}</div>}
-            {(c.einstieg || c.stopLoss || c.ziel) && (
-              <div style={{ display: "flex", gap: "6px" }}>
-                {c.einstieg && <div style={{ flex: 1, background: "rgba(255,215,0,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>EINSTIEG</div><div style={{ fontSize: "11px", color: "#FFD700", fontFamily: "'DM Mono'" }}>{c.einstieg}</div></div>}
-                {c.stopLoss && <div style={{ flex: 1, background: "rgba(255,80,80,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>STOP</div><div style={{ fontSize: "11px", color: "#FF5050", fontFamily: "'DM Mono'" }}>{c.stopLoss}</div></div>}
-                {c.ziel && <div style={{ flex: 1, background: "rgba(0,200,100,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>ZIEL</div><div style={{ fontSize: "11px", color: "#00C896", fontFamily: "'DM Mono'" }}>{c.ziel}</div></div>}
-              </div>
-            )}
-          </div>
-        );
-      })}
+      {chancen.map((c, i) => <ChanceCard key={i} c={c} i={i} />)}
     </div>
   );
 }
