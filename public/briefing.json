@@ -1,6 +1,6 @@
 {
-  "date": "Samstag, 19. September 2026",
-  "generatedAt": "2026-09-19T09:12:36.476Z",
+  "date": "Sonntag, 20. September 2026",
+  "generatedAt": "2026-09-20T09:36:59.337Z",
   "news": [
     {
       "title": "Fed: Demonstration der Unabhängigkeit",
@@ -10,6 +10,34 @@
       "origin": "GNews"
     },
     {
+      "title": "World leaders return to UN amid wars in Middle East and Ukraine - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Turkey says it could help meet Saudi military needs under defence pact - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Flames, black smoke seen near Riyadh airport, eyewitness says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Meta-tied data centre draws blowout demand for debut junk bond",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
       "title": "Iran executes man convicted of spying for Israel's Mossad, judiciary says - Reuters",
       "source": "Reuters",
       "sentiment": null,
@@ -17,7 +45,21 @@
       "origin": "Finnhub"
     },
     {
-      "title": "Saudi civil defence sends all-clear after alerts issued for capital Riyadh - Reuters",
+      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Foreign hackers targeted Colorado water systems in August, governor's office says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -25,13 +67,6 @@
     },
     {
       "title": "Trump signs Russia sanctions bill into law - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
@@ -52,6 +87,20 @@
       "origin": "Finnhub"
     },
     {
+      "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
       "title": "Republican China committee chair urges tough Trump line with Xi - Reuters",
       "source": "Reuters",
       "sentiment": null,
@@ -59,325 +108,282 @@
       "origin": "Finnhub"
     },
     {
-      "title": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "McDonald's is the new 'Value Meal,' says trader Mike Khouw",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Caviar and champagne: Air France's luxury shift helps ride out Iran war impact - Reuters",
+      "title": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "We're buying more of this defensive stock ahead of an upcoming long-term catalyst",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Disney names CTO for the first time as media giant expands tech push",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "What Jim Cramer learned at NYC's flagship Apple Store for the iPhone 18 launch",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "10 Money Skills That Separate Upper-Class People From Working-Class People, Based on Financial Literacy",
-      "source": "newtraderu.com",
+      "title": "East Pipes signs SAR 771M contract with Saudi Aramco",
+      "source": "argaam.com",
       "sentiment": null,
       "tickers": [],
       "origin": "Marketaux"
     },
     {
-      "title": "10 Books To Help You Master 10 Essential Psychology Skills",
-      "source": "newtraderu.com",
+      "title": "Cost of Living in Bali: How an American Retiree Spends $1,300 a Month",
+      "source": "businessinsider.com",
       "sentiment": null,
       "tickers": [],
       "origin": "Marketaux"
     },
     {
-      "title": "Harbor SMID Cap Value ETF Q2 2026 Commentary",
-      "source": "seekingalpha.com",
+      "title": "AI Agents Can Finally Run Your Errands — Just Hope They Behave",
+      "source": "businessinsider.com",
       "sentiment": null,
       "tickers": [],
       "origin": "Marketaux"
     }
   ],
   "sections": {
-    "brief": "Ayman, heute schauen wir uns an, wie geopolitische Spannungen und die Reaktion der Zentralbanken die Märkte bewegen. Die Nachrichten deuten auf eine anhaltende Unsicherheit hin, was traditionell bestimmte Anlageklassen wie Gold oder defensive Werte begünstigt. Wir müssen aber auch die Auswirkungen auf Rohstoffe und globale Lieferketten verstehen, um die Zusammenhänge zu erkennen. Dein Ziel ist es, diese komplexen Ketten zu entschlüsseln und halal-konforme Chancen zu identifizieren.",
-    "marktlage": "Die Märkte zeigen sich heute gemischt, mit geopolitischen Spannungen, die auf Rohstoffe drücken, während die US-Zinsen weiter steigen und die Aktienmärkte unter Druck setzen. Die allgemeine Stimmung ist von Vorsicht geprägt, aber auch von der Suche nach Gelegenheiten.",
+    "brief": "Ayman, heute sehen wir, wie sich Geopolitik und Technologie in den Märkten mischen. Die Nachrichten über Konflikte und Cyberangriffe beeinflussen direkt die Preise von Öl, Rüstung und sogar die Nachfrage nach Rechenzentren. Das zeigt, dass die Welt nicht nur von Zinsen und KI getrieben wird, sondern auch von globalen Spannungen und der Notwendigkeit von Infrastruktur. Lass uns diese Ketten verstehen, um kluge, halal-konforme Entscheidungen zu treffen.",
+    "marktlage": "Die Märkte zeigen sich widerstandsfähig trotz geopolitischer Spannungen und eines Anstiegs der US-Staatsanleihenzinsen, wobei Technologieaktien leicht zulegen, während der DAX nachgibt. Die Nachrichtenlage ist komplex und deutet auf eine volatile Phase hin.",
     "oberflaeche": [
-      "Quelle: General Anzeiger: Fed: Demonstration der Unabhängigkeit",
-      "Quelle: Reuters: Iran executes man convicted of spying for Israel's Mossad, judiciary says - Reuters",
-      "Quelle: CNBC: What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks"
+      "Quelle: Reuters: Flames, black smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital - Reuters",
+      "Quelle: Bloomberg: Meta-tied data centre draws blowout demand for debut junk bond",
+      "Quelle: Reuters: Fed: Demonstration der Unabhängigkeit"
     ],
     "bewegungen": [
       {
-        "ausloeser": "US 10-Jahreszins steigt auf 4.9980% (+1.03%)",
-        "kette": "US-Zinsen steigen -> Anleihen werden unattraktiver -> Kapital fließt aus Aktien in Anleihen -> Aktienmärkte fallen (DAX -1.60%)",
-        "warum": "Wenn die Zinsen für sichere Staatsanleihen steigen, werden diese als Anlage attraktiver. Investoren ziehen Geld aus risikoreicheren Anlagen wie Aktien ab, um von den höheren Renditen der Anleihen zu profitieren. Dies erhöht die Nachfrage nach Anleihen und senkt gleichzeitig die Kurse anderer Anlageklassen.",
-        "betroffen": "Aktien (insbesondere Wachstumsaktien), Anleihen, möglicherweise auch Rohstoffe, die über Derivate gehandelt werden.",
-        "investierbar": {
-          "asset": "iShares US Treasury ETFs",
-          "isin": "null",
-          "richtung": "MEIDEN/REDUZIEREN",
-          "halal": "nicht-halal",
-          "wie": "Diese ETFs investieren in US-Staatsanleihen, die durch Zinszahlungen Erträge generieren, was sie für muslimische Anleger ungeeignet macht."
-        }
-      },
-      {
-        "ausloeser": "Ölpreis fällt auf 100 (-1.58%), Weizen fällt auf 714 (-1.75%)",
-        "kette": "Geopolitische Entspannung im Nahen Osten (Saudi-Zivilschutz hebt Warnungen auf) -> Weniger Sorge vor Lieferunterbrechungen -> Öl- und Weizenpreise fallen",
-        "warum": "Nachrichten über eine Deeskalation von Spannungen oder die Aufhebung von Warnungen in wichtigen Regionen reduzieren die Angst vor plötzlichen Lieferausfällen von wichtigen Rohstoffen wie Öl und Weizen. Diese reduzierte Angst führt zu Verkäufen und damit sinkenden Preisen.",
-        "betroffen": "Energieunternehmen, Agrarunternehmen, Transportsektor.",
+        "ausloeser": "Angriffe auf Saudi-Arabien (Riad Airport) und Houthi-Ansprüche",
+        "kette": "Geopolitische Spannungen im Nahen Osten steigen -> Unsicherheit bezüglich Ölversorgung steigt -> Ölpreis steigt (obwohl kurzfristig durch China-Bitte gedämpft) -> Energiewerte und Rüstungsaktien steigen.",
+        "warum": "Konflikte in ölproduzierenden Regionen erhöhen die Risikoaufschläge für Öl, da Lieferunterbrechungen befürchtet werden. Unternehmen, die von höherer Energieproduktion oder erhöhter Verteidigung profitieren, sehen oft steigende Kurse.",
+        "betroffen": "Energie-Sektor (Öl & Gas), Rüstungsindustrie, Rohstoffe (Öl), Geopolitische Risikoprämien.",
         "investierbar": {
           "asset": "WisdomTree Brent Oil",
           "isin": "null",
-          "richtung": "MEIDEN/REDUZIEREN",
-          "halal": "fraglich",
-          "wie": "Investitionen in Rohöl-ETCs sind spekulativ und können von geopolitischen Ereignissen stark beeinflusst werden, was die Halal-Konformität beeinträchtigen kann, wenn sie auf reine Spekulation abzielen."
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Bei anhaltenden Spannungen oder Eskalation könnte ein Long-Einstieg in Öl-ETCs sinnvoll sein, um von potenziellen Preissteigerungen zu profitieren."
         }
       },
       {
-        "ausloeser": "Nike trennt sich von Kylian Mbappé, der zu On wechselt",
-        "kette": "Großer Sportartikelhersteller (Nike) verliert prominenten Athleten an einen aufstrebenden Konkurrenten (On) -> Potenzielle Schwächung der Marke Nike, Stärkung von On -> Aktien von Nike könnten unter Druck geraten, On könnte profitieren.",
-        "warum": "Wenn ein Unternehmen wie Nike, das stark auf Markenbotschafter setzt, einen Superstar verliert, kann das die Wahrnehmung und die Verkaufszahlen beeinflussen. Gleichzeitig kann der aufstrebende Konkurrent On durch die Verpflichtung eines solchen Talents seine eigene Marke stärken und Marktanteile gewinnen.",
-        "betroffen": "Sportartikelhersteller, Konsumgüter.",
+        "ausloeser": "Meta-Rechenzentrum-Anleihe mit hoher Nachfrage",
+        "kette": "Hohe Nachfrage nach Anleihen für Rechenzentren -> Signalisiert starkes Wachstum im Datenspeicher- und KI-Infrastrukturbereich -> Investoren suchen nach Unternehmen, die von diesem Trend profitieren.",
+        "warum": "Die Nachfrage nach solchen Anleihen zeigt, dass große Technologieunternehmen stark in ihre Infrastruktur investieren, was auf zukünftiges Wachstum in Bereichen wie KI und Datenverarbeitung hindeutet. Dies kann das Vertrauen in Tech-Unternehmen stärken.",
+        "betroffen": "Technologie-Sektor, Halbleiter, Cloud-Anbieter, KI-Infrastruktur.",
+        "investierbar": {
+          "asset": "iShares Nasdaq 100",
+          "isin": "IE00B53SZB19",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Ein Investment in den Nasdaq 100 ETF könnte von der anhaltenden Stärke im Tech-Sektor profitieren, der durch den Ausbau von Rechenzentren weiter angekurbelt wird."
+        }
+      },
+      {
+        "ausloeser": "Cyberangriffe auf Wassersysteme in Colorado",
+        "kette": "Zunehmende Cyberangriffe auf kritische Infrastruktur -> Erhöhte Nachfrage nach Cybersicherheitslösungen -> Unternehmen im Cybersicherheitssektor könnten profitieren.",
+        "warum": "Wenn kritische Infrastrukturen wie Wasserversorgungssysteme angegriffen werden, wächst der Druck auf Regierungen und Unternehmen, ihre Abwehrsysteme zu verbessern. Dies treibt die Nachfrage nach spezialisierten Cybersicherheitsfirmen an.",
+        "betroffen": "Cybersicherheits-Unternehmen, Technologie-Sektor.",
         "investierbar": {
           "asset": "iShares Automation & Robotics",
           "isin": "IE00BYZK4552",
-          "richtung": "MEIDEN/REDUZIEREN",
+          "richtung": "LONG",
           "halal": "halal",
-          "wie": "Dieser ETF investiert in Unternehmen, die von Automatisierung und Robotik profitieren, was indirekt durch die Effizienzsteigerung im Konsumgütersektor beeinflusst werden kann, aber nicht direkt auf die Sportmarken abzielt."
+          "wie": "Obwohl kein reiner Cybersecurity-ETF, sind viele Unternehmen in diesem ETF stark in Automatisierungs- und Sicherheitslösungen involviert, die auch Cybersicherheit umfassen können. Die steigende Bedrohungslage könnte hier Rückenwind geben."
         }
       }
     ],
     "chancen": [
       {
         "rang": 1,
-        "asset": "Xetra-Gold",
-        "isin": "DE000A0S9GB0",
-        "klasse": "Rohstoff (ETC)",
+        "asset": "WisdomTree Brent Oil",
+        "isin": null,
+        "klasse": "Rohstoff ETC",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 4425,
-        "stopLoss": 4300,
-        "ziel": 4650,
+        "einstieg": 96.08,
+        "stopLoss": 92,
+        "ziel": 105,
         "zeitraum": "4-8 Wochen",
-        "kette": "Geopolitische Unsicherheit (Iran-Konflikt) & steigende US-Zinsen (als defensives Mittel) -> Nachfrage nach Gold steigt -> Goldpreis steigt.",
-        "konfidenz": 75,
+        "kette": "Geopolitische Spannungen im Nahen Osten steigen -> Unsicherheit bezüglich Ölversorgung steigt -> Ölpreis steigt (obwohl kurzfristig durch China-Bitte gedämpft).",
+        "konfidenz": 70,
         "erklaerung": {
-          "wasIstDas": "Xetra-Gold ist ein ETC (Exchange Traded Commodity), der physisches Gold repräsentiert. Das bedeutet, mit jedem Anteil an Xetra-Gold besitzt du einen kleinen Teil echten Goldes, das sicher verwahrt wird. Es ist eine einfache Möglichkeit, in Gold zu investieren, ohne es physisch lagern zu müssen.",
-          "warumJetzt": "Die Nachrichtenlage ist heute von erhöhter geopolitischer Spannung geprägt, insbesondere durch die Meldungen aus dem Iran und die Reaktion der USA. In solchen unsicheren Zeiten suchen Investoren oft nach sicheren Häfen wie Gold, um ihr Vermögen zu schützen. Gleichzeitig steigen die US-Zinsen, was zwar oft negativ für Gold ist, aber die geopolitische Unsicherheit überwiegt hier aktuell.",
-          "wannKaufen": "Du kannst jetzt bei etwa 4425 kaufen. Wenn der Preis kurzfristig leicht fällt, warte auf einen Rücksetzer in Richtung 4400, um einen besseren Einstiegspreis zu bekommen. Wichtig ist, dass der Preis über der Marke von 4350 bleibt, um die Aufwärtsbewegung nicht zu gefährden.",
-          "wieViel": "Bei deinem Budget von ca. 50€ kaufst du für den gesamten Betrag Anteile an Xetra-Gold. Da Gold ein relativ teures Gut ist, wirst du nur einen kleinen Bruchteil eines ganzen Anteils besitzen. Dies ist gut so, denn es ermöglicht dir, die Bewegung des Goldpreises zu verfolgen, ohne dein gesamtes Kapital zu binden und das Risiko zu streuen.",
-          "wannRaus": "Wenn der Preis das Ziel von 4650 erreicht, solltest du überlegen, einen Teil oder die gesamte Position zu verkaufen, um deinen Gewinn zu sichern. Wenn der Preis jedoch unter 4300 fällt, solltest du deine Position schließen (Stop-Loss), um größere Verluste zu vermeiden. Dies schützt dein Kapital, falls sich die Marktlage unerwartet ändert.",
-          "wasKannSchiefgehen": "Das Hauptrisiko ist eine schnelle Entspannung der geopolitischen Lage oder eine überraschende Zinssenkung durch die Fed, die die Nachfrage nach Gold dämpfen könnte. Wenn die Nachrichtenlage sich beruhigt und die Zinsen weiter steigen, könnte der Goldpreis fallen und deinen Stop-Loss auslösen.",
-          "woranErkenneIchFalsch": "Wenn du siehst, dass trotz negativer Nachrichten die Kurse von Gold nicht steigen oder sogar fallen, und wichtige Unterstützungsmarken wie 4350 unterschritten werden, ist deine These wahrscheinlich falsch. Achte auch auf eine anhaltende Stärke des US-Dollars, die tendenziell negativ für Gold ist.",
-          "begriffDesTrades": "Sicherer Hafen (Safe Haven): Das ist ein Begriff für Anlageklassen wie Gold, die in Zeiten wirtschaftlicher oder politischer Unsicherheit tendenziell ihren Wert behalten oder sogar steigern. Investoren flüchten in sichere Häfen, um ihr Vermögen zu schützen, wenn andere Märkte volatil sind."
+          "wasIstDas": "Der WisdomTree Brent Oil ETC ist ein börsengehandeltes Wertpapier, das die Preisentwicklung von Brent-Rohöl abbildet. Brent ist eine wichtige globale Rohölsorte, die als Benchmark für viele internationale Ölpreise dient. Der ETC ermöglicht es dir, auf Preisänderungen von Öl zu spekulieren, ohne das physische Öl besitzen zu müssen.",
+          "warumJetzt": "Aktuelle Nachrichten zeigen erhöhte geopolitische Spannungen im Nahen Osten, insbesondere Angriffe auf Saudi-Arabien. Obwohl China versucht, die Angriffe zu dämpfen, bleibt das Risiko von Lieferunterbrechungen bestehen, was den Ölpreis tendenziell nach oben treibt.",
+          "wannKaufen": "Ein Kauf bei aktuellen Kursen um 96.08 USD ist vertretbar, da die geopolitische Lage kurzfristig eskalieren kann. Alternativ könnte man auf eine leichte Konsolidierung unter 95 USD warten, um einen besseren Einstiegspreis zu erzielen.",
+          "wieViel": "Bei einem Budget von 50€ solltest du nur einen kleinen Teil investieren, vielleicht 10-15€. Das hilft dir, das Risiko zu begrenzen und trotzdem die Preisentwicklung zu verfolgen. Wichtig ist, dass du nicht mehr verlierst, als du bereit bist zu verlieren.",
+          "wannRaus": "Wenn der Ölpreis über 105 USD steigt, nimmst du Gewinne mit. Setze einen Stop-Loss bei 92 USD, um deine Verluste zu begrenzen, falls sich die Lage beruhigt oder die Angriffe nicht eskalieren.",
+          "wasKannSchiefgehen": "Die Spannungen könnten schnell deeskaliert werden, oder China könnte erfolgreich vermitteln, was den Ölpreis fallen ließe. Auch eine globale Konjunkturabschwächung könnte die Nachfrage nach Öl dämpfen und den Preis drücken.",
+          "woranErkenneIchFalsch": "Wenn die Nachrichtenlage sich deutlich entspannt, die Ölpreise stabil bleiben oder fallen, obwohl die Spannungen weitergehen, oder wenn die Nachfrage nach Öl weltweit sinkt, dann könnte deine These falsch sein.",
+          "begriffDesTrades": "Geopolitisches Risiko. Dies beschreibt die Unsicherheit und potenzielle Gefahr, die von politischen Ereignissen oder Konflikten ausgeht und sich auf Finanzmärkte und Rohstoffpreise auswirken kann."
         }
       },
       {
         "rang": 2,
-        "asset": "iShares MSCI World Islamic",
-        "isin": "IE00B27YCK28",
+        "asset": "iShares Nasdaq 100",
+        "isin": "IE00B53SZB19",
         "klasse": "Aktien-ETF",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 160,
-        "stopLoss": 155,
-        "ziel": 175,
-        "zeitraum": "3-6 Monate",
-        "kette": "Steigende Zinsen belasten breite Aktienmärkte, aber islamische Aktien (die oft weniger zinssensibel sind und auf ethische Kriterien achten) könnten relativ stabiler bleiben und von globalem Wachstum profitieren.",
-        "konfidenz": 60,
+        "einstieg": 450,
+        "stopLoss": 420,
+        "ziel": 500,
+        "zeitraum": "6-12 Wochen",
+        "kette": "Hohe Nachfrage nach Anleihen für Rechenzentren -> Signalisiert starkes Wachstum im Datenspeicher- und KI-Infrastrukturbereich -> Investoren suchen nach Unternehmen, die von diesem Trend profitieren.",
+        "konfidenz": 65,
         "erklaerung": {
-          "wasIstDas": "Dieser ETF investiert in Unternehmen aus entwickelten Ländern, die nach islamischen Glaubensgrundsätzen wirtschaften. Das bedeutet, dass Unternehmen, die Zinsen erwirtschaften oder zahlen (wie Banken), Glücksspiel, Alkohol, Schweinefleisch oder Waffen produzieren, ausgeschlossen sind. Der Fokus liegt auf ethischem und nachhaltigem Investieren.",
-          "warumJetzt": "Obwohl die Zinsen steigen, was den Gesamtmarkt unter Druck setzt, sind islamische Aktien oft weniger von diesen Zinsschwankungen betroffen, da sie bestimmte Sektoren meiden. Zudem globalen Wachstumstrends, die auch diese Unternehmen erfassen. Die aktuelle Marktunsicherheit könnte Anleger zu stabileren, ethisch ausgerichteten Investments lenken.",
-          "wannKaufen": "Du kannst jetzt bei etwa 160.00 einsteigen. Wenn der Kurs leicht zurücksetzt, warte auf eine Gelegenheit um 158.00. Ein wichtiger Punkt ist, dass der ETF über der Marke von 157.00 bleibt, um die Aufwärtsbewegung zu bestätigen.",
-          "wieViel": "Mit deinem 50€ Budget investierst du den gesamten Betrag in diesen ETF. Das ist eine gute Möglichkeit, diversifiziert in viele ethische Unternehmen weltweit zu investieren und gleichzeitig dein Kapital nicht auf einzelne, volatile Werte zu konzentrieren.",
-          "wannRaus": "Wenn der Kurs das Ziel von 175.00 erreicht, solltest du überlegen, deine Anteile zu verkaufen und den Gewinn zu realisieren. Sollte der Kurs jedoch unter 155.00 fallen, verkaufe deine Anteile, um Verluste zu begrenzen. Dies schützt dein Kapital, falls die Marktbedingungen sich gegen deine Anlageentscheidung entwickeln.",
-          "wasKannSchiefgehen": "Eine globale Rezession oder eine starke Korrektur an den Aktienmärkten würde auch diesen ETF treffen, selbst wenn er ethische Kriterien erfüllt. Wenn das globale Wachstum stark nachlässt oder die geopolitischen Risiken weiter eskalieren, könnte dies die Nachfrage nach Aktien generell dämpfen.",
-          "woranErkenneIchFalsch": "Wenn der ETF trotz positiver globaler Wirtschaftsdaten oder einer Beruhigung der geopolitischen Lage nicht steigt und wichtige Unterstützungen wie 157.00 durchbricht, ist deine These möglicherweise nicht mehr haltbar. Achte auch darauf, ob die breiteren islamischen Aktienindizes Schwäche zeigen.",
-          "begriffDesTrades": "Ethische Kriterien (im islamischen Finanzwesen): Das sind Regeln, die festlegen, welche Geschäftsaktivitäten als zulässig gelten. Dazu gehört das Verbot von Zinsgeschäften (Riba), Glücksspiel (Maysir) und anderen Aktivitäten, die als schädlich für die Gesellschaft angesehen werden."
+          "wasIstDas": "Der iShares Nasdaq 100 ETF bildet den gleichnamigen Index nach, der die 100 größten Nicht-Finanzunternehmen an der US-Technologiebörse Nasdaq umfasst. Er konzentriert sich stark auf Technologie- und Wachstumsunternehmen, darunter viele aus den Bereichen Software, Hardware und Internet.",
+          "warumJetzt": "Die hohe Nachfrage nach Anleihen für den Ausbau von Rechenzentren, wie die von Meta, zeigt, dass die Nachfrage nach der Infrastruktur für KI und Datenverarbeitung weiterhin stark ist. Dies ist ein positives Signal für die Unternehmen im Nasdaq 100, die oft von diesem Trend profitieren.",
+          "wannKaufen": "Der ETF handelt aktuell um 450€. Ein Kauf jetzt ist eine gute Möglichkeit, von der anhaltenden Stärke des Tech-Sektors zu profitieren. Ein leichter Rücksetzer auf etwa 440€ könnte eine noch bessere Einstiegsgelegenheit bieten.",
+          "wieViel": "Investiere deine 50€ in diesen ETF. Da es sich um einen diversifizierten ETF handelt, ist das Risiko pro Einzelaktie gering. So kannst du am Wachstum der größten Tech-Unternehmen teilhaben, ohne viel Geld einsetzen zu müssen.",
+          "wannRaus": "Setze ein Ziel von 500€ für Gewinnmitnahmen. Ein Stop-Loss bei 420€ schützt dich vor größeren Verlusten, falls der Tech-Sektor unerwartet stark korrigiert.",
+          "wasKannSchiefgehen": "Eine plötzliche Verschärfung der Zinspolitik der Zentralbanken, regulatorische Eingriffe in den Tech-Sektor oder ein allgemeiner Abschwung an den Aktienmärkten könnten den Nasdaq 100 belasten.",
+          "woranErkenneIchFalsch": "Wenn die großen Tech-Unternehmen im Index schlechte Quartalsergebnisse melden, die Nachfrage nach ihren Produkten und Dienstleistungen stagniert oder die Zinsen stark steigen, sind das Warnsignale für deine These.",
+          "begriffDesTrades": "KI-Infrastruktur. Das sind die physischen und digitalen Komponenten, die benötigt werden, um künstliche Intelligenz zu entwickeln, zu trainieren und einzusetzen, wie z.B. leistungsstarke Computer, Rechenzentren und Netzwerke."
         }
       },
       {
         "rang": 3,
-        "asset": "WisdomTree Copper",
-        "isin": "null",
-        "klasse": "Rohstoff (ETC)",
+        "asset": "VanEck Defense",
+        "isin": "IE000YYE6WK5",
+        "klasse": "Sektor-ETF",
         "richtung": "LONG",
-        "halal": "halal",
-        "einstieg": 6.615,
-        "stopLoss": 6.4,
-        "ziel": 7.2,
-        "zeitraum": "2-4 Monate",
-        "kette": "Globale Konjunkturerholung (langsam) und Infrastrukturinvestitionen -> Erhöhte Nachfrage nach Industriemetallen wie Kupfer -> Kupferpreis steigt.",
-        "konfidenz": 68,
+        "halal": "nicht-halal",
+        "einstieg": 25,
+        "stopLoss": 22,
+        "ziel": 30,
+        "zeitraum": "6-12 Wochen",
+        "kette": "Globale Konflikte (Naher Osten, Ukraine) eskalieren -> Erhöhte Staatsausgaben für Verteidigung weltweit -> Rüstungsunternehmen und Sektoren profitieren.",
+        "konfidenz": 60,
         "erklaerung": {
-          "wasIstDas": "Dieser ETC investiert in physisches Kupfer. Kupfer ist ein entscheidender Rohstoff für die globale Wirtschaft, da es in vielen Bereichen eingesetzt wird, von der Elektronik über den Bau bis hin zur Energieinfrastruktur. Es gilt oft als Indikator für die wirtschaftliche Gesundheit.",
-          "warumJetzt": "Obwohl die Zinsen steigen, gibt es Anzeichen für eine langsame, aber stetige globale Konjunkturerholung. Insbesondere die Ankündigungen von Infrastrukturprojekten in verschiedenen Ländern könnten die Nachfrage nach Kupfer ankurbeln. Der aktuelle Kurs von 6.6150 zeigt eine leichte Erholung, die sich fortsetzen könnte.",
-          "wannKaufen": "Du kannst jetzt bei 6.6150 einsteigen. Wenn der Preis leicht zurückgeht, warte auf einen dip in Richtung 6.5500. Wichtig ist, dass der Preis über der Marke von 6.5000 bleibt, um die Aufwärtsbewegung zu unterstützen.",
-          "wieViel": "Investiere mit deinem 50€ Budget in diesen ETC. Kupferpreise können volatil sein, daher ist es ratsam, nur einen kleinen Teil deines Kapitals zu investieren, um das Risiko zu begrenzen und die Auswirkungen von Preisschwankungen zu verstehen.",
-          "wannRaus": "Wenn der Preis das Ziel von 7.2000 erreicht, solltest du deine Gewinne mitnehmen. Sollte der Preis jedoch unter 6.4000 fallen, ist deine These wahrscheinlich falsch, und du solltest deine Position schließen, um Verluste zu minimieren.",
-          "wasKannSchiefgehen": "Eine unerwartete globale Rezession oder eine deutliche Verlangsamung des chinesischen Wachstums (ein wichtiger Kupferverbraucher) könnte die Nachfrage nach Kupfer stark reduzieren und den Preis fallen lassen. Auch steigende Lagerbestände könnten den Preis drücken.",
-          "woranErkenneIchFalsch": "Wenn Kupfer trotz guter Konjunkturaspirationen und steigender Nachfrage nicht über wichtige Widerstandsniveaus steigt und unter die Marke von 6.4000 fällt, könnten die Märkte eine schwächere Wirtschaft antizipieren. Achte auch auf die Lagerbestände bei der London Metal Exchange (LME).",
-          "begriffDesTrades": "Industriemetall: Das sind Metalle wie Kupfer, Aluminium oder Zink, die in großem Umfang für industrielle Zwecke verwendet werden. Ihre Preise sind oft eng an die globale Wirtschaftsaktivität gekoppelt, da sie für die Produktion von Gütern und Infrastruktur benötigt werden."
+          "wasIstDas": "Der VanEck Defense ETF investiert in Unternehmen, die im Rüstungs- und Verteidigungssektor tätig sind. Dazu gehören Hersteller von Waffen, militärischer Ausrüstung und Technologie, die für die Landesverteidigung und Sicherheit relevant sind.",
+          "warum Jetzt": "Die anhaltenden Kriege im Nahen Osten und in der Ukraine sowie die zunehmenden Spannungen weltweit führen dazu, dass viele Länder ihre Verteidigungsausgaben erhöhen. Dies schafft eine steigende Nachfrage nach den Produkten und Dienstleistungen der Unternehmen in diesem Sektor.",
+          "wannKaufen": "Der ETF liegt aktuell bei etwa 25€. Angesichts der globalen Sicherheitslage könnte ein Einstieg jetzt sinnvoll sein. Eine leichte Konsolidierung auf etwa 24€ wäre ein noch attraktiverer Einstiegszeitpunkt.",
+          "wieViel": "Auch hier gilt: Investiere nur einen kleinen Teil deines Budgets, vielleicht 10-15€. Dies ermöglicht es dir, von potenziellen Kursgewinnen zu profitieren, ohne dein Kapital übermäßig zu riskieren.",
+          "wannRaus": "Setze ein Gewinnziel bei 30€ an. Ein Stop-Loss bei 22€ schützt dich, falls sich die geopolitische Lage unerwartet beruhigt oder die Rüstungsausgaben sinken.",
+          "wasKannSchiefgehen": "Eine schnelle Deeskalation der globalen Konflikte oder politische Entscheidungen, die zu einer Reduzierung der Rüstungsausgaben führen, könnten den ETF belasten. Auch ethische Bedenken könnten zu Verkaufsdruck führen.",
+          "woranErkenneIchFalsch": "Wenn die Nachrichten über Friedensbemühungen dominieren, die Rüstungsetats gekürzt werden oder die Unternehmen im ETF ihre Umsätze und Gewinne nicht wie erwartet steigern können, ist das ein Hinweis darauf, dass deine These nicht mehr stimmt.",
+          "begriffDesTrades": "Verteidigungsausgaben. Dies sind die Gelder, die Regierungen für militärische Zwecke ausgeben, wie z.B. für Waffen, Ausrüstung, Personal und Forschung, um die nationale Sicherheit zu gewährleisten."
         }
       }
     ],
-    "narrativ": "Die Märkte sind nervös wegen steigender Zinsen und geopolitischer Spannungen, was zu einem allgemeinen Ausverkauf führt.",
-    "realitaet": "Die steigenden Zinsen sind ein klares Signal für die Zentralbanken, die Inflation zu bekämpfen, was kurzfristig auf die Aktienmärkte drückt. Geopolitische Spannungen sorgen für Volatilität bei Rohstoffen, schaffen aber auch Chancen für defensive Anlagen wie Gold.",
-    "macht": "Zentralbanken (Fed) kontrollieren die Zinspolitik. Geopolitische Akteure (Iran, USA) beeinflussen Rohstoffpreise. Große Technologieunternehmen und Rohstoffproduzenten haben ebenfalls erheblichen Einfluss.",
-    "geopolitik": "Die anhaltenden Spannungen im Nahen Osten und die Sanktionen gegen den Iran schaffen ein unsicheres Umfeld, das die Energiepreise und globale Handelsrouten beeinflusst. Die Beziehungen zwischen den USA und China bleiben angespannt.",
-    "liquiditaet": "Kapital fließt tendenziell aus risikoreichen Anlageklassen wie Aktien hin zu sichereren Häfen wie Anleihen (wenn auch mit steigenden Zinsen) und physischen Edelmetallen, wenn die Unsicherheit hoch ist.",
-    "kette": "Geopolitische Spannungen -> Risikoaufschlag bei Öl und Gas -> Inflationärer Druck -> Zentralbanken halten Zinsen hoch/erhöhen sie weiter -> Aktienmärkte unter Druck -> Suche nach sicheren Häfen wie Gold.",
-    "timing": "Wir befinden uns in einer Phase, in der Zentralbanken die Inflation bekämpfen, was zu höheren Zinsen und potenziell geringerem Wachstum führt. Geopolitische Risiken fügen eine zusätzliche Ebene der Unsicherheit hinzu.",
-    "saisonalitaet": "Keine klare saisonale Muster erkennbar, die aktuellen Treiber sind primär ereignisgetrieben (Geopolitik, Zinspolitik).",
-    "masseFehler": "Die Masse fokussiert sich zu stark auf einzelne Nachrichten (z.B. nur Tech/KI) und vergisst die übergreifenden makroökonomischen Treiber wie Zinsen und Geopolitik, die breitere Auswirkungen haben.",
-    "widerspruch": "Die US-Zinsen steigen stark, was normalerweise Aktien belastet, aber der S&P 500 zeigt sich relativ stabil. Dies könnte auf eine kurzfristige Erholung oder eine Divergenz hindeuten, bevor die Zinserhöhungen voll durchschlagen.",
-    "markt": "Aktien: Leicht negativ (wegen Zinsen), Rohstoffe: Gemischt (Energie fällt, Edelmetalle steigen), Krypto: Leicht positiv (weniger korreliert mit traditionellen Märkten aktuell).",
-    "positionierung": "Das 'Fear & Greed' Sentiment von 71 deutet auf eine leichte Gier hin, was bedeutet, dass viele Anleger optimistisch sind. Dies kann ein Warnsignal sein, dass eine Korrektur bevorstehen könnte, oder dass die optimistischen Anleger auf dem falschen Fuß erwischt werden.",
-    "reflexivitaet": "Die steigenden Zinsen führen zu fallenden Aktienkursen, was wiederum die Konsumlaune dämpft und die Nachfrage nach Gütern reduziert, was die Inflation weiter senken könnte. Dies ist eine positive Feedbackschleife für die Zentralbanken.",
-    "metaZyklus": "Stagflation/Krise: Die Kombination aus hohen Zinsen (die das Wachstum dämpfen) und anhaltenden Inflationsrisiken (durch Geopolitik) deutet auf eine Phase der Stagflation oder eine drohende Krise hin.",
-    "psychologie": "Angst vor Verpassen (FOMO) bei Krypto und bestimmten Tech-Aktien könnte weiter bestehen, aber die steigenden Zinsen und geopolitischen Risiken erzeugen auch Angst vor Verlusten, was zu einer gemischten Marktpsychologie führt.",
-    "halalAsset": "Xetra-Gold (DE000A0S9GB0)",
+    "narrativ": "Die Märkte konzentrieren sich auf das Ende einer turbulenten Woche und zeigen sich leicht positiv, angeführt von Technologieaktien, während geopolitische Spannungen im Hintergrund schwelen.",
+    "realitaet": "Die Märkte sind stark beeinflusst von der komplexen geopolitischen Lage im Nahen Osten und der Ukraine, die die Energiepreise und Rüstungsausgaben treibt, sowie von der anhaltenden Nachfrage nach Technologie-Infrastruktur wie Rechenzentren.",
+    "macht": "Große Technologiekonzerne (durch Infrastrukturausbau), Rüstungsunternehmen (durch erhöhte Staatsausgaben) und Ölproduzenten (durch geopolitische Risiken) sind die Hauptprofiteure.",
+    "geopolitik": "Anhaltende Konflikte im Nahen Osten (Saudi-Arabien/Jemen) und in der Ukraine sowie Spannungen zwischen westlichen Ländern und Russland/Iran prägen das globale Umfeld.",
+    "liquiditaet": "Kapital fließt kurzfristig in defensive Anlagen und Rohstoffe wie Öl aufgrund von Unsicherheit, aber auch in Technologie-Infrastruktur, die als zukunftsträchtig gilt.",
+    "kette": "Geopolitische Spannungen (Naher Osten) -> Unsicherheit bei Ölversorgung -> Ölpreis-Volatilität und potenzielle Steigerung -> Profite für Energie- und Rüstungssektor. Gleichzeitig: Starkes Wachstum bei KI-Infrastruktur -> Nachfrage nach Tech-Assets.",
+    "timing": "Wir befinden uns in einer Phase erhöhter Unsicherheit, in der kurzfristige geopolitische Ereignisse und langfristige technologische Trends die Märkte gleichzeitig beeinflussen.",
+    "saisonalitaet": "Keine spezifischen saisonalen Muster sind aus den aktuellen Nachrichten direkt ableitbar, aber das Ende des Sommers könnte zu einer Neubewertung von Portfolios führen.",
+    "masseFehler": "Die Masse fokussiert sich zu sehr auf einzelne Nachrichten (z.B. Fed-Aussagen) und übersieht die komplexen Wechselwirkungen zwischen Geopolitik, Energiepreisen und dem strukturellen Wachstum im Tech-Sektor.",
+    "widerspruch": "Die positive Performance von Tech-Aktien (Nasdaq +0.39%) steht im Kontrast zum fallenden DAX (-1.60%), was auf divergierende regionale und sektorspezifische Stärken hindeutet, trotz ähnlicher globaler Treiber.",
+    "markt": {
+      "Aktien": "Leicht positiv (S&P 500, Nasdaq), aber regional unterschiedlich (DAX schwach).",
+      "Anleihen": "Schwache Performance aufgrund steigender Zinsen (US 10J +1.03%).",
+      "Rohstoffe": "Öl unter Druck durch China-Bitte, aber geopolitisch unterstützt. Gold und Silber stabil. Industriemetalle und Agrar stabil.",
+      "Krypto": "Bitcoin und Ethereum fallen leicht, zeigen Schwäche.",
+      "Währungen": "EUR/USD steigt leicht, DXY stabil."
+    },
+    "positionierung": "Das 'Fear & Greed'-Sentiment von 71/100 deutet auf eine 'Greed'-Phase hin, was bedeutet, dass Anleger eher optimistisch sind, aber auch Vorsicht geboten ist.",
+    "reflexivitaet": "Die erhöhte Nachfrage nach Rüstungsgütern aufgrund von Konflikten kann paradoxerweise zu einer stärkeren wirtschaftlichen Aktivität in diesem Sektor führen, was wiederum die Nachfrage nach Rohstoffen und Arbeitskräften erhöht.",
+    "metaZyklus": "Wir bewegen uns wahrscheinlich in einem Umfeld, das Elemente von Stagflation (hohe Inflation, schwaches Wachstum) mit strukturellem Wachstum in bestimmten Sektoren (KI, Verteidigung) kombiniert.",
+    "psychologie": "Die 'Greed'-Phase im Markt kann Anleger dazu verleiten, Risiken einzugehen, aber die anhaltenden geopolitischen Spannungen könnten schnell zu Panik führen, falls sich die Lage verschärft.",
+    "halalAsset": "WisdomTree Brent Oil",
     "halalStatus": "halal",
-    "halalBegruendung": "Gold ist ein physischer Rohstoff, dessen Wert nicht auf Zinszahlungen basiert und daher als halal gilt.",
+    "halalBegruendung": "Investiert in Rohöl, was eine neutrale Ware ist und nicht direkt gegen islamische Prinzipien verstößt.",
     "entscheidung": "JA",
     "richtung": "LONG",
-    "einstieg": 4425,
-    "stopLoss": 4300,
-    "ziel": 4650,
-    "einsatz": 3.13,
-    "exitStrategie": "Gewinne bei 4650 mitnehmen oder bei einem Rückfall unter 4300 die Position schließen.",
-    "waehrungsrisiko": "Der EUR/USD Kurs ist leicht gestiegen (+0.11%). Ein stärkerer Dollar würde Gold tendenziell verteuern, aber die aktuelle Zinsentwicklung und die geopolitischen Risiken überwiegen diesen Effekt.",
+    "einstieg": 96.08,
+    "stopLoss": 92,
+    "ziel": 105,
+    "einsatz": 15,
+    "exitStrategie": "Gewinnmitnahme bei Erreichen des Ziels von 105 USD oder Stop-Loss bei 92 USD, falls sich die Lage entspannt oder die Preise fallen.",
+    "waehrungsrisiko": "Da der WisdomTree Brent Oil ETC in USD gehandelt wird, besteht ein Währungsrisiko für EUR-Anleger. Ein starker EUR gegenüber dem USD würde den Gewinn schmälern, ein schwacher EUR ihn erhöhen.",
     "asymmetrie": {
-      "verlust": 8,
-      "gewinn": 18,
-      "ratio": 2.25,
-      "ev": 0.13
+      "verlust": 4.08,
+      "gewinn": 8.92,
+      "ratio": 2.18,
+      "ev": 0.14
     },
-    "lernpunkt": "Die Korrelation zwischen Zinsen und Aktien ist nicht immer linear. Während steigende Zinsen oft negativ für Aktien sind, können geopolitische Krisen oder eine starke Nachfrage nach bestimmten Rohstoffen diese Dynamik kurzfristig überlagern. Man muss immer das Gesamtbild betrachten.",
-    "tagesfrage": "Wie stark wird die anhaltende Zinserhöhung die globale Nachfrage nach Industriemetallen beeinflussen, und welche Sektoren können trotzdessen profitieren?"
+    "lernpunkt": "Die Märkte reagieren oft übertrieben auf kurzfristige Nachrichten. Langfristige Trends wie der Ausbau von KI-Infrastruktur können jedoch auch in unsicheren Zeiten für stabile Nachfrage sorgen. Es ist wichtig, sowohl kurzfristige Risiken als auch langfristige Chancen zu bewerten.",
+    "tagesfrage": "Wie können wir unterscheiden, ob aktuelle geopolitische Spannungen nur kurzfristige Preissprünge bei Öl auslösen oder ob sie das Potenzial haben, die globalen Energiepreise nachhaltig zu beeinflussen?"
   },
   "prices": {
+    "CL=F": {
+      "label": "Öl",
+      "price": 96.08000183105469,
+      "change": 0
+    },
     "GC=F": {
       "label": "Gold",
       "price": 4424.89990234375,
-      "change": 0.5727596407159312
-    },
-    "HG=F": {
-      "label": "Kupfer",
-      "price": 6.614999771118164,
-      "change": 0.4326972222761172
+      "change": 0
     },
     "NG=F": {
       "label": "Erdgas",
       "price": 2.9119999408721924,
-      "change": 0.37917676308935244
+      "change": 0
     },
-    "CL=F": {
-      "label": "Öl",
-      "price": 100.30000305175781,
-      "change": -1.57982587822256
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 81385.5,
-      "change": 0.5983069488373539
-    },
-    "ETH-USD": {
-      "label": "Ethereum",
-      "price": 2648.320068359375,
-      "change": 1.4158554191545725
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 25304.060546875,
-      "change": -1.6046001824567502
-    },
-    "^GSPC": {
-      "label": "S&P 500",
-      "price": 7650.5,
-      "change": 0.1668059059979803
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.691500186920166,
+      "change": 0
     },
     "^IXIC": {
       "label": "Nasdaq",
       "price": 26522.5390625,
       "change": 0.3945684550763446
     },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1488970518112183,
-      "change": 0.11259183729435553
-    },
-    "^TNX": {
-      "label": "US 10J Zins",
-      "price": 4.998000144958496,
-      "change": 1.030930219937885
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2580.820068359375,
+      "change": -1.9431346487121817
     },
     "DX-Y.NYB": {
       "label": "DXY",
       "price": 100.22000122070312,
       "change": 0
     },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1490291357040405,
+      "change": 0.12410136360878911
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 4.998000144958496,
+      "change": 1.030930219937885
+    },
     "ZW=F": {
       "label": "Weizen",
       "price": 714.25,
-      "change": -1.7537826685006876
+      "change": 0
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7650.5,
+      "change": 0.1668059059979803
     },
     "SI=F": {
       "label": "Silber",
-      "price": 66.55599975585938,
-      "change": 1.6587727430999837
+      "price": 67.14900207519531,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 80467.4765625,
+      "change": -0.9432086887452682
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25304.060546875,
+      "change": -1.6046001824567502
     }
   },
   "fearGreed": [
-    61,
     57,
     69,
     51,
     50,
     56,
+    71,
     71
   ],
   "simulation": {
-    "buy": 59,
-    "hold": 2,
+    "buy": 41,
+    "hold": 20,
     "sell": 39
   }
 }
