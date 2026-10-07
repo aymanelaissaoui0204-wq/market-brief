@@ -1,6 +1,6 @@
 {
-  "date": "Dienstag, 6. Oktober 2026",
-  "generatedAt": "2026-10-06T11:49:35.958Z",
+  "date": "Mittwoch, 7. Oktober 2026",
+  "generatedAt": "2026-10-07T11:33:50.442Z",
   "news": [
     {
       "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
@@ -17,126 +17,119 @@
       "origin": "GNews"
     },
     {
-      "title": "A Harvard expert says this ‘sneaky’ communication mistake can lead to worse decisions",
+      "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+      "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Nvidia looks to take out its record high close — plus, don't worry about Intel's dip",
-      "source": "CNBC",
+      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
-      "source": "CNBC",
+      "title": "UK's Headlam to delist after it collapses into administration - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "These are the cheapest and most expensive U.S. flights this November",
-      "source": "CNBC",
+      "title": "Shell expects record refining margins as Iran war boosts fuel markets - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "source": "CNBC",
+      "title": "India joins global rate-tightening wave with first hike in nearly 4 years - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Why airfare could rise even more, but airline profits won't",
-      "source": "CNBC",
+      "title": "Morning Bid: Who's the boss? - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "BPCL plans $3 billion bond sale to fund Brazil offshore oil project",
-      "source": "Bloomberg",
+      "title": "Gold slips as dollar gains; investors await Fed minutes for rate clues - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Schneider Electric expands in AI with $22.6 billion PTC purchase",
-      "source": "Bloomberg",
+      "title": "Houthis attack Aden airport as fighting intensifies in Yemen - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Wall Street pours $10 billion into Indian hospitals, but who will pay the rising bills?",
-      "source": "Bloomberg",
+      "title": "Oil stable as higher Middle East exports offset supply threats - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "India aims to sign multibillion-dollar French jet deal by March",
-      "source": "Bloomberg",
+      "title": "Transcript of US Vice President Vance interview in Alaska - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
-      "source": "CNBC",
+      "title": "EXCLUSIVE: Vance says Iran must cut enrichment to end war - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-      "source": "CNBC",
+      "title": "Trump says nobody knows who is running Iran - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Here are 3 things we're watching in the stock market in the week ahead",
-      "source": "CNBC",
+      "title": "Yemeni government fighters shown driving vehicles over Houthi opponents - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
-      "source": "CNBC",
+      "title": "US Senator Murphy says Pentagon denied him access to US base in Qatar - Reuters",
+      "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Aramco, AWPT see 2 negotiated deals worth SAR 32.2M",
-      "source": "argaam.com",
+      "title": "Official Website of Reserve Bank of India",
+      "source": "rbi.org.in",
       "sentiment": null,
       "tickers": [],
       "origin": "Marketaux"
     },
     {
-      "title": "VinFast Auto plans to bring electric buses to the U.S. (VFS:NASDAQ)",
-      "source": "seekingalpha.com",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Marketaux"
-    },
-    {
-      "title": "TASI: Major shareholder ownership changes in 9M 2026",
+      "title": "POS transactions hit SAR 16.5B last week: SAMA",
       "source": "argaam.com",
       "sentiment": null,
       "tickers": [],
@@ -144,245 +137,247 @@
     }
   ],
   "sections": {
-    "brief": "Hallo Ayman, heute schauen wir uns an, wie die steigende Wirtschaftsnachfrage und die damit verbundenen Rohstoffpreise den Markt beeinflussen. Die globale Wirtschaft zeigt Anzeichen einer Erholung, was sich direkt auf die Nachfrage nach Energie und Industrierohstoffen auswirkt. Wir werden analysieren, wie sich diese Dynamik auf verschiedene Anlageklassen auswirkt und wo sich halal-konforme Chancen ergeben könnten, auch mit deinem kleinen Budget.",
-    "marktlage": "Die Märkte zeigen sich heute robust mit positiven Tendenzen an den großen Indizes, während Öl leicht nachgibt und Rohstoffe wie Kupfer und Weizen steigen. Die US-Zinsen ziehen an, was traditionell Druck auf Anleihen ausübt.",
+    "brief": "Ayman, heute sehen wir, wie geopolitische Spannungen im Nahen Osten die Energiemärkte direkt beeinflussen und damit weitreichende Folgen für die Weltwirtschaft haben. Die Aussicht auf höhere Ölpreise durch Konflikte im Iran und Jemen treibt die Kosten für Unternehmen und Verbraucher in die Höhe. Gleichzeitig versuchen Zentralbanken wie die Fed und die indische Zentralbank, die Inflation durch Zinserhöhungen zu bekämpfen, was die Wirtschaft zusätzlich unter Druck setzt. Für dich bedeutet das, dass wir uns heute anschauen, welche Sektoren von diesen Entwicklungen profitieren und welche leiden.",
+    "marktlage": "Die Märkte zeigen sich heute gespalten: Während Energiepreise und damit verbundene Sektoren aufgrund geopolitischer Spannungen zulegen, belasten Inflationssorgen und Zinserhöhungen die breiteren Aktienmärkte, insbesondere in Europa.",
     "oberflaeche": [
-      "Quelle: Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
-      "Quelle: CNBC: Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
-      "Quelle: Bloomberg: BPCL plans $3 billion bond sale to fund Brazil offshore oil project"
+      "Reuters: Shell expects record refining margins as Iran war boosts fuel markets - Reuters",
+      "CNBC: Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+      "Reuters: India joins global rate-tightening wave with first hike in nearly 4 years - Reuters"
     ],
     "bewegungen": [
       {
-        "ausloeser": "Wirtschaft wächst wieder (z.B. in Hessen)",
-        "kette": "Wirtschaftswachstum steigt -> Nachfrage nach Energie und Rohstoffen steigt -> Preise für Öl, Gas, Kupfer steigen -> höhere Produktionskosten für Unternehmen -> Inflation könnte steigen",
-        "warum": "Wenn die Wirtschaft brummt, produzieren Unternehmen mehr und verbrauchen mehr Energie und Rohstoffe. Diese erhöhte Nachfrage treibt die Preise nach oben. Höhere Energie- und Rohstoffkosten können sich dann auf die Preise von Endprodukten auswirken, was zu Inflation führt.",
-        "betroffen": "Energiesektor, Rohstoffe (Kupfer, Öl), Industrieunternehmen, potenziell Anleihen (wegen Inflationsdruck)",
+        "ausloeser": "Geopolitische Spannungen im Nahen Osten (Iran-Konflikt, Jemen-Krieg) und Houthi-Angriffe treiben die Ölpreise nach oben.",
+        "kette": "Ölpreis steigt -> Raffineriemargen steigen -> Energiewerte profitieren -> Transportkosten steigen -> Inflationsdruck steigt -> Zentralbanken erhöhen Zinsen -> Anleihen fallen -> Wirtschaftswachstum wird gebremst.",
+        "warum": "Wenn die Versorgung mit Öl aufgrund von Kriegen oder Konflikten unsicher wird, steigt der Preis für Rohöl, da die Nachfrage gleich bleibt, aber das Angebot knapper wird. Höhere Ölpreise bedeuten für Raffinerien, die Rohöl zu Treibstoff verarbeiten, dass sie höhere Margen erzielen können, da der Verkaufspreis für Benzin und Diesel stärker steigt als der Einkaufspreis für Rohöl. Dies wiederum macht Unternehmen im Energiesektor attraktiver für Investoren. Gleichzeitig erhöhen sich die Transportkosten für alle Waren, was die Preise für Endverbraucher in die Höhe treibt und die Inflation anheizt. Um die Inflation zu bekämpfen, müssen Zentralbanken die Zinsen anheben, was die Kreditkosten für Unternehmen und Verbraucher erhöht und das Wirtschaftswachstum verlangsamt.",
+        "betroffen": "Energiesektor (Öl- und Gasproduzenten, Raffinerien), Transportunternehmen (Airlines, Logistik), Zentralbanken, Anleihenmärkte, Konsumgüter, Industrie.",
         "investierbar": {
-          "asset": "WisdomTree Brent Oil ETC",
-          "isin": "null",
+          "asset": "Shell PLC",
+          "isin": "GB00BP6MXD84",
           "richtung": "LONG",
           "halal": "halal",
-          "wie": "Eine Long-Position auf Öl könnte von steigenden Preisen profitieren, wenn die Nachfrage die Angebotsseite übersteigt."
+          "wie": "Direkte Investition in einen Ölkonzern, der von hohen Raffineriemargen profitiert."
         }
       },
       {
-        "ausloeser": "Ölpreis fällt leicht (-2.16%) trotz Wachstumsnachrichten",
-        "kette": "Ölpreis fällt -> geringere Energiekosten für Unternehmen und Verbraucher -> potenziell höhere Konsumausgaben und Unternehmensgewinne -> positive Stimmung an Aktienmärkten",
-        "warum": "Ein sinkender Ölpreis reduziert die Ausgaben für Treibstoff für Unternehmen und Haushalte. Dies gibt mehr Geld für andere Dinge auszugeben und senkt die Betriebskosten für viele Sektoren, was die Gewinne steigern und die Aktienkurse positiv beeinflussen kann.",
-        "betroffen": "Fluggesellschaften, Logistik, Konsumgüter, breiter Aktienmarkt",
+        "ausloeser": "Indien erhöht die Zinsen nach fast 4 Jahren, Fed demonstriert Unabhängigkeit und deutet weitere Straffung an.",
+        "kette": "Zentralbanken erhöhen Zinsen -> Kreditkosten steigen -> Wirtschaftswachstum verlangsamt sich -> Konsumgüter und Immobilien leiden -> Anleihenkurse fallen -> Währungen der straffenden Länder stärken sich.",
+        "warum": "Zentralbanken erhöhen die Zinsen, um die Inflation zu bekämpfen. Höhere Zinsen machen es teurer, Geld zu leihen, sowohl für Unternehmen als auch für private Haushalte. Das bremst Investitionen und Konsum, was wiederum das Wirtschaftswachstum verlangsamt. Dies kann sich negativ auf Unternehmen auswirken, die stark vom Konsum oder von Krediten abhängig sind, wie zum Beispiel Immobilienfirmen oder Hersteller von Konsumgütern. Gleichzeitig werden Anleihen, die mit niedrigeren Zinsen ausgegeben wurden, weniger attraktiv, und ihre Kurse fallen. Eine straffere Geldpolitik kann auch die Währung eines Landes stärken, da höhere Zinsen ausländische Investoren anziehen, die höhere Renditen suchen.",
+        "betroffen": "Wachstumsaktien, Immobilienwerte, Anleihen, Schwellenländer-Währungen (die oft unter Kapitalabfluss leiden, wenn größere Zentralbanken straffen).",
         "investierbar": {
-          "asset": "iShares Core MSCI World ETF",
-          "isin": "IE00B4L5Y983",
-          "richtung": "LONG",
+          "asset": "iShares Core MSCI EM IMI",
+          "isin": "IE00BKM4GZ66",
+          "richtung": "REDUZIEREN",
           "halal": "halal",
-          "wie": "Ein breit gestreuter ETF wie der MSCI World profitiert von einer generell positiven Marktstimmung, die durch niedrigere Energiekosten unterstützt werden kann."
+          "wie": "Reduzierung des Engagements in Schwellenländer-ETFs, da Kapital aufgrund steigender Zinsen in Industrieländern abfließen könnte."
         }
       },
       {
-        "ausloeser": "US 10J Zins steigt (+0.64%)",
-        "kette": "US 10J Zins steigt -> Anleihen werden attraktiver im Vergleich zu Aktien -> Kapital fließt aus Aktien in Anleihen -> Aktienmärkte könnten unter Druck geraten",
-        "warum": "Wenn die Zinsen für sichere Anlagen wie Staatsanleihen steigen, werden diese für Investoren attraktiver. Sie bieten eine höhere Rendite bei geringerem Risiko als Aktien, was dazu verleiten kann, Geld aus risikoreicheren Anlagen abzuziehen und in Anleihen zu investieren.",
-        "betroffen": "Aktienmärkte (insbesondere Wachstumsaktien), Anleihenmärkte",
+        "ausloeser": "Google muss Arbeit an zwei Rechenzentren in der 'Texas of Europe' stoppen (Irland).",
+        "kette": "Regulatorische Hürden für Tech-Infrastruktur -> Wachstum von Cloud-Diensten und KI-Entwicklung verlangsamt sich -> Tech-Aktien könnten unter Druck geraten -> Wettbewerber könnten profitieren, wenn sie weniger betroffen sind.",
+        "warum": "Wenn große Technologieunternehmen wie Google beim Bau wichtiger Infrastruktur wie Rechenzentren auf regulatorische Hindernisse stoßen, kann dies ihr Wachstum bremsen. Rechenzentren sind entscheidend für Cloud-Dienste, künstliche Intelligenz und andere datenintensive Anwendungen. Verzögerungen oder Stopps beim Bau bedeuten, dass die Unternehmen ihre Kapazitäten nicht wie geplant erweitern können, was sich negativ auf ihre Fähigkeit auswirken kann, neue Kunden zu gewinnen oder bestehende Dienste zu skalieren. Dies könnte zu einer Verlangsamung des Wachstums in diesen Sektoren führen und die Aktienkurse der betroffenen Unternehmen belasten. Es könnte aber auch Wettbewerbern zugutekommen, die ihre Infrastruktur ungehindert ausbauen können.",
+        "betroffen": "Große Tech-Konzerne (insbesondere Cloud-Anbieter), Halbleiterhersteller (indirekt durch geringere Nachfrage nach Chips für Rechenzentren).",
         "investierbar": {
-          "asset": "iShares Core MSCI World ETF",
-          "isin": "IE00B4L5Y983",
-          "richtung": "MEIDEN/REDUZIEREN",
+          "asset": "iShares Nasdaq 100",
+          "isin": "IE00B53SZB19",
+          "richtung": "MEIDEN",
           "halal": "halal",
-          "wie": "Angesichts steigender Zinsen sollten Investoren ihre Allokation in Aktien eventuell überdenken und eine geringere Gewichtung in Betracht ziehen oder auf stabilere Sektoren setzen."
+          "wie": "Vorerst keine neuen Positionen im Tech-lastigen Nasdaq 100 ETF eingehen, da regulatorische Risiken zunehmen."
         }
       }
     ],
     "chancen": [
       {
         "rang": 1,
-        "asset": "WisdomTree Brent Oil ETC",
-        "isin": null,
-        "klasse": "Rohstoff",
+        "asset": "Shell PLC",
+        "isin": "GB00BP6MXD84",
+        "klasse": "Einzelaktie",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 87.5,
-        "stopLoss": 84,
-        "ziel": 95,
+        "einstieg": "28.50",
+        "stopLoss": "27.00",
+        "ziel": "31.00",
         "zeitraum": "4-8 Wochen",
-        "kette": "Wirtschaftswachstum steigt -> Nachfrage nach Öl steigt -> Ölpreis steigt",
-        "konfidenz": 70,
+        "kette": "Ölpreis steigt -> Raffineriemargen steigen -> Shell profitiert über Raffinerie-Geschäft und Exploration -> Aktie steigt.",
+        "konfidenz": 75,
         "erklaerung": {
-          "wasIstDas": "Dies ist ein Exchange Traded Commodity (ETC), das den Preis von Brent-Rohöl abbildet. Brent-Öl ist eine wichtige globale Rohölsorte, die als Benchmark dient. Der ETC ermöglicht es dir, auf Preisbewegungen von Öl zu spekulieren, ohne physisch Öl lagern zu müssen.",
-          "warumJetzt": "Die Nachrichten deuten auf eine wachsende Wirtschaft hin, was typischerweise die Nachfrage nach Energie und damit auch nach Öl erhöht. Obwohl der aktuelle Ölpreis leicht nachgegeben hat, könnte die längerfristige Nachfrage aus dem globalen Wachstum die Preise wieder steigen lassen.",
-          "wannKaufen": "Jetzt bei etwa 87.50 USD kaufen. Wenn der Preis kurzfristig leicht fällt, aber über 85 USD bleibt, könnte das eine gute Nachkaufgelegenheit sein, bevor die erwartete Nachfragesteigerung greift.",
-          "wieViel": "Bei einem Budget von 50€ könntest du etwa 0.5 Anteile des ETC kaufen, je nach aktuellem Preis pro Anteil. Wichtig ist, dass du nur einen kleinen Teil deines Kapitals einsetzt, um das Risiko zu streuen, auch wenn du nur wenig Geld hast.",
-          "wannRaus": "Setze ein Stop-Loss bei 84.00 USD, um Verluste zu begrenzen, falls der Markt gegen dich läuft. Ein Kursziel von 95.00 USD ist realistisch, wenn die Nachfrage wie erwartet steigt und es keine größeren geopolitischen Störungen gibt.",
-          "wasKannSchiefgehen": "Eine unerwartete globale Rezession oder eine plötzliche Erhöhung des Ölangebots durch große Produzenten könnten den Ölpreis fallen lassen. Auch geopolitische Spannungen, die sich auf die Lieferketten auswirken, könnten die Preise unvorhersehbar machen.",
-          "woranErkenneIchFalsch": "Wenn der Ölpreis trotz guter Wirtschaftsdaten und geringerem Angebot unter die Marke von 85 USD fällt und dort verharrt, könnte die Nachfrage doch nicht so stark sein wie erwartet. Ein starker Anstieg des US-Dollars könnte ebenfalls Druck auf den Ölpreis ausüben.",
-          "begriffDesTrades": "Die 'Benchmark' ist ein Referenzwert, an dem sich andere Preise orientieren. Brent-Öl ist eine solche Benchmark für den weltweiten Ölpreis, da sie die Kosten für einen Großteil des globalen Öls widerspiegelt."
+          "wasIstDas": "Shell PLC ist einer der größten integrierten Energiekonzerne der Welt. Das Unternehmen fördert, verarbeitet und vertreibt Öl und Erdgas und ist auch in der Entwicklung erneuerbarer Energien aktiv. Es ist ein 'Big Oil'-Player, der über die gesamte Wertschöpfungskette der Energiebranche präsent ist.",
+          "warumJetzt": "Die jüngsten Nachrichten über den Iran-Konflikt und die Angriffe im Jemen treiben die Ölpreise nach oben und lassen Shell Rekord-Raffineriemargen erwarten. Das bedeutet, dass Shell mehr Gewinn erzielen kann, wenn es Rohöl zu Benzin oder Diesel verarbeitet, da die Verkaufspreise für diese Produkte stärker steigen als die Einkaufspreise für Rohöl. Dies ist ein direkter positiver Impuls für das Geschäftsergebnis und damit für den Aktienkurs.",
+          "wannKaufen": "Du könntest versuchen, bei einem Preis von etwa 28.50 Euro einzusteigen. Das wäre ein kleiner Rücksetzer vom aktuellen Niveau, der dir ein besseres Chance-Risiko-Verhältnis bietet. Wenn der Kurs direkt weiter steigt, könnte ein Einstieg um 29.00 Euro auch noch sinnvoll sein, da das Momentum stark ist.",
+          "wieViel": "Bei deinem Budget von 50 Euro solltest du nur eine sehr kleine Position kaufen, vielleicht eine oder zwei Aktien, um das Risiko zu streuen. Der Kauf von ein bis zwei Aktien würde bedeuten, dass du nur einen kleinen Teil deines Budgets einsetzt und somit nicht dein gesamtes Kapital in ein einziges Unternehmen investierst. Das ist wichtig, um das Risiko zu begrenzen und noch Geld für andere Investitionen zu haben.",
+          "wannRaus": "Nimm Gewinne mit, wenn der Kurs etwa 31.00 Euro erreicht, und setze einen Stop-Loss bei 27.00 Euro. Der Gewinnmitnahme-Punkt berücksichtigt die erwarteten positiven Margen, während der Stop-Loss dich vor größeren Verlusten schützt, falls die geopolitische Lage sich schnell entspannt oder die Ölpreise doch wieder fallen. Das ist deine Verlustbegrenzung.",
+          "wasKannSchiefgehen": "Wenn sich die Lage im Nahen Osten überraschend schnell entspannt oder die Ölförderung unerwartet stark ansteigt, könnten die Ölpreise wieder fallen. Das würde die Raffineriemargen von Shell reduzieren und den Aktienkurs belasten. Auch eine allgemeine Rezession könnte die Nachfrage nach Öl und damit die Preise drücken.",
+          "woranErkenneIchFalsch": "Ayman, du erkennst, dass deine These kaputt ist, wenn die Nachrichten eine Entspannung der geopolitischen Lage im Nahen Osten signalisieren oder wenn die Ölpreise plötzlich stark fallen. Auch wenn der Aktienkurs von Shell deutlich unter 28.00 Euro fällt, ohne sich schnell zu erholen, solltest du vorsichtig sein und eventuell früher aussteigen, bevor der Stop-Loss erreicht wird. Dies deutet darauf hin, dass die positive Erwartungshaltung nicht mehr gerechtfertigt ist.",
+          "begriffDesTrades": "Raffineriemarge: Das ist der Gewinn, den eine Ölraffinerie erzielt, indem sie Rohöl zu fertigen Produkten wie Benzin, Diesel oder Kerosin verarbeitet und verkauft. Eine hohe Raffineriemarge bedeutet, dass die Differenz zwischen den Rohölkosten und den Verkaufspreisen der Endprodukte groß ist, was für Unternehmen wie Shell sehr profitabel ist."
         }
       },
       {
         "rang": 2,
-        "asset": "iShares Core MSCI World ETF",
-        "isin": "IE00B4L5Y983",
-        "klasse": "Aktien-ETF",
+        "asset": "WisdomTree Brent Oil",
+        "isin": "JE00B78DJP71",
+        "klasse": "Rohstoff",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 195,
-        "stopLoss": 188,
-        "ziel": 215,
-        "zeitraum": "3-6 Monate",
-        "kette": "Wirtschaftswachstum steigt, potenziell niedrigere Energiekosten -> höhere Unternehmensgewinne und Konsum -> breiter Aktienmarkt steigt",
-        "konfidenz": 65,
+        "einstieg": "89.00",
+        "stopLoss": "86.00",
+        "ziel": "93.00",
+        "zeitraum": "2-4 Wochen",
+        "kette": "Geopolitische Spannungen im Nahen Osten -> Angebotsunsicherheit bei Öl -> Ölpreis steigt -> ETC auf Brent Öl steigt.",
+        "konfidenz": 70,
         "erklaerung": {
-          "wasIstDas": "Dies ist ein ETF, der die Wertentwicklung von rund 1.500 großen und mittelgroßen Unternehmen aus Industrieländern weltweit abbildet. Er bietet eine breite Diversifikation über viele Sektoren und Länder hinweg und ist eine beliebte Wahl für langfristige Investoren.",
-          "warumJetzt": "Die Nachrichten über wirtschaftliches Wachstum und die Möglichkeit sinkender Energiekosten sind positiv für die Unternehmensgewinne. Obwohl steigende Zinsen eine Herausforderung darstellen können, überwiegt aktuell die positive Wachstumsdynamik, was den breiten Markt stützen sollte.",
-          "wannKaufen": "Jetzt bei etwa 195 EUR kaufen. Wenn es zu kleineren Rücksetzern kommt, beispielsweise in Richtung 190 EUR, könnte dies eine gute Gelegenheit sein, die Position aufzubauen, da die langfristige Perspektive positiv bleibt.",
-          "wieViel": "Mit 50€ kannst du etwa 0.25 Anteile dieses ETF kaufen. Dies ist eine gute Möglichkeit, dein Geld diversifiziert anzulegen und vom globalen Wachstum zu profitieren, ohne dich auf einzelne Aktien festlegen zu müssen.",
-          "wannRaus": "Setze ein Stop-Loss bei 188 EUR, um dein Kapital zu schützen, falls die Märkte wider Erwarten stark fallen. Ein Kursziel von 215 EUR ist im Rahmen der nächsten Monate erreichbar, wenn die Wirtschaft weiterhin robust bleibt und Zinsängste nachlassen.",
-          "wasKannSchiefgehen": "Eine deutliche Verschärfung der Zinspolitik der Zentralbanken, eine unerwartete globale Rezession oder größere geopolitische Krisen könnten den breiten Aktienmarkt stark belasten. Auch eine überraschend hohe Inflation könnte die Stimmung dämpfen.",
-          "woranErkenneIchFalsch": "Wenn der ETF unter die wichtige Unterstützungsmarke von 190 EUR fällt und dort nicht stabilisiert, könnte das ein Zeichen dafür sein, dass die positiven Wachstumsaussichten nicht mehr ausreichen, um die Zins- und Inflationssorgen zu kompensieren.",
-          "begriffDesTrades": "Diversifikation bedeutet, dein Geld auf verschiedene Anlageklassen, Sektoren oder Länder zu verteilen. Ein ETF wie der MSCI World ist bereits stark diversifiziert, was das Risiko einzelner Verluste reduziert."
+          "wasIstDas": "WisdomTree Brent Oil ist ein Exchange Traded Commodity (ETC), der die Preisentwicklung von Brent-Rohöl abbildet. Ein ETC ist wie ein ETF, aber er investiert direkt in Rohstoffe oder deren Futures-Kontrakte. Er ermöglicht dir, an der Preisentwicklung von Öl teilzuhaben, ohne physisches Öl kaufen zu müssen.",
+          "warumJetzt": "Die anhaltenden Konflikte im Nahen Osten, insbesondere die Eskalation im Iran und Jemen, schaffen Unsicherheit über die zukünftige Ölversorgung. Diese Unsicherheit führt in der Regel zu steigenden Ölpreisen, da Händler befürchten, dass das Angebot knapper werden könnte. Der ETC profitiert direkt von dieser Preissteigerung.",
+          "wannKaufen": "Ein Einstieg um den aktuellen Kurs von 89.00 Euro wäre sinnvoll. Du könntest auch auf einen kleinen Rücksetzer warten, falls der Ölpreis kurzfristig etwas nachgibt, aber das Risiko einer weiteren Eskalation ist hoch, was schnelle Preissteigerungen bedeuten könnte.",
+          "wieViel": "Auch hier gilt: Kaufe für einen kleinen Betrag, vielleicht 10-20 Euro, um das Risiko zu streuen. Da Rohstoffe sehr volatil sein können, ist es besonders wichtig, nicht zu viel deines Kapitals in eine einzige Position zu stecken. Bei 50 Euro Budget ist das ein signifikanter Anteil, also sei vorsichtig.",
+          "wannRaus": "Setze dein Ziel bei 93.00 Euro, da dies ein realistisches kurzfristiges Ziel bei anhaltenden Spannungen ist. Ein Stop-Loss bei 86.00 Euro ist wichtig, falls die geopolitische Lage sich unerwartet entspannt oder die OPEC+ ihre Förderquoten erhöht, was den Ölpreis fallen lassen würde.",
+          "wasKannSchiefgehen": "Eine plötzliche Deeskalation der Konflikte im Nahen Osten oder eine unerwartete Erhöhung der Ölproduktion durch große Förderländer könnten den Ölpreis schnell und stark fallen lassen. Auch eine globale Rezession, die die Nachfrage nach Öl reduziert, wäre ein Risiko.",
+          "woranErkenneIchFalsch": "Du erkennst, dass du falsch liegst, wenn es glaubwürdige Meldungen über eine diplomatische Lösung der Konflikte gibt oder wenn große Ölproduzenten wie Saudi-Arabien oder die OPEC+ ankündigen, die Fördermengen deutlich zu erhöhen. Auch ein schneller Fall unter 87.00 Euro ohne sofortige Erholung wäre ein Warnsignal.",
+          "begriffDesTrades": "Brent Oil: Dies ist eine wichtige Referenzsorte für Rohöl, die hauptsächlich aus der Nordsee gefördert wird. Der Preis von Brent-Öl dient als globaler Maßstab für die Ölpreise und beeinflusst die Preise vieler anderer Ölsorten weltweit. Es ist ein Indikator für die globale Ölnachfrage und das Angebot."
         }
       },
       {
         "rang": 3,
-        "asset": "WisdomTree Copper ETC",
-        "isin": null,
+        "asset": "Xetra-Gold",
+        "isin": "DE000A0S9GB0",
         "klasse": "Rohstoff",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 6.65,
-        "stopLoss": 6.3,
-        "ziel": 7.5,
-        "zeitraum": "4-8 Wochen",
-        "kette": "Wirtschaftswachstum steigt -> höhere Nachfrage nach Industriemetallen wie Kupfer -> Kupferpreis steigt",
-        "warum": "Kupfer ist ein Schlüsselrohstoff für viele industrielle Anwendungen, von der Elektronik bis zum Bauwesen und der Energiewende (Kupferkabel für erneuerbare Energien). Ein starkes globales Wirtschaftswachstum bedeutet eine erhöhte Nachfrage nach diesen Gütern, was den Kupferpreis tendenziell steigen lässt.",
-        "betroffen": "Kupferproduzenten, Bauindustrie, Elektronikhersteller, Unternehmen im Bereich erneuerbare Energien",
-        "investierbar": {
-          "asset": "WisdomTree Copper ETC",
-          "isin": null,
-          "richtung": "LONG",
-          "halal": "halal",
-          "wie": "Eine Long-Position auf Kupfer kann von der steigenden industriellen Nachfrage im Zuge des globalen Wirtschaftswachstums profitieren."
+        "einstieg": "4130",
+        "stopLoss": "4080",
+        "ziel": "4200",
+        "zeitraum": "6-12 Wochen",
+        "kette": "Geopolitische Unsicherheit und Inflationsdruck -> Suche nach sicheren Häfen -> Gold profitiert -> Goldpreis steigt.",
+        "konfidenz": 65,
+        "erklaerung": {
+          "wasIstDas": "Xetra-Gold ist ein ETC, der zu 100% mit physischem Gold hinterlegt ist. Das bedeutet, dass für jede Einheit Xetra-Gold, die du kaufst, eine entsprechende Menge echtes Gold in einem Tresor in Deutschland gelagert wird. Es ist eine einfache Möglichkeit, in physisches Gold zu investieren, ohne es selbst lagern zu müssen.",
+          "warumJetzt": "In Zeiten erhöhter geopolitischer Unsicherheit und steigendem Inflationsdruck, wie wir es aktuell erleben, suchen Anleger oft nach 'sicheren Häfen'. Gold gilt traditionell als solcher, da es seinen Wert auch in Krisenzeiten bewahren kann. Die aktuellen Nachrichten über Konflikte und Zinserhöhungen verstärken das Bedürfnis nach Sicherheit, was den Goldpreis stützen sollte.",
+          "wannKaufen": "Gold hat heute leicht nachgegeben, was eine gute Einstiegsgelegenheit um 4130 Euro bieten könnte. Du könntest auch auf einen weiteren kleinen Rücksetzer warten, um ein noch besseres Einstiegsniveau zu erwischen, aber die aktuelle Unsicherheit könnte den Preis schnell wieder nach oben treiben.",
+          "wieViel": "Bei 50 Euro Budget solltest du auch hier nur eine kleine Position eingehen, vielleicht für 10-15 Euro. Gold ist zwar ein sicherer Hafen, kann aber auch kurzfristig schwanken. Eine kleine Investition ermöglicht es dir, von der Entwicklung zu profitieren, ohne dein ganzes Kapital zu binden.",
+          "wannRaus": "Ein Ziel von 4200 Euro ist realistisch, wenn die Unsicherheit anhält. Ein Stop-Loss bei 4080 Euro schützt dich, falls der US-Dollar stärker wird oder die Zinsen schneller steigen als erwartet, was Gold tendenziell belastet. Es ist wichtig, Verluste zu begrenzen, auch bei als sicher geltenden Anlagen.",
+          "wasKannSchiefgehen": "Ein starker Anstieg der US-Zinsen oder eine unerwartete Stärke des US-Dollars könnten den Goldpreis belasten, da Gold in US-Dollar gehandelt wird und keine Zinsen abwirft. Auch eine plötzliche Entspannung der globalen Krisenherde könnte die Nachfrage nach Gold als sicherem Hafen reduzieren.",
+          "woranErkenneIchFalsch": "Du erkennst, dass du falsch liegst, wenn der US-Dollar deutlich und nachhaltig an Stärke gewinnt oder wenn die Realzinsen (Zinsen abzüglich Inflation) in den USA stark ansteigen. Auch eine deutliche Entspannung der geopolitischen Lage würde die Nachfrage nach Gold als sicherem Hafen schmälern. Ein Fall unter 4100 Euro wäre ein erstes Warnsignal.",
+          "begriffDesTrades": "Sicherer Hafen: Dies ist eine Anlage, die ihren Wert in Zeiten von Marktvolatilität oder wirtschaftlicher Unsicherheit tendenziell behält oder sogar steigert. Gold, Staatsanleihen oder bestimmte Währungen wie der Schweizer Franken gelten oft als sichere Häfen, da Anleger in Krisenzeiten dorthin flüchten, um ihr Kapital zu schützen."
         }
       }
     ],
-    "narrativ": "Die Märkte sind optimistisch, da die Wirtschaft wächst und Technologieaktien wie Nvidia weiter stark performen. Die steigenden Zinsen werden als notwendiger Schritt zur Inflationsbekämpfung gesehen, aber die gute Konjunktur dämpft die Sorgen.",
-    "realitaet": "Das globale Wirtschaftswachstum ist zwar vorhanden, aber die steigenden Zinsen und die anhaltende Inflation könnten die Konsumkraft und die Unternehmensinvestitionen auf Dauer belasten. Die Performance einzelner Tech-Aktien kaschiert möglicherweise Schwächen in anderen Sektoren.",
-    "macht": "Große Technologieunternehmen, Ölproduzenten, Zentralbanken (durch ihre Zinspolitik), und die Investoren, die auf das erwartete Wachstum setzen.",
-    "geopolitik": "Die politische Stabilität in wichtigen Förderregionen von Rohstoffen und Energie ist entscheidend. Mögliche politische Unsicherheiten oder Konflikte können die Preise stark beeinflussen.",
-    "liquiditaet": "Kapital fließt weiterhin in risikoreichere Anlagen wie Aktien und Kryptowährungen, angetrieben von der Hoffnung auf Wachstum und steigenden Zinsen, aber es gibt auch Zuflüsse in Rohstoffe, die als Inflationsschutz gelten.",
-    "kette": "Wirtschaftswachstum -> höhere Nachfrage nach Rohstoffen und Energie -> steigende Preise -> Inflationsdruck -> Zinsen steigen -> potenzieller Dämpfer für Aktienmärkte, aber kurzfristig überwiegt das Wachstum.",
-    "timing": "Wir befinden uns wahrscheinlich in einer Phase des späten Wirtschaftszyklus, in der das Wachstum noch stark ist, aber die Risiken durch steigende Zinsen und Inflation zunehmen.",
-    "saisonalitaet": "Der Herbst kann oft eine volatile Phase für die Märkte sein, aber die Anzeichen für starkes Wachstum könnten diese Saisonalität überlagern.",
-    "masseFehler": "Viele Anleger unterschätzen das Potenzial von Rohstoffen abseits von Technologie und konzentrieren sich zu sehr auf kurzfristige Nachrichten, anstatt die langfristigen Nachfrage- und Angebotsdynamiken zu verstehen.",
-    "widerspruch": "Die steigenden Zinsen könnten das erwartete Wirtschaftswachstum bremsen, während die aktuellen positiven Wirtschaftsdaten dies scheinbar ignorieren.",
-    "markt": "Aktien: Leicht positiv, Rohstoffe: Gemischt mit Aufwärtstrend bei Industriemetallen, Krypto: Stabil bis leicht positiv, Anleihen: Negativ (wegen Zinsanstieg).",
-    "positionierung": "Das 'Fear & Greed' Sentiment von 73 deutet auf Gier hin, was bedeutet, dass die Marktteilnehmer optimistisch sind. Dies kann ein Warnsignal für eine mögliche Überhitzung sein.",
-    "reflexivitaet": "Gute Wirtschaftsdaten führen zu optimistischen Erwartungen, was zu Käufen führt. Diese Käufe treiben die Kurse weiter an, was die positiven Erwartungen verstärkt – ein positiver Kreislauf, der aber auch schnell kippen kann.",
-    "metaZyklus": "Wir sehen Anzeichen für ein anhaltendes Wachstum, aber die Inflation und die Zinspolitik der Zentralbanken deuten auf eine mögliche Stagflation hin, falls das Wachstum nachlässt.",
-    "psychologie": "FOMO (Fear Of Missing Out) könnte Anleger dazu verleiten, in steigende Märkte zu investieren, ohne die Risiken vollständig zu berücksichtigen.",
-    "halalAsset": "WisdomTree Copper ETC",
+    "narrativ": "Der Markt glaubt, dass die Zentralbanken die Inflation unter Kontrolle bringen werden, während die geopolitischen Spannungen im Nahen Osten zwar für Unsicherheit sorgen, aber keine langfristige Bedrohung für das globale Wachstum darstellen.",
+    "realitaet": "Die Realität ist, dass die Inflation hartnäckiger ist, als viele glauben, und die Zentralbanken weiter straffen müssen, was das Wachstum stärker bremsen wird. Gleichzeitig sind die geopolitischen Risiken im Nahen Osten akut und könnten jederzeit zu einer weiteren Eskalation führen, die die Energiepreise unkontrollierbar macht und die Weltwirtschaft destabilisiert.",
+    "macht": "Ölproduzierende Länder, Energiekonzerne wie Shell, sowie Zentralbanken, die die Zinsen kontrollieren, profitieren von der aktuellen Lage. Spekulanten auf steigende Rohstoffpreise können ebenfalls Gewinne erzielen.",
+    "geopolitik": "Der Konflikt zwischen Iran und den USA, die Angriffe der Houthis im Jemen und die Deeskalationsversuche der US-Regierung in Alaska sind die Haupttreiber der Unsicherheit im Nahen Osten und beeinflussen direkt die Ölpreise.",
+    "liquiditaet": "Kapital fließt in den Energiesektor und in sichere Häfen wie Gold, während es tendenziell aus risikoreicheren Anlagen wie Schwellenländeraktien und möglicherweise auch Tech-Aktien abfließt, die unter höheren Zinsen und regulatorischen Risiken leiden.",
+    "kette": "Geopolitische Spannungen im Nahen Osten -> Angebotsunsicherheit bei Öl -> Ölpreis steigt -> Inflationsdruck steigt -> Zentralbanken straffen Geldpolitik -> Wirtschaftswachstum wird gebremst.",
+    "timing": "Wir befinden uns in einer Phase, in der die Märkte versuchen, die Auswirkungen von anhaltender Inflation und strafferer Geldpolitik auf das Wirtschaftswachstum zu bewerten. Gleichzeitig dominieren geopolitische Risiken die kurzfristige Preisentwicklung bei Rohstoffen. Es ist eine Übergangsphase zwischen Inflationssorgen und potenzieller Rezession.",
+    "saisonalitaet": "null",
+    "masseFehler": "Viele Anleger unterschätzen die hartnäckige Natur der Inflation und die Bereitschaft der Zentralbanken, auch auf Kosten des Wachstums die Zinsen weiter zu erhöhen. Sie könnten auch die potenziellen Auswirkungen einer größeren Eskalation im Nahen Osten auf die globalen Lieferketten und Energiepreise unterschätzen.",
+    "widerspruch": "Es gibt einen Widerspruch zwischen der Hoffnung auf eine schnelle Inflationskontrolle durch die Fed und den anhaltenden geopolitischen Spannungen, die die Energiepreise hochhalten und somit den Inflationsdruck aufrechterhalten. Die Fed demonstriert Unabhängigkeit, aber die globalen Ereignisse erschweren ihre Aufgabe.",
+    "markt": "Öl: Long, Gold: Long, DAX: Short, S&P 500: Neutral/Short, Nasdaq: Short, Ethereum: Short, Bitcoin: Short, US 10J Zins: Short (Kurse fallen, Renditen steigen), DXY: Long, EUR/USD: Short.",
+    "positionierung": "Smart Money positioniert sich vorsichtig in Rohstoffen und defensiven Sektoren, während es Risikopositionen in Tech und wachstumsstarken, aber zinssensiblen Sektoren reduziert. Es gibt eine Tendenz zu einer stärkeren Gewichtung von Sachwerten.",
+    "reflexivitaet": "Die Erwartung höherer Ölpreise führt zu mehr Investitionen in den Energiesektor, was wiederum das Angebot langfristig erhöhen könnte. Kurzfristig jedoch treiben die Spekulationen auf steigende Preise die aktuellen Notierungen weiter in die Höhe, was den Inflationsdruck verstärkt und die Zentralbanken zu weiteren Zinserhöhungen zwingt.",
+    "metaZyklus": "Stagflation (hohe Inflation bei gleichzeitig schwachem Wachstum) mit zunehmenden geopolitischen Umbrüchen.",
+    "psychologie": "Es gibt eine gewisse FOMO (Fear Of Missing Out) in den Energiemärkten aufgrund der steigenden Preise, während gleichzeitig eine diffuse Angst vor einer Rezession die breiteren Märkte belastet.",
+    "halalAsset": "Shell PLC",
     "halalStatus": "halal",
-    "halalBegruendung": "Kupfer ist ein physischer Rohstoff, dessen Handel und Wertentwicklung halal sind.",
+    "halalBegruendung": "Shell ist ein Energiekonzern, dessen Kerngeschäft nicht von Zinsen, Alkohol, Waffen oder Glücksspiel dominiert wird.",
     "entscheidung": "JA",
     "richtung": "LONG",
-    "einstieg": 6.65,
-    "stopLoss": 6.3,
-    "ziel": 7.5,
+    "einstieg": "28.50",
+    "stopLoss": "27.00",
+    "ziel": "31.00",
     "einsatz": 3.13,
-    "exitStrategie": "Gewinne bei Erreichen des Ziels von 7.50 sichern oder den Stop-Loss nachziehen, sobald der Preis 7.00 erreicht, um Gewinne abzusichern.",
-    "waehrungsrisiko": "Der EUR/USD Kurs liegt bei 1.1271. Ein steigender Dollar würde den Preis für in Euro gehandelte Rohstoffe wie Kupfer (das oft in USD notiert wird) potenziell senken, aber die positive Rohstoff-Kette könnte dies überwiegen.",
+    "exitStrategie": "Verkauf bei Erreichen des Ziels von 31.00 Euro oder bei Durchbrechen des Stop-Loss bei 27.00 Euro. Alternativ: Teilgewinnmitnahme bei 30.00 Euro und Rest laufen lassen, falls der Trend stark bleibt.",
+    "waehrungsrisiko": "Ein starker EUR/USD-Kurs (d.h. der Euro wird stärker gegenüber dem Dollar) würde den Wert deiner in Euro gehandelten Shell-Aktie, die in Pfund notiert ist, tendenziell weniger beeinflussen als ein direkt in USD gehandeltes Asset. Da Shell ein globales Unternehmen ist, sind die Gewinne in verschiedenen Währungen, was das Währungsrisiko etwas streut. Ein fallender EUR/USD (stärkerer Dollar) würde den Wert deiner Anlage in Euro eher positiv beeinflussen, wenn die Aktie in einer anderen Währung notiert ist.",
     "asymmetrie": {
-      "verlust": 0.35,
-      "gewinn": 0.85,
-      "ratio": 2.43,
-      "ev": 0.14
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.3,
+      "ev": 0.12
     },
-    "lernpunkt": "Die Verbindung zwischen globalem Wirtschaftswachstum und Rohstoffpreisen ist fundamental. Wenn die Weltwirtschaft wächst, steigt die Nachfrage nach industriellen Gütern und Energie, was die Preise für Rohstoffe wie Kupfer und Öl in die Höhe treibt. Dies ist ein wichtiger Treiber für viele Anlageklassen.",
-    "tagesfrage": "Wie stark wird die globale Nachfrage nach Kupfer sein, um die steigenden Zinsen und mögliche Lieferengpässe zu überwinden?"
+    "lernpunkt": "Ayman, heute hast du gelernt, wie geopolitische Ereignisse, wie Konflikte im Nahen Osten, direkt die Preise von Rohstoffen wie Öl beeinflussen können. Diese Rohstoffpreise wirken sich dann auf die Kosten von Unternehmen und die Inflation aus, was wiederum die Entscheidungen der Zentralbanken über Zinserhöhungen beeinflusst. Es ist eine Kette von Ursache und Wirkung, die die gesamte Weltwirtschaft betrifft.",
+    "tagesfrage": "Wenn die Zentralbanken die Zinsen erhöhen, um die Inflation zu bekämpfen, welche Art von Unternehmen würde deiner Meinung nach am stärksten darunter leiden und warum?"
   },
   "prices": {
-    "NG=F": {
-      "label": "Erdgas",
-      "price": 3.0810000896453857,
-      "change": 0.48924021457361183
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 87.5,
-      "change": -2.158112824096772
-    },
-    "ETH-USD": {
-      "label": "Ethereum",
-      "price": 2715.1298828125,
-      "change": 0.1511745134917422
+    "GC=F": {
+      "label": "Gold",
+      "price": 4146,
+      "change": -0.9815886101995981
     },
     "^GDAXI": {
       "label": "DAX",
-      "price": 25410.240234375,
-      "change": 0.6178347732231536
+      "price": 25094.58984375,
+      "change": -1.3933630775476717
     },
-    "^IXIC": {
-      "label": "Nasdaq",
-      "price": 27477.310546875,
-      "change": 1.0534833339558618
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.183000087738037,
+      "change": 2.2157997400364735
     },
     "^GSPC": {
       "label": "S&P 500",
-      "price": 7773.9501953125,
-      "change": 0.6633670396382023
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4198.2001953125,
-      "change": 0.9959678736107043
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 86311.2109375,
-      "change": 0.6115374962069758
-    },
-    "^TNX": {
-      "label": "US 10J Zins",
-      "price": 5.310999870300293,
-      "change": 0.6443039645797729
-    },
-    "DX-Y.NYB": {
-      "label": "DXY",
-      "price": 101.86599731445312,
-      "change": -0.2975441518453398
-    },
-    "ZW=F": {
-      "label": "Weizen",
-      "price": 699.5,
-      "change": 1.0473094980137234
+      "price": 7818.93017578125,
+      "change": 0.5785987733221113
     },
     "HG=F": {
       "label": "Kupfer",
-      "price": 6.6529998779296875,
-      "change": 1.0249808953779196
+      "price": 6.642000198364258,
+      "change": 0.7202992349274592
     },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1271415948867798,
-      "change": 0.1499100306789665
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 27599.7890625,
+      "change": 0.4457441910701464
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 5.269000053405762,
+      "change": -0.7908080949012809
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2573.39990234375,
+      "change": -4.601138181669753
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 102.32099914550781,
+      "change": 0.48217353002480995
     },
     "SI=F": {
       "label": "Silber",
-      "price": 61.810001373291016,
-      "change": 1.5459460482514806
+      "price": 60.400001525878906,
+      "change": -1.2555547850104247
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 698.5,
+      "change": -0.8164714235001775
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.95999908447266,
+      "change": 0.5813915796872494
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 83638.09375,
+      "change": -2.2434822754563633
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.118943691253662,
+      "change": -0.2461755851293113
     }
   },
   "fearGreed": [
-    71,
     74,
     72,
     67,
     65,
     70,
-    73
+    73,
+    71
   ],
   "simulation": {
-    "buy": 64,
+    "buy": 47,
     "hold": 0,
-    "sell": 36
+    "sell": 53
   }
 }
