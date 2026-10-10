@@ -1,6 +1,6 @@
 {
-  "date": "Freitag, 9. Oktober 2026",
-  "generatedAt": "2026-10-09T11:40:35.330Z",
+  "date": "Samstag, 10. Oktober 2026",
+  "generatedAt": "2026-10-10T10:57:55.720Z",
   "news": [
     {
       "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
@@ -17,366 +17,387 @@
       "origin": "GNews"
     },
     {
-      "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
+      "title": "Wall Street posts weekly gains with earnings, inflation data on tap - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Kremlin says Putin in phone call with Trump downplays immediate Ukraine talks resumption - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Three Saudi nationals killed in attacks on Riyadh airport, aviation authority says - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Treasury yields steady as Trump strikes diplomatic tone on Iran ahead of midterms",
+      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Scenes from across France as student protests spread - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "China to resume October fuel exports after a brief halt, four trade sources say - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Oil falls as Trump comments on Iran talks ease supply concerns - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Gold adds over 1% on easing oil prices, softer dollar - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Pepsi shares rallied despite cutting profit guidance. Where Cramer stands on the stock now",
+      "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump says comment that Iran could 'take out' Los Angeles was misinterpreted - Reuters",
+      "title": "The used car market is stagnant. Here's how to profit anyway",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywood'",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "London stocks post weekly gains as gilt yields retreat; telecom stocks fall - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Treasury yields are 'really, really high,' but can come down soon, Bessent's new adviser says",
+      "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "New data shows Starbucks turnaround is working, but Chipotle takeover report slams shares",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "We're buying the dip in a stock being punished for something it's actually insulated from",
-      "source": "CNBC",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "US imposes fresh sanctions on Iran's shadow fleet - Reuters",
+      "title": "EU aviation body widens Saudi airspace warning after Houthi strikes - Reuters",
       "source": "Reuters",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "We're adding to our position in a hard-hit stock before important catalysts arrive",
+      "title": "US diesel prices remain high despite Trump's moves to boost supplies - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Four signs it is about to get uglier in the bond market as yields rise - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump teases 'big announcement' on diesel - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Jim Cramer sets a Starbucks buy level — plus his take on 3 stocks we just bought",
       "source": "CNBC",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Credo Stock: $3,000 Per GPU, And That's Not Even My Buy Thesis (NASDAQ:CRDO)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Time Technoplast has a Strong Core, with VAPs Driving the Next Leg of Growth – Initiate with BUY for 50% upside: Equirus",
+      "source": "rakesh-jhunjhunwala.in",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "XPLR Infrastructure: 70% Free Cash Flow Yield Misses Almost The Entire Picture (NYSE:XIFR)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
     }
   ],
   "sections": {
-    "brief": "Ayman, heute sehen wir, wie Geopolitik und Wirtschaftswachstum die Märkte bewegen. Die Spannungen im Nahen Osten und die Reaktion darauf beeinflussen Ölpreise und indirekt auch andere Rohstoffe und Aktien. Gleichzeitig gibt es positive Wirtschaftsdaten in Deutschland, die den DAX stützen. Wir müssen lernen, diese komplexen Zusammenhänge zu erkennen, um kluge, halal-konforme Anlageentscheidungen treffen zu können.",
-    "marktlage": "Die Märkte zeigen gemischte Signale: Geopolitische Unsicherheiten belasten Öl, während positive Wirtschaftsdaten in Deutschland den DAX stützen. Gold profitiert leicht von der allgemeinen Unsicherheit.",
+    "brief": "Ayman, heute sehen wir, wie sich die Welt der Märkte durch eine Mischung aus Geopolitik und Technologie bewegt. Die Nachrichten deuten auf eine Erholung in einigen Sektoren hin, aber auch auf anhaltende Spannungen, die die Preise beeinflussen. Wir konzentrieren uns darauf, wie diese globalen Ereignisse konkrete Investitionsmöglichkeiten schaffen, die auch deinen islamischen Prinzipien entsprechen.",
+    "marktlage": "Die globalen Märkte zeigen eine gemischte Performance, mit Gewinnen an den Aktienmärkten, während Anleihen unter Druck stehen und Rohstoffe wie Öl und Gas weiterhin eine wichtige Rolle spielen. Geopolitische Spannungen und technologische Entwicklungen sind treibende Kräfte.",
     "oberflaeche": [
-      "Quelle: Reuters: Houthi strikes on Riyadh airport killed three Saudis as war escalates - Reuters",
-      "Quelle: GNews] Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
-      "Quelle: Reuters: Oil falls as Trump comments on Iran talks ease supply concerns - Reuters"
+      "Quelle: Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "Quelle: Reuters: Wall Street posts weekly gains with earnings, inflation data on tap - Reuters",
+      "Quelle: CNBC: What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week"
     ],
     "bewegungen": [
       {
-        "ausloeser": "Houthi-Angriffe auf Riad und Eskalation im Nahen Osten",
-        "kette": "Geopolitische Spannungen steigen -> Unsicherheit über Ölversorgung nimmt zu -> Ölpreis steigt kurzfristig",
-        "warum": "Wenn Konflikte in wichtigen Ölförderregionen ausbrechen, befürchten Investoren Lieferengpässe. Diese Angst treibt den Preis für Öl nach oben, da die Nachfrage unverändert bleibt oder sogar steigt.",
-        "betroffen": "Ölpreis (ETC), Energiewerte (Einzelaktien wie Shell, TotalEnergies), Fluglinien (Einzelaktien, ETFs), Rüstungsindustrie (Einzelaktien, ETFs)",
-        "investierbar": {
-          "asset": "WisdomTree Brent Oil",
-          "isin": "null",
-          "richtung": "LONG/MEIDEN",
-          "halal": "fraglich",
-          "wie": "Im Falle einer weiteren Eskalation könnte ein Long-Einstieg in Öl-ETCs in Betracht gezogen werden, wobei die kurzfristige Natur solcher Bewegungen zu beachten ist."
-        }
-      },
-      {
-        "ausloeser": "Kommentare von Trump zu Iran-Gesprächen und Entspannungssignalen",
-        "kette": "Diplomatische Entspannung im Iran -> Sorgen um Ölversorgung sinken -> Ölpreis fällt",
-        "warum": "Wenn die Aussicht auf diplomatische Lösungen steigt, schwindet die Angst vor einer direkten Konfrontation, die die Ölversorgung beeinträchtigen könnte. Dies führt zu Verkäufen von Öl, da die erwartete Knappheit geringer wird.",
-        "betroffen": "Ölpreis (ETC), Energiewerte (Einzelaktien wie Shell, TotalEnergies), Fluglinien (Einzelaktien, ETFs), Rüstungsindustrie (Einzelaktien, ETFs)",
-        "investierbar": {
-          "asset": "WisdomTree Brent Oil",
-          "isin": "null",
-          "richtung": "MEIDEN/REDUZIEREN",
-          "halal": "fraglich",
-          "wie": "Angesichts fallender Ölpreise aufgrund von Entspannungssignalen ist eine Reduzierung von Long-Positionen in Öl-ETCs ratsam."
-        }
-      },
-      {
-        "ausloeser": "Starkes Wirtschaftswachstum in Hessen laut FAZ",
-        "kette": "Gute regionale Wirtschaftsdaten -> Optimismus für deutsche Wirtschaft -> DAX steigt",
-        "warum": "Positive Nachrichten über das Wirtschaftswachstum in einer wichtigen Region Deutschlands signalisieren Stärke und Potenzial für die gesamte Volkswirtschaft. Dies stärkt das Vertrauen der Anleger und führt zu Käufen deutscher Aktien, was den DAX nach oben treibt.",
-        "betroffen": "DAX (ETF), deutsche Einzelaktien, Sektoren mit hoher Inlandsnachfrage",
-        "investierbar": {
-          "asset": "iShares Core DAX UCITS ETF",
-          "isin": "DE0005933931",
-          "richtung": "LONG",
-          "halal": "halal",
-          "wie": "Ein Long-Einstieg in einen DAX-ETF könnte sinnvoll sein, um von der positiven Wirtschaftsentwicklung zu profitieren."
-        }
-      },
-      {
-        "ausloeser": "US 10J Zins fällt leicht, Gold steigt",
-        "kette": "Zinsen fallen leicht -> Opportunitätskosten für Gold sinken -> Goldpreis steigt",
-        "warum": "Gold wirft keine Zinsen ab. Wenn die Zinsen für zinslose Anlagen wie Staatsanleihen sinken, wird Gold im Vergleich attraktiver, da die 'Kosten' des Nicht-Besitzens von Zinsen geringer werden. Das macht Gold für Investoren interessanter.",
-        "betroffen": "Gold (ETC), Anleihen (ETFs)",
+        "ausloeser": "Anhaltende geopolitische Spannungen (Putin-Trump-Gespräch, Houthi-Angriffe)",
+        "kette": "Geopolitische Spannungen steigen -> Unsicherheit nimmt zu -> Nachfrage nach sicheren Häfen (Gold, Silber) steigt, während risikoreichere Anlagen (Aktien, Krypto) unter Druck geraten könnten.",
+        "warum": "In unsicheren Zeiten suchen Investoren nach Vermögenswerten, die ihren Wert erhalten. Gold und Silber gelten traditionell als sichere Häfen, da sie unabhängig von einzelnen Volkswirtschaften oder Unternehmen sind. Aktien und Kryptowährungen hingegen sind anfälliger für plötzliche Stimmungswechsel und wirtschaftliche Abschwünge.",
+        "betroffen": "Gold, Silber, Anleihen, Aktien (insbesondere Technologie und Wachstumsaktien), Kryptowährungen.",
         "investierbar": {
           "asset": "Xetra-Gold",
           "isin": "DE000A0S9GB0",
           "richtung": "LONG",
           "halal": "halal",
-          "wie": "Angesichts des leicht fallenden Zinsumfelds und steigender Goldpreise ist ein vorsichtiger Long-Einstieg in Xetra-Gold attraktiv."
+          "wie": "Kaufen, wenn die geopolitische Lage sich zuspitzt und die Kurse leicht fallen."
+        }
+      },
+      {
+        "ausloeser": "Erholung im Technologiesektor, starke Quartalsberichte, Fokus auf KI und Chips",
+        "kette": "Technologieaktien erholen sich -> Nachfrage nach Halbleiter-Komponenten steigt -> Unternehmen wie ASML, TSMC und Nvidia profitieren -> Zyklen von Innovation und Wachstum im Tech-Sektor beschleunigen sich.",
+        "warum": "Die Erholung im Tech-Sektor wird durch die anhaltende Bedeutung von künstlicher Intelligenz und die steigende Nachfrage nach leistungsfähigeren Chips angetrieben. Unternehmen, die diese Chips herstellen oder die dafür notwendige Ausrüstung liefern, sehen sich einer wachsenden Auftragslage gegenüber.",
+        "betroffen": "Halbleiteraktien, Technologie-ETFs, Unternehmen, die in KI investieren.",
+        "investierbar": {
+          "asset": "iShares MSCI Semiconductors",
+          "isin": null,
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Kaufen, da die Nachfrage nach Halbleitern weiter steigt."
+        }
+      },
+      {
+        "ausloeser": "Hohe Dieselpreise trotz Trump's Bemühungen, steigende Energiekosten",
+        "kette": "Hohe Dieselpreise -> Transportkosten steigen -> Inflation wird angeheizt -> Zentralbanken könnten Zinsen länger hoch halten oder sogar erhöhen -> Anleihenkurse fallen weiter.",
+        "warum": "Wenn die Kosten für den Transport von Gütern steigen, schlagen sich diese Kosten in den Endpreisen für Konsumgüter nieder. Dies führt zu einer höheren Inflation. Zentralbanken reagieren auf hohe Inflation oft mit einer strafferen Geldpolitik, was die Zinsen erhöht und Anleihen unattraktiver macht.",
+        "betroffen": "Transportunternehmen, Konsumgüter, Anleihenmärkte, Rohöl.",
+        "investierbar": {
+          "asset": "iShares US Treasury ETFs",
+          "isin": null,
+          "richtung": "MEIDEN",
+          "halal": "nicht-halal",
+          "wie": "Aufgrund steigender Zinsen und des damit verbundenen Kursverfalls bei Anleihen meiden."
+        }
+      },
+      {
+        "ausloeser": "Recovery Rally im Tech-Sektor, Elon Musks gute Woche, Tesla-Rückschläge in Europa",
+        "kette": "Positive Nachrichten für Tech-Unternehmen (z.B. Nvidia, Micron) -> Spekulationen über zukünftiges Wachstum -> Investoren investieren in Technologie-Aktien -> ETFs, die diese Aktien bündeln, steigen.",
+        "warum": "Positive Nachrichten und Erfolge in Schlüsselbereichen wie KI und Halbleitertechnik führen zu Optimismus unter Investoren. Dies kann zu einer 'Recovery Rally' führen, bei der die Kurse von Technologieaktien wieder anziehen, da die Anleger auf zukünftige Gewinne setzen.",
+        "betroffen": "Technologie-Aktien, Halbleiter, KI-Unternehmen.",
+        "investierbar": {
+          "asset": "iShares Nasdaq 100",
+          "isin": "IE00B53SZB19",
+          "richtung": "LONG",
+          "halal": "fraglich",
+          "wie": "Kaufen, da der Nasdaq 100 stark von Technologieaktien dominiert wird, die aktuell eine Erholung zeigen."
         }
       }
     ],
     "chancen": [
       {
         "rang": 1,
-        "asset": "iShares Core DAX UCITS ETF",
-        "isin": "DE0005933931",
-        "klasse": "Aktien-ETF",
-        "richtung": "LONG",
-        "halal": "halal",
-        "einstieg": 158.5,
-        "stopLoss": 155,
-        "ziel": 165,
-        "zeitraum": "4-8 Wochen",
-        "kette": "Gute regionale Wirtschaftsdaten -> Optimismus für deutsche Wirtschaft -> DAX steigt",
-        "konfidenz": 70,
-        "erklaerung": {
-          "wasIstDas": "Dieser ETF bildet den DAX ab, den wichtigsten deutschen Aktienindex. Er enthält die 40 größten und liquidesten deutschen Unternehmen. Wenn du in diesen ETF investierst, kaufst du quasi einen kleinen Anteil an all diesen Unternehmen gleichzeitig.",
-          "warumJetzt": "Die Nachricht über das starke Wirtschaftswachstum in Hessen deutet auf eine robuste deutsche Wirtschaft hin. Dies kann das Vertrauen der Anleger stärken und zu einem Anstieg des DAX führen, da positive Wirtschaftsdaten oft mit steigenden Unternehmensgewinnen einhergehen.",
-          "wannKaufen": "Es ist ratsam, jetzt zu kaufen oder auf einen leichten Rücksetzer bis etwa 158.00 Euro zu warten. Dies gibt dir die Chance, zu einem etwas besseren Preis einzusteigen, falls der Markt kurzzeitig korrigiert, aber die positive Grundstimmung bleibt bestehen.",
-          "wieViel": "Bei deinem Budget von 50€ könntest du etwa 0,3 ETF-Anteile kaufen (aktueller Preis ca. 158,50 €). Das ist ein kleiner Betrag, aber wichtig, um zu lernen, wie sich die Position entwickelt, ohne zu viel Risiko einzugehen.",
-          "wannRaus": "Du könntest einen Gewinn mitnehmen, wenn der Kurs etwa 165 Euro erreicht. Ein Stop-Loss bei 155 Euro schützt dich vor größeren Verlusten, falls die positive Entwicklung doch nicht eintritt und der Markt stark fällt.",
-          "wasKannSchiefgehen": "Sollten unerwartete negative Nachrichten die deutsche oder globale Wirtschaft treffen, oder die Zinsen unerwartet stark steigen, könnte der DAX trotz guter lokaler Daten fallen. Dies würde deine Investition belasten.",
-          "woranErkenneIchFalsch": "Wenn der ETF trotz guter Nachrichten nachhaltig unter seine kurzfristigen gleitenden Durchschnitte fällt oder die positive Stimmung im Markt generell kippt, könnte deine These falsch sein. Achte auch auf negative Wirtschaftsdaten, die kurzfristig veröffentlicht werden könnten.",
-          "begriffDesTrades": "Ein 'ETF' (Exchange Traded Fund) ist ein börsengehandelter Fonds, der einen Index wie den DAX nachbildet. Er ermöglicht es dir, mit einem einzigen Kauf breit gestreut in viele Aktien zu investieren, was das Risiko im Vergleich zu Einzelaktien reduziert."
-        }
-      },
-      {
-        "rang": 2,
         "asset": "Xetra-Gold",
         "isin": "DE000A0S9GB0",
         "klasse": "Rohstoff (ETC)",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 4200,
-        "stopLoss": 4150,
-        "ziel": 4300,
-        "zeitraum": "1-2 Wochen",
-        "kette": "Zinsen fallen leicht -> Opportunitätskosten für Gold sinken -> Goldpreis steigt",
+        "einstieg": 4216,
+        "stopLoss": 4100,
+        "ziel": 4500,
+        "zeitraum": "2-4 Wochen",
+        "kette": "Geopolitische Spannungen steigen -> Unsicherheit nimmt zu -> Nachfrage nach sicheren Häfen (Gold) steigt -> Goldpreis steigt.",
+        "konfidenz": 70,
+        "erklaerung": {
+          "wasIstDas": "Xetra-Gold ist ein börsengehandelter Fonds (ETC), der physisch mit Gold hinterlegt ist. Das bedeutet, du investierst direkt in echtes Gold, das sicher in Tresoren gelagert wird. Es ist eine einfache Möglichkeit, am Goldpreis teilzuhaben, ohne physisches Gold besitzen zu müssen.",
+          "warumJetzt": "Die Nachrichtenlage deutet auf anhaltende geopolitische Spannungen hin, wie das Gespräch zwischen Putin und Trump und die Houthi-Angriffe. Diese Unsicherheit treibt traditionell die Nachfrage nach Gold als sicherem Hafen, was den Preis tendenziell steigen lässt.",
+          "wannKaufen": "Du kannst jetzt bei etwa 4216 € einsteigen. Wenn der Preis leicht zurückfällt, z.B. auf 4180 €, könntest du auch dort nachkaufen, um einen besseren Durchschnittspreis zu erzielen.",
+          "wieViel": "Bei deinem Budget von 50 € könntest du etwa 10-15 % deines Kapitals in Xetra-Gold investieren. Das sind 5-7,50 €. So riskierst du nicht zu viel auf einmal und lernst, wie sich die Investition entwickelt.",
+          "wannRaus": "Setze ein Stop-Loss bei 4100 €, um Verluste zu begrenzen, falls die geopolitische Lage sich unerwartet beruhigt. Ein realistisches Kursziel wäre 4500 €, wo du einen Teil deiner Gewinne mitnehmen könntest.",
+          "wasKannSchiefgehen": "Sollte sich die geopolitische Lage überraschend entspannen oder die US-Notenbank doch stärker die Zinsen erhöhen als erwartet, könnte die Nachfrage nach Gold sinken und der Preis fallen. Dein Stop-Loss würde dich dann vor größeren Verlusten schützen.",
+          "woranErkenneIchFalsch": "Wenn die Nachrichtenlage sich deutlich entspannt, die Spannungen abnehmen und keine neuen Krisenherde entstehen, könnte deine These falsch sein. Achte auf eine durchgängig positive globale Nachrichtenlage, die dem Goldpreis entgegenwirkt.",
+          "begriffDesTrades": "Sicherer Hafen: Ein Vermögenswert, der in Zeiten wirtschaftlicher oder politischer Unsicherheit voraussichtlich seinen Wert behält oder sogar steigert. Gold gilt als klassischer sicherer Hafen."
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "iShares MSCI Semiconductors",
+        "isin": null,
+        "klasse": "Sektor-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 150,
+        "stopLoss": 135,
+        "ziel": 180,
+        "zeitraum": "3-6 Monate",
+        "kette": "Erholung im Tech-Sektor, Fokus auf KI und Chips -> Steigende Nachfrage nach Halbleitern -> Unternehmen im Halbleitersektor profitieren -> ETF auf Halbleiter-Aktien steigt.",
         "konfidenz": 65,
         "erklaerung": {
-          "wasIstDas": "Xetra-Gold ist ein ETC (Exchange Traded Commodity), der den Preis von physischem Gold abbildet. Wenn du in Xetra-Gold investierst, hältst du im Grunde einen Anteil an Gold, das sicher gelagert wird. Es ist eine Möglichkeit, in Gold zu investieren, ohne es selbst physisch besitzen zu müssen.",
-          "warumJetzt": "Der US-Zinsmarkt zeigt Anzeichen einer leichten Entspannung, was bedeutet, dass die Renditen auf Anleihen sinken. Da Gold keine Zinsen abwirft, wird es attraktiver, wenn die Zinsen für andere Anlagen fallen. Das macht Gold zu einer attraktiven sicheren Anlage.",
-          "wannKaufen": "Du könntest jetzt bei etwa 4200 Euro einsteigen. Da die Bewegung im Goldpreis oft von Zinsänderungen und globalen Unsicherheiten abhängt, ist es sinnvoll, jetzt zu investieren, solange die Zinsen tendenziell fallen.",
-          "wieViel": "Mit 50 Euro könntest du einen kleinen Bruchteil einer Xetra-Gold-Einheit kaufen. Dies ermöglicht dir, die Preisentwicklung zu beobachten und zu lernen, wie sich sichere Anlagen in einem sich ändernden Zinsumfeld verhalten, ohne dein Kapital zu stark zu binden.",
-          "wannRaus": "Ein Ziel von 4300 Euro könnte realistisch sein, wenn die Zinsen weiter fallen oder die geopolitische Unsicherheit zunimmt. Ein Stop-Loss bei 4150 Euro schützt dich, falls der Goldpreis unerwartet fällt, zum Beispiel durch starke positive Wirtschaftsdaten, die Zinsen wieder treiben.",
-          "wasKannSchiefgehen": "Wenn die US-Notenbank doch eine straffere Geldpolitik signalisiert oder die globale Wirtschaft stark anzieht und damit die Zinsen wieder steigen, könnte Gold an Attraktivität verlieren und fallen.",
-          "woranErkenneIchFalsch": "Wenn der Goldpreis unter wichtige Unterstützungsniveaus fällt, wie z.B. unter 4150 Euro, oder wenn die Zinsen deutlich anziehen, sind das Warnsignale, dass deine These nicht mehr stimmt.",
-          "begriffDesTrades": "'Opportunitätskosten' beziehen sich auf den entgangenen Gewinn, wenn man sich für eine Anlage entscheidet und eine andere dafür nicht wählt. Bei Gold sind die Opportunitätskosten die Zinsen, die man stattdessen mit Anleihen verdienen könnte."
+          "wasIstDas": "Dieser ETF bündelt Aktien von Unternehmen, die in der Halbleiterindustrie tätig sind – von der Herstellung bis zur Entwicklung von Chips. Er ermöglicht dir, breit gestreut in diesen zukunftsträchtigen Sektor zu investieren, anstatt dich auf einzelne Firmen festzulegen.",
+          "warumJetzt": "Die Nachrichten über starke Ergebnisse und die anhaltende Bedeutung von KI und leistungsfähigeren Chips deuten auf eine robuste Nachfrage hin. Unternehmen wie Nvidia und Micron werden explizit erwähnt, was die Stärke des Sektors unterstreicht.",
+          "wannKaufen": "Du könntest jetzt bei etwa 150 € einsteigen. Ein leichter Rücksetzer auf 145 € wäre eine gute Gelegenheit, deine Position aufzubauen, da der Sektor insgesamt eine positive Dynamik zeigt.",
+          "wieViel": "Investiere etwa 15-20 % deines Budgets (7,50-10 €). Dies gibt dir eine solide Position im Halbleitersektor, ohne dein Kapital zu stark zu konzentrieren.",
+          "wannRaus": "Setze ein Stop-Loss bei 135 €, um dich vor größeren Kursrückgängen zu schützen, falls der Tech-Sektor unerwartet unter Druck gerät. Ein Kursziel von 180 € ist realistisch, basierend auf dem erwarteten Wachstum im Sektor.",
+          "wasKannSchiefgehen": "Eine plötzliche Verschärfung der globalen Wirtschaftslage oder neue Handelsbeschränkungen im Chip-Sektor könnten die Nachfrage dämpfen. Auch technische Probleme bei wichtigen Herstellern könnten den Sektor belasten.",
+          "woranErkenneIchFalsch": "Wenn wichtige Tech-Unternehmen ihre Prognosen deutlich senken, die Nachfrage nach Chips stagniert oder es zu neuen, schwerwiegenden regulatorischen Hürden im Halbleiterbereich kommt, könnte deine These hinfällig sein.",
+          "begriffDesTrades": "Halbleiter: Kleine elektronische Bauteile, die in fast allen modernen Geräten wie Computern, Smartphones und Autos stecken. Sie sind das Herzstück der digitalen Technologie."
         }
       },
       {
         "rang": 3,
-        "asset": "Bitcoin",
-        "isin": "null",
-        "klasse": "Krypto",
+        "asset": "iShares Nasdaq 100",
+        "isin": "IE00B53SZB19",
+        "klasse": "Aktien-ETF",
         "richtung": "LONG",
         "halal": "fraglich",
-        "einstieg": 82000,
-        "stopLoss": 79000,
-        "ziel": 88000,
-        "zeitraum": "2-4 Wochen",
-        "kette": "Positive Marktstimmung trotz geopolitischer Risiken -> Anleger suchen nach alternativen Wertaufbewahrungsmitteln -> Bitcoin steigt",
+        "einstieg": 185,
+        "stopLoss": 165,
+        "ziel": 210,
+        "zeitraum": "4-8 Wochen",
+        "kette": "Positive Nachrichten für Tech-Unternehmen, Erholung im Sektor -> Investoren investieren in Technologie-Aktien -> Der Nasdaq 100, der stark von Tech dominiert wird, steigt.",
         "konfidenz": 60,
         "erklaerung": {
-          "wasIstDas": "Bitcoin ist die bekannteste Kryptowährung und eine digitale, dezentrale Währung, die ohne eine zentrale Bank funktioniert. Sie wird oft als 'digitales Gold' bezeichnet, da sie eine begrenzte Menge hat und als Wertaufbewahrungsmittel dienen kann.",
-          "warumJetzt": "Trotz der geopolitischen Spannungen zeigt Bitcoin eine positive Kursentwicklung. Dies könnte darauf hindeuten, dass Anleger zunehmend nach alternativen Anlagen suchen, die nicht direkt von traditionellen Finanzmärkten oder geopolitischen Ereignissen beeinflusst werden, und Bitcoin als solche Alternative betrachten.",
-          "wannKaufen": "Ein Kauf bei etwa 82.000 Dollar, leicht unter dem aktuellen Kurs, könnte eine gute Einstiegsgelegenheit bieten. Wenn Bitcoin leicht zurücksetzt, kannst du von einem besseren Preis profitieren, bevor die positive Dynamik möglicherweise weiter ansteigt.",
-          "wieViel": "Mit 50 Euro kannst du einen kleinen Bruchteil eines Bitcoins kaufen. Dies ist ideal, um die Volatilität von Kryptowährungen kennenzulernen, ohne dein gesamtes Kapital zu riskieren. Du lernst, wie sich solche digitalen Assets bewegen.",
-          "wannRaus": "Ein Ziel von 88.000 Dollar ist erreichbar, wenn die positive Stimmung anhält und Bitcoin weiterhin als Wertaufbewahrungsmittel gesucht wird. Ein Stop-Loss bei 79.000 Dollar schützt dich vor größeren Verlusten, falls der Markt eine unerwartete Korrektur erfährt.",
-          "wasKannSchiefgehen": "Strenge regulatorische Maßnahmen gegen Kryptowährungen oder eine allgemeine Risikoaversion am Markt könnten zu einem starken Preisverfall führen. Auch technische Probleme oder Hacks könnten den Kurs negativ beeinflussen.",
-          "woranErkenneIchFalsch": "Wenn Bitcoin signifikant unter wichtige Unterstützungsniveaus fällt, wie z.B. unter 79.000 Dollar, oder wenn negative regulatorische Nachrichten publik werden, ist das ein Zeichen dafür, dass die positive These ins Wanken gerät.",
-          "begriffDesTrades": "'Dezentralisierung' bedeutet, dass Bitcoin nicht von einer einzelnen zentralen Instanz wie einer Bank oder Regierung kontrolliert wird. Die Transaktionen werden von einem Netzwerk von Computern weltweit verifiziert, was es resistent gegen Zensur macht."
+          "wasIstDas": "Der Nasdaq 100 ist ein Index, der die 100 größten Nicht-Finanzunternehmen an der US-Technologiebörse Nasdaq umfasst. Dieser ETF bildet diesen Index nach und gibt dir Zugang zu großen Tech-Giganten wie Apple, Microsoft und Amazon.",
+          "warumJetzt": "Die Nachrichten deuten auf eine 'Recovery Rally' im Tech-Sektor hin, mit positiven Kommentaren zu Unternehmen wie Nvidia und Micron. Auch wenn Tesla in Europa Rückschläge erleidet, überwiegen die positiven Impulse für den breiten Tech-Markt.",
+          "wannKaufen": "Ein guter Einstiegszeitpunkt wäre jetzt bei etwa 185 €. Sollte es zu einem kleinen Rücksetzer auf 180 € kommen, könntest du dort nachkaufen, um deine Position zu verstärken.",
+          "wieViel": "Investiere etwa 10-15 % deines Budgets (5-7,50 €). Dies ermöglicht dir, von der breiten Erholung im Tech-Sektor zu profitieren, ohne zu viel Risiko einzugehen.",
+          "wannRaus": "Setze ein Stop-Loss bei 165 €, um dich vor unerwarteten Kursstürzen zu schützen. Ein Kursziel von 210 € ist erreichbar, wenn sich der positive Trend im Technologiesektor fortsetzt.",
+          "wasKannSchiefgehen": "Eine unerwartete Zinswende der Zentralbanken, eine globale Rezession oder negative Nachrichten von einem der großen Tech-Konzerne könnten den Aufwärtstrend stoppen. Auch regulatorische Eingriffe in den Tech-Sektor sind ein Risiko.",
+          "woranErkenneIchFalsch": "Wenn große Tech-Unternehmen ihre Gewinnziele verfehlen, die Zinsen stark ansteigen oder es zu einer deutlichen Abkühlung der Konsumausgaben kommt, die Technologieprodukte betrifft, ist deine These wahrscheinlich falsch.",
+          "begriffDesTrades": "Recovery Rally: Eine Phase, in der die Kurse eines Marktes oder Sektors nach einer vorherigen Schwächephase wieder ansteigen. Dies wird oft durch positive Nachrichten oder eine verbesserte Marktstimmung ausgelöst."
         }
       }
     ],
-    "narrativ": "Die Märkte sind nervös wegen geopolitischer Spannungen im Nahen Osten, aber die US-Notenbank signalisiert Stabilität, und die US-Wirtschaft zeigt sich widerstandsfähig.",
-    "realitaet": "Die geopolitischen Spannungen im Nahen Osten sorgen für Unsicherheit und beeinflussen kurzfristig die Ölpreise. Gleichzeitig zeigen positive lokale Wirtschaftsdaten wie in Deutschland, dass nicht alle Märkte gleichermaßen betroffen sind. Die Zinsentwicklung bleibt ein Schlüsselfaktor.",
-    "macht": "Die Ölproduzenten und -importeure sind direkt von den geopolitischen Spannungen betroffen. Die deutsche Wirtschaft und ihre Unternehmen profitieren von den positiven Wachstumsdaten. Zentralbanken und Regierungen beeinflussen die Zinsen und damit die allgemeine Marktstimmung.",
-    "geopolitik": "Die Houthi-Angriffe im Nahen Osten und die Reaktionen darauf (z.B. US-Sanktionen) verschärfen die Unsicherheit und beeinflussen die Energiepreise. Die diplomatischen Äußerungen von Trump im Hinblick auf den Iran können diese Unsicherheit kurzfristig reduzieren.",
-    "liquiditaet": "Kapital fließt tendenziell aus unsicheren Anlagen in sicherere Häfen wie Gold, wenn die geopolitische Lage eskaliert. Positive Wirtschaftsdaten in Deutschland könnten Kapital in den DAX und europäische Aktien ziehen. Bitcoin wird zunehmend als alternative Wertanlage betrachtet.",
-    "kette": "Geopolitische Spannungen im Nahen Osten -> Unsicherheit über Ölversorgung -> Ölpreis reagiert (kurzfristig steigend/fallend je nach Nachrichtenlage) -> DAX profitiert von positiven nationalen Wirtschaftsdaten -> Gold steigt leicht aufgrund fallender Zinsen und allgemeiner Unsicherheit.",
-    "timing": "Wir befinden uns in einer Phase, in der geopolitische Ereignisse kurzfristig die Märkte beeinflussen, während grundlegende Wirtschaftsdaten und Zinsentwicklungen langfristig wichtiger sind. Die US-Midterms stehen bevor, was die Politik beeinflussen könnte.",
-    "saisonalitaet": "Typischerweise ist der Oktober ein volatiler Monat, der von Quartalsende-Effekten und der Vorbereitung auf das Jahresende geprägt sein kann. Die aktuelle Gemengelage aus Geopolitik und Wirtschaftsdaten überlagert jedoch saisonale Muster.",
-    "masseFehler": "Viele Anleger konzentrieren sich zu stark auf einzelne Nachrichten (z.B. nur Öl) und übersehen die positiven lokalen Wirtschaftsdaten oder die komplexen Wechselwirkungen zwischen Zinsen, Rohstoffen und Aktien.",
-    "widerspruch": "Es gibt einen Widerspruch zwischen den negativen geopolitischen Nachrichten, die Öl belasten, und den positiven Wirtschaftsdaten in Deutschland, die den DAX stützen. Dies führt zu einer gemischten Marktentwicklung.",
-    "markt": "Aktien (DAX LONG, S&P 500/Nasdaq tendenziell neutral/leicht schwach wegen Zinsunsicherheit), Rohstoffe (Öl volatil, Gold LONG, Kupfer/Industriemetalle tendenziell LONG wegen Wachstumsaussichten), Krypto (Bitcoin/Ethereum tendenziell LONG).",
-    "positionierung": "Das 'Fear & Greed'-Sentiment von 59/100 deutet auf eine neutrale bis leicht gierige Marktstimmung hin. Anleger sind nicht übermäßig ängstlich, aber auch nicht euphorisch. Dies deutet auf eine vorsichtige, aber grundsätzlich positive Grundstimmung hin.",
-    "reflexivitaet": "Positive Wirtschaftsdaten in Deutschland könnten zu mehr Investitionen in deutsche Unternehmen führen, was wiederum die Wirtschaft weiter ankurbelt. Fallende Ölpreise durch diplomatische Entspannung könnten die Inflation dämpfen und die Zentralbanken entlasten, was sich positiv auf Aktien auswirken könnte.",
-    "metaZyklus": "Es scheint eine Mischung aus Wachstum (positive Wirtschaftsdaten) und Unsicherheit (Geopolitik) zu geben. Die Zinsentwicklung ist entscheidend, ob wir eher in Richtung Stagflation oder Erholung tendieren.",
-    "psychologie": "Die steigenden Spannungen im Nahen Osten könnten bei manchen Anlegern Angst auslösen, während die positiven Wirtschaftsdaten und die Hoffnung auf diplomatische Lösungen Optimismus fördern. Vorsicht ist geboten, um nicht von Emotionen geleitet zu werden.",
-    "halalAsset": "iShares Core DAX UCITS ETF (DE0005933931)",
+    "narrativ": "Die Masse glaubt, dass die Erholung im Technologiesektor anhält und durch KI getrieben wird, während die geopolitischen Spannungen eher eine Randnotiz bleiben.",
+    "realitaet": "Die geopolitischen Spannungen schaffen Unsicherheit, die sich auf die Anleihenmärkte auswirkt und Gold stützt. Gleichzeitig ist der Technologiesektor stark, aber anfällig für regulatorische Eingriffe und eine mögliche Abkühlung der globalen Wirtschaft.",
+    "macht": "Technologieunternehmen (insbesondere Chip-Hersteller und KI-Entwickler), Zentralbanken (durch Zinspolitik), und geopolitische Akteure (die Unsicherheit schaffen).",
+    "geopolitik": "Das Gespräch zwischen Putin und Trump sowie die Houthi-Angriffe im Nahen Osten sorgen für anhaltende geopolitische Unsicherheit und beeinflussen die Energiepreise sowie die Nachfrage nach sicheren Häfen.",
+    "liquiditaet": "Kapital fließt weiterhin in Technologie-Aktien und Rohstoffe wie Gold und Silber, während Anleihen unter Druck geraten.",
+    "kette": "Geopolitische Spannungen -> Unsicherheit steigt -> Nachfrage nach Gold steigt (sicherer Hafen). Gleichzeitig: Erholung im Tech-Sektor -> Nachfrage nach Chips steigt -> Technologie-ETFs steigen.",
+    "timing": "Wir befinden uns in einer Phase der Marktunsicherheit, in der sowohl defensive Anlagen (Gold) als auch wachstumsstarke Sektoren (Technologie) Chancen bieten, abhängig von der Risikobereitschaft.",
+    "saisonalitaet": "Keine eindeutigen saisonalen Muster erkennbar, die das heutige Marktgeschehen dominieren würden.",
+    "masseFehler": "Die Masse unterschätzt möglicherweise die Auswirkungen anhaltender geopolitischer Spannungen auf die breitere Wirtschaft und die Anleihenmärkte und setzt zu stark auf eine unaufhaltsame Tech-Rally.",
+    "widerspruch": "Es gibt einen Widerspruch zwischen der Stärke im Technologiesektor und der Unsicherheit, die durch geopolitische Ereignisse und steigende Zinsen ausgelöst wird, was zu einer gemischten Marktperformance führt.",
+    "markt": "Aktien: Leicht positiv, mit starker Performance im Tech-Sektor. Anleihen: Negativ (steigende Zinsen). Rohstoffe: Gemischt, Gold und Silber stark, Öl stabil. Krypto: Stabil, leicht positiv.",
+    "positionierung": "Das Sentiment (Fear & Greed Index bei 64) deutet auf eine leicht gierige Marktstimmung hin, was bedeutet, dass Investoren optimistisch sind, aber Vorsicht geboten ist.",
+    "reflexivitaet": "Die Nachrichten über die Erholung im Tech-Sektor und positive Analystenkommentare treiben die Kurse weiter an, was wiederum mehr Investoren anzieht (FOMO).",
+    "metaZyklus": "Wir befinden uns wahrscheinlich in einer Phase des Umbruchs, in der die Welt versucht, zwischen anhaltendem Wachstum, Inflationsdruck und geopolitischen Risiken zu navigieren.",
+    "psychologie": "Es besteht die Gefahr von FOMO (Fear Of Missing Out) im Technologiesektor, während die geopolitische Unsicherheit eher zu Vorsicht mahnt.",
+    "halalAsset": "Xetra-Gold (DE000A0S9GB0)",
     "halalStatus": "halal",
-    "halalBegruendung": "Der ETF investiert in große deutsche Unternehmen, die typischerweise keine dominanten Einnahmen aus z.B. Alkohol, Waffen oder Glücksspiel erzielen.",
+    "halalBegruendung": "Gold ist ein physisch gedecktes Edelmetall und unterliegt keinen islamischen Verboten.",
     "entscheidung": "JA",
     "richtung": "LONG",
-    "einstieg": 158.5,
-    "stopLoss": 155,
-    "ziel": 165,
-    "einsatz": 3.13,
-    "exitStrategie": "Gewinnmitnahme bei Erreichen des Ziels von 165 Euro oder Verkauf bei Unterschreiten des Stop-Loss von 155 Euro.",
-    "waehrungsrisiko": "Der EUR/USD-Kurs liegt bei 1.1216 (+0.13%). Ein starker Euro kann deutsche Exporte verteuern und somit dem DAX belasten, während ein schwacher Euro Exporte fördert. Die aktuelle Bewegung ist gering und hat wahrscheinlich nur geringe Auswirkungen.",
+    "einstieg": 4216,
+    "stopLoss": 4100,
+    "ziel": 4500,
+    "einsatz": 7.5,
+    "exitStrategie": "Teilgewinne bei 4500 € mitnehmen, Restposition mit Trailing-Stop absichern, um von weiteren Aufwärtsbewegungen zu profitieren.",
+    "waehrungsrisiko": "EUR/USD fällt leicht (-0.06%), was für in Euro gehaltene US-Dollar-Anlagen (wie US-Aktien-ETFs) leicht nachteilig ist, aber bei Gold, das international gehandelt wird, weniger relevant ist.",
     "asymmetrie": {
-      "verlust": 3.5,
-      "gewinn": 6.5,
-      "ratio": 1.86,
-      "ev": 0.12
+      "verlust": 116,
+      "gewinn": 284,
+      "ratio": 2.45,
+      "ev": 0.17
     },
-    "lernpunkt": "Die Reaktion des Ölpreises auf geopolitische Ereignisse ist oft kurzfristig und stark von den Nachrichten abhängig. Eine Eskalation kann den Preis schnell treiben, während diplomatische Fortschritte ihn genauso schnell fallen lassen können, da die tatsächliche Angebotsunterbrechung oft nicht eintritt.",
-    "tagesfrage": "Wie würden sich die Märkte entwickeln, wenn die Spannungen im Nahen Osten weiter eskalieren und die Ölpreise über 100 USD steigen, während gleichzeitig die US-Notenbank die Zinsen weiter anhebt?"
+    "lernpunkt": "Die Märkte reagieren nicht nur auf wirtschaftliche Daten, sondern auch stark auf geopolitische Entwicklungen. Diese Spannungen können die Nachfrage nach 'sicheren Häfen' wie Gold erhöhen, selbst wenn andere Sektoren wie Technologie boomen.",
+    "tagesfrage": "Wie stark wird die anhaltende geopolitische Unsicherheit die globalen Lieferketten und die Energiepreise kurz- bis mittelfristig beeinflussen?"
   },
   "prices": {
-    "^IXIC": {
-      "label": "Nasdaq",
-      "price": 27193.33984375,
-      "change": -1.2540524485118911
-    },
     "GC=F": {
       "label": "Gold",
-      "price": 4208.5,
-      "change": 1.23887418811643
+      "price": 4216.2998046875,
+      "change": 1.4265048036444552
     },
     "HG=F": {
       "label": "Kupfer",
-      "price": 6.696499824523926,
-      "change": 2.722806713668176
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 60.685001373291016,
-      "change": 2.7444843218872395
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 90.58000183105469,
-      "change": -0.9946399103318883
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 25101.009765625,
-      "change": 1.1853082184797321
-    },
-    "NG=F": {
-      "label": "Erdgas",
-      "price": 3.125999927520752,
-      "change": -1.3257593289359855
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 82966,
-      "change": 1.5789935330679756
-    },
-    "^TNX": {
-      "label": "US 10J Zins",
-      "price": 5.230999946594238,
-      "change": -0.8717074899940551
-    },
-    "ZW=F": {
-      "label": "Weizen",
-      "price": 682.25,
-      "change": -0.14635931211123307
-    },
-    "ETH-USD": {
-      "label": "Ethereum",
-      "price": 2501.139892578125,
-      "change": 1.1823757421515197
-    },
-    "DX-Y.NYB": {
-      "label": "DXY",
-      "price": 102.13700103759766,
-      "change": -0.0029355316905211606
-    },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1215791702270508,
-      "change": 0.12898600821083211
+      "price": 6.642499923706055,
+      "change": 1.894460335765332
     },
     "^GSPC": {
       "label": "S&P 500",
-      "price": 7765.35986328125,
-      "change": -0.4666909708803184
+      "price": 7811.5400390625,
+      "change": 0.5946946000482788
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.2200000286102295,
+      "change": 1.641415595269408
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 5.24399995803833,
+      "change": 0.24851866902724307
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 27366.169921875,
+      "change": 0.6355603214539406
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 91.8499984741211,
+      "change": 0.3934863031559042
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1205737590789795,
+      "change": -0.06498927777914214
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 671,
+      "change": -1.7929015733626052
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 60.66999816894531,
+      "change": 2.7190827159089683
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 102.20999908447266,
+      "change": 0.06853308717692531
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2494.469970703125,
+      "change": 0.3593344547944624
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 82785.859375,
+      "change": 0.29018745062549633
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25087.26953125,
+      "change": 1.1299196160605374
     }
   },
   "fearGreed": [
-    67,
     65,
     70,
     73,
     71,
     64,
-    59
+    59,
+    64
   ],
   "simulation": {
-    "buy": 50,
-    "hold": 18,
-    "sell": 32
+    "buy": 61,
+    "hold": 21,
+    "sell": 18
   }
 }
