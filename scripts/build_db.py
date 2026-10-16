@@ -211,6 +211,21 @@ def zahl(x):
         return None
 
 
+def als_news(n):
+    """Alte Briefings (Juni) speicherten News als Text 'Quelle: Titel' statt als Datensatz."""
+    if isinstance(n, dict):
+        return n
+    if isinstance(n, str) and n.strip():
+        quelle, trenner, titel = n.partition(":")
+        return {"source": quelle.strip(), "title": titel.strip()} if trenner else {"title": n.strip()}
+    return None
+
+
+def dicts(x):
+    """Nur echte Datensätze durchlassen – egal in welchem Format ein alter Tag gespeichert wurde."""
+    return [e for e in (x if isinstance(x, list) else []) if isinstance(e, dict)]
+
+
 def jein(x):
     return None if x is None else (1 if x else 0)
 
@@ -237,17 +252,20 @@ def baue():
         except (json.JSONDecodeError, OSError) as e:
             print(f"Übersprungen: {pfad.name} ({e})")
             continue
+        if not isinstance(t, dict):
+            print(f"Übersprungen: {pfad.name} (unbekanntes Format)")
+            continue
         datum = t.get("dateKey") or pfad.stem
-        s = t.get("sections") or {}
-        fg = t.get("fearGreed") or []
-        sim = t.get("simulation") or {}
+        s = t.get("sections") if isinstance(t.get("sections"), dict) else {}
+        fg = [x for x in (t.get("fearGreed") or []) if isinstance(x, (int, float))] if isinstance(t.get("fearGreed"), list) else []
+        sim = t.get("simulation") if isinstance(t.get("simulation"), dict) else {}
         con.execute(
             "INSERT INTO tage VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (datum, t.get("date"), t.get("generatedAt"), 1 if len(s) > 5 else 0, s.get("_modell"),
              s.get("entscheidung"), fg[-1] if fg else None, sim.get("buy"), sim.get("hold"), sim.get("sell"),
              s.get("marktlage"), s.get("neuHeute"), s.get("brief")),
         )
-        for symbol, k in (t.get("prices") or {}).items():
+        for symbol, k in (t.get("prices") if isinstance(t.get("prices"), dict) else {}).items():
             if not isinstance(k, dict):
                 continue
             con.execute(
@@ -255,28 +273,30 @@ def baue():
                 (datum, symbol, k.get("label"), zahl(k.get("price")), zahl(k.get("change")), zahl(k.get("ch5")),
                  zahl(k.get("ch20")), zahl(k.get("abstandHoch")), k.get("rsi"), zahl(k.get("vola")), zahl(k.get("atrPct"))),
             )
-        for n in t.get("news") or []:
+        for n in [als_news(x) for x in (t.get("news") if isinstance(t.get("news"), list) else [])]:
+            if not n:
+                continue
             cur = con.execute(
                 "INSERT INTO news (datum, herkunft, quelle, titel, stimmung, veroeffentlicht) VALUES (?,?,?,?,?,?)",
                 (datum, n.get("origin"), n.get("source"), n.get("title"), n.get("sentiment"), n.get("publishedAt")),
             )
-            for tk in n.get("tickers") or []:
+            for tk in (n.get("tickers") if isinstance(n.get("tickers"), list) else []):
                 m = re.fullmatch(r"(.+)\(([-\d.]+|\?)\)", str(tk))
                 if m:
                     con.execute("INSERT INTO news_ticker VALUES (?,?,?)", (cur.lastrowid, m.group(1), zahl(m.group(2))))
-        for e in s.get("ereignisse") or []:
+        for e in dicts(s.get("ereignisse")):
             con.execute(
                 "INSERT INTO ereignisse (datum, ereignis, typ, neu, quellen, betroffen, wirkung) VALUES (?,?,?,?,?,?,?)",
                 (datum, e.get("ereignis"), e.get("typ"), jein(e.get("neu")), e.get("quellen"), e.get("betroffen"), e.get("wirkung")),
             )
-        for b in s.get("bewegungen") or []:
-            inv = b.get("investierbar") or {}
+        for b in dicts(s.get("bewegungen")):
+            inv = b.get("investierbar") if isinstance(b.get("investierbar"), dict) else {}
             con.execute(
                 "INSERT INTO ketten (datum, ausloeser, kette, warum, asset, richtung, halal) VALUES (?,?,?,?,?,?,?)",
                 (datum, b.get("ausloeser"), b.get("kette"), b.get("warum"), inv.get("asset"), inv.get("richtung"), inv.get("halal")),
             )
-        for i, c in enumerate(s.get("chancen") or []):
-            r = c.get("rechnung") or {}
+        for i, c in enumerate(dicts(s.get("chancen"))):
+            r = c.get("rechnung") if isinstance(c.get("rechnung"), dict) else {}
             rang = c.get("rang") or i + 1
             con.execute(
                 "INSERT OR IGNORE INTO ideen VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
@@ -289,7 +309,7 @@ def baue():
 
     if TRACKER.exists():
         try:
-            for p in json.loads(TRACKER.read_text(encoding="utf-8")).get("prognosen", []):
+            for p in dicts(json.loads(TRACKER.read_text(encoding="utf-8")).get("prognosen")):
                 con.execute("INSERT OR IGNORE INTO ergebnisse VALUES (?,?,?,?,?)",
                             (p.get("id"), p.get("status"), p.get("am") or p.get("seit"), p.get("tage"), zahl(p.get("ergebnisEur"))))
         except (json.JSONDecodeError, OSError) as e:
