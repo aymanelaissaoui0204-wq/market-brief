@@ -6,58 +6,6 @@ const RAW = "https://raw.githubusercontent.com/aymanelaissaoui0204-wq/market-bri
 // ═══════════════════════════════════════════════════════════════════════════
 // MASTER PROMPT
 // ═══════════════════════════════════════════════════════════════════════════
-const MASTER_PROMPT = `Du bist ein globaler Makro-Analyst mit Insider-Denken und islamischer Ethik.
-
-KERNPRINZIP: "Die Nachricht ist die Oberfläche. Das Geld zeigt die Wahrheit."
-→ 80% der News irrelevant. 15% manipulativ. 5% sind Gold.
-→ Kein Trade ist oft die beste Entscheidung.
-→ Zentralbanken und Hedgefonds handeln BEVOR die News erscheint.
-
-ANALYSE-KETTE: Ereignis → Wer profitiert? → Wohin fließt Kapital? → Was glaubt die Masse falsch? → Ist Risiko asymmetrisch genug?
-
-Antworte NUR mit validem JSON:
-{
-  "oberflaeche": ["Quelle: Headline 1", "Quelle: Headline 2", "Quelle: Headline 3"],
-  "narrativ": "Was die Masse glaubt",
-  "realitaet": "Was wirklich passiert und verschwiegen wird",
-  "macht": "Wer profitiert konkret – Namen, Institutionen",
-  "geopolitik": "Ressourcen, Handelsrouten, BRICS vs G7, De-Dollarisierung",
-  "liquiditaet": "Wohin fließt Kapital konkret – welche Assets",
-  "kette": "A → B → C → D",
-  "timing": "Früh/Mitte/Spät/Wendepunkt + Begründung",
-  "saisonalitaet": "Historisches Muster für diesen Monat",
-  "masseFehler": "Was 95% falsch sehen – der Edge",
-  "widerspruch": "Signal-Konflikt ja/nein + Erklärung",
-  "markt": "Gold ↑↓ | Silber ↑↓ | Öl ↑↓ | Kupfer ↑↓ | Bitcoin ↑↓ | DAX ↑↓ | DXY ↑↓ | EUR/USD ↑↓ | 10Y ↑↓",
-  "opportunity": "Konkrete Chance oder null",
-  "positionierung": "COT Smart Money Signal",
-  "reflexivitaet": "Feedback-Loop konkret beschreiben",
-  "asymmetrie": { "verlust": 8, "gewinn": 18, "ratio": 2.3, "ev": 0.12 },
-  "metaZyklus": "Stagflation/Wachstum/Krise/Umbruch",
-  "halalAsset": "Asset Name + ISIN wenn möglich",
-  "halalStatus": "halal",
-  "halalBegruendung": "AAOIFI 1 Satz",
-  "purification": "0.00",
-  "entscheidung": "JA/NEIN/WARTEN",
-  "richtung": "LONG/SHORT/null",
-  "einstieg": "Konkreter Preis z.B. 30.50€",
-  "stopLoss": "ATR-basierter Preis z.B. 28.10€",
-  "ziel": "Zielpreis z.B. 36.00€",
-  "zeitraum": "z.B. 4-8 Wochen",
-  "einsatz": 3.13,
-  "exitStrategie": "z.B. Bei +10% die Hälfte verkaufen, Rest mit Trailing Stop",
-  "waehrungsrisiko": "EUR/USD Effekt auf diesen Trade",
-  "psychologie": "FOMO/PANIK Warnung oder null",
-  "ruhigerTag": false,
-  "lernpunkt": "Begriff: 3 Sätze Erklärung für Einsteiger",
-  "tagesfrage": "Eine Denkfrage ohne Antwortpflicht",
-  "brief": "4-5 Sätze Mentor-Brief an Ayman"
-}
-
-HALAL (AAOIFI): ✅ Gold/Silber/Halal-ETFs ⚠️ Krypto/Tech <33% Zins ❌ Anleihen/Banken/Futures
-TRADE REPUBLIC HALAL: Xetra-Gold (DE000A0S9GB0) ✅ | iShares MSCI World Islamic (IE00B27YCK28) ✅ | Silber ETC (DE000A0N62F2) ✅
-RISIKO: Quarter Kelly = 3.13€ | Max 2% pro Trade | EV > 0 | Ratio min 1:2
-SPRACHE: Deutsch. Kurze Sätze. Profi-Denken, Einsteiger-Sprache.`;
 
 // ═══════════════════════════════════════════════════════════════════════════
 // CONSTANTS
@@ -108,19 +56,21 @@ const ASSET_TO_TV = {
 };
 
 const ZENTRALBANK_TERMINE = [
-  { datum: "2026-06-11", event: "EZB Zinsentscheidung" },
-  { datum: "2026-06-17", event: "Fed FOMC" },
-  { datum: "2026-07-23", event: "EZB Zinsentscheidung" },
-  { datum: "2026-07-28", event: "Fed FOMC" },
-  { datum: "2026-09-10", event: "EZB Zinsentscheidung" },
-  { datum: "2026-09-15", event: "Fed FOMC" },
+  // Stand 16.10.2026 – Tag der Zinsentscheidung. Einmal im Jahr aktualisieren.
+  { datum: "2026-10-28", event: "Fed Zinsentscheidung" },
+  { datum: "2026-10-29", event: "EZB Zinsentscheidung" },
+  { datum: "2026-12-09", event: "Fed Zinsentscheidung" },
+  { datum: "2026-12-17", event: "EZB Zinsentscheidung" },
+  { datum: "2027-01-27", event: "Fed Zinsentscheidung (vorläufig)" },
+  { datum: "2027-03-17", event: "Fed Zinsentscheidung (vorläufig)" },
 ];
 
 const GLOSSAR = {
   "ATR": "Average True Range – misst die durchschnittliche tägliche Schwankung. Basis für Stop-Loss Berechnung.",
   "COT": "Commitment of Traders – zeigt wie Profis und Spekulanten positioniert sind. Erscheint wöchentlich.",
   "DXY": "Dollar Index – misst den US-Dollar gegen 6 Währungen. Steigt DXY, fallen meist Gold und Rohstoffe.",
-  "Kelly": "Mathematische Formel für optimale Positionsgröße. Quarter Kelly = 25% davon für sicheres Trading.",
+  "Break-even-Quote": "Wie viel Prozent deiner Trades du gewinnen musst, um nach Gebühren bei null zu landen. Bei kleinem Einsatz steigt sie stark, weil 2 € Gebühren pro Trade viel ausmachen.",
+  "Spread": "Unterschied zwischen Kauf- und Verkaufskurs. Du kaufst etwas teurer und verkaufst etwas billiger – das sind versteckte Kosten zusätzlich zur Ordergebühr.",
   "Sharpe Ratio": "Risiko-Rendite-Verhältnis. Über 1.0 ist gut, über 2.0 ist exzellent.",
   "Expectancy": "Erwartungswert pro Trade. Muss positiv sein damit eine Strategie langfristig profitiert.",
   "Reflexivität": "Soros-Theorie: Märkte verändern die Realität selbst. Loop zwischen Meinung und Fundamentals.",
@@ -148,18 +98,6 @@ const today = () => new Date().toLocaleDateString("de-DE", { weekday: "long", ye
 const tagesBis = (d) => Math.ceil((new Date(d) - new Date()) / 86400000);
 const naechsterTermin = () => ZENTRALBANK_TERMINE.find(t => tagesBis(t.datum) >= 0) || null;
 
-function runSimulation(fg, momentum) {
-  let buy = 0, hold = 0, sell = 0;
-  for (let i = 0; i < 1000; i++) {
-    const type = i < 100 ? "f" : i < 400 ? "c" : "n";
-    let score = 0;
-    if (type === "f") { score += (fg < 30 ? 15 : fg > 70 ? -15 : 0); }
-    else if (type === "c") { score += momentum > 2 ? 1.5 : momentum < -2 ? -1.5 : 0; }
-    else { score += (Math.random() - 0.5) * 2; }
-    if (score > 1) buy++; else if (score < -1) sell++; else hold++;
-  }
-  return { buy: Math.round(buy / 10), hold: Math.round(hold / 10), sell: Math.round(sell / 10) };
-}
 
 function calcMetrics(trades) {
   const closed = (trades || []).filter(t => t.result !== null);
@@ -280,7 +218,7 @@ function KernLeiste({ s, fg, prices, sim }) {
       </div>
       {sim && (
         <div style={{ marginTop: "9px", padding: "10px", background: "rgba(255,255,255,0.02)", borderRadius: "9px" }}>
-          <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.25)", fontFamily: "'DM Mono'", marginBottom: "6px" }}>1000 AGENTEN SIMULATION</div>
+          <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.25)", fontFamily: "'DM Mono'", marginBottom: "6px" }}>MARKTSTIMMUNG (Marktbreite · Angst/Gier · Ideen)</div>
           <div style={{ display: "flex", borderRadius: "4px", overflow: "hidden", height: "7px" }}>
             <div style={{ flex: sim.buy, background: "#00C896" }} />
             <div style={{ flex: sim.hold, background: "rgba(255,255,255,0.15)" }} />
@@ -966,6 +904,57 @@ function Kalender({ index, selected, onSelect }) {
   );
 }
 
+const REPO = "https://github.com/aymanelaissaoui0204-wq/market-brief";
+
+function StatusTab({ briefing, news, archiveIndex, tracker }) {
+  const zeit = briefing?.generatedAt ? new Date(briefing.generatedAt) : null;
+  const alterStd = zeit ? (Date.now() - zeit.getTime()) / 3600000 : null;
+  const frisch = alterStd != null && alterStd < 30;
+  const quellen = {};
+  (news || []).forEach(n => { const k = n?.origin || "unbekannt"; quellen[k] = (quellen[k] || 0) + 1; });
+  const erwartet = ["GNews", "AlphaVantage", "Finnhub", "Marketaux"];
+  const kurse = Object.values(briefing?.prices || {}).filter(p => p?.label);
+  const mitKi = (archiveIndex || []).filter(e => e.analyseOk).length;
+  const z = tracker?.zusammenfassung;
+  const box = { background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,255,255,0.06)", borderRadius: "11px", padding: "12px", marginBottom: "10px" };
+  const zeile = (k, v, col) => (
+    <div key={k} style={{ display: "flex", justifyContent: "space-between", gap: "10px", padding: "6px 0", borderBottom: "1px solid rgba(255,255,255,0.04)" }}>
+      <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.5)", fontFamily: "'DM Mono'" }}>{k}</span>
+      <span style={{ fontSize: "11px", color: col || "rgba(255,255,255,0.85)", fontFamily: "'DM Mono'", textAlign: "right" }}>{v}</span>
+    </div>
+  );
+  return (
+    <>
+      <div style={{ ...box, border: `1px solid ${frisch ? "rgba(0,200,100,0.25)" : "rgba(255,184,0,0.3)"}` }}>
+        <div style={{ fontSize: "13px", color: frisch ? "#00C896" : "#FFB800", fontFamily: "'Syne'", fontWeight: "700", marginBottom: "6px" }}>
+          {zeit ? (frisch ? "Briefing ist aktuell" : "Briefing ist älter als einen Tag") : "Noch kein Briefing geladen"}
+        </div>
+        {zeit && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.6)", fontFamily: "'DM Mono'", lineHeight: "1.7" }}>Erstellt am {zeit.toLocaleDateString("de-DE")} um {zeit.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" })} Uhr{briefing?.sections?._modell ? ` mit ${briefing.sections._modell}` : ""}.</div>}
+        <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'", lineHeight: "1.7", marginTop: "6px" }}>Läuft automatisch jeden Morgen (ca. 6–7 Uhr). Für ein neues Briefing sofort: unten auf „Jetzt neu erzeugen" tippen, dann auf GitHub „Run workflow".</div>
+      </div>
+
+      <div style={box}>
+        <div style={{ fontSize: "12px", color: "#FFD700", fontFamily: "'Syne'", fontWeight: "700", marginBottom: "6px" }}>Quellen beim letzten Lauf</div>
+        {erwartet.map(q => zeile(q, quellen[q] ? `${quellen[q]} News` : "keine – Quelle prüfen", quellen[q] ? "#00C896" : "#FF5050"))}
+        {Object.keys(quellen).filter(q => !erwartet.includes(q)).map(q => zeile(q === "alt" ? "altes Format" : q, `${quellen[q]} News`))}
+        {zeile("Marktdaten (Yahoo)", kurse.length ? `${kurse.length} Märkte` : "fehlen", kurse.length >= 10 ? "#00C896" : "#FF5050")}
+        {zeile("KI-Analyse (Gemini)", briefing?.sections ? "vorhanden" : "fehlt", briefing?.sections ? "#00C896" : "#FF5050")}
+      </div>
+
+      <div style={box}>
+        <div style={{ fontSize: "12px", color: "#FFD700", fontFamily: "'Syne'", fontWeight: "700", marginBottom: "6px" }}>Gespeicherte Daten</div>
+        {zeile("Tage im Archiv", `${(archiveIndex || []).length}`)}
+        {zeile("davon mit KI-Analyse", `${mitKi}`)}
+        {zeile("Ideen im Tracker", z ? `${z.gesamt} (${z.laufend} laufend, ${z.geschlossen} abgeschlossen)` : "–")}
+        <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'", lineHeight: "1.7", marginTop: "8px" }}>Lokale Kopie für Obsidian und die Datenbank: auf dem PC doppelt auf update.bat klicken.</div>
+      </div>
+
+      <a href={`${REPO}/actions/workflows/daily.yml`} target="_blank" rel="noopener noreferrer" style={{ display: "block", textAlign: "center", padding: "12px", marginBottom: "8px", background: "rgba(255,215,0,0.1)", border: "1px solid rgba(255,215,0,0.3)", borderRadius: "10px", color: "#FFD700", fontSize: "13px", fontFamily: "'Syne'", fontWeight: "700", textDecoration: "none" }}>Jetzt neu erzeugen</a>
+      <a href={`${REPO}/actions`} target="_blank" rel="noopener noreferrer" style={{ display: "block", textAlign: "center", padding: "10px", background: "transparent", border: "1px solid rgba(255,255,255,0.1)", borderRadius: "10px", color: "rgba(255,255,255,0.6)", fontSize: "11px", fontFamily: "'DM Mono'", textDecoration: "none" }}>Alle Läufe und Logs ansehen</a>
+    </>
+  );
+}
+
 function GlossarModal({ term, onClose }) {
   if (!term) return null;
   return (
@@ -987,14 +976,10 @@ export default function App() {
   const [unlocked, setUnlocked] = useState(ls.get("unlocked", false));
   const [tab, setTab] = useState("heute");
   const [briefing, setBriefing] = useState(ls.get("last_briefing", null));
-  const [history, setHistory] = useState(ls.get("history", []));
   const [prices, setPrices] = useState({});
   const [fg, setFg] = useState(ls.get("fg_hist", [42]).slice(-1)[0]);
   const [fgHist, setFgHist] = useState(ls.get("fg_hist", [42]));
   const [sim, setSim] = useState(null);
-  const [newsInput, setNewsInput] = useState("");
-  const [generating, setGenerating] = useState(false);
-  const [error, setError] = useState(null);
   const [trades, setTrades] = useState(ls.get("trades", []));
   const [vorhersagen, setVorhersagen] = useState(ls.get("vorhersagen", []));
   const [lernBegriffe, setLernBegriffe] = useState(ls.get("lern_begriffe", []));
@@ -1058,7 +1043,7 @@ export default function App() {
   // ── Daten laden: aktuelles Briefing, Archiv-Index, Prognose-Bilanz ──
   const applyData = (data, isArchive) => {
     if (!data || typeof data !== "object") return false;
-    const nb = { date: data.date || today(), dateKey: data.dateKey || null, sections: data.sections && Object.keys(data.sections).length ? data.sections : null, prices: data.prices || {} };
+    const nb = { date: data.date || today(), dateKey: data.dateKey || null, generatedAt: data.generatedAt || null, sections: data.sections && Object.keys(data.sections).length ? data.sections : null, prices: data.prices || {} };
     setBriefing(nb);
     setNews(Array.isArray(data.news) ? data.news : []);
     if (Array.isArray(data.fearGreed) && data.fearGreed.length) { setFgHist(data.fearGreed); setFg(data.fearGreed[data.fearGreed.length - 1]); }
@@ -1102,36 +1087,6 @@ export default function App() {
 
   const handleUnlock = () => { ls.set("unlocked", true); setUnlocked(true); };
 
-  const generate = async () => {
-    if (!newsInput.trim()) return;
-    setGenerating(true); setError(null);
-    try {
-      const pc = TICKERS.map(t => { const d = prices[t.symbol]; return d ? `${t.label}: ${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} (${d.change >= 0 ? "+" : ""}${d.change.toFixed(2)}%)` : ""; }).filter(Boolean).join(", ");
-      const resp = await fetch("https://api.anthropic.com/v1/messages", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          model: "claude-sonnet-4-20250514", max_tokens: 1000,
-          system: MASTER_PROMPT,
-          messages: [{ role: "user", content: `DATUM: ${today()}\nKURSE: ${pc}\nFEAR & GREED: ${fg}/100\nNACHRICHTEN:\n${newsInput}\n\nNur JSON zurückgeben.` }]
-        })
-      });
-      const data = await resp.json();
-      const text = data.content?.[0]?.text || "{}";
-      const parsed = JSON.parse(text.replace(/```json|```/g, "").trim());
-      const nb = { date: today(), sections: parsed };
-      setBriefing(nb); ls.set("last_briefing", nb);
-      const nh = [nb, ...history.slice(0, 29)];
-      setHistory(nh); ls.set("history", nh);
-      if (parsed.lernpunkt) {
-        const b = [...new Set([...lernBegriffe, parsed.lernpunkt.split(":")[0]])].slice(0, 50);
-        setLernBegriffe(b); ls.set("lern_begriffe", b);
-      }
-      setTab("heute");
-    } catch (e) { setError("Fehler: " + e.message); }
-    setGenerating(false);
-  };
-
   const addTrade = () => {
     if (!newTrade.asset) return;
     const t = { ...newTrade, id: Date.now(), result: null };
@@ -1159,7 +1114,7 @@ export default function App() {
     { id: "charts", label: "Charts" },
     { id: "lernen", label: "Lernen" },
     { id: "verlauf", label: "Verlauf" },
-    { id: "neu", label: "+ Neu" },
+    { id: "neu", label: "Status" },
   ];
 
   if (!unlocked) return <PinScreen onUnlock={handleUnlock} />;
@@ -1245,12 +1200,11 @@ export default function App() {
               <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
               <div style={{ fontSize: "16px", fontWeight: "700", fontFamily: "'Syne'", color: "#FFD700", marginBottom: "10px" }}>Noch kein Briefing</div>
               <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.8", marginBottom: "20px" }}>
-                Kein vorgeschriebener Inhalt.{"\n"}
-                Echte Analyse kommt täglich um 06:00 Uhr{"\n"}
-                wenn GitHub Actions eingerichtet ist.
+                Das Briefing entsteht jeden Morgen automatisch auf GitHub.
+                Im Tab „Status" siehst du, wann es zuletzt lief.
               </div>
               <button onClick={() => setTab("neu")} style={{ padding: "12px 24px", background: "linear-gradient(135deg,rgba(255,215,0,0.15),rgba(255,140,0,0.1))", border: "1px solid rgba(255,215,0,0.3)", borderRadius: "12px", color: "#FFD700", fontSize: "13px", fontFamily: "'Syne'", fontWeight: "700", cursor: "pointer" }}>
-                ⚡ Jetzt manuell generieren
+                Status ansehen
               </button>
             </div>
           )}
@@ -1510,43 +1464,8 @@ export default function App() {
           </div>
         </>}
 
-        {/* ── NEU ── */}
-        {tab === "neu" && <>
-          <div style={{ background: "rgba(255,215,0,0.03)", border: "1px solid rgba(255,215,0,0.09)", borderRadius: "11px", padding: "12px", marginBottom: "11px" }}>
-            <div style={{ fontSize: "12px", color: "rgba(255,255,255,0.48)", lineHeight: "1.7" }}>
-              💡 Füge aktuelle Nachrichten ein. KI analysiert <strong style={{ color: "#FFD700" }}>20 Ebenen</strong> inkl. Live-Kurse.
-            </div>
-            <div style={{ marginTop: "7px", fontSize: "9px", color: "rgba(255,215,0,0.28)" }}>reuters.com · tagesschau.de/wirtschaft · ecb.europa.eu · federalreserve.gov</div>
-          </div>
-          <textarea value={newsInput} onChange={e => setNewsInput(e.target.value)} placeholder="Aktuelle Nachrichten einfügen..." style={{ width: "100%", minHeight: "130px", background: "rgba(255,255,255,0.03)", border: "1px solid rgba(255,255,255,0.07)", borderRadius: "10px", padding: "11px", color: "white", fontSize: "12px", fontFamily: "'DM Mono'", resize: "vertical", outline: "none", lineHeight: "1.6" }} />
-          {error && <div style={{ color: "#FF5050", fontSize: "11px", padding: "8px", background: "rgba(255,80,80,0.04)", borderRadius: "7px", marginTop: "6px" }}>{error}</div>}
-          <button onClick={generate} disabled={generating || !newsInput.trim()} style={{ width: "100%", marginTop: "8px", padding: "13px", borderRadius: "10px", border: "1px solid rgba(255,215,0,0.2)", cursor: generating || !newsInput.trim() ? "not-allowed" : "pointer", background: generating || !newsInput.trim() ? "rgba(255,215,0,0.03)" : "linear-gradient(135deg,rgba(255,215,0,0.12),rgba(255,140,0,0.07))", color: generating || !newsInput.trim() ? "rgba(255,255,255,0.18)" : "#FFD700", fontSize: "13px", fontWeight: "700", fontFamily: "'Syne'", animation: generating ? "pulse 1.4s infinite" : "none", transition: "all .2s" }}>
-            {generating ? "⏳ Analysiere 20 Ebenen..." : "⚡ Briefing generieren"}
-          </button>
-          <div style={{ marginTop: "14px", background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,255,255,0.05)", borderRadius: "10px", padding: "12px" }}>
-            <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,255,255,0.18)", marginBottom: "9px" }}>📡 LIVE-DATEN (AUTO)</div>
-            {TICKERS.map(t => { const d = prices[t.symbol]; return (
-              <div key={t.symbol} style={{ display: "flex", justifyContent: "space-between", padding: "4px 0", borderBottom: "1px solid rgba(255,255,255,0.03)" }}>
-                <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.38)" }}>{t.emoji} {t.label}</span>
-                <span style={{ fontSize: "10px", color: d ? (d.change >= 0 ? "#00C896" : "#FF5050") : "rgba(255,255,255,0.15)" }}>{d ? `${d.price > 100 ? d.price.toFixed(0) : d.price.toFixed(4)} (${d.change >= 0 ? "+" : ""}${d.change.toFixed(2)}%)` : "Laden..."}</span>
-              </div>
-            ); })}
-            <div style={{ display: "flex", justifyContent: "space-between", padding: "4px 0" }}>
-              <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.38)" }}>😱 Fear & Greed</span>
-              <span style={{ fontSize: "10px", color: fgc }}>{fg}/100 – {fgLabel}</span>
-            </div>
-          </div>
-          <div style={{ marginTop: "11px", background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,255,255,0.05)", borderRadius: "10px", padding: "12px" }}>
-            <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,255,255,0.18)", marginBottom: "9px" }}>🔑 API KEYS</div>
-            {[["Gemini API ✅", "aistudio.google.com", "Bereits eingerichtet"], ["NewsData.io", "newsdata.io", "Kostenlos registrieren"], ["Marketaux", "marketaux.com", "Kostenlos registrieren"], ["Alpha Vantage", "alphavantage.co", "25 Req/Tag kostenlos"]].map(([n, u, note]) => (
-              <div key={n} style={{ padding: "6px 0", borderBottom: "1px solid rgba(255,255,255,0.03)" }}>
-                <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.55)" }}>{n}</div>
-                <div style={{ fontSize: "9px", color: "rgba(255,215,0,0.3)" }}>{u} · {note}</div>
-              </div>
-            ))}
-            <div style={{ marginTop: "7px", fontSize: "9px", color: "rgba(255,255,255,0.18)" }}>Yahoo Finance, Stooq, CFTC, EZB RSS, Fed RSS, Alternative.me → kein Key ✅</div>
-          </div>
-        </>}
+        {/* ── STATUS ── */}
+        {tab === "neu" && <StatusTab briefing={briefing} news={news} archiveIndex={archiveIndex} tracker={tracker} />}
 
       </div>
 
