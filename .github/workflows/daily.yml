@@ -5,27 +5,36 @@ on:
     - cron: '0 5 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
       - name: Fetch & Generate
         env:
-            GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-            NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-            GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
-            ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
-            FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
-            MARKETAUX_KEY: ${{ secrets.MARKETAUX_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          MARKETAUX_KEY: ${{ secrets.MARKETAUX_KEY }}
         run: node scripts/generate.js
       - name: Commit
         run: |
           git config --global user.name "market-bot"
           git config --global user.email "bot@market.com"
-          git add public/briefing.json obsidian-vault/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Daily $(date +%Y-%m-%d)"
+          git add public/ obsidian-vault/
+          git diff --staged --quiet || git commit -m "Daily $(date +%Y-%m-%d)"
+          git pull --rebase
           git push
