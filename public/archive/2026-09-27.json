@@ -1,0 +1,391 @@
+{
+  "date": "Sonntag, 27. September 2026",
+  "generatedAt": "2026-09-27T10:22:44.818Z",
+  "news": [
+    {
+      "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "source": "Frankfurter Allgemeine Zeitung (Faz)",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Fed: Demonstration der Unabhängigkeit",
+      "source": "General Anzeiger",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Police declare major incident at UK's Fairford air base, used by US air forces - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran insists on diplomatic solution after Trump rejects peace plan - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "China pushes back against US on Iran and Cuba in UN speech - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "PODCAST: Iran’s peace proposal, OpenAI image leak and FIFA reform - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Saudi coalition says it intercepts Houthi missiles, drones - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "27-year-old started a run club to meet new people—now his NYC side hustle brings in $640K a year",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Major TV networks resume live coverage of White House after ban",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Six big takeaways from a turbulent week of UN diplomacy - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "How Trump’s diesel ban threat is making US exports more profitable",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Britain warns Iran it will not tolerate hostile activity on UK soil - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Crude oil price dips as traders weigh US-Iran Hormuz talks, supply risks",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump rejects Iranian proposal to open Hormuz and end fighting - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "WSM plans public sukuk, Tadawul listing",
+      "source": "argaam.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "A former BCG partner says leaving consulting taught him how to build",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "David Rubenstein Told BI His Recipe for Career Success in the AI Era",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Ayman, heute schauen wir uns an, wie geopolitische Spannungen und ein wachsender Fokus auf KI-Infrastruktur die Märkte bewegen. Die Nachrichten deuten auf eine komplexe Gemengelage hin, die von Handelsbeziehungen über Rohstoffpreise bis hin zu Technologieinvestitionen reicht. Verstehe die Zusammenhänge zwischen diesen scheinbar unabhängigen Ereignissen, um deine kleinen Investments strategisch zu platzieren und halal zu bleiben.",
+    "marktlage": "Die Märkte zeigen sich heute robust mit leichten Gewinnen in den großen Indizes, während geopolitische Spannungen und Fortschritte im KI-Sektor die Aufmerksamkeit auf sich ziehen. Die Zinsen steigen moderat, was Anleihen unattraktiver macht und Kapital in risikoreichere Anlagen lenken könnte.",
+    "oberflaeche": [
+      "Quelle: Faz: Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "Quelle: Reuters: China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+      "Quelle: Bloomberg: Crude oil price dips as traders weigh US-Iran Hormuz talks, supply risks"
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "China und USA vereinbaren Dialog zu KI und Zollsenkungen für 30 Mrd. USD Waren.",
+        "kette": "China-US KI-Dialog & Zollsenkung -> Vertrauen steigt -> Handelsvolumen steigt -> Nachfrage nach Industriemetallen steigt -> Kupfer steigt.",
+        "warum": "Wenn die beiden größten Volkswirtschaften die Handelsbeziehungen verbessern und Zölle senken, signalisiert das eine Entspannung und fördert den globalen Handel. Dies erhöht die Nachfrage nach Rohstoffen, die für die Produktion und den Transport von Gütern benötigt werden, wie z.B. Kupfer für Elektronik und Infrastruktur.",
+        "betroffen": "Industriemetalle (Kupfer), Technologie-Sektoren, globale Lieferketten.",
+        "investierbar": {
+          "asset": "WisdomTree Copper",
+          "isin": "null",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Mit dem WisdomTree Copper ETC auf steigende Kupferpreise setzen, da der Handelsdialog zwischen China und den USA die Nachfrage ankurbeln dürfte."
+        }
+      },
+      {
+        "ausloeser": "Berichte über einen größeren Vorfall auf einem britischen Flugplatz, der von US-Luftstreitkräften genutzt wird.",
+        "kette": "Geopolitischer Vorfall in UK/Iran-Spannungen -> Unsicherheit steigt -> Nachfrage nach sicheren Häfen steigt -> Gold und Silber steigen.",
+        "warum": "Geopolitische Unsicherheit, insbesondere im Zusammenhang mit potenziellen Konflikten oder Spannungen zwischen Großmächten oder Regionen wie dem Iran, veranlasst Anleger oft, ihr Kapital in als sicher geltende Anlagen wie Gold und Silber zu verlagern. Dies treibt deren Preise nach oben.",
+        "betroffen": "Edelmetalle (Gold, Silber), Rüstungsaktien (potenziell), Ölpreis (indirekt).",
+        "investierbar": {
+          "asset": "Xetra-Gold",
+          "isin": "DE000A0S9GB0",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Angesichts der erhöhten geopolitischen Spannungen könnte Xetra-Gold von einer Flucht in sichere Häfen profitieren, was einen Kauf rechtfertigt."
+        }
+      },
+      {
+        "ausloeser": "Apple verliert Patentstreit und muss hohe Summe zahlen; KI-Jobmarkt boomt, aber Rechenzentrums-Nachfrage könnte problematisch werden.",
+        "kette": "Patentstreit Apple & KI-Nachfrage -> Kosten für Tech-Unternehmen steigen / Bedarf an Infrastruktur steigt -> Investitionen in Halbleiter und Datenzentren steigen.",
+        "warum": "Ein Patentstreit kann die Margen eines großen Technologieunternehmens wie Apple belasten. Gleichzeitig treibt der Boom im KI-Bereich die Nachfrage nach leistungsfähiger Hardware wie Halbleitern und der dazugehörigen Infrastruktur (Datenzentren) an. Dies kann die Nachfrage nach spezialisierten Technologieaktien erhöhen.",
+        "betroffen": "Technologie-Aktien (Apple, Halbleiterhersteller), Datenzentren-Betreiber.",
+        "investierbar": {
+          "asset": "iShares MSCI Semiconductors",
+          "isin": "null",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Der ETF auf Halbleiteraktien ist eine gute Möglichkeit, vom wachsenden Bedarf der KI-Branche zu profitieren, trotz möglicher Rückschläge bei einzelnen Unternehmen wie Apple."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "WisdomTree Copper",
+        "isin": "null",
+        "klasse": "Rohstoff-ETC",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 6.766,
+        "stopLoss": 6.5,
+        "ziel": 7.5,
+        "zeitraum": "4-8 Wochen",
+        "kette": "China-US KI-Dialog & Zollsenkung -> Vertrauen steigt -> Handelsvolumen steigt -> Nachfrage nach Industriemetallen steigt -> Kupfer steigt.",
+        "konfidenz": 65,
+        "erklaerung": {
+          "wasIstDas": "WisdomTree Copper ist ein Exchange Traded Commodity (ETC), der den Preis von Kupfer abbildet. Er ermöglicht es dir, wie bei einer Aktie an der Börse auf Kupferpreisschwankungen zu setzen, ohne das physische Metall besitzen zu müssen.",
+          "warumJetzt": "Die Nachricht, dass China und die USA einen Dialog über KI und Zollsenkungen vereinbart haben, deutet auf eine Verbesserung der Handelsbeziehungen hin. Dies könnte die globale Nachfrage nach Industriemetallen wie Kupfer ankurbeln, da mehr Güter produziert und gehandelt werden.",
+          "wannKaufen": "Du kannst jetzt bei aktuell 6.7660 einsteigen. Wenn der Kurs leicht fällt, aber über 6.5000 bleibt, ist das eine gute Gelegenheit, mehr zu kaufen, da die grundlegende positive Nachricht weiterhin Bestand hat.",
+          "wieViel": "Bei deinem Budget von 50€ könntest du einen kleinen Betrag investieren, z.B. 20-30€. Dies erlaubt dir, die Bewegung zu verfolgen, ohne dein Kapital zu stark zu binden, und aus den Erfahrungen zu lernen.",
+          "wannRaus": "Ziel ist ein Anstieg auf 7.5000. Wenn der Preis jedoch unter 6.5000 fällt, solltest du verkaufen (Stop-Loss), da dies darauf hindeuten könnte, dass die positiven Erwartungen nicht eintreten.",
+          "wasKannSchiefgehen": "Sollte die Entspannung zwischen China und den USA nicht eintreten oder sich die globale Konjunktur unerwartet abschwächen, könnte die Nachfrage nach Kupfer sinken und der Preis fallen, was zu einem Verlust führen würde.",
+          "woranErkenneIchFalsch": "Wenn die geopolitischen Spannungen sich wieder verschärfen oder wichtige Wirtschaftsdaten enttäuschen, die auf eine schwächere Nachfrage hindeuten, ist das ein frühes Warnsignal, dass deine Annahme falsch sein könnte.",
+          "begriffDesTrades": "Ein 'Industriemetall' ist ein Metall, das hauptsächlich in industriellen Prozessen und der Herstellung von Gütern verwendet wird, wie z.B. Kupfer für Kabel und Elektronik oder Stahl für den Bau."
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "Xetra-Gold",
+        "isin": "DE000A0S9GB0",
+        "klasse": "Rohstoff-ETC",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 4321,
+        "stopLoss": 4250,
+        "ziel": 4550,
+        "zeitraum": "2-4 Wochen",
+        "kette": "Geopolitischer Vorfall in UK/Iran-Spannungen -> Unsicherheit steigt -> Nachfrage nach sicheren Häfen steigt -> Gold steigt.",
+        "konfidenz": 70,
+        "erklaerung": {
+          "wasIstDas": "Xetra-Gold ist ein ETC, das den Preis von Gold abbildet und zu 100% mit physischem Gold hinterlegt ist. Es ist eine Möglichkeit, in Gold zu investieren, ohne das Edelmetall selbst lagern zu müssen.",
+          "warumJetzt": "Die Nachrichten über einen Vorfall auf einem britischen Flugplatz, der von US-Streitkräften genutzt wird, und die anhaltenden Spannungen mit dem Iran erhöhen die geopolitische Unsicherheit. In solchen Zeiten suchen Anleger oft Schutz in Gold als 'sicherem Hafen'.",
+          "wannKaufen": "Du kannst jetzt bei einem Goldpreis von etwa 4321 kaufen. Ein leichter Rückgang auf 4250 könnte eine günstigere Einstiegsgelegenheit bieten, solange die geopolitischen Spannungen bestehen bleiben.",
+          "wieViel": "Investiere auch hier einen kleinen Teil deines Budgets, vielleicht 10-20€. Das ermöglicht dir, die Reaktion des Goldpreises auf die Nachrichten zu beobachten und zu lernen, wie sich 'sichere Häfen' verhalten.",
+          "wannRaus": "Das Ziel ist ein Anstieg auf 4550. Wenn der Preis jedoch unter 4250 fällt, solltest du verkaufen, da dies ein Zeichen dafür sein könnte, dass die Unsicherheit nachlässt oder andere Faktoren den Goldpreis stärker beeinflussen.",
+          "wasKannSchiefgehen": "Wenn sich die diplomatische Lage schnell entspannt und die Spannungen abnehmen, könnte die Nachfrage nach Gold als sicherem Hafen sinken, was den Preis fallen ließe und zu einem Verlust führen würde.",
+          "woranErkenneIchFalsch": "Eine deutliche Entspannung in den internationalen Beziehungen, positive Wirtschaftsdaten, die das Vertrauen stärken, oder steigende Zinsen, die Gold unattraktiver machen, wären frühe Anzeichen dafür, dass deine These nicht mehr stimmt.",
+          "begriffDesTrades": "Ein 'sicherer Hafen' ist eine Anlageklasse, die in Zeiten wirtschaftlicher oder politischer Unsicherheit tendenziell ihren Wert behält oder sogar steigert, da Anleger ihr Kapital dorthin verlagern."
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "iShares MSCI Semiconductors",
+        "isin": "null",
+        "klasse": "Sektor-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": null,
+        "stopLoss": null,
+        "ziel": null,
+        "zeitraum": "6-12 Monate",
+        "kette": "KI-Boom -> Hohe Nachfrage nach Rechenleistung -> Steigender Bedarf an Halbleitern -> Halbleiteraktien steigen.",
+        "konfidenz": 60,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETF investiert in Unternehmen, die im Halbleitersektor tätig sind – also in Firmen, die Chips entwerfen, herstellen oder damit handeln. Diese Chips sind das Herzstück fast aller modernen Elektronik, von Smartphones bis zu KI-Servern.",
+          "warumJetzt": "Der Hype um Künstliche Intelligenz (KI) und die damit verbundene steigende Nachfrage nach Rechenleistung treiben den Bedarf an fortschrittlichen Halbleitern in die Höhe. Auch wenn es bei einzelnen Unternehmen wie Apple Probleme gibt, ist der übergeordnete Trend für die gesamte Branche positiv.",
+          "wannKaufen": "Es wäre ratsam, auf einen kleinen Rücksetzer zu warten, vielleicht in den Bereich von 5-10% unter dem aktuellen Kurs. Dies würde dir einen besseren Einstiegspreis ermöglichen, falls der Markt kurzfristig korrigiert.",
+          "wieViel": "Investiere einen größeren Teil deines Budgets, vielleicht 30-40€, da dies eine längerfristige Investition in einen strukturellen Wachstumsmarkt ist.",
+          "wannRaus": "Da dies eine längerfristige Chance ist, gibt es keinen festen Ausstiegspunkt. Du könntest einen Teilverkauf in Betracht ziehen, wenn sich der Wert des ETFs verdoppelt hat, oder wenn sich die fundamentalen Treiber für KI und Halbleiter deutlich verschlechtern.",
+          "wasKannSchiefgehen": "Eine globale Rezession, die die Nachfrage nach Elektronik stark dämpft, oder eine Überproduktion von Chips, die die Preise unter Druck setzt, könnten die Erträge schmälern.",
+          "woranErkenneIchFalsch": "Wenn wichtige Unternehmen der Branche massiv Gewinne verfehlen, die Auftragsbücher sich leeren oder neue technologische Entwicklungen die bestehenden Produkte obsolet machen, sind das Warnsignale.",
+          "begriffDesTrades": "'Halbleiter' sind Materialien, deren elektrische Leitfähigkeit zwischen der von Leitern (wie Kupfer) und Isolatoren (wie Gummi) liegt. Sie sind die Grundlage für Transistoren und integrierte Schaltkreise (Chips)."
+        }
+      }
+    ],
+    "narrativ": "Die Welt konzentriert sich auf die diplomatischen Bemühungen und die Auswirkungen des KI-Booms, während die Märkte insgesamt stabil bleiben.",
+    "realitaet": "Die geopolitischen Spannungen im Nahen Osten und die Handelsbeziehungen zwischen den USA und China schaffen ein unsicheres Umfeld, das durch den technologischen Fortschritt bei KI überlagert wird. Dies führt zu Kapitalflüssen in sichere Häfen und gleichzeitig in wachstumsstarke Technologiebereiche.",
+    "macht": "Großmächte (USA, China) und regionale Akteure (Iran, Saudi-Arabien) beeinflussen die Geopolitik. Technologiegiganten und ihre Zulieferer dominieren den Sektor. Zentralbanken steuern die Zinspolitik.",
+    "geopolitik": "Die Spannungen im Iran und die diplomatischen Auseinandersetzungen zwischen den USA und China sind zentrale Treiber für Unsicherheit und beeinflussen Energiepreise sowie Handelsströme.",
+    "liquiditaet": "Kapital flie��t tendenziell aus unsicheren Anlagen in Gold und Silber, während gleichzeitig Investitionen in KI-bezogene Infrastruktur und Halbleiter getätigt werden.",
+    "kette": "Geopolitische Spannungen (Iran/UK/USA) -> Unsicherheit steigt -> Kapitalflucht in Gold/Silber. Gleichzeitig: China-US KI-Dialog & Zollsenkung -> Handelsoptimismus -> Nachfrage nach Industriemetallen wie Kupfer steigt.",
+    "timing": "Wir befinden uns in einer Phase, in der geopolitische Risiken und strukturelle Wachstumstrends (KI) nebeneinander existieren. Die Zinspolitik der Zentralbanken spielt weiterhin eine wichtige Rolle.",
+    "saisonalitaet": "Keine spezifischen starken saisonalen Muster heute erkennbar, die das aktuelle Geschehen überlagern würden.",
+    "masseFehler": "Viele Anleger fokussieren sich zu stark nur auf Tech/KI und ignorieren die breiteren geopolitischen und Rohstoff-bezogenen Risiken und Chancen.",
+    "widerspruch": "Der KI-Boom treibt Technologieaktien, während geopolitische Spannungen gleichzeitig sichere Häfen wie Gold stützen. Dies deutet auf eine Marktsegmentierung hin.",
+    "markt": "Aktien: Leicht positiv, aber mit geopolitischen Risiken. Rohstoffe: Gemischt, mit Potenzial für Edelmetalle und Industriemetalle. Krypto: Leicht positiv, folgt dem allgemeinen Risikobereitschafts-Trend.",
+    "positionierung": "Das 'Fear & Greed'-Sentiment von 70/100 deutet auf eine 'Gier'-Stimmung hin, was bedeutet, dass Anleger eher bereit sind, Risiken einzugehen, aber auch anfällig für plötzliche Umschwünge sind.",
+    "reflexivitaet": "Positive Nachrichten über Handelsgespräche könnten die Risikobereitschaft erhöhen, was wiederum die Nachfrage nach Rohstoffen und Technologie ankurbelt und die Kurse weiter treibt – ein positiver Kreislauf, solange die Nachrichten gut bleiben.",
+    "metaZyklus": "Umbruch/Wachstum: Die Welt versucht, geopolitische Spannungen zu managen, während gleichzeitig durch KI und Technologie neue Wachstumsimpulse entstehen.",
+    "psychologie": "Die 'Gier'-Stimmung (70/100) deutet auf eine hohe Bereitschaft hin, in den Markt einzusteigen, was FOMO (Fear Of Missing Out) verstärken könnte. Vorsicht ist geboten.",
+    "halalAsset": "WisdomTree Copper",
+    "halalStatus": "halal",
+    "halalBegruendung": "Kupfer ist ein Industriemetall und seine Investition ist nicht mit verbotenen Aktivitäten verbunden.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 6.766,
+    "stopLoss": 6.5,
+    "ziel": 7.5,
+    "einsatz": 3.13,
+    "exitStrategie": "Bei Erreichen des Ziels von 7.5000 verkaufen oder bei Unterschreiten des Stop-Loss von 6.5000 aussteigen, um Verluste zu begrenzen.",
+    "waehrungsrisiko": "EUR/USD bei 1.1401: Ein stärkerer Euro gegenüber dem Dollar könnte den Preis von in Dollar gehandelten Rohstoffen wie Kupfer für Euro-Anleger leicht verteuern, aber der Haupteffekt kommt von den Rohstoffpreisen selbst.",
+    "asymmetrie": {
+      "verlust": 0.26,
+      "gewinn": 0.73,
+      "ratio": 2.81,
+      "ev": 0.12
+    },
+    "lernpunkt": "Verstehe, dass geopolitische Ereignisse nicht isoliert betrachtet werden können. Spannungen im Iran können den Ölpreis beeinflussen, was wiederum die Produktionskosten vieler Industrien und damit die Nachfrage nach Rohstoffen wie Kupfer beeinflusst.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach KI-Infrastruktur die Preise für Halbleiter und Energie in den kommenden Monaten beeinflussen, und wie reagieren die Märkte auf potenzielle Rückschläge in den Handelsbeziehungen?"
+  },
+  "prices": {
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7743.41015625,
+      "change": 0.5098599586843957
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4321.2001953125,
+      "change": 0
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.2249999046325684,
+      "change": 0
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 27068.720703125,
+      "change": 0.4801580980786063
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 92.41000366210938,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 84961.4375,
+      "change": 0.6575141525945976
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25408.640625,
+      "change": 0.562448947598737
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.765999794006348,
+      "change": 0
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 64.8010025024414,
+      "change": 0
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 5.184000015258789,
+      "change": 0.4261882061972385
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 100.97000122070312,
+      "change": 0
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 703.25,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1401208639144897,
+      "change": 0.23258631411948688
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2713.050048828125,
+      "change": 0.6617997601904345
+    }
+  },
+  "fearGreed": [
+    70,
+    78,
+    71,
+    71,
+    71,
+    74,
+    70
+  ],
+  "simulation": {
+    "buy": 50,
+    "hold": 35,
+    "sell": 15
+  },
+  "dateKey": "2026-09-27"
+}

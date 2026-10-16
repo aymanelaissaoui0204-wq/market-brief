@@ -1,0 +1,324 @@
+{
+  "date": "Mittwoch, 12. August 2026",
+  "generatedAt": "2026-08-12T06:14:07.245Z",
+  "news": [
+    {
+      "title": "Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Wall Street deutlich im Plus: Kursfeuerwerk bei Microsoft - Börsenwert steigt um 450 Milliarden Dollar",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "PLDT retains FTSE4Good Index Series inclusion",
+      "source": "BusinessWorld Online",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "PHI(0.35)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Earnings call transcript: IZEA Q2 2026 shares sink after revenue drop",
+      "source": "Investing.com UK",
+      "sentiment": "Bearish",
+      "tickers": [
+        "IZEA(-0.63)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Izea Worldwide Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "IZEA(-0.30)",
+        "AMD(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Nvidia taps Wall Street for US$500bil in AI push",
+      "source": "The Star",
+      "sentiment": "Bullish",
+      "tickers": [
+        "NVDA(0.48)",
+        "APO(0.33)",
+        "BX(0.30)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "American Express vs. SoFi Technologies: Which Financial Stock Is a Better Buy in 2026?",
+      "source": "The Globe and Mail",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "AXP(0.41)",
+        "JPM(0.11)",
+        "DAL(0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Adobe Stock Price Hits 2019 Low: Is Generative AI a Real Threat, or Is It Time to Buy the Dip?",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ADBE(0.26)",
+        "NVDA(0.31)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "After Big Pullbacks, Are These 3 Tech Stocks Worth Buying?",
+      "source": "Morningstar",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MORN(0.02)",
+        "AMD(0.12)",
+        "WDC(-0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Datadog Inc Stock (DDOG) Closed Down by 5.18% on Aug 11: What Investors Need To Know",
+      "source": "TradingKey",
+      "sentiment": "Neutral",
+      "tickers": [
+        "DDOG(0.03)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Arista Networks Stock Is Waiting On Parts, Not Orders",
+      "source": "Trefis",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ANET(0.44)",
+        "CSCO(0.12)",
+        "HPE(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Coherent Could Swing By $9.54 Billion After Earnings",
+      "source": "Benzinga",
+      "sentiment": "Bullish",
+      "tickers": [
+        "COHR(0.44)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Alphabet Shares (NASDAQ:GOOGL) Slide 3.6% Ahead of Pixel 11 Debut; AI Investment Remains Central Issue",
+      "source": "TechStock²",
+      "sentiment": "Neutral",
+      "tickers": [
+        "GOOGL(-0.28)",
+        "AMZN(-0.13)",
+        "MSFT(-0.09)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Jefferies Downgrades Apple as iPhone Worries Mount. What This Means for AAPL Stock.",
+      "source": "Barchart.com",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AAPL(0.04)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Tesla Stock Rises as China EV Sales Slide for Seventh Straight Month",
+      "source": "Yahoo Finance UK",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TSLA(0.29)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Alphabet Inc Class A Stock (GOOGL) Moved Down by 3.61% on Aug 11: Facts Behind the Movement",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "GOOGL(-0.42)",
+        "MSFT(-0.19)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Chasing NVIDIA? Western Digital May Be the Smarter AI Bet",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "WDC(0.43)",
+        "NVDA(-0.21)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Oil, gold prices rise as geopolitical tensions mount before CPI - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump says his plane faced 'greater risk' in secret flight change - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil rises as doubts over US-Iran deal heighten supply concerns - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Wall Street ends down as US-Iran peace optimism fades - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trading Day: Peace fog - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Zelenskiy: Ukraine has given US negotiators proposals for ending the war with Russia - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "We're lifting our price target on Cardinal Health after issuing rosy profit guidance",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "Quelle: n-tv NACHRICHTEN: Auf die Bewertungen kommt es an: Experten rechnen mit solider Börsenentwicklung",
+      "Quelle: n-tv NACHRICHTEN: Wall Street deutlich im Plus: Kursfeuerwerk bei Microsoft - Börsenwert steigt um 450 Milliarden Dollar",
+      "Quelle: Reuters: Oil, gold prices rise as geopolitical tensions mount before CPI - reuters.com"
+    ],
+    "hypeNews": [
+      "Microsoft's market value surge driven by strong performance, indicating robust tech sector growth.",
+      "Nvidia's significant fundraising for AI expansion highlights the sector's continued dominance and investment."
+    ],
+    "hypeCenter": "Der stärkste Hype liegt im KI-Sektor, angeführt von großen Playern wie Microsoft und Nvidia, die massive Investitionen tätigen und beeindruckende Marktwertsteigerungen verzeichnen. Dies signalisiert anhaltendes Vertrauen und Wachstumspotenzial in diesem Bereich.",
+    "peripherEffect": "Während der KI-Hype dominiert, könnten Unternehmen, die kritische Infrastruktur oder spezialisierte Komponenten für diese Technologie liefern, mit Verzögerung profitieren. Dazu gehören Halbleiterhersteller (über NVDA hinaus), Unternehmen für spezialisierte Metalle (für Elektronik und Kühlung) und möglicherweise Anbieter von Rechenzentrum-Infrastruktur.",
+    "narrativ": "Die Masse glaubt, dass die Tech-Giganten weiterhin unaufhaltsam wachsen, angetrieben durch KI, und dass dies eine breite positive Auswirkung auf die gesamte Börse hat. Microsoft und Nvidia sind die klaren Gewinner.",
+    "realitaet": "Der Hype um KI und Tech-Giganten lenkt von den fundamentalen Herausforderungen ab. Die Abhängigkeit von spezifischen Lieferketten (wie bei Arista Networks erwähnt), die steigenden Kosten für Rohstoffe (durch geopolitische Spannungen) und die Notwendigkeit von physischer Infrastruktur werden oft übersehen. Die Bewertungen einiger Unternehmen könnten überhitzt sein, und die tatsächliche Profitabilität von KI-Investitionen ist noch nicht vollständig bewiesen.",
+    "macht": "Primär profitieren die großen Technologieunternehmen (Microsoft, Nvidia, Alphabet, Adobe) und deren Aktionäre. Auch Finanzinstitutionen, die diese Unternehmen finanzieren oder bewerten (American Express, Jefferies), sowie Rohstoffproduzenten und -händler (Öl, Gold) ziehen aus den geopolitischen Spannungen Kapital.",
+    "geopolitik": "Geopolitische Spannungen (Iran-Deal-Zweifel) treiben Öl- und Goldpreise. Dies deutet auf eine unsichere Weltlage hin, die traditionelle sichere Häfen stärkt und gleichzeitig die Kosten für energieintensive Industrien (wie Tech) erhöht. Die De-Dollarisierung wird durch solche Spannungen indirekt gefördert, da Länder nach alternativen Währungen und Vermögenswerten suchen.",
+    "liquiditaet": "Kapital fließt in offensichtliche Gewinner wie Microsoft und Nvidia, aber auch in traditionelle sichere Häfen wie Gold und Öl aufgrund geopolitischer Risiken. Ein Teil des Kapitals könnte auch in Unternehmen fließen, die von der KI-Nachfrage profitieren, aber noch nicht im Rampenlicht stehen.",
+    "kette": "Nvidia treibt KI-Innovation voran -> Erhöhte Nachfrage nach spezialisierten Halbleitern und Infrastruktur -> Steigende Nachfrage nach Rohstoffen (Kupfer, seltene Erden) und Energie -> Geopolitische Spannungen erhöhen Energie- und Rohstoffpreise -> Gold als sicherer Hafen steigt.",
+    "timing": "Spät. Der Hype um KI ist bereits etabliert, und die größten Gewinne bei den führenden Unternehmen sind wahrscheinlich bereits erzielt worden. Die aktuellen Nachrichten bestätigen die Stärke, aber das 'Early Bird'-Fenster schließt sich. Periphere Assets könnten jetzt in eine mittlere Phase eintreten.",
+    "saisonalitaet": "August ist historisch oft ein eher ruhiger Sommermonat an den Börsen, mit geringerer Volatilität. Die aktuellen Nachrichten deuten jedoch auf eine erhöhte Aktivität hin, möglicherweise durch die Kombination von Tech-Hype und geopolitischen Sorgen, was von der typischen Saisonalität abweichen könnte.",
+    "masseFehler": "Die Masse fokussiert sich auf die direkten Gewinner des KI-Hypes (Nvidia, Microsoft) und ignoriert die Abhängigkeiten und die Kosteninflation, die durch geopolitische Spannungen und Lieferkettenprobleme entstehen. Sie sehen nicht, dass die 'Rohstoff-Inflation' die Gewinne der Tech-Firmen schmälern könnte.",
+    "widerspruch": "Ja. Während Tech-Aktien (Microsoft, Nvidia) stark steigen und KI als Wachstumstreiber gefeiert wird, steigen gleichzeitig Gold und Öl aufgrund von geopolitischen Spannungen. Dies deutet auf eine Marktunsicherheit hin, die im Widerspruch zur reinen 'Risk-On'-Stimmung im Tech-Sektor steht.",
+    "markt": "Bitcoin: neutral | Gold: steigt | Silber: steigt | Öl: steigt | DAX: steigt | EUR/USD: fällt",
+    "opportunity": "Potenzielle Chance in Unternehmen, die von der KI-Nachfrage profitieren, aber noch nicht die extreme Bewertung von Nvidia oder Microsoft erreicht haben, oder in Unternehmen, die von der steigenden Nachfrage nach Rohstoffen und Energie profitieren.",
+    "positionierung": "Die Ticker-Daten zeigen eine klare Präferenz für 'Bullish' oder 'Somewhat-Bullish' bei den großen Tech-Namen (NVDA, MSFT, APO, BX, AXP, JPM, DAL, ADBE, ANET, CSCO, HPE, COHR, TSLA). Es gibt jedoch auch 'Bearish' oder 'Somewhat-Bearish' Tendenzen bei Unternehmen mit spezifischen Problemen (IZEA, GOOGL, AAPL). Das allgemeine Sentiment ist positiv, aber mit Vorsicht bei einzelnen Titeln.",
+    "reflexivitaet": "Der Hype um KI führt zu erhöhten Investitionen, was wiederum die Nachfrage nach den benötigten Ressourcen (Chips, Energie, Metalle) steigert. Dies treibt die Preise dieser Ressourcen und schafft neue Investitionsmöglichkeiten, was den Hype weiter verstärkt.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.25,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch. Die starken Tech-Investitionen und die geopolitischen Spannungen deuten auf eine Phase des Umbruchs hin, in der neue Technologien auf alte geopolitische Strukturen treffen und die Weltwirtschaft neu gestalten.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
+    "halalStatus": "halal",
+    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegtes Goldprodukt, das den islamischen Anlageprinzipien entspricht, da es einen realen Vermögenswert repräsentiert und keine Zinsen (Riba) generiert.",
+    "purification": "0.00",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": null,
+    "stopLoss": null,
+    "ziel": null,
+    "zeitraum": null,
+    "einsatz": 0,
+    "exitStrategie": "Keine Positionierung aufgrund der gemischten Signale und der späten Phase des Hypes.",
+    "waehrungsrisiko": "Der fallende EUR/USD-Kurs (1.1538) könnte US-Dollar-basierte Anlagen für Euro-Investoren verteuern, was bei globalen Tech-Investitionen zu berücksichtigen ist.",
+    "psychologie": "FOMO Warnung. Die starke Performance von Tech-Aktien und die breite Berichterstattung könnten Anleger zu impulsiven Käufen verleiten, ohne die Risiken und die Marktpositionierung vollständig zu berücksichtigen.",
+    "ruhigerTag": false,
+    "lernpunkt": "Der 'Fear & Greed Index' misst die Marktstimmung. Ein Wert von 27 deutet auf 'Angst' hin, was oft ein Zeichen für eine bevorstehende Markterholung sein kann, da Pessimismus übertrieben ist. Umgekehrt kann extreme Gier (hohe Werte) auf eine Korrektur hindeuten.",
+    "tagesfrage": "Inwieweit werden die steigenden Rohstoffkosten die Profitabilität von KI-getriebenen Unternehmen langfristig beeinträchtigen, und wie werden die Unternehmen darauf reagieren?",
+    "brief": "Mein lieber Ayman, heute sehen wir einen klaren Hype im KI-Sektor, angeführt von Giganten wie Microsoft und Nvidia. Doch lass dich nicht vom Glanz blenden. Die steigenden Öl- und Goldpreise aufgrund geopolitischer Spannungen sind ein deutliches Warnsignal, das auf zugrundeliegende Instabilität hinweist. Konzentriere dich auf die Peripherie: Wo entstehen die echten, oft übersehenen Werte, wenn die Hauptakteure ihren Lauf nehmen? Denke daran, dass die wahre Wahrheit oft im Geldfluss und nicht in den Schlagzeilen liegt. Halte Ausschau nach den stillen Profiteuren, die von den großen Trends profitieren, aber nicht im direkten Rampenlicht stehen."
+  },
+  "prices": {
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63653.75,
+      "change": 0
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4448.10009765625,
+      "change": 1.4852862800878395
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 83.91999816894531,
+      "change": 0.8653861143180449
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 65.3550033569336,
+      "change": 0.9047633743813758
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1538017988204956,
+      "change": -0.07269380678913283
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 26391.419921875,
+      "change": 0.2565695493791395
+    }
+  },
+  "fearGreed": [
+    25,
+    29,
+    30,
+    31,
+    30,
+    29,
+    27
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-08-12"
+}

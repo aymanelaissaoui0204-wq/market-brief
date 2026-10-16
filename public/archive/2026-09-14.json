@@ -1,0 +1,336 @@
+{
+  "date": "Montag, 14. September 2026",
+  "generatedAt": "2026-09-14T10:21:01.433Z",
+  "news": [
+    {
+      "title": "EZB, Inflation, Apple: Diese Termine bewegen die Märkte jetzt",
+      "source": "Wallstreet Online",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Wie Frauen beruflich durchstarten können",
+      "source": "Weser-Kurier",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Evercore ISI Downgrades Hewlett Packard Enterprise to In Line From Outperform, Price Target is $65",
+      "source": "marketscreener.com",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "HPE(-0.44)",
+        "ORCL(0.10)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Corient Private Wealth LP Trims Stake in Intuit Inc. $INTU",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "INTU(0.30)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+      "source": "Yahoo Finance",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "GS(0.11)",
+        "MSFT(0.34)",
+        "NVDA(0.43)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Super Micro Computer (NASDAQ: SMCI) Sits On $60B Order Book As Fiscal 2027 Guidance Reaches $72B",
+      "source": "Foreign Policy Journal",
+      "sentiment": "Bullish",
+      "tickers": [
+        "SMCI(0.45)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Can Fabrinet (NYSE:FN) Turn Scale Into an Advantage?",
+      "source": "Kalkine Media",
+      "sentiment": "Neutral",
+      "tickers": [
+        "FN(0.07)",
+        "AMD(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+      "source": "Yahoo Finance UK",
+      "sentiment": "Bullish",
+      "tickers": [
+        "DSGX(0.50)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Tidal Investments LLC Increases Stake in Q2 Holdings, Inc. $QTWO",
+      "source": "MarketBeat",
+      "sentiment": "Bullish",
+      "tickers": [
+        "QTWO(0.42)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Panoramic Capital Partners LLC Takes $1.63 Million Position in Amazon.com, Inc. $AMZN",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "AMZN(0.30)",
+        "QCOM(0.24)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Is Motorola Solutions (MSI) Undervalued Following Its Expanded Buyback Program?",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "MSI(0.22)",
+        "ANET(0.11)",
+        "FFIV(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Fortive Corp Stock Price Live, Charts & News",
+      "source": "The Economic Times",
+      "sentiment": "Neutral",
+      "tickers": [
+        "FTV(0.08)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Moderna, 10x Genomics, Oscar Health, and Novavax Shares Are Soaring, What You Need To Know",
+      "source": "Yahoo Finance",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MRNA(0.11)",
+        "COIN(0.04)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
+      "source": "Yahoo Finance",
+      "sentiment": "Bullish",
+      "tickers": [
+        "TXN(0.42)",
+        "QCOM(0.40)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Qualys Drops 6.9% Amid Sector-Wide Selling",
+      "source": "AlphaStreet",
+      "sentiment": "Bearish",
+      "tickers": [
+        "QLYS(-0.61)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "ON Semiconductor Corp Stock (ON) Moved Up by 7.35% on Sep 11: Facts Behind the Movement",
+      "source": "TradingKey",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ON(0.41)",
+        "AAPL(0.24)",
+        "MU(-0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Morning Bid: Shipping oil gets ever harder, costlier - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump downplays report China entities helped Iran before attack that killed US troops - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil prices continue surge, rising 3% amid Saudi pipeline outage after attack - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in this week's stock market",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Houthis' Yemen advance leaves Gulf states with uncomfortable choice - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "GNews: EZB, Inflation, Apple: Diese Termine bewegen die Märkte jetzt",
+      "GNews: Wie Frauen beruflich durchstarten können",
+      "AlphaVantage: Evercore ISI Downgrades Hewlett Packard Enterprise to In Line From Outperform, Price Target is $65",
+      "AlphaVantage: Corient Private Wealth LP Trims Stake in Intuit Inc. $INTU",
+      "AlphaVantage: Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+      "AlphaVantage: Super Micro Computer (NASDAQ: SMCI) Sits On $60B Order Book As Fiscal 2027 Guidance Reaches $72B",
+      "AlphaVantage: Can Fabrinet (NYSE:FN) Turn Scale Into an Advantage?",
+      "AlphaVantage: Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+      "AlphaVantage: Tidal Investments LLC Increases Stake in Q2 Holdings, Inc. $QTWO",
+      "AlphaVantage: Panoramic Capital Partners LLC Takes $1.63 Million Position in Amazon.com, Inc. $AMZN",
+      "AlphaVantage: Is Motorola Solutions (MSI) Undervalued Following Its Expanded Buyback Program?",
+      "AlphaVantage: Fortive Corp Stock Price Live, Charts & News",
+      "AlphaVantage: Moderna, 10x Genomics, Oscar Health, and Novavax Shares Are Soaring, What You Need To Know",
+      "AlphaVantage: Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
+      "AlphaVantage: Qualys Drops 6.9% Amid Sector-Wide Selling",
+      "AlphaVantage: ON Semiconductor Corp Stock (ON) Moved Up by 7.35% on Sep 11: Facts Behind the Movement",
+      "Finnhub: AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite - Reuters",
+      "Finnhub: Morning Bid: Shipping oil gets ever harder, costlier - Reuters",
+      "Finnhub: Trump downplays report China entities helped Iran before attack that killed US troops - Reuters",
+      "Finnhub: COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters"
+    ],
+    "hypeNews": [
+      "AI treibt S&P 500 Gewinne, aber mit Vorsicht (GS, MSFT, NVDA)",
+      "Super Micro Computer (SMCI) mit massivem Orderbuch und optimistischem Ausblick"
+    ],
+    "hypeCenter": "Künstliche Intelligenz (KI) und die dazugehörige Infrastruktur (Halbleiter, Server-Hardware) sind der klare Hype-Sektor. Goldman Sachs hebt hervor, dass KI die Hälfte des Gewinnwachstums im S&P 500 ausmacht, was die zentrale Rolle des Sektors unterstreicht. Super Micro Computer mit einem riesigen Orderbuch und starken Zukunftsprognosen ist ein Paradebeispiel für diesen Hype.",
+    "peripherEffect": "Da KI-Chips und Server stark nachgefragt werden, profitieren Zulieferer von Spezialmaterialien und Komponenten, die für die Herstellung dieser fortschrittlichen Technologien benötigt werden. Dazu gehören Unternehmen, die seltene Erden, hochreine Chemikalien oder spezielle Kühlungslösungen für Rechenzentren liefern. Auch Unternehmen, die sich auf die Logistik und den Transport dieser empfindlichen Güter spezialisieren, könnten eine verzögerte positive Entwicklung sehen.",
+    "narrativ": "Die Masse glaubt, dass KI-Unternehmen und die direkt damit verbundenen Halbleiterhersteller weiterhin exponentiell wachsen werden. Die positiven Nachrichten über Auftragseingänge und Gewinnbeiträge werden als Bestätigung für eine unaufhaltsame Rallye gesehen. Die Risiken, die Goldman Sachs andeutet, werden ignoriert oder als kurzfristige Dämpfer abgetan.",
+    "realitaet": "Der Hype um KI ist real, aber die Bewertung vieler Unternehmen ist extrem hoch. Die Aussage von Goldman Sachs, dass KI 'beide Seiten schneidet', deutet darauf hin, dass die Abhängigkeit von KI auch Risiken birgt, z.B. durch übermäßige Investitionen, überhitzte Nachfrage oder die Möglichkeit, dass die Gewinne nicht nachhaltig sind. Die Fokussierung auf die 'Gewinnbringer' verdeckt die potenziellen Verlierer, wenn sich die Marktbedingungen ändern oder die Technologie nicht die Erwartungen erfüllt.",
+    "macht": "Technologiegiganten wie Microsoft (MSFT) und Nvidia (NVDA), die die KI-Infrastruktur und -Software dominieren, sowie Unternehmen, die die physische Hardware liefern wie Super Micro Computer (SMCI), profitieren enorm. Investmentbanken wie Goldman Sachs (GS) profitieren durch Beratungsgebühren und Handelsaktivitäten. Auch die Unternehmen, die die Komponenten für diese Hardware liefern (z.B. Qualcomm, Texas Instruments), sehen steigende Umsätze.",
+    "geopolitik": "Die steigenden Kosten für den Öltransport aufgrund geopolitischer Spannungen (Iran-Krieg) und die damit verbundenen Risiken für die globale Lieferkette sind ein wichtiger, aber oft übersehener Faktor. Während sich die Welt auf KI konzentriert, könnten Ressourcenknappheit und höhere Transportkosten die Inflation weiter anheizen und die Profitabilität von technologiegetriebenen Unternehmen beeinträchtigen. Die BRICS-Staaten könnten versuchen, diese Instabilität zu ihrem Vorteil zu nutzen, um die Abhängigkeit vom US-Dollar zu reduzieren, insbesondere im Energiehandel.",
+    "liquiditaet": "Kapital fließt stark in KI-bezogene Unternehmen und Halbleiter. Es gibt auch eine Verlagerung hin zu defensiveren Anlagen wie Gold, da die geopolitischen Risiken und Inflationsängste zunehmen, was sich im stabilen Goldpreis widerspiegelt. Bitcoin zeigt ebenfalls Stärke, was auf eine allgemeine Risikobereitschaft hindeutet, aber auch auf eine Suche nach alternativen Wertspeichern.",
+    "kette": "KI-Entwicklung und -Nachfrage steigt -> Hohe Nachfrage nach spezialisierten Halbleitern und Servern -> Starkes Wachstum bei Unternehmen wie SMCI, NVDA, MSFT -> Steigende Nachfrage nach Rohstoffen und Komponenten für die Produktion -> Höhere Transportkosten und Lieferkettenrisiken durch geopolitische Spannungen -> Potenzielle Inflationssteigerung und Druck auf Margen.",
+    "timing": "Mitte des Trends. Der KI-Hype ist bereits in vollem Gange, und viele Unternehmen haben bereits signifikante Kursgewinne erzielt. Die Peripherie-Assets (Spezialmetalle, Logistik) befinden sich wahrscheinlich noch am Anfang ihrer Rallye, da die Auswirkungen der Nachfrage nach KI-Hardware auf die vorgelagerten Lieferketten erst allmählich sichtbar werden.",
+    "saisonalitaet": "September und Oktober sind historisch oft volatile Monate, die von Gewinnmitnahmen und Unsicherheiten geprägt sein können, insbesondere wenn große Marktteilnehmer ihre Positionen anpassen. Die aktuellen Nachrichten deuten auf eine Fortsetzung der Volatilität hin, mit Sektoren, die stark steigen, während andere unter Druck geraten.",
+    "masseFehler": "Die Masse sieht nur den direkten Hype-Sektor (KI-Chips, Software) und ignoriert die vorgelagerten und nachgelagerten Effekte sowie die Risiken. Sie übersieht, dass die steigenden Kosten für Energie und Logistik die Profitabilität der Hype-Unternehmen beeinträchtigen können und dass die Nachfrage nach KI-Hardware auch die Nachfrage nach spezifischen Rohstoffen und spezialisierten Komponenten in die Höhe treibt, die oft übersehen werden.",
+    "widerspruch": "Ja. Während die KI-Nachrichten und die Performance von SMCI, NVDA, MSFT sehr bullish sind, gibt es gleichzeitig eine Herabstufung von HPE und Sektor-weite Verkäufe bei Qualys. Die steigenden Ölpreise und die Schwierigkeiten im Seeverkehr deuten auf steigende Kosten und Inflationsdruck hin, was im Widerspruch zu den unaufhaltsamen Wachstumsnarrativen einiger Technologieaktien steht.",
+    "markt": "Gold steigt/faellt: Gold: stabil, leicht positiv zu erwarten | Silber: Silber: stabil, leicht positiv zu erwarten | Öl: Öl: steigt tendenziell | DAX: DAX: fällt tendenziell | Bitcoin: Bitcoin: steigt tendenziell | EUR/USD: EUR/USD: fällt tendenziell",
+    "opportunity": "Ja, in den peripheren Assets, die von der KI-Nachfrage profitieren, aber noch nicht überbewertet sind, sowie in Rohstoffen, die aufgrund der steigenden Transportkosten und geopolitischen Spannungen an Wert gewinnen.",
+    "positionierung": "Smart Money positioniert sich weiterhin stark in KI-bezogenen Unternehmen (SMCI, NVDA, MSFT) und deren Zulieferern (QCOM, TXN). Es gibt jedoch Anzeichen für Vorsicht (HPE downgrade) und eine Flucht in sicherere Häfen oder alternative Wertspeicher (Gold, Bitcoin) angesichts geopolitischer Risiken und potenzieller Inflationsdruck. Das Sentiment ist gemischt, aber die Hype-Aktien dominieren die Schlagzeilen.",
+    "reflexivitaet": "Der Hype um KI treibt die Nachfrage nach Hardware, was wiederum die Nachfrage nach Komponenten und Rohstoffen erhöht. Dies führt zu steigenden Preisen und besseren Ergebnissen für die Zulieferer, was wiederum den Hype um KI verstärkt und die Nachfrage weiter ankurbelt. Gleichzeitig führen geopolitische Spannungen zu höheren Transportkosten, was die Margen der Hype-Unternehmen schmälert und potenziell zu einer Neubewertung führt, wenn die Kosten nicht weitergegeben werden können.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.25,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch. Die Welt befindet sich in einem technologischen Umbruch (KI) und gleichzeitig in einem geopolitischen und wirtschaftlichen Umbruch (steigende Energiepreise, Lieferkettenprobleme). Dies deutet auf eine Phase der Stagflation oder eine Krise hin, die durch technologischen Fortschritt abgefedert werden könnte.",
+    "halalAsset": "Gold (Xetra-Gold DE000A0S9GB0)",
+    "halalStatus": "halal",
+    "halalBegruendung": "Gold ist als Sachwert und Wertaufbewahrungsmittel gemäß islamischen Prinzipien zulässig, solange es physisch besichert ist und keine Zinsen (Riba) involviert sind.",
+    "purification": "0.00",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": null,
+    "stopLoss": null,
+    "ziel": null,
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Der schwächere EUR/USD-Kurs (1.1545) könnte Exporteure in den USA stärken, aber für europäische Anleger, die in US-Aktien investieren, bedeutet dies höhere Kosten in Euro. Dies könnte die Attraktivität von US-Tech-Aktien für europäische Investoren leicht mindern, aber der KI-Hype überwiegt wahrscheinlich.",
+    "psychologie": "FOMO (Fear Of Missing Out) ist bei den Anlegern stark ausgeprägt, die befürchten, die KI-Rallye zu verpassen. Die Nachrichten über steigende Ölpreise und Lieferkettenprobleme könnten jedoch zu Panik führen, wenn sie die Gewinne der Tech-Giganten zu stark beeinträchtigen.",
+    "ruhigerTag": false,
+    "lernpunkt": "Peripherie-Assets: Dies sind oft übersehene Unternehmen oder Sektoren, die indirekt von einem größeren Markttrend oder Hype profitieren. Sie sind typischerweise nicht die direkten Nutznießer, sondern liefern die notwendigen Komponenten, Dienstleistungen oder Rohstoffe. Die Analyse von Peripherie-Assets erfordert ein tiefes Verständnis der gesamten Wertschöpfungskette und kann eine Chance für überdurchschnittliche Renditen bieten, da sie oft weniger beachtet werden.",
+    "tagesfrage": "Wie stark wird die Abhängigkeit von KI-Hardware die Rohstoffpreise und die Transportkosten in den nächsten 12 Monaten beeinflussen, und wie werden die Unternehmen diese Kosten an die Endverbraucher weitergeben?",
+    "brief": "Ayman, heute sehen wir den klaren Hype um KI, der die Märkte dominiert, angeführt von Unternehmen wie Super Micro Computer und den großen Playern wie Nvidia und Microsoft. Aber vergiss nicht die islamische Ethik: Der wahre Gewinn liegt oft im Verborgenen, in den Zulieferern und den Rohstoffen, die diese Technologie erst ermöglichen. Die steigenden Ölpreise und die Schwierigkeiten im Seeverkehr sind Warnsignale, die wir nicht ignorieren dürfen. Sie könnten die Gewinne der Tech-Giganten schmälern und die Inflation anheizen. Bleibe wachsam und suche nach den unterbewerteten Peripherie-Assets, die von diesem Hype profitieren, aber noch nicht überhitzt sind. Die Realität ist komplexer als die Schlagzeilen."
+  },
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4325.7001953125,
+      "change": 0
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 63.125,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 102.6500015258789,
+      "change": 0
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25416.609375,
+      "change": -0.5942891137591692
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 77960.9296875,
+      "change": 1.461218608430626
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1544678211212158,
+      "change": -0.5622265798991984
+    }
+  },
+  "fearGreed": [
+    69,
+    66,
+    69,
+    56,
+    63,
+    61,
+    57
+  ],
+  "simulation": {
+    "buy": 0,
+    "hold": 100,
+    "sell": 0
+  },
+  "dateKey": "2026-09-14"
+}

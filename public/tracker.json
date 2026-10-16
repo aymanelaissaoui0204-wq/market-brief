@@ -1,0 +1,35 @@
+{
+  "stand": "2026-10-16T18:50:18.131Z",
+  "budget": 50,
+  "zusammenfassung": {
+    "gesamt": 1,
+    "geschlossen": 0,
+    "ziel": 0,
+    "stop": 0,
+    "abgelaufen": 0,
+    "nichtAusgeloest": 0,
+    "laufend": 1,
+    "trefferquote": null,
+    "summeEur": 0,
+    "schnittEur": null,
+    "proStufe": {}
+  },
+  "prognosen": [
+    {
+      "id": "2026-10-16#1",
+      "datum": "2026-10-16",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 99.5,
+      "stop": 95,
+      "ziel": 105,
+      "gewinnEur": 0.76,
+      "verlustEur": 4.26,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Risikoaufschläge bei Öl → Steigende Ölpreise",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    }
+  ]
+}

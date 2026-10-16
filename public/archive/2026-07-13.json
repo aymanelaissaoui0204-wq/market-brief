@@ -1,0 +1,330 @@
+{
+  "date": "Montag, 13. Juli 2026",
+  "generatedAt": "2026-07-13T08:17:32.658Z",
+  "news": [
+    {
+      "title": "Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Boston Trust Walden Corp Decreases Position in Amazon.com, Inc. $AMZN",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AMZN(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "HP Inc. $HPQ Shares Acquired by Applied Finance Capital Management LLC",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "HPQ(0.04)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Is Analog Devices (ADI) Undervalued As Data Center Demand And Bookings Strengthen?",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ADI(0.46)",
+        "NVDA(0.33)",
+        "AVGO(0.28)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Asian Market Gems 3 Companies That May Be Priced Below Their Estimated Value",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "HDL(0.03)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "China poses biggest long-term competitive threat to SpaceX - Morgan Stanley",
+      "source": "Investing.com",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MS(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "US Market Review: Tech Stocks Boost S&P 500, Alibaba (BABA) Up 1",
+      "source": "GuruFocus",
+      "sentiment": "Bullish",
+      "tickers": [
+        "BABA(0.48)",
+        "SPGI(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Western Digital (WDC) Is Up 8.1% After Strong Q3 Results And AI-Driven Outlook Upgrade",
+      "source": "Simply Wall Street",
+      "sentiment": "Bullish",
+      "tickers": [
+        "WDC(0.44)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Oracle Stock’s $638 Billion Order Book Faces a $42 Billion Cash Test",
+      "source": "TechStock²",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ORCL(-0.25)",
+        "SPGI(0.13)",
+        "MSFT(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AT&T Inc. (NYSE:T) Given Consensus Recommendation of \"Moderate Buy\" by Analysts",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "T(0.32)",
+        "DAL(0.30)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "QXO, Inc. (NYSE:QXO) Receives Consensus Rating of \"Moderate Buy\" from Analysts",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "QXO(-0.06)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Why Retail Investors Are Adding These AI Infrastructure Stocks For Data Center Growth",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "LITE(0.25)",
+        "EQIX(0.06)",
+        "DLR(0.08)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Nvidia Stock Hasn’t Been This Cheap Since Before 2019. How to Play NVDA Stock Here.",
+      "source": "Barchart",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "NVDA(0.31)",
+        "INTC(0.14)",
+        "AMD(0.10)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AT&T Stock’s Dividend Masks 4% Weekly Move; What’s Next",
+      "source": "TechStock²",
+      "sentiment": "Neutral",
+      "tickers": [
+        "T(-0.10)",
+        "VZ(0.14)",
+        "TMUS(0.34)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Astera Labs Stock And 2 AI Infrastructure Picks Before US Inflation And Earnings",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ALAB(0.11)",
+        "AMAT(0.11)",
+        "ON(0.09)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Amazon.com, Inc. $AMZN Shares Sold by Petros Family Wealth LLC",
+      "source": "MarketBeat",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AMZN(0.01)",
+        "WMT(0.01)",
+        "COST(0.04)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Hormuz traffic slows to multi-week low as renewed US, Iran strikes raise safety risk - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Rupee hits one-month low as renewed Mideast conflict lifts oil prices - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Indian shares fall as oil jumps on renewed escalation in the Middle East - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "An emboldened India holds out for better terms in US trade talks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil jumps 4% as new military strikes threaten Hormuz shipments - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Israel's election will be held on October 27, coalition head says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "n-tv NACHRICHTEN: Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "Simply Wall Street: Is Analog Devices (ADI) Undervalued As Data Center Demand And Bookings Strengthen?",
+      "Investing.com: China poses biggest long-term competitive threat to SpaceX - Morgan Stanley",
+      "GuruFocus: US Market Review: Tech Stocks Boost S&P 500, Alibaba (BABA) Up 1",
+      "Simply Wall Street: Western Digital (WDC) Is Up 8.1% After Strong Q3 Results And AI-Driven Outlook Upgrade",
+      "Reuters: Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait"
+    ],
+    "hypeNews": [
+      "KI & Datenzentren boomen",
+      "Tech-Aktien ziehen S&P 500 hoch",
+      "Iran-Konflikt eskaliert"
+    ],
+    "hypeCenter": "Der stärkste Hype liegt heute im Bereich KI-Infrastruktur und Datenzentren. Mehrere News (ADI, WDC, LITE, EQIX, DLR, ALAB, AMAT, ON) betonen die steigende Nachfrage, starke Quartalsergebnisse und positive Ausblicke, die durch KI-Entwicklungen getrieben werden. Dies deutet auf eine anhaltende Investitionswelle in diesem Sektor hin.",
+    "peripherEffect": "Vom Hype um KI und Datenzentren profitieren verzögert und oft übersehen: Spezialisierte Kühlsysteme für Rechenzentren, Anbieter von Energieeffizienz-Lösungen, Hersteller von Glasfaser- und Hochgeschwindigkeitskabeln (LITE), Anbieter von Rechenzentrums-Immobilien (EQIX, DLR), sowie Zulieferer von seltenen Erden und Spezialmetallen, die in Halbleitern und Quantencomputern verwendet werden. Auch die Nachfrage nach sauberer Energie für den Betrieb der Rechenzentren wird steigen.",
+    "narrativ": "Die Masse glaubt, dass der Tech-Sektor, insbesondere KI und Datenzentren, unaufhaltsam wächst und die Gewinne sprudeln. Gleichzeitig wächst die Sorge vor einer Eskalation im Nahen Osten, die Ölpreise in die Höhe treiben könnte und die globale Wirtschaft belastet.",
+    "realitaet": "Hinter dem Tech-Hype steckt eine massive Kapitalverschiebung in Infrastruktur, die für die KI-Revolution notwendig ist. Die 'Undervalued'-Narrative bei ADI und NVDA suggeriert, dass noch viel Potenzial besteht, während die 'Order Book' von Oracle (ORCL) die enorme Nachfrage unterstreicht. Die Iran-Eskalation ist keine neue Entwicklung, sondern eine Fortsetzung bestehender Spannungen, die jedoch nun die Lieferketten für Energie (Öl, Jet Fuel) direkt bedroht und somit Inflationsdruck erzeugt. Die 'China vs. SpaceX' News deutet auf einen kommenden Wettlauf im Space-Sektor hin, der langfristig die Rohstoffpreise für Spezialmetalle beeinflussen wird.",
+    "macht": "Firmen wie Analog Devices (ADI), Western Digital (WDC), Nvidia (NVDA), Broadcom (AVGO), Oracle (ORCL) und Alibaba (BABA) profitieren direkt vom KI- und Tech-Boom. Applied Finance Capital Management LLC und andere institutionelle Investoren positionieren sich in diesen Sektoren. Im geopolitischen Kontext profitieren Ölproduzenten und -händler von den Spannungen im Nahen Osten. Morgan Stanley (MS) als Analystenhaus profitiert von der Beratung in diesen dynamischen Märkten.",
+    "geopolitik": "Die Eskalation im Nahen Osten (Iran) bedroht die Ölversorgung und den Schiffsverkehr durch die Straße von Hormuz, was die Ölpreise in die Höhe treibt und die Rupee schwächt. Dies stärkt die Position von Öl exportierenden Ländern und könnte die De-Dollarisierungstendenzen beschleunigen, da Länder nach alternativen Währungen für den Energiehandel suchen. Die Konkurrenz zwischen China und SpaceX im Weltraumsektor ist ein Indikator für den globalen Wettlauf um technologische Dominanz und den Zugang zu Ressourcen im All, was die BRICS-G7-Spannungen weiter anheizen könnte.",
+    "liquiditaet": "Kapital fließt verstärkt in Tech-Aktien, insbesondere in Unternehmen, die von der KI-Infrastruktur profitieren (Halbleiter, Datenzentren, Speicherlösungen). Auch Rohstoffe wie Öl könnten aufgrund der geopolitischen Spannungen Kapital anziehen. Der Rückzug von Boston Trust Walden Corp. aus Amazon (AMZN) deutet auf eine selektivere Kapitalallokation innerhalb des Tech-Sektors hin, möglicherweise zugunsten von Infrastruktur-Playern.",
+    "kette": "KI-Entwicklung -> Steigende Nachfrage nach Datenzentren -> Erhöhter Bedarf an Halbleitern und Speicherlösungen (ADI, WDC, NVDA) -> Investitionen in Rechenzentrums-Infrastruktur (LITE, EQIX, DLR) -> Steigende Rohstoffpreise für Spezialmetalle und Energie -> Geopolitische Spannungen (Iran) verstärken Energiepreisanstieg.",
+    "timing": "Mitte im Trend. Der KI-Hype ist bereits etabliert, aber die Investitionen in die physische Infrastruktur und die peripheren Zulieferer sind noch nicht vollständig eingepreist. Die geopolitischen Spannungen im Nahen Osten sind ein wiederkehrendes Thema, das jedoch aktuell eine neue Eskalationsstufe erreicht hat, was kurzfristig zu erhöhter Volatilität führen kann.",
+    "saisonalitaet": "Juli ist historisch oft ein volatiler Monat, in dem nach einem starken ersten Halbjahr Gewinnmitnahmen stattfinden können. Tech-Aktien können jedoch aufgrund von Quartalsberichten und Ausblicken weiterhin Stärke zeigen. Rohstoffe wie Öl neigen im Sommer oft zu Preissteigerungen aufgrund erhöhter Nachfrage und geopolitischer Risiken.",
+    "masseFehler": "Die Masse konzentriert sich auf die großen Namen im Tech-Sektor (Nvidia, Amazon) und übersieht die enormen Investitionen in die zugrunde liegende Infrastruktur und die peripheren Zulieferer. Sie unterschätzt auch die langfristigen Auswirkungen der geopolitischen Spannungen auf die Lieferketten und die Inflation, die über den reinen Ölpreis hinausgehen.",
+    "widerspruch": "Ja. Einerseits gibt es eine starke bullische Stimmung im Tech-Sektor, getrieben durch KI und Datenzentren. Andererseits signalisiert der Fear & Greed Index mit 28/100 eine deutliche Angst im Markt. Dies könnte auf eine Diskrepanz zwischen der Performance einiger Tech-Giganten und der breiteren Marktstimmung hindeuten, möglicherweise aufgrund makroökonomischer Sorgen oder der geopolitischen Lage.",
+    "markt": "Gold: Steigt (als sicherer Hafen bei geopolitischen Spannungen und Inflation). Silber: Steigt (als Industriemetall und sicherer Hafen). Öl: Steigt (aufgrund der Eskalation im Nahen Osten). Bitcoin: Unklar (könnte als digitaler sicherer Hafen profitieren, aber auch unter Risikoaversion leiden). DAX: Fällt (unter Druck durch geopolitische Unsicherheit und mögliche Rezessionsängste). EUR/USD: Fällt (Schwächung des Euro durch geopolitische Risiken und stärkere US-Wirtschaftsdaten).",
+    "opportunity": "Konkrete Chance im Bereich der Halbleiter- und Infrastrukturzulieferer für Datenzentren, die noch nicht so stark im Fokus stehen wie die großen KI-Player. Auch Rohstoffe, die für diese Technologien essenziell sind, bieten Potenzial.",
+    "positionierung": "Smart Money scheint sich selektiv im Tech-Sektor zu positionieren, insbesondere in Unternehmen, die von der KI-Infrastruktur profitieren (ADI, WDC, HPQ). Gleichzeitig gibt es Abflüsse bei etablierten Tech-Giganten wie Amazon. Die Analystenempfehlungen für AT&T (T) und QXO sind gemischt, was auf eine vorsichtige Haltung in diesen Sektoren hindeutet. Das Sentiment bei NVDA ist trotz des starken Anstiegs immer noch 'Somewhat-Bullish', was auf weiteres Potenzial hindeutet.",
+    "reflexivitaet": "Der Hype um KI und Datenzentren führt zu steigenden Aktienkursen bei den Profiteuren (ADI, WDC, NVDA). Diese Kurssteigerungen ziehen weitere Investitionen an, was wiederum die Nachfrage nach den Produkten und Dienstleistungen dieser Unternehmen erhöht. Dies schafft einen positiven Feedback-Loop, der den Sektor weiter antreibt. Die geopolitischen Spannungen im Nahen Osten treiben die Ölpreise in die Höhe, was wiederum die Inflation anheizt und die Zentralbanken zu restriktiveren Maßnahmen zwingen könnte, was den breiteren Markt belasten würde.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.3,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch. Wir befinden uns in einem Meta-Zyklus des technologischen Umbruchs (KI, Quantencomputing, Space Tech), der von geopolitischen Spannungen und dem Kampf um Ressourcen begleitet wird. Dies führt zu einer Neuausrichtung der globalen Machtverhältnisse und der Wirtschaftsstrukturen.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
+    "halalStatus": "halal",
+    "halalBegruendung": "Xetra-Gold ist physisch hinterlegtes Gold, das den AAOIFI-Standards für Gold als Währung und Wertaufbewahrungsmittel entspricht.",
+    "purification": "0.00",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Ein schwächerer EUR/USD würde den Wert von in USD notierten Assets für EUR-Anleger erhöhen, könnte aber auch die Importkosten für Europa steigern und die Inflation anheizen.",
+    "psychologie": "FOMO bei Tech-Aktien, insbesondere im KI-Sektor, könnte Anleger dazu verleiten, überteuerte Positionen einzugehen. Gleichzeitig könnte die Angst vor geopolitischer Eskalation zu Panikverkäufen in anderen Sektoren führen.",
+    "ruhigerTag": false,
+    "lernpunkt": "Periphere Assets: Dies sind Vermögenswerte, die nicht direkt im Fokus eines Hypes stehen, aber indirekt und oft mit Verzögerung von dessen Wachstum profitieren. Zum Beispiel profitieren vom KI-Hype nicht nur die Chiphersteller, sondern auch die Hersteller von Kühlsystemen für Rechenzentren oder spezialisierten Kabeln.",
+    "tagesfrage": "Wie wird die zunehmende Konkurrenz im Space-Tech-Sektor zwischen den USA und China die globalen Lieferketten für seltene Erden und Spezialmetalle beeinflussen?",
+    "brief": "Ayman, der Markt zeigt heute eine klare Zweiteilung. Einerseits der unaufhaltsame Hype um KI und Datenzentren, der die Tech-Werte beflügelt und massive Investitionen in die Infrastruktur lenkt. Hier liegt das wahre Geld in den peripheren Zulieferern. Andererseits die beunruhigende Eskalation im Nahen Osten, die Ölpreise treibt und die globale Stabilität bedroht. Dein Fokus sollte darauf liegen, die stillen Profiteure des Tech-Booms zu identifizieren und gleichzeitig die Risiken der Geopolitik im Auge zu behalten. Sei geduldig und lass dich nicht von der oberflächlichen Nachricht ablenken; das Geld zeigt die Wahrheit."
+  },
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4076.699951171875,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 73.6500015258789,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63758.21875,
+      "change": 0
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 59.1150016784668,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.144426703453064,
+      "change": 0.09499495153599673
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25075.189453125,
+      "change": 0.03231172595417766
+    }
+  },
+  "fearGreed": [
+    27,
+    20,
+    22,
+    23,
+    26,
+    26,
+    28
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-07-13"
+}

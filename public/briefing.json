@@ -1,10 +1,12 @@
 {
   "date": "Freitag, 16. Oktober 2026",
-  "generatedAt": "2026-10-16T09:31:33.970Z",
+  "dateKey": "2026-10-16",
+  "generatedAt": "2026-10-16T18:50:18.071Z",
   "news": [
     {
       "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
       "source": "Frankfurter Allgemeine Zeitung (Faz)",
+      "publishedAt": "2026-09-24T12:29:43Z",
       "sentiment": null,
       "tickers": [],
       "origin": "GNews"
@@ -12,349 +14,626 @@
     {
       "title": "Fed: Demonstration der Unabhängigkeit",
       "source": "General Anzeiger",
+      "publishedAt": "2026-09-17T11:00:00Z",
       "sentiment": null,
       "tickers": [],
       "origin": "GNews"
     },
     {
-      "title": "Asian Tour postpone Saudi International after Riyadh attacks - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
+      "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
       "source": "CNBC",
+      "publishedAt": "2026-10-16T17:50:50.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Mideast war alters global bunker buying patterns, industry execs say - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Oil eases but heads for weekly gain as investors focus on Middle East supply - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah, US official says - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "India raises windfall tax on petrol, cuts duty on diesel - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Iraq parliament approves remaining cabinet posts, PM deputies - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+      "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
       "source": "CNBC",
+      "publishedAt": "2026-10-16T17:02:50.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "title": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
       "source": "CNBC",
+      "publishedAt": "2026-10-16T16:21:14.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
+      "title": "What we want to see when Capital One and Meta report earnings next week",
       "source": "CNBC",
+      "publishedAt": "2026-10-16T16:06:29.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say - Reuters",
+      "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve - Reuters",
       "source": "Reuters",
+      "publishedAt": "2026-10-16T16:02:12.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Hezbollah says it owned confiscated explosives, meant to attack Israel - Reuters",
-      "source": "Reuters",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
+      "title": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
       "source": "CNBC",
+      "publishedAt": "2026-10-16T15:12:25.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
+      "title": "In Yemen's besieged Taiz, families take shelter as Houthis close in - Reuters",
       "source": "Reuters",
+      "publishedAt": "2026-10-16T14:44:23.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
+    },
+    {
+      "title": "Italy names senior Israelis, Katz in probe over Gaza flotilla activists - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-16T14:21:05.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Norwegian teen jailed for 20 years for UK murder plot after being recruited online - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-16T14:14:09.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Italian airports controller fixes network failure that caused flight delays - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-16T14:02:12.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "AI 'espionage' is a reality that companies need to be 'wary of,' Jay Clayton says",
+      "source": "CNBC",
+      "publishedAt": "2026-10-16T13:55:56.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+      "source": "CNBC",
+      "publishedAt": "2026-10-16T13:43:53.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "publishedAt": "2026-10-16T13:19:30.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Longtime money columnist on the advice everyone needs to hear: 'If debt was a person I would slap it'",
+      "source": "CNBC",
+      "publishedAt": "2026-10-16T13:00:02.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump says US may need to strike Iran's Pickaxe Mountain - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-16T12:54:29.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Major Banks Limit AI Access to Customer Accounts Amid Concerns",
+      "source": "gurufocus.com",
+      "publishedAt": "2026-10-16T18:50:36.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "China's Auto Surge at Paris Motor Show: BYD and Others Eye European Market",
+      "source": "gurufocus.com",
+      "publishedAt": "2026-10-16T18:50:27.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "TNL Maintained by Goldman Sachs -- Price Target Lowered to $78",
+      "source": "gurufocus.com",
+      "publishedAt": "2026-10-16T18:35:44.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
     }
   ],
   "sections": {
-    "brief": "Ayman, heute sehen wir eine Welt, die von geopolitischen Spannungen und dem Nachhall der Zentralbankpolitik geprägt ist. Die Ölpreise zeigen sich stabil, während die Aktienmärkte leicht zulegen. Wir müssen verstehen, wie diese globalen Kräfte zusammenhängen und wie sie sich auf unsere kleinen Investments auswirken, besonders im Hinblick auf Halal-Prinzipien.",
-    "marktlage": "Die Märkte zeigen sich heute resilient, gestützt von wachsenden Volkswirtschaften und einer stabilen Haltung der Zentralbanken, während geopolitische Spannungen im Nahen Osten die Rohstoffpreise beeinflussen.",
+    "brief": "Ayman, heute steht die Welt wegen der fortschreitenden KI-Revolution und den damit verbundenen Sicherheitsbedenken im Fokus. Große Banken schränken den Zugang zu Kundendaten für KI ein, während gleichzeitig die Technologie weiter voranschreitet. Dies schafft Unsicherheit und beeinflusst die Tech-Aktien sowie die breitere Marktstimmung.",
+    "marktlage": "Die Märkte zeigen sich heute gemischt, mit einer gewissen Nervosität aufgrund von KI-Sicherheitsbedenken und anhaltenden geopolitischen Spannungen, die die Rohstoffpreise stützen.",
+    "neuHeute": "Die Nachricht, dass große Banken den KI-Zugang zu Kundendaten einschränken, ist neu und hat das Potenzial, die Bewertung von KI-nahen Unternehmen zu beeinflussen. Die geopolitischen Spannungen im Nahen Osten sind zwar nicht neu, aber die Eskalation durch die Aussagen Trumps und die Lage im Jemen sind weiterhin relevant.",
     "oberflaeche": [
-      "Quelle: Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
-      "Quelle: Reuters: Oil eases but heads for weekly gain as investors focus on Middle East supply - Reuters",
-      "Quelle: General Anzeiger: Fed: Demonstration der Unabhängigkeit"
+      "Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "CNBC: Major Banks Limit AI Access to Customer Accounts Amid Concerns",
+      "Reuters: Trump says US may need to strike Iran's Pickaxe Mountain - Reuters"
+    ],
+    "ereignisse": [
+      {
+        "ereignis": "Große Banken schränken KI-Zugang zu Kundendaten ein.",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": true,
+        "betroffen": "Bankensektor, Technologie (KI-Unternehmen)",
+        "wirkung": "negativ für KI-Dienstleister, gemischt für Banken (potenziell positiv durch Risikominimierung, aber auch negativ durch Innovationsbremse)"
+      },
+      {
+        "ereignis": "US-Präsident Trump deutet mögliche Angriffe auf den Iran an.",
+        "quellen": 1,
+        "typ": "Spekulation",
+        "neu": true,
+        "betroffen": "Energie (Öl), Geopolitik, Aktien (sicherheitsorientierte Werte)",
+        "wirkung": "negativ für die globale Stabilität, positiv für Ölpreise und Rüstungsaktien, negativ für breite Aktienmärkte"
+      },
+      {
+        "ereignis": "Die Lage im Jemen spitzt sich zu, mit näher rückenden Houthi-Truppen auf Taiz.",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": true,
+        "betroffen": "Geopolitik, Rohstoffe (Energie)",
+        "wirkung": "negativ für regionale Stabilität, potenziell positiv für Ölpreise durch erhöhte Risikoaufschläge"
+      },
+      {
+        "ereignis": "Wirtschaftswachstum in Hessen wird als stark hervorgehoben.",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": false,
+        "betroffen": "Regionale Aktien, Konjunkturindikatoren",
+        "wirkung": "positiv für die hessische Wirtschaft, neutral bis leicht positiv für den deutschen Aktienmarkt"
+      },
+      {
+        "ereignis": "NBA verschärft Wettregeln und entwickelt KI zur Erkennung verdächtiger Wetten.",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": false,
+        "betroffen": "Sportwetten-Industrie, KI-Sicherheitssoftware",
+        "wirkung": "neutral bis leicht negativ für Sportwettenanbieter, positiv für Entwickler von Überwachungstechnologien"
+      }
     ],
     "bewegungen": [
       {
-        "ausloeser": "Ölpreis stabilisiert sich trotz leichter Rückgänge, mit Fokus auf Nahost-Lieferungen",
-        "kette": "Geopolitische Spannungen im Nahen Osten -> Sorge um Öl-Lieferungen -> Ölpreis bleibt hoch/steigt leicht -> höhere Energiekosten für Unternehmen und Konsumenten -> Inflationsdruck -> Zinsen könnten länger hoch bleiben -> Aktien von Energieunternehmen profitieren, andere Sektoren unter Druck",
-        "warum": "Konflikte in ölproduzierenden Regionen oder entlang wichtiger Transportrouten verknappen das Angebot oder erhöhen die Unsicherheit über zukünftige Lieferungen. Das treibt die Preise nach oben, da die Nachfrage oft kurzfristig gleich bleibt. Höhere Energiepreise verteuern die Produktion und den Transport, was die Inflation anheizt und Zentralbanken dazu veranlassen könnte, die Zinsen hoch zu halten oder sogar zu erhöhen, um die Teuerung zu bekämpfen. Energieunternehmen können von höheren Preisen profitieren, während energieintensive Industrien und Konsumenten leiden.",
-        "betroffen": "Energiesektor (Aktien, ETCs), Transportwesen (Fluglinien, Reedereien), energieintensive Industrien (Chemie, Stahl), Konsumgüter, Anleihen, Inflation",
+        "ausloeser": "KI-Sicherheitsbedenken bei Banken",
+        "kette": "Banken schränken KI-Zugang ein → Weniger Daten für KI-Entwicklung → Verlangsamung des KI-Fortschritts → Druck auf KI-Aktien",
+        "warum": "Wenn Banken, die riesige Datenmengen besitzen, den Zugang für KI-Entwickler beschränken, fehlt den KI-Firmen wichtige 'Nahrung'. Das kann ihre Entwicklung verlangsamen und die Erwartungen der Investoren dämpfen, was zu fallenden Kursen führt.",
+        "betroffen": "Tech-Aktien (insbesondere KI-nahe), Banken",
         "investierbar": {
-          "asset": "WisdomTree Brent Oil ETC",
-          "isin": "null",
-          "richtung": "LONG",
-          "halal": "halal",
-          "wie": "Kauf des ETCs, um von steigenden Ölpreisen zu profitieren."
-        }
-      },
-      {
-        "ausloeser": "Wirtschaftswachstum in Deutschland (Hessen) wird gemeldet",
-        "kette": "Starkes Wirtschaftswachstum in Schlüsselregionen -> höhere Unternehmensgewinne erwartet -> steigende Aktienkurse (insbesondere in diesen Regionen/Sektoren) -> positives Sentiments für den Gesamtmarkt -> Anstieg von breiten Aktienindizes",
-        "warum": "Wenn die Wirtschaft einer wichtigen Region wie Deutschland wächst, bedeutet das oft, dass Unternehmen dort mehr verkaufen und höhere Gewinne erzielen. Dies macht ihre Aktien attraktiver für Investoren, was zu steigenden Kursen führt. Dieses positive Signal kann sich auf den gesamten Markt ausbreiten und Anleger ermutigen, mehr Aktien zu kaufen, was zu einem Anstieg von Indizes wie dem DAX führt.",
-        "betroffen": "Deutsche Aktien, DAX, breite Aktienindizes (MSCI World, S&P 500), Sektoren mit starker Binnenorientierung",
-        "investierbar": {
-          "asset": "iShares Core MSCI World ETF",
-          "isin": "IE00B4L5Y983",
-          "richtung": "LONG",
-          "halal": "halal",
-          "wie": "Kauf des ETFs, um vom allgemeinen globalen Wirtschaftswachstum zu profitieren."
-        }
-      },
-      {
-        "ausloeser": "US Federal Reserve demonstriert Unabhängigkeit (möglicherweise durch Beibehaltung restriktiver Geldpolitik)",
-        "kette": "Fed signalisiert Entschlossenheit zur Inflationsbekämpfung -> Zinsen bleiben hoch/steigen weiter -> Anleihenkurse fallen -> teurere Kredite für Unternehmen und Konsumenten -> Dämpfung des Wirtschaftswachstums -> Risiko für Aktienmärkte, insbesondere Wachstumsaktien",
-        "warum": "Wenn die Zentralbank (hier die Fed) signalisiert, dass sie die Inflation mit aller Macht bekämpfen will, bedeutet das oft, dass sie die Zinsen hoch halten wird, auch wenn das kurzfristig das Wirtschaftswachstum bremst. Hohe Zinsen machen Anleihen attraktiver und verteuern Kredite, was Investitionen und Konsum reduziert. Dies kann die Gewinne von Unternehmen belasten und Aktien, besonders die von Technologieunternehmen, die stark von günstigen Krediten abhängen, unter Druck setzen.",
-        "betroffen": "Anleihenmärkte, Zinsentsprechende Aktien (Wachstum vs. Value), Banken (können von höheren Zinsen profitieren, aber auch von geringerer Kreditnachfrage betroffen sein)",
-        "investierbar": {
-          "asset": "iShares US Treasury ETFs",
-          "isin": "null",
+          "asset": "Nasdaq",
+          "isin": "IE00B53SZB19",
           "richtung": "MEIDEN",
-          "halal": "nicht-halal",
-          "wie": "Vermeidung von Investitionen in US-Staatsanleihen-ETFs, da diese Zinsen enthalten und nicht halal sind."
+          "halal": "halal",
+          "wie": "Der Nasdaq wird gemieden, da er stark von Tech-Werten beeinflusst wird, die heute unter Druck geraten könnten."
+        }
+      },
+      {
+        "ausloeser": "Geopolitische Spannungen im Nahen Osten (Trump-Äußerung, Jemen)",
+        "kette": "Eskalation im Nahen Osten → Erhöhte Unsicherheit → Sorge vor Lieferunterbrechungen bei Öl → Anstieg des Ölpreises",
+        "warum": "Konflikte im Nahen Osten, einer wichtigen Ölregion, führen zu Spekulationen über mögliche Lieferengpässe. Dies treibt die Preise für Rohöl in die Höhe, da Händler und Produzenten höhere Risiken einkalkulieren.",
+        "betroffen": "Öl, Energieaktien, Rüstungsaktien, breite Aktienmärkte",
+        "investierbar": {
+          "asset": "Öl",
+          "isin": null,
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Ein Long-Investment in Öl könnte von steigenden Preisen profitieren, falls sich die geopolitische Lage weiter verschärft."
         }
       }
     ],
     "chancen": [
       {
         "rang": 1,
-        "asset": "WisdomTree Brent Oil ETC",
+        "asset": "Öl",
         "isin": null,
         "klasse": "Rohstoff",
+        "basiswert": "Öl",
         "richtung": "LONG",
         "halal": "halal",
-        "einstieg": 95.33,
-        "stopLoss": 90,
+        "einstieg": 99.5,
+        "stopLoss": 95,
         "ziel": 105,
-        "zeitraum": "4-8 Wochen",
-        "kette": "Geopolitische Spannungen im Nahen Osten -> Sorge um Öl-Lieferungen -> Ölpreis bleibt hoch/steigt leicht -> höhere Energiekosten für Unternehmen und Konsumenten -> Inflationsdruck -> Zinsen könnten länger hoch bleiben -> Aktien von Energieunternehmen profitieren, andere Sektoren unter Druck",
-        "konfidenz": 70,
+        "zeitraum": "2-4 Wochen",
+        "ueberzeugung": "mittel",
+        "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Risikoaufschläge bei Öl → Steigende Ölpreise",
+        "pro": [
+          "Anhaltende geopolitische Unsicherheit im Nahen Osten stützt die Ölpreise.",
+          "Die US-Regierung erwägt die Freigabe von strategischen Ölreserven, was kurzfristig den Preis dämpfen könnte, aber die grundsätzliche Angebotsknappheit nicht löst."
+        ],
+        "contra": [
+          "Eine Entspannung der geopolitischen Lage würde den Ölpreis schnell fallen lassen.",
+          "Eine globale Konjunkturabschwächung könnte die Nachfrage nach Öl reduzieren."
+        ],
+        "eingepreist": "Der Ölpreis hat in den letzten 5 Tagen eine Performance von +8.0% gezeigt und der RSI liegt bei 65. Das deutet darauf hin, dass ein Teil der positiven Nachrichten bereits im Kurs enthalten ist. Der aktuelle Preis ist noch nicht extrem überkauft, aber Vorsicht ist geboten.",
         "erklaerung": {
-          "wasIstDas": "Ein ETC (Exchange Traded Commodity) wie der WisdomTree Brent Oil ETC bildet die Preisentwicklung eines bestimmten Rohstoffs nach, in diesem Fall des Rohöls der Sorte Brent. Du investierst also nicht direkt in physisches Öl, sondern in ein Wertpapier, dessen Kurs eng an den Ölpreis gekoppelt ist.",
-          "warumJetzt": "Die Nachrichtenlage deutet auf anhaltende geopolitische Risiken im Nahen Osten hin, die die Ölversorgung gefährden könnten. Trotz leichter Kursrückgänge heute ist der Fokus der Investoren auf potenzielle Angebotsengpässe gerichtet, was den Ölpreis tendenziell stützt.",
-          "wannKaufen": "Man könnte jetzt einsteigen, da die Risiken präsent sind. Alternativ könnte man auf einen leichten Rücksetzer warten, vielleicht in Richtung 93-94 USD, um einen besseren Einstiegspreis zu erzielen.",
-          "wieViel": "Bei deinem Budget von 50€ könntest du einen kleinen Anteil investieren, vielleicht 10-20€. Wichtig ist, dass du verstehst, dass du nur einen kleinen Teil deines Geldes riskierst, um das Prinzip zu lernen, ohne dich finanziell zu überfordern.",
-          "wannRaus": "Ein Gewinnziel von etwa 105 USD erscheint realistisch, wenn die Spannungen eskalieren oder die Lieferketten weiter gestört werden. Ein Stop-Loss bei 90 USD würde dich schützen, falls sich die geopolitische Lage entspannt oder andere Faktoren den Ölpreis stark drücken.",
-          "wasKannSchiefgehen": "Die geopolitischen Spannungen könnten sich schnell auflösen, oder es könnten neue Ölquellen erschlossen werden, was den Preis fallen ließe. Auch eine globale Rezession würde die Nachfrage nach Öl dämpfen und den Preis drücken.",
-          "woranErkenneIchFalsch": "Wenn der Preis unter 92 USD fällt und dort auch bleibt, obwohl die Nachrichtenlage immer noch angespannt ist, könnte das ein Zeichen dafür sein, dass der Markt die Risiken nicht mehr so hoch einschätzt wie erwartet.",
-          "begriffDesTrades": "Geopolitische Risiken beziehen sich auf die Auswirkungen politischer Ereignisse und internationaler Beziehungen auf Märkte und Vermögenswerte. Sie können zu Unsicherheit und Volatilität führen, insbesondere bei Rohstoffen wie Öl."
+          "wasIstDas": "Öl, genauer gesagt Brent-Rohöl, ist ein global gehandelter Rohstoff, der eine zentrale Rolle in der Weltwirtschaft spielt. Sein Preis beeinflusst Energie- und Transportkosten weltweit.",
+          "warumJetzt": "Die aktuellen geopolitischen Spannungen im Nahen Osten erhöhen das Risiko von Lieferunterbrechungen, was traditionell den Ölpreis nach oben treibt. Die Aussagen von Trump und die Lage im Jemen verstärken diese Sorge.",
+          "wannKaufen": "Ein Kauf wäre attraktiv, wenn der Preis nach einer leichten Korrektur wieder über 99.00 USD steigt und die geopolitischen Spannungen sich nicht beruhigen.",
+          "wieViel": "Bei einem kleinen Budget solltest du nur einen kleinen Teil deines Kapitals investieren, um das Risiko zu streuen. Rechne mit Gebühren beim Kauf von ETCs.",
+          "wannRaus": "Der Trade wird geschlossen, wenn der Kurs das Ziel von 105.00 USD erreicht, oder wenn der Stop-Loss bei 95.00 USD unterschritten wird, was auf eine Trendumkehr hindeuten würde.",
+          "wasKannSchiefgehen": "Eine plötzliche diplomatische Lösung im Nahen Osten oder eine starke globale Konjunkturabschwächung könnten den Ölpreis stark fallen lassen.",
+          "woranErkenneIchFalsch": "Wenn der Ölpreis trotz anhaltend hoher Spannungen nicht weiter steigt oder sogar signifikant fällt, könnte das ein Zeichen für eine schwächere Nachfrage oder andere negative Faktoren sein."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Bei 50 € musst du über 85% solcher Trades gewinnen, nur um bei null zu landen."
+          ],
+          "plausibel": true,
+          "verifiziert": true,
+          "symbol": "CL=F",
+          "kursAktuell": 99.19000244140625,
+          "kursStand": "2026-10-16",
+          "einstieg": 99.5,
+          "stop": 95,
+          "ziel": 105,
+          "abstandEinstieg": 0.31,
+          "verlustPct": 4.52,
+          "gewinnPct": 5.53,
+          "verlustEur": 4.26,
+          "gewinnEur": 0.76,
+          "crvBrutto": 1.22,
+          "crvNetto": 0.18,
+          "breakEven": 84.8,
+          "stopInAtr": 1.14
         }
       },
       {
         "rang": 2,
-        "asset": "iShares Core MSCI World ETF",
-        "isin": "IE00B4L5Y983",
-        "klasse": "Aktien-ETF",
-        "richtung": "LONG",
+        "asset": "iShares Automation & Robotics",
+        "isin": "IE00BYZK4552",
+        "klasse": "Sektor-ETF",
+        "basiswert": null,
+        "richtung": "MEIDEN",
         "halal": "halal",
-        "einstieg": 115.5,
-        "stopLoss": 108,
-        "ziel": 130,
-        "zeitraum": "6-12 Monate",
-        "kette": "Starkes Wirtschaftswachstum in Schlüsselregionen (wie Deutschland) -> höhere Unternehmensgewinne erwartet -> steigende Aktienkurse -> positives Sentiments für den Gesamtmarkt -> Anstieg von breiten Aktienindizes",
-        "konfidenz": 65,
+        "einstieg": null,
+        "stopLoss": null,
+        "ziel": null,
+        "zeitraum": "N/A",
+        "ueberzeugung": "niedrig",
+        "kette": "Banken schränken KI-Zugang ein → Verlangsamung des KI-Fortschritts → Weniger Nachfrage nach Automatisierungs- und Robotik-Technologien → Druck auf Sektor-ETFs",
+        "pro": [
+          "Langfristiger Trend zur Automatisierung und Robotik bleibt bestehen."
+        ],
+        "contra": [
+          "Kurzfristige Bedenken bezüglich KI-Entwicklung und Datensicherheit könnten den Sektor belasten.",
+          "Der ETF ist breit gefächert und enthält auch Unternehmen, die nicht direkt von KI-Fortschritten abhängen."
+        ],
+        "eingepreist": "Der ETF hat in den letzten 20 Tagen eine Performance von -1.6% gezeigt, was auf eine leichte Schwäche hindeutet. Der RSI von 43 ist neutral. Es gibt keine klaren Anzeichen dafür, dass die heutigen negativen Nachrichten bereits vollständig eingepreist sind.",
         "erklaerung": {
-          "wasIstDas": "Dieser ETF bildet die Wertentwicklung eines Index ab, der die größten und mittleren Unternehmen aus Industrieländern weltweit umfasst. Er ist ein 'breites' Investment, das dir erlaubt, mit einem einzigen Kauf in hunderte von Unternehmen aus vielen Ländern zu investieren.",
-          "warumJetzt": "Die Nachrichten über robustes Wirtschaftswachstum in wichtigen Volkswirtschaften wie Deutschland deuten darauf hin, dass Unternehmen weiterhin gute Gewinne erzielen könnten. Dies schafft eine positive Grundlage für den Aktienmarkt, auch wenn die Zinsen hoch bleiben.",
-          "wannKaufen": "Der Einstieg ist jetzt gut möglich, da die fundamentalen Daten positiv sind. Alternativ könnte man auf einen kleinen Rücksetzer warten, vielleicht im Bereich von 113-114€, um den Einstiegspreis zu optimieren.",
-          "wieViel": "Investiere hier einen Teil deiner 50€, vielleicht 15-20€. Da es ein langfristiges Investment ist, ist es sinnvoll, regelmäßig kleine Beträge zu investieren (Sparplan), um vom Durchschnittspreis zu profitieren.",
-          "wannRaus": "Ein Ziel von 130€ ist bei anhaltendem Wachstum und positiver Marktentwicklung erreichbar. Ein Stop-Loss bei 108€ schützt vor größeren Verlusten, falls sich die wirtschaftliche Lage unerwartet verschlechtert.",
-          "wasKannSchiefgehen": "Eine plötzliche globale Rezession, eine Eskalation von Konflikten oder unerwartet hohe Inflation, die zu schärferen Zinserhöhungen führt, könnten den Markt stark belasten.",
-          "woranErkenneIchFalsch": "Wenn der ETF trotz positiver Wirtschaftsdaten und guter Unternehmensberichte nachhaltig unter seinen gleitenden Durchschnitten (z.B. dem 50-Tage-Durchschnitt) fällt, könnte das ein Warnsignal sein.",
-          "begriffDesTrades": "Ein 'breites Investment' bedeutet, dass du dein Geld auf viele verschiedene Anlagen verteilst, um das Risiko zu streuen. Ein ETF auf den MSCI World ist ein klassisches Beispiel für ein breites Investment in Aktien."
-        }
-      },
-      {
-        "rang": 3,
-        "asset": "iShares MSCI World Islamic ETF",
-        "isin": "IE00B27YCK28",
-        "klasse": "Aktien-ETF",
-        "richtung": "LONG",
-        "halal": "halal",
-        "einstieg": 65,
-        "stopLoss": 60,
-        "ziel": 75,
-        "zeitraum": "6-12 Monate",
-        "kette": "Nachfrage nach halal-konformen Investments steigt -> mehr Kapital fließt in islamische ETFs -> Kursanstieg des iShares MSCI World Islamic ETF",
-        "konfidenz": 60,
-        "erklaerung": {
-          "wasIstDas": "Dieser ETF investiert nur in Unternehmen, die islamischen Finanzprinzipien entsprechen. Das bedeutet, dass Unternehmen, die beispielsweise Zinsen verdienen (Banken, Versicherungen), Alkohol produzieren oder verkaufen, oder in der Rüstungs- oder Glücksspielindustrie tätig sind, ausgeschlossen werden.",
-          "warumJetzt": "Das Bewusstsein für und die Nachfrage nach halal-Investments wächst weltweit. Da dieser ETF eine breite Auswahl an globalen, islamkonformen Unternehmen bietet, könnte er von diesem Trend profitieren, besonders wenn mehr Anleger nach ethischen und religiösen Kriterien investieren wollen.",
-          "wannKaufen": "Du kannst hier jetzt investieren. Da es sich um ein langfristiges Investment handelt, ist ein Kauf zu aktuellen Kursen sinnvoll. Regelmäßige Käufe über einen Sparplan wären ideal.",
-          "wieViel": "Investiere hier die restlichen 50€, oder teile sie auf die anderen ausgewählten Investments auf. Wenn du diese Chance wählst, konzentriere dich darauf, das Prinzip des halal Investierens zu verstehen.",
-          "wannRaus": "Ein Ziel von 75€ ist bei steigender Nachfrage nach islamischen Finanzprodukten realistisch. Ein Stop-Loss bei 60€ schützt vor Verlusten, falls der Gesamtmarkt stark fällt oder die Nachfrage nach halal-Produkten stagniert.",
-          "wasKannSchiefgehen": "Wenn die globale Wirtschaft stark einbricht, werden auch diese Aktien fallen. Zudem könnte eine geringere Nachfrage nach spezifisch halal-zertifizierten Produkten den Kurs belasten.",
-          "woranErkenneIchFalsch": "Wenn der ETF trotz positiver Meldungen über das Wachstum des islamischen Finanzmarktes fällt und nicht mehr über seinen jüngsten Tiefstkursen notiert, könnte das ein Zeichen für schwache Nachfrage sein.",
-          "begriffDesTrades": "Islamische Finanzprinzipien verbieten Zinszahlungen (Riba) und Investitionen in bestimmte Sektoren wie Alkohol, Schweinefleisch, Glücksspiel und Waffen. Sie basieren auf ethischen und moralischen Grundsätzen."
+          "wasIstDas": "Dieser ETF investiert in Unternehmen, die in den Bereichen Automatisierung und Robotik tätig sind. Dazu gehören Hersteller von Industrierobotern, Software für die Automatisierung und Unternehmen, die diese Technologien entwickeln und einsetzen.",
+          "warumJetzt": "Die heutigen Nachrichten über Banken, die den KI-Zugang zu Kundendaten einschränken, könnten den Fortschritt im Bereich der künstlichen Intelligenz verlangsamen. Da Automatisierung und Robotik oft eng mit KI-Entwicklungen verbunden sind, könnte dies kurzfristig Druck auf diesen Sektor ausüben.",
+          "wannKaufen": "Kein Kauf zum jetzigen Zeitpunkt. Eine mögliche Reduzierung der Position wäre bei weiterer Verschlechterung der KI-Nachrichten oder einem deutlichen Kursrutsch des ETFs in Betracht zu ziehen.",
+          "wieViel": "Bei einer Reduzierung wäre eine kleine Positionsgröße ratsam, um das Risiko zu begrenzen.",
+          "wannRaus": "Wenn sich die Nachrichtenlage bezüglich KI-Fortschritt und Datensicherheit weiter verschlechtert oder der ETF signifikant fällt.",
+          "wasKannSchiefgehen": "Eine unerwartete Beschleunigung der KI-Entwicklung durch andere Sektoren oder eine regulatorische Lockerung könnte den Sektor wieder beflügeln.",
+          "woranErkenneIchFalsch": "Wenn der ETF trotz negativer KI-Nachrichten stark zulegt oder die breiten Märkte übertrifft, könnte dies auf andere treibende Faktoren hindeuten."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Kein Kauf-Setup (Meiden/Reduzieren) – keine Trade-Rechnung."
+          ],
+          "plausibel": false,
+          "verifiziert": false
         }
       }
     ],
-    "narrativ": "Die Masse glaubt, dass die Zentralbanken die Inflation bald unter Kontrolle bekommen und die Zinsen senken werden, was zu einem breiten Markt-Aufschwung führen wird, besonders bei Technologieaktien.",
-    "realitaet": "Die Zentralbanken signalisieren eine klare Entschlossenheit, die Inflation zu bekämpfen, auch wenn dies kurzfristig das Wachstum bremst. Geopolitische Risiken und strukturelle Faktoren könnten die Inflation hartnäckiger machen als erwartet.",
-    "macht": "Zentralbanken (Fed, EZB) durch ihre Zinspolitik, Energieproduzenten durch die Kontrolle über das Ölangebot, und die Regierungen durch ihre geopolitischen Entscheidungen.",
-    "geopolitik": "Die Spannungen im Nahen Osten und potenzielle Störungen der Ölversorgung sind ein dominanter Faktor, der die Energiepreise und die globale Unsicherheit beeinflusst. Auch die US-Politik und die Beziehungen zu Ländern wie dem Iran spielen eine Rolle.",
-    "liquiditaet": "Kapital fließt tendenziell in defensive Anlagen oder Rohstoffe wie Öl, die von geopolitischen Spannungen profitieren. Gleichzeitig suchen Investoren nach stabilen Erträgen, was Anleihen attraktiv macht, aber die Zinspolitik der Zentralbanken dominiert die Kapitalströme.",
-    "kette": "Geopolitische Risiken im Nahen Osten -> Sorge um Ölversorgung -> Ölpreis stabilisiert sich/steigt leicht -> Inflationsdruck -> Zentralbanken halten Zinsen hoch -> Dämpfung des allgemeinen Wirtschaftswachstums, aber Stützung für Energiesektor.",
-    "timing": "Wir befinden uns in einer Phase, in der die Zentralbanken versuchen, die Inflation zu zähmen, was zu erhöhter Volatilität und Unsicherheit führt. Das Wachstum verlangsamt sich, aber eine tiefe Rezession scheint noch vermieden.",
-    "saisonalitaet": "Typischerweise sind die Sommermonate oft von geringerer Handelsaktivität geprägt, aber geopolitische Ereignisse können diese Muster durchbrechen.",
-    "masseFehler": "Viele Marktteilnehmer unterschätzen die Hartnäckigkeit der Inflation und die Bereitschaft der Zentralbanken, das Wachstum zu opfern, um sie zu bekämpfen. Sie setzen zu früh auf Zinssenkungen und einen schnellen Aufschwung.",
-    "widerspruch": "Die Nachrichten über starkes Wirtschaftswachstum stehen im Kontrast zur potenziell dämpfenden Wirkung hoher Zinsen und geopolitischer Unsicherheiten. Dies schafft Unsicherheit über die zukünftige Richtung.",
+    "rueckblick": [],
+    "narrativ": "Die Welt dreht sich zunehmend um künstliche Intelligenz, doch die Euphorie wird durch Sicherheitsbedenken und regulatorische Hürden gedämpft, was zu gemischten Signalen im Technologiesektor führt.",
+    "realitaet": "Die tatsächliche Umsetzung und Integration von KI in kritischen Sektoren wie dem Bankwesen ist komplex und birgt Risiken, die zu vorsichtigeren Schritten führen. Die geopolitischen Spannungen bleiben ein ständiger Begleiter, der die Rohstoffmärkte beeinflusst.",
+    "macht": "Die USA und der Iran sind erneut im Fokus, während die Fed ihre Unabhängigkeit demonstriert. Die Machtverschiebungen im Technologiesektor durch KI-Fortschritte und -Einschränkungen sind spürbar.",
+    "geopolitik": "Die Spannungen im Nahen Osten (Iran, Jemen) und die Aussagen Trumps erhöhen die globale Unsicherheit und stützen die Preise für sichere Häfen und Rohstoffe.",
+    "liquiditaet": "Die Zinsen zeigen sich stabil (US 10J Zins bei 5.1120%), was eine neutrale Liquiditätslage suggeriert, aber die US-Notenbank behält die Inflation im Auge.",
+    "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Risikoaufschläge bei Öl → Steigende Ölpreise → Mögliche Inflationsängste → Zinsreaktionen",
+    "timing": "Die aktuellen geopolitischen Ereignisse und die KI-Entwicklungen sind kurzfristig treibende Kräfte für die Märkte.",
+    "saisonalitaet": "Herbstsaison mit gemischten Signalen, tendenziell erhöhte Volatilität bei geopolitischen Spannungen.",
+    "masseFehler": "Die übermäßige Fokussierung auf KI könnte Anleger blind für andere Risiken machen. Die schnelle Reaktion auf geopolitische Nachrichten kann zu übertriebenen Bewegungen bei Rohstoffen führen.",
+    "widerspruch": "Die positiven Wirtschaftsnachrichten aus Hessen stehen im Kontrast zur allgemeinen Nervosität wegen KI-Sicherheit und geopolitischer Risiken.",
     "markt": {
-      "Aktien": "Seitwärts bis leicht positiv, mit Sektordifferenzierung",
-      "Anleihen": "Tendenz fallend (Zinsen steigend), aber kurzfristig volatil",
-      "Rohstoffe": "Öl stabil/leicht steigend, Edelmetalle (Gold, Silber) und Kupfer zeigen Stärke, Weizen und Erdgas schwächer",
-      "Krypto": "Bitcoin und Ethereum zeigen sich stabil, aber wenig Impuls"
+      "Öl": "LONG",
+      "Nasdaq": "NEUTRAL/SHORT",
+      "S&P 500": "NEUTRAL",
+      "DAX": "NEUTRAL",
+      "EUR/USD": "NEUTRAL",
+      "DXY": "NEUTRAL",
+      "US 10J Zins": "NEUTRAL",
+      "Bitcoin": "NEUTRAL",
+      "Ethereum": "NEUTRAL",
+      "Gold": "NEUTRAL",
+      "Silber": "NEUTRAL",
+      "Kupfer": "NEUTRAL",
+      "Weizen": "NEUTRAL",
+      "Erdgas": "NEUTRAL"
     },
-    "positionierung": "Das 'Fear & Greed'-Sentiment von 63 deutet auf Gier hin, was bedeutet, dass die meisten Anleger optimistisch sind. Dies könnte ein Zeichen für Vorsicht sein, da Märkte oft am stärksten steigen, wenn die Stimmung neutral bis ängstlich ist.",
-    "reflexivitaet": "Die Sorge um Energiepreise kann zu höherer Inflation führen, was wiederum die Zentralbanken zu strafferer Geldpolitik zwingt. Dies dämpft das Wachstum, was die Nachfrage nach Energie reduziert und so den Preisdruck wieder mindern könnte – ein sich drehender Kreislauf.",
-    "metaZyklus": "Umbruchphase: Wir navigieren zwischen der Bekämpfung der Inflation, geopolitischen Risiken und dem Wunsch nach weiterem Wirtschaftswachstum.",
-    "psychologie": "Vorsicht ist geboten vor übermäßigem Optimismus ('Gier' im Fear & Greed Index). Anleger könnten versucht sein, Risiken einzugehen, die sie später bereuen.",
-    "halalAsset": "iShares MSCI World Islamic ETF (IE00B27YCK28)",
+    "positionierung": "Investoren sind vorsichtig, mit einer Tendenz zu defensiven Anlagen und Rohstoffen angesichts geopolitischer Unsicherheiten, während Tech-Aktien unter Beobachtung stehen.",
+    "reflexivitaet": "Die Angst vor KI-Sicherheitslücken könnte zu einer Überreaktion führen, die den Fortschritt tatsächlich verlangsamt, was wiederum die Kurse von KI-Unternehmen belastet.",
+    "metaZyklus": "Der Markt befindet sich in einer Phase der Unsicherheit, in der sich die langfristigen Trends (KI, grüne Energie) mit kurzfristigen Risiken (Geopolitik, Inflation) vermischen.",
+    "psychologie": "Vorsicht und Unsicherheit dominieren, mit Anzeichen von 'Fear of Missing Out' (FOMO) bei Rohstoffen, die von geopolitischen Ereignissen profitieren könnten.",
+    "opportunity": "Kurzfristig könnte Öl aufgrund der steigenden geopolitischen Spannungen im Nahen Osten eine Long-Chance bieten.",
+    "halalAsset": "Öl (ETC)",
     "halalStatus": "halal",
-    "halalBegruendung": "Investiert ausschließlich in Unternehmen, die islamischen Finanzprinzipien entsprechen und schließt Zinsgeschäfte, Alkohol, Glücksspiel etc. aus.",
+    "halalBegruendung": "Öl ist ein Rohstoff, dessen Handel als halal gilt, solange keine Zinsen involviert sind. Der Handel über ETCs ist in der Regel akzeptabel, da sie physisch hinterlegt sein können.",
     "entscheidung": "JA",
     "richtung": "LONG",
-    "einstieg": 65,
-    "stopLoss": 60,
-    "ziel": 75,
-    "einsatz": 3.13,
-    "exitStrategie": "Gewinne teilweise bei 70€ realisieren, Rest laufen lassen mit erhöhtem Stop-Loss bei 68€.",
-    "waehrungsrisiko": "EUR/USD stieg leicht auf 1.1256. Für Anleger mit Euro als Basiswährung bedeutet dies, dass Anlagen in US-Dollar leicht an Wert verlieren, wenn der Euro stärker wird. Umgekehrt profitieren sie, wenn der Euro schwächer wird.",
+    "einstieg": 99.5,
+    "stopLoss": 95,
+    "ziel": 105,
+    "zeitraum": "2-4 Wochen",
+    "exitStrategie": "Zielerreichung oder Stop-Loss-Hit. Eine Teilgewinnmitnahme bei 102.00 USD wäre eine Option.",
+    "waehrungsrisiko": "EUR/USD hat sich leicht positiv entwickelt (1.1236), was eine leichte Aufwertung des Euro gegenüber dem Dollar bedeutet. Dies könnte den Einstieg in USD-denominierte Assets wie Öl leicht verteuern.",
+    "lernpunkt": "Die Märkte reagieren oft übertrieben auf kurzfristige Nachrichten, insbesondere wenn diese mit bestehenden Ängsten (wie Geopolitik oder technologische Risiken) verknüpft sind. Geduld und die Fähigkeit, zwischen kurzfristiger Volatilität und langfristigen Trends zu unterscheiden, sind entscheidend.",
+    "tagesfrage": "Inwieweit werden die Bedenken hinsichtlich KI-Sicherheit die Innovationskraft und damit die Bewertungen von Technologieunternehmen langfristig beeinflussen, oder handelt es sich nur um eine vorübergehende Korrektur?",
+    "_modell": "gemini-2.5-flash-lite",
     "asymmetrie": {
-      "verlust": 8,
-      "gewinn": 18,
-      "ratio": 2.25,
-      "ev": 0.12
-    },
-    "lernpunkt": "Die globale Liquidität ist stark von den Entscheidungen der Zentralbanken abhängig. Wenn die Fed die Zinsen hoch hält, wird Geld knapper und teurer, was tendenziell Aktien und Anleihen belastet, aber auch die Nachfrage nach Rohstoffen dämpfen kann.",
-    "tagesfrage": "Wie stark wird die Geldpolitik der Zentralbanken die geopolitischen Risiken in den Hintergrund drängen, oder umgekehrt?"
+      "verlust": 4.52,
+      "gewinn": 5.53,
+      "ratio": 0.18,
+      "ev": null
+    }
   },
   "prices": {
-    "CL=F": {
-      "label": "Öl",
-      "price": 95.33000183105469,
-      "change": -2.694701803362385
-    },
-    "^GSPC": {
-      "label": "S&P 500",
-      "price": 7744.06005859375,
-      "change": 0.32543480553268267
-    },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4210.5,
-      "change": 0.968799342885228
-    },
-    "SI=F": {
-      "label": "Silber",
-      "price": 58.09000015258789,
-      "change": 2.2045468838205684
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 659.75,
+      "change": -1.53,
+      "ch5": -1.68,
+      "ch20": -7.63,
+      "hoch3m": 775.75,
+      "tief3m": 626.75,
+      "abstandHoch": -14.95,
+      "abstandTief": 5.27,
+      "vola": 21.02,
+      "atrPct": 2.43,
+      "rsi": 36,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
     },
     "HG=F": {
       "label": "Kupfer",
-      "price": 6.631999969482422,
-      "change": 1.8505734458487924
+      "price": 6.566500186920166,
+      "change": 0.84,
+      "ch5": -1.14,
+      "ch20": -0.73,
+      "hoch3m": 6.829999923706055,
+      "tief3m": 6.253499984741211,
+      "abstandHoch": -3.86,
+      "abstandTief": 5.01,
+      "vola": 16.88,
+      "atrPct": 1.22,
+      "rsi": 50,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
     },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1256190538406372,
-      "change": 0.5459206149135315
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 82038.7578125,
-      "change": -0.12503201650886756
-    },
-    "ZW=F": {
-      "label": "Weizen",
-      "price": 665,
-      "change": -0.7462686567164178
-    },
-    "ETH-USD": {
-      "label": "Ethereum",
-      "price": 2449.56005859375,
-      "change": 0.37206116000410555
+    "GC=F": {
+      "label": "Gold",
+      "price": 4179.7001953125,
+      "change": 0.23,
+      "ch5": -0.87,
+      "ch20": -5.54,
+      "hoch3m": 4755,
+      "tief3m": 3993.800048828125,
+      "abstandHoch": -12.1,
+      "abstandTief": 4.65,
+      "vola": 18.29,
+      "atrPct": 1.75,
+      "rsi": 51,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
     },
     "^TNX": {
       "label": "US 10J Zins",
-      "price": 5.089000225067139,
-      "change": -1.9460468408436102
+      "price": 5.111999988555908,
+      "change": 0.45,
+      "ch5": -2.52,
+      "ch20": 2.28,
+      "hoch3m": 5.363999843597412,
+      "tief3m": 4.5879998207092285,
+      "abstandHoch": -4.7,
+      "abstandTief": 11.42,
+      "vola": 16.12,
+      "atrPct": 1.79,
+      "rsi": 36,
+      "ueberSma20": false,
+      "ueberSma50": true,
+      "stand": "2026-10-16"
     },
-    "DX-Y.NYB": {
-      "label": "DXY",
-      "price": 101.68800354003906,
-      "change": -0.3058788823146446
-    },
-    "^GDAXI": {
-      "label": "DAX",
-      "price": 25626.19921875,
-      "change": 0.9596333490075062
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7647.31982421875,
+      "change": -1.25,
+      "ch5": -2.1,
+      "ch20": -0.04,
+      "hoch3m": 7844.52001953125,
+      "tief3m": 7313.919921875,
+      "abstandHoch": -2.51,
+      "abstandTief": 4.56,
+      "vola": 10.69,
+      "atrPct": 0.9,
+      "rsi": 46,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
     },
     "NG=F": {
       "label": "Erdgas",
-      "price": 3.181999921798706,
-      "change": -1.6687310944974527
+      "price": 3.11899995803833,
+      "change": -3.62,
+      "ch5": -3.14,
+      "ch20": 7.11,
+      "hoch3m": 3.3340001106262207,
+      "tief3m": 2.615999937057495,
+      "abstandHoch": -6.45,
+      "abstandTief": 19.23,
+      "vola": 53.44,
+      "atrPct": 4.4,
+      "rsi": 57,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-10-16"
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 101.84300231933594,
+      "change": -0.15,
+      "ch5": -0.36,
+      "ch20": 1.62,
+      "hoch3m": 102.94999694824219,
+      "tief3m": 98.55999755859375,
+      "abstandHoch": -1.08,
+      "abstandTief": 3.33,
+      "vola": 5.04,
+      "atrPct": 0.55,
+      "rsi": 58,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-10-16"
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 99.19000244140625,
+      "change": 1.25,
+      "ch5": 7.99,
+      "ch20": -1.11,
+      "hoch3m": 106.75,
+      "tief3m": 74.23999786376953,
+      "abstandHoch": -7.08,
+      "abstandTief": 33.61,
+      "vola": 36.51,
+      "atrPct": 3.97,
+      "rsi": 65,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-10-16"
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25622.609375,
+      "change": 0.95,
+      "ch5": 2.13,
+      "ch20": 1.26,
+      "hoch3m": 26618.740234375,
+      "tief3m": 24696.58984375,
+      "abstandHoch": -3.74,
+      "abstandTief": 3.75,
+      "vola": 12.59,
+      "atrPct": 1.17,
+      "rsi": 55,
+      "ueberSma20": true,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
     },
     "^IXIC": {
       "label": "Nasdaq",
-      "price": 26713.029296875,
-      "change": 0.07552637426794039
+      "price": 26100.689453125,
+      "change": -2.29,
+      "ch5": -4.62,
+      "ch20": -1.59,
+      "hoch3m": 27722.75,
+      "tief3m": 24425.33984375,
+      "abstandHoch": -5.85,
+      "abstandTief": 6.86,
+      "vola": 16.87,
+      "atrPct": 1.31,
+      "rsi": 37,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 57.14500045776367,
+      "change": 0.54,
+      "ch5": -5.81,
+      "ch20": -14.14,
+      "hoch3m": 71.16000366210938,
+      "tief3m": 55.5,
+      "abstandHoch": -19.7,
+      "abstandTief": 2.96,
+      "vola": 34.77,
+      "atrPct": 2.29,
+      "rsi": 36,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 81147.90625,
+      "change": -1.21,
+      "ch5": -3.03,
+      "ch20": -3.86,
+      "hoch3m": 87363.7578125,
+      "tief3m": 62648.57421875,
+      "abstandHoch": -7.11,
+      "abstandTief": 29.53,
+      "vola": 21.43,
+      "atrPct": 2.57,
+      "rsi": 39,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1235954761505127,
+      "change": 0.37,
+      "ch5": 0.2,
+      "ch20": -2.09,
+      "hoch3m": 1.1712344884872437,
+      "tief3m": 1.1114075183868408,
+      "abstandHoch": -4.07,
+      "abstandTief": 1.1,
+      "vola": 4.64,
+      "atrPct": 0.67,
+      "rsi": 33,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2406.72998046875,
+      "change": -1.38,
+      "ch5": -5.05,
+      "ch20": -10.7,
+      "hoch3m": 2805.4990234375,
+      "tief3m": 1867.8917236328125,
+      "abstandHoch": -14.21,
+      "abstandTief": 28.85,
+      "vola": 30.7,
+      "atrPct": 3.77,
+      "rsi": 30,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
     }
   },
   "fearGreed": [
@@ -367,8 +646,8 @@
     63
   ],
   "simulation": {
-    "buy": 50,
-    "hold": 18,
-    "sell": 32
+    "buy": 30,
+    "hold": 25,
+    "sell": 45
   }
 }

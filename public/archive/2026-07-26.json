@@ -1,0 +1,238 @@
+{
+  "date": "Sonntag, 26. Juli 2026",
+  "generatedAt": "2026-07-26T07:35:16.436Z",
+  "news": [
+    {
+      "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
+      "source": "Heidenheimer Zeitung",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Britain would be target if it supports US in war, Iran's Revolutionary Guards say - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "How this 70-year-old honey bee farmer is keeping his family farm alive: 'We completely rely on Mother Nature'",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Thirty-five killed, 30 injured in Syria bus collision - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "France detains six over suspected plot targeting synagogue - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "WestBridge said to be considering stake sale in Star Health",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Anthropic unveils more cost-efficient model for everyday tasks",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Qualcomm plans to increase its prices by double digits",
+      "source": "Bloomberg",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil falls on report China pushing for end US-Iran war - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Govt urges citizens to assess security situation before taking up jobs in maritime conflict zones",
+      "source": "thehindubusinessline.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Real-World Assets Now Outpace Crypto Trading on Hyperliquid (HYPE) Exchange Platform",
+      "source": "dailyhodl.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Costa Coffee store count shrinks by 22 to 198 in India in FY26, revenue up 7%",
+      "source": "thehindubusinessline.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "GNews: Heidenheimer Zeitung: Clara Resch (Grüne) spielt Rolle in Landtagsgremien.",
+      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank.",
+      "Finnhub: Reuters: Iran-Spannungen weiten sich auf Rotes Meer und Kaspisches Meer aus; Golfregion ruhig, da USA auf Schläge verzichten.",
+      "Finnhub: Reuters: Iran meldet Tod eines Seemanns bei ukrainischem Angriff auf Schiff im Kaspischen Meer.",
+      "Finnhub: Reuters: Iranische Revolutionsgarden drohen Großbritannien mit Angriffen bei Unterstützung der USA im Krieg.",
+      "Finnhub: CNBC: 70-jähriger Honigbienenfarmer kämpft ums Überleben seiner Farm durch Abhängigkeit von Mutter Natur.",
+      "Finnhub: CNBC: IMAX 70mm-Vorführungen werden zum größten Star für Christopher Nolans 'The Odyssey'.",
+      "Finnhub: Reuters: 35 Tote, 30 Verletzte bei Buskollision in Syrien.",
+      "Finnhub: CNBC: Logistikriesen versuchen mit dem Healthcare-Boom Schritt zu halten, GLP-1-Medikamente unterstreichen Bedarf an Kühlketten.",
+      "Finnhub: Reuters: Frankreich nimmt sechs Verdächtige wegen eines mutmaßlichen Anschlags auf eine Synagoge fest.",
+      "Finnhub: Bloomberg: WestBridge erwägt angeblich Anteilsverkauf an Star Health.",
+      "Finnhub: Bloomberg: Anthropic stellt kosteneffizienteres Modell für alltägliche Aufgaben vor.",
+      "Finnhub: Bloomberg: Qualcomm plant, seine Preise im zweistelligen Bereich zu erhöhen.",
+      "Finnhub: Reuters: Öl fällt aufgrund von Berichten, dass China auf ein Ende des US-Iran-Krieges drängt.",
+      "Marketaux: thehindubusinessline.com: Regierung fordert Bürger auf, Sicherheitslage vor Jobantritt in maritimen Konfliktzonen zu bewerten.",
+      "Marketaux: dailyhodl.com: Real-World Assets übertreffen Krypto-Handel auf Hyperliquid (HYPE) Exchange Platform.",
+      "Marketaux: thehindubusinessline.com: Costa Coffee reduziert Filialen in Indien um 22 auf 198 im GJ26, Umsatz steigt um 7%."
+    ],
+    "hypeNews": [
+      "Geopolitische Spannungen im Nahen Osten und Kaspischen Meer, mit direkten Auswirkungen auf Ölpreise und maritime Logistik.",
+      "Fortschritte in der KI (Anthropic) und Preiserhöhungen bei Halbleiterkomponenten (Qualcomm) deuten auf anhaltenden Tech-Hype hin."
+    ],
+    "hypeCenter": "Geopolitik und KI/Tech. Die geopolitischen Spannungen im Nahen Osten und Kaspischen Meer (Iran, Rotes Meer) dominieren die Schlagzeilen und beeinflussen direkt die Ölpreise und die maritime Logistik. Gleichzeitig signalisieren neue KI-Modelle (Anthropic) und Preiserhöhungen im Halbleitersektor (Qualcomm) eine anhaltende Stärke im Technologiebereich.",
+    "peripherEffect": "Da die geopolitischen Spannungen die Ölpreise beeinflussen, könnten Unternehmen, die alternative Energiequellen oder Energieeffizienztechnologien entwickeln, indirekt profitieren. Im Tech-Bereich könnten Unternehmen, die spezialisierte Kühlkettenlösungen für den Transport von Medikamenten (GLP-1s) anbieten, von der wachsenden Nachfrage profitieren. Auch Zulieferer für die maritime Logistik, die von der Umleitung von Routen oder erhöhten Sicherheitsanforderungen betroffen sind, könnten eine verzögerte Reaktion zeigen.",
+    "narrativ": "Die Welt wird unsicherer, Kriege und Konflikte nehmen zu, was zu steigenden Energiepreisen und Lieferkettenproblemen führt. Gleichzeitig schreitet die technologische Entwicklung rasant voran, insbesondere im Bereich der künstlichen Intelligenz, was neue Chancen, aber auch steigende Kosten für wichtige Komponenten wie Halbleiter mit sich bringt.",
+    "realitaet": "Die Nachrichtenlage ist stark von geopolitischen Spannungen geprägt, die oft als Vorwand für Marktmanipulationen oder zur Rechtfertigung von Preissteigerungen genutzt werden. Die Berichte über Konflikte und Drohungen dienen dazu, die Aufmerksamkeit von den tatsächlichen Kapitalflüssen abzulenken. Die Stärke im Tech-Sektor, insbesondere bei KI und Halbleitern, wird durch strategische Investitionen und die Notwendigkeit der technologischen Überlegenheit vorangetrieben, während die Preiserhöhungen bei Qualcomm eher auf eine starke Nachfrage und eine begrenzte Produktionskapazität hindeuten als auf reine Inflation.",
+    "macht": "Die Hauptprofiteure sind Energiekonzerne, Rüstungsunternehmen (indirekt durch erhöhte Spannungen), große Logistikunternehmen, die von der Umleitung von Routen profitieren, sowie die großen Technologieunternehmen und ihre Zulieferer im Halbleiter- und KI-Bereich. Auch Finanzinstitute, die an der Finanzierung dieser Sektoren beteiligt sind, profitieren.",
+    "geopolitik": "Die Spannungen zwischen Iran und westlichen Mächten (USA, Großbritannien) eskalieren und beeinflussen die maritimen Routen im Roten Meer und Kaspischen Meer. Dies könnte zu einer Neuordnung von Allianzen führen und die Bedeutung von BRICS-Staaten als alternative Handelsrouten und Finanzsysteme stärken. Die De-Dollarisierung wird durch solche globalen Unsicherheiten weiter vorangetrieben, da Länder nach stabileren Alternativen suchen.",
+    "liquiditaet": "Kapital fließt weiterhin in sichere Häfen wie Gold und Silber (obwohl die Kurse heute stagnieren), aber auch in strategische Sektoren wie Energie, Technologie (KI, Halbleiter) und Logistik, die von den aktuellen geopolitischen und technologischen Entwicklungen profitieren.",
+    "kette": "Iranische Drohungen/Aktionen -> Erhöhte Spannungen im Roten Meer/Kaspischen Meer -> Unsicherheit bei maritimen Transportwegen -> Potenzielle Auswirkungen auf Ölpreise und Lieferketten -> Nachfrage nach alternativen Energien/Logistiklösungen.",
+    "timing": "Mitte des Trends. Die geopolitischen Spannungen sind ein wiederkehrendes Thema, das sich nun verschärft. Der Tech-Hype, insbesondere KI und Halbleiter, ist bereits seit einiger Zeit im Gange, aber neue Entwicklungen wie die von Anthropic und die Preiserhöhungen von Qualcomm deuten auf eine Fortsetzung hin. Die periphere Reaktion auf die geopolitischen Hypes beginnt gerade erst.",
+    "saisonalitaet": "Juli und August sind oft von geringerer Marktaktivität geprägt (Sommerpause), aber geopolitische Ereignisse können diese Muster durchbrechen. Historisch gesehen können Rohstoffpreise im Spätsommer/Herbst aufgrund von Nachfrageverschiebungen und saisonalen Faktoren schwanken.",
+    "masseFehler": "Die Masse sieht die geopolitischen Spannungen als isolierte Ereignisse, die nur kurzfristige Auswirkungen haben. Sie unterschätzen die langfristigen Auswirkungen auf globale Handelsrouten, Energiepreise und die Beschleunigung der De-Dollarisierung. Im Tech-Bereich konzentriert sich die Masse auf die Schlagzeilen und vergisst, dass die eigentliche Wertschöpfung oft bei den Zulieferern und den Unternehmen liegt, die die Infrastruktur bereitstellen.",
+    "widerspruch": "Ja. Während die geopolitischen Spannungen auf steigende Ölpreise hindeuten könnten, fällt der Ölpreis laut Reuters aufgrund von Berichten über Chinas Bemühungen um ein Ende des US-Iran-Krieges. Dies deutet auf eine komplexe Gemengelage hin, in der verschiedene Faktoren gegeneinander wirken.",
+    "markt": "Gold: steigt | Silber: steigt | Öl: fällt | Bitcoin: fällt | DAX: steigt | EUR/USD: fällt",
+    "opportunity": "JA",
+    "positionierung": "Smart Money agiert vorsichtig, angesichts der 'Fear & Greed' von 26/100. Die Marktstimmung ist ängstlich, was auf eine mögliche Bodenbildung oder eine Gelegenheit für antizyklische Investitionen hindeutet. Die Nachrichten über die Annäherung von Unicredit an eine Mehrheit bei der Commerzbank und die Preiserhöhungen von Qualcomm deuten auf gezielte Investitionen in Sektoren mit starkem Fundament hin, trotz der allgemeinen Unsicherheit.",
+    "reflexivitaet": "Die steigenden geopolitischen Spannungen führen zu erhöhter Unsicherheit, was die Nachfrage nach sicheren Häfen wie Gold und Silber erhöht. Gleichzeitig treiben die Spannungen die Ölpreise, was wiederum die Inflation anheizt und die Zentralbanken unter Druck setzt, was die Geldpolitik beeinflusst und die Anlegerstimmung weiter verändert.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.25,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch. Die Kombination aus geopolitischen Konflikten, technologischem Wandel und wirtschaftlicher Unsicherheit deutet auf eine Phase des Umbruchs hin, in der bestehende Strukturen herausgefordert und neue Machtverhältnisse entstehen.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
+    "halalStatus": "halal",
+    "halalBegruendung": "Gold als physisches Gut, das nicht auf Zins basiert und dessen Handel den islamischen Finanzprinzipien entspricht.",
+    "purification": "0.00",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 58.5,
+    "stopLoss": 57,
+    "ziel": 62,
+    "zeitraum": "4-8 Wochen",
+    "einsatz": 3.13,
+    "exitStrategie": "Gewinne bei Erreichen des Ziels sichern oder bei Unterschreiten des Stop-Loss verkaufen.",
+    "waehrungsrisiko": "EUR/USD: 1.1375 (-0.01%). Leichte Abwertung des Euro gegenüber dem US-Dollar. Dies könnte einen leicht positiven Effekt auf in Euro gehandelte Rohstoffe haben, die international in US-Dollar gehandelt werden, da sie für Euro-Käufer günstiger werden.",
+    "psychologie": "FOMO (Fear Of Missing Out) könnte bei Anlegern entstehen, die die Rally bei KI und Halbleitern verpassen. Gleichzeitig herrscht Panik aufgrund der geopolitischen Nachrichten, was zu überstürzten Verkäufen führen kann.",
+    "ruhigerTag": false,
+    "lernpunkt": "Periphere Assets: Dies sind Anlagen, die nicht direkt im Fokus eines Hypes stehen, aber indirekt davon profitieren. Wenn beispielsweise die Raumfahrtindustrie boomt (SpaceX), könnten Unternehmen, die seltene Erden für Raketenkomponenten liefern, oder Satellitenbauer, die nicht direkt mit SpaceX verbunden sind, mit Verzögerung im Wert steigen. Es geht darum, die nachgelagerten Effekte eines Trends zu erkennen.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach Kühlkettenlogistik durch die neuen GLP-1 Medikamente tatsächlich steigen und welche Unternehmen sind am besten positioniert, um davon zu profitieren?",
+    "brief": "Ayman, heute sehen wir eine komplexe Gemengelage. Die geopolitischen Spannungen im Nahen Osten und Kaspischen Meer sind real und beeinflussen die Märkte, insbesondere den Ölpreis. Gleichzeitig sehen wir eine anhaltende Stärke im Tech-Sektor, mit neuen KI-Entwicklungen und Preiserhöhungen bei Halbleitern. Nutze die Angst der Masse zu deinem Vorteil, indem du nach den peripheren Assets suchst, die von diesen Hypes profitieren werden. Achte auf die Details und lass dich nicht von den Schlagzeilen blenden. Die islamische Ethik mahnt uns zur Vorsicht und zur Vermeidung von Spekulation, aber auch zur klugen Investition in Sektoren, die Wohlstand schaffen und dem Gemeinwohl dienen."
+  },
+  "prices": {
+    "SI=F": {
+      "label": "Silber",
+      "price": 58.90599822998047,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1375269889831543,
+      "change": -0.013653170286049112
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4070.800048828125,
+      "change": 0
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25099,
+      "change": 1.3563754124332927
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 89.30999755859375,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 64306.44921875,
+      "change": -0.008339496340582845
+    }
+  },
+  "fearGreed": [
+    29,
+    25,
+    33,
+    31,
+    28,
+    27,
+    26
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-07-26"
+}

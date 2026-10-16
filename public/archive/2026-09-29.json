@@ -1,0 +1,391 @@
+{
+  "date": "Dienstag, 29. September 2026",
+  "generatedAt": "2026-09-29T11:09:27.715Z",
+  "news": [
+    {
+      "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "source": "Frankfurter Allgemeine Zeitung (Faz)",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Fed: Demonstration der Unabhängigkeit",
+      "source": "General Anzeiger",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Rubio says UK airbase incident involved a foreign state - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran's Revolutionary Guards call Trump a 'big liar' - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump denies offering Iran sanctions relief, Tehran says ready for talks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Israel kills senior Hamas commander in Gaza strike - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US forces exit Iraq after two decades, leaving opening for Iran - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Battered bond market braces for a new era of interest rates - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Indian rupee drops to two-month low past key 96/USD barrier as oil worries deepen - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Gold ticks up after hitting over 7-week low; US data in focus - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms - reuters.com",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil prices rise on continued Middle East supply concerns - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Stocks fall as higher oil prices, Treasury yields weigh - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Pentagon awards RTX's Raytheon $20.7 billion contract for AMRAAM missiles amid stockpile concerns - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UAE president discussed bilateral relations with Israel's Netanyahu, state news agency says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "No strikes confirmed after explosion-like sounds heard near Iran's Qeshm - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Epistemic Drift And Identity Imprinting In Digital Twin Architecture",
+      "source": "forbes.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Canada's Coffee Industry Generates $34.7 Billion in Economic Impact",
+      "source": "financialpost.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Wingstop UKI brings back one of its most-requested flavours, Hot Honey and new Hot Honey Sriracha",
+      "source": "retailtimes.co.uk",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Ayman, heute sehen wir eine Welt, die von geopolitischen Spannungen und deren wirtschaftlichen Folgen geprägt ist. Die steigenden Ölpreise und die Zinsentwicklung in den USA sind zentrale Treiber. Wir müssen verstehen, wie diese Faktoren zusammenhängen, um kluge, halal-konforme Anlageentscheidungen zu treffen. Konzentriere dich darauf, die Wirkungsketten zu erkennen, nicht nur einzelne Nachrichten.",
+    "marktlage": "Die Märkte zeigen sich heute gemischt, belastet von steigenden Ölpreisen und Zinsen, aber gestützt von positiven Wirtschaftsdaten in einigen Regionen. Geopolitische Unsicherheiten dominieren die Schlagzeilen.",
+    "oberflaeche": [
+      "Quelle: Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "Quelle: Reuters: Öl prices rise on continued Middle East supply concerns",
+      "Quelle: Reuters: Battered bond market braces for a new era of interest rates"
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "Ölpreise steigen aufgrund von Lieferbedenken im Nahen Osten",
+        "kette": "Öl steigt -> höhere Energiekosten für Unternehmen und Verbraucher -> Inflationsdruck steigt -> Zentralbanken halten Zinsen hoch oder erhöhen sie weiter -> Anleihenkurse fallen (Zinsen steigen) -> Aktienmärkte geraten unter Druck (höhere Finanzierungskosten, geringere Konsumausgaben)",
+        "warum": "Wenn Öl teurer wird, steigen die Kosten für Transport und Produktion. Dies gibt Unternehmen und Haushalten weniger Geld für andere Ausgaben und führt dazu, dass die Preise insgesamt steigen (Inflation). Zentralbanken bekämpfen Inflation oft mit höheren Zinsen, was Kredite verteuert und Investitionen unattraktiver macht. Anleihen verlieren an Wert, weil neuere Anleihen höhere Zinsen bieten. Aktien leiden unter diesen Bedingungen.",
+        "betroffen": "Energiesektor, Transport, Konsumgüter, Anleihenmärkte, Aktienmärkte (insbesondere wachstumsstarke Technologieunternehmen)",
+        "investierbar": {
+          "asset": "WisdomTree Brent Oil ETC",
+          "isin": "null",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Direkt auf steigende Ölpreise setzen."
+        }
+      },
+      {
+        "ausloeser": "US-Anleihenmarkt erwartet eine neue Ära hoher Zinsen",
+        "kette": "Erwartung hoher Zinsen -> Anleihenkurse fallen -> Kapitalabzug aus risikoreicheren Anlagen (Aktien, Krypto) -> Stärkung des US-Dollars (höhere Renditen ziehen Kapital an)",
+        "warum": "Wenn Anleger erwarten, dass die Zinsen steigen, verkaufen sie bestehende Anleihen, die niedrigere Zinsen zahlen, um auf neue Anleihen mit höheren Zinsen zu warten. Dies treibt die Kurse bestehender Anleihen nach unten. Gleichzeitig werden Anlagen, die von Zinszahlungen abhängen, weniger attraktiv, und Geld fließt in sicherere Anlagen wie Anleihen oder den US-Dollar, dessen Wert steigt.",
+        "betroffen": "Anleihenmärkte, Aktienmärkte (besonders zinssensibel), Währungen (USD)",
+        "investierbar": {
+          "asset": "iShares US Treasury ETFs",
+          "isin": "null",
+          "richtung": "MEIDEN",
+          "halal": "nicht-halal",
+          "wie": "Diese ETFs investieren direkt in US-Staatsanleihen, die Zinsen zahlen und somit nicht halal sind."
+        }
+      },
+      {
+        "ausloeser": "Geopolitische Spannungen im Nahen Osten (Iran, Israel, Hamas)",
+        "kette": "Geopolitische Unsicherheit steigt -> Nachfrage nach sicheren Häfen steigt (Gold, USD) -> Risikoaufschläge bei Energiepreisen steigen -> Aktienmärkte reagieren nervös und fallen",
+        "warum": "In Zeiten globaler Unsicherheit suchen Anleger nach Anlagen, die als sicher gelten und ihr Kapital schützen. Gold ist traditionell ein solcher Hafen. Gleichzeitig können Konflikte in wichtigen Ölregionen die Ölversorgung stören, was die Preise in die Höhe treibt und Ängste vor Inflation schürt. Aktien gelten als risikoreicher und werden in solchen Phasen oft verkauft.",
+        "betroffen": "Gold, US-Dollar, Ölpreise, globale Aktienmärkte",
+        "investierbar": {
+          "asset": "Xetra-Gold",
+          "isin": "DE000A0S9GB0",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Investition in physisch hinterlegtes Gold als sicherer Hafen."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "WisdomTree Brent Oil ETC",
+        "isin": null,
+        "klasse": "Rohstoff",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 92.5,
+        "stopLoss": 89,
+        "ziel": 105,
+        "zeitraum": "4-8 Wochen",
+        "kette": "Geopolitische Spannungen im Nahen Osten -> Sorge vor Angebotsengpässen bei Öl -> Steigende Ölpreise.",
+        "konfidenz": 70,
+        "erklaerung": {
+          "wasIstDas": "Dies ist ein Exchange Traded Commodity (ETC), das die Preisentwicklung von Brent-Rohöl abbildet. Brent ist eine wichtige Sorte für die Preisbildung von Rohöl weltweit. Wenn der Preis von Brent steigt, steigt auch der Wert dieses ETCs.",
+          "warumJetzt": "Die Nachrichtenlage ist eindeutig: Die Spannungen im Nahen Osten und die Sorge um die Ölversorgung treiben die Preise. Die Lieferketten sind empfindlich, und jede Eskalation könnte zu weiteren Preissteigerungen führen. Die aktuellen Kurse zeigen bereits eine Reaktion auf diese Risiken.",
+          "wannKaufen": "Aktuell bei ca. 91.86 USD. Ein leichter Rücksetzer auf etwa 91.00 USD wäre ein guter Einstiegszeitpunkt, um nicht zu teuer einzukaufen. Alternativ kann man auch jetzt einsteigen, wenn man von einer schnellen weiteren Eskalation ausgeht.",
+          "wieViel": "Bei einem Budget von 50€ investierst du einen kleinen Teil deines Kapitals. Wenn du beispielsweise 20€ investierst, kaufst du entsprechend viele Anteile des ETCs. Wichtig ist, dass du dein Gesamtrisiko klein hältst, auch wenn die Chance gut ist.",
+          "wannRaus": "Ein Stop-Loss bei 89.00 USD schützt dich, falls sich die geopolitische Lage doch beruhigt oder eine andere Nachricht den Ölpreis drückt. Das Ziel liegt bei 105.00 USD, wo die Nachfrage nach Öl aufgrund der hohen Preise wahrscheinlich abnehmen oder das Angebot wieder steigen könnte. Dies ist ein realistisches Szenario bei anhaltenden Spannungen.",
+          "wasKannSchiefgehen": "Das Hauptrisiko ist eine schnelle Deeskalation der Spannungen im Nahen Osten, was den Ölpreis abrupt fallen lassen könnte. Auch eine globale Konjunkturabschwächung, die die Nachfrage nach Öl reduziert, könnte den Preis drücken.",
+          "woranErkenneIchFalsch": "Wenn die Nachrichtenlage sich deutlich entspannt und die Ölpreise trotz der ursprünglichen Sorgen fallen, anstatt zu steigen, ist deine These wahrscheinlich falsch. Ein schnelles Unterschreiten des Unterstützungsbereichs um 90 USD wäre ein weiteres Warnsignal.",
+          "begriffDesTrades": "Ein 'sicherer Hafen' ist eine Anlageklasse, die in Zeiten wirtschaftlicher oder politischer Unsicherheit tendenziell ihren Wert behält oder sogar steigt, wie z.B. Gold oder der US-Dollar."
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "Xetra-Gold",
+        "isin": "DE000A0S9GB0",
+        "klasse": "Rohstoff",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 4200,
+        "stopLoss": 4100,
+        "ziel": 4450,
+        "zeitraum": "2-4 Wochen",
+        "kette": "Geopolitische Unsicherheit im Nahen Osten und Sorge um Energieversorgung -> steigende Nachfrage nach sicheren Häfen wie Gold.",
+        "konfidenz": 65,
+        "erklaerung": {
+          "wasIstDas": "Xetra-Gold ist ein ETC, das den Preis von physischem Gold abbildet. Es ist so konzipiert, dass Anleger physisches Gold besitzen, ohne es selbst lagern zu müssen. Bei steigenden Goldpreisen steigt auch der Wert von Xetra-Gold.",
+          "warumJetzt": "Die eskalierende Lage im Nahen Osten und die damit verbundene Unsicherheit machen Gold als 'sicheren Hafen' attraktiv. Anleger fliehen aus risikoreicheren Anlagen in Gold, was die Nachfrage und damit den Preis treibt. Die Nachrichtenlage unterstützt diese Entwicklung klar.",
+          "wannKaufen": "Aktuell bei ca. 4186. Ein leichter Rücksetzer auf etwa 4150 wäre ideal, um den Einstiegspreis zu optimieren. Wenn die Nachrichtenlage sich weiter verschärft, könnte ein direkter Einstieg bei aktuellem Kurs aber auch gerechtfertigt sein.",
+          "wieViel": "Mit 50€ investierst du einen kleinen Betrag. Wenn du beispielsweise 25€ in Xetra-Gold investierst, kaufst du entsprechend viele Anteile. Dies ermöglicht dir, von möglichen Preissteigerungen zu profitieren, ohne ein zu hohes Risiko einzugehen.",
+          "wannRaus": "Ein Stop-Loss bei 4100 schützt dich, falls die geopolitische Lage sich unerwartet beruhigt. Das Ziel von 4450 ist realistisch, wenn die Unsicherheit anhält oder zunimmt, da Gold dann weiter als sicherer Hafen gesucht wird. Dies würde eine deutliche Preissteigerung bedeuten.",
+          "wasKannSchiefgehen": "Eine schnelle diplomatische Lösung im Nahen Osten könnte die Nachfrage nach Gold als sicherem Hafen reduzieren. Auch steigende Zinsen, die Gold unattraktiver machen, könnten den Preis drücken.",
+          "woranErkenneIchFalsch": "Wenn die geopolitischen Spannungen nachlassen und Gold trotz positiver Meldungen fällt, ist deine These möglicherweise falsch. Ein Unterschreiten wichtiger Unterstützungsmarken wie 4100 könnte ein Signal sein, dass die Flucht in Gold vorbei ist.",
+          "begriffDesTrades": "Ein 'sicherer Hafen' ist eine Anlageklasse, die in Zeiten wirtschaftlicher oder politischer Unsicherheit tendenziell ihren Wert behält oder sogar steigt, wie z.B. Gold oder der US-Dollar."
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "iShares MSCI World Islamic",
+        "isin": "IE00B27YCK28",
+        "klasse": "Aktien-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 115,
+        "stopLoss": 108,
+        "ziel": 130,
+        "zeitraum": "6-12 Monate",
+        "kette": "Positive Wirtschaftsdaten in einigen Regionen (z.B. Hessen) und eine allgemeine globale Erholungstendenz -> steigende Unternehmensgewinne -> höhere Aktienkurse.",
+        "konfidenz": 60,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETF bildet einen Index ab, der nur Unternehmen aus Industrieländern enthält, die islamischen Finanzprinzipien entsprechen. Das bedeutet, sie investieren nicht in Zinsgeschäfte, Glücksspiel, Alkohol, Schweinefleisch oder konventionelle Finanzdienstleistungen. Er ist eine Möglichkeit, breit gestreut und trotzdem halal zu investieren.",
+          "warumJetzt": "Obwohl geopolitische Spannungen und Zinsängste bestehen, gibt es auch positive Signale wie das Wirtschaftswachstum in Hessen. Langfristig profitieren auch halal-fokussierte Unternehmen von einer globalen Konjunkturerholung. Dieser ETF bietet eine solide Basis für langfristiges Wachstum.",
+          "wannKaufen": "Aktuell bei etwa 117. Ein leichter Rücksetzer auf 114-115 wäre eine gute Gelegenheit zum Einstieg, um einen besseren Preis zu erzielen. Geduld ist hier wichtig, um nicht zu teuer zu kaufen.",
+          "wieViel": "Mit 50€ investierst du einen kleinen Betrag, der gut zur Diversifizierung deines Portfolios passt. Wenn du beispielsweise 30€ investierst, kaufst du einen kleinen Anteil. Das Ziel ist, dass dein Investment über die Zeit wächst, ohne dein Budget zu sprengen.",
+          "wannRaus": "Ein Stop-Loss bei 108 schützt dich vor größeren Verlusten, falls die globale Konjunktur doch stark einbricht. Das Ziel von 130 spiegelt eine moderate, aber realistische Wertsteigerung über die nächsten Monate wider, wenn sich die Wirtschaft weiter stabilisiert.",
+          "wasKannSchiefgehen": "Eine globale Rezession oder eine deutliche Verschärfung der geopolitischen Lage könnte die Aktienmärkte weltweit belasten und auch diesen ETF treffen. Auch eine unerwartet starke Zinssteigerung könnte das Wachstum bremsen.",
+          "woranErkenneIchFalsch": "Wenn die globalen Aktienmärkte unter starken Verkaufsdruck geraten und Indizes wie der MSCI World stark fallen, ist die Wahrscheinlichkeit hoch, dass auch dieser ETF unter Druck gerät. Deutlich fallende Kurse unterhalb der wichtigen Unterstützungsniveaus wären ein Warnsignal.",
+          "begriffDesTrades": "Islamische Finanzprinzipien (Halal-Investments) verbieten bestimmte Geschäftspraktiken wie Zinsnahme (Riba) und Investitionen in schädliche Industrien."
+        }
+      }
+    ],
+    "narrativ": "Die Masse konzentriert sich auf die kurzfristigen Schlagzeilen: Öl steigt, Zinsen steigen, Aktien fallen. Sie reagieren oft emotional auf die täglichen Nachrichten und verpassen die größeren Zusammenhänge.",
+    "realitaet": "Die Märkte werden heute von einem komplexen Zusammenspiel aus Geopolitik, Rohstoffpreisen und Zinsentwicklung beeinflusst. Die Reaktion der Zentralbanken auf die Inflation und die Stabilität der Energieversorgung sind die entscheidenden Faktoren für die längerfristige Entwicklung.",
+    "macht": "Die größten Profiteure sind aktuell die Ölproduzenten und möglicherweise Staaten, die von hohen Energiepreisen profitieren. Auch die US-Notenbank (Fed) und andere Zentralbanken gewinnen an Einfluss, da sie die Zinsentwicklung steuern.",
+    "geopolitik": "Die Spannungen im Nahen Osten (Iran, Israel, Hamas) und die damit verbundenen Sorgen um die globale Energieversorgung sind die dominanten geopolitischen Treiber.",
+    "liquiditaet": "Kapital fließt tendenziell aus risikoreicheren Anlagen wie Aktien und Kryptowährungen in sicherere Häfen wie den US-Dollar und möglicherweise Gold, während die Zinsen steigen.",
+    "kette": "Geopolitische Unsicherheit im Nahen Osten -> Sorge um Ölversorgung -> steigende Ölpreise -> Inflationsdruck -> höhere Zinsen -> Druck auf Aktienmärkte.",
+    "timing": "Wir befinden uns in einer Phase erhöhter Unsicherheit und Volatilität, in der Zinsentwicklungen und geopolitische Risiken die Haupttreiber sind. Es ist eine Zeit des Umbruchs.",
+    "saisonalitaet": "Keine eindeutigen saisonalen Muster erkennbar, die das aktuelle Marktumfeld dominieren.",
+    "masseFehler": "Die Masse sieht nur die einzelnen Nachrichten und vergisst, dass die Welt über komplexe Geld- und Güterflüsse verbunden ist. Sie reagiert zu kurzfristig und emotional.",
+    "widerspruch": "Das starke Wachstum in einigen Wirtschaftsregionen (wie Hessen) steht im Kontrast zu den globalen Unsicherheiten und dem Druck auf die Aktienmärkte.",
+    "markt": {
+      "Energie": "LONG (steigend)",
+      "Rohstoffe": "Gemischt (Öl steigend, andere volatil)",
+      "Aktien": "SHORT (fallend/volatil)",
+      "Anleihen": "SHORT (fallend)",
+      "Krypto": "Volatil, tendenziell unter Druck",
+      "Währungen": "USD STARK (LONG), EUR SCHWACH (SHORT)"
+    },
+    "positionierung": "Das 'Fear & Greed'-Sentiment von 73 deutet auf eine gewisse Gier hin, was aber durch die fallenden Aktienmärkte und steigenden Zinsen getrübt wird. Es gibt Anzeichen für eine Flucht in sicherere Anlagen.",
+    "reflexivitaet": "Hohe Ölpreise führen zu Inflationsängsten, die zu höheren Zinsen führen, was wiederum die Konjunktur bremst und die Nachfrage nach Öl dämpfen könnte – eine sich selbst verstärkende Abwärtsspirale für die Wirtschaft.",
+    "metaZyklus": "Umbruch/Stagflation – die Welt kämpft mit Inflationsdruck, geopolitischen Unsicherheiten und einer unsicheren Konjunkturaussicht.",
+    "psychologie": "FOMO (Fear Of Missing Out) könnte bei einigen Anlegern durch die steigenden Ölpreise geweckt werden, während andere Panik angesichts der fallenden Aktienmärkte zeigen.",
+    "halalAsset": "WisdomTree Brent Oil ETC",
+    "halalStatus": "halal",
+    "halalBegruendung": "Investiert in einen Rohstoff, der keine islamischen Verbote verletzt.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 91.86,
+    "stopLoss": 89,
+    "ziel": 105,
+    "einsatz": 20,
+    "exitStrategie": "Gewinnmitnahme bei Erreichen des Ziels oder Stop-Loss bei Unterschreiten des definierten Niveaus.",
+    "waehrungsrisiko": "Der US-Dollar steigt (EUR/USD fällt), was Importe für Europa verteuert und die Inflation tendenziell erhöht. Investitionen in USD-denominierte Assets werden durch die Währung aufgewertet.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 13.14,
+      "ratio": 1.64,
+      "ev": 0.08
+    },
+    "lernpunkt": "Die Welt ist ein vernetztes System: Eine politische Krise im Nahen Osten hat direkte Auswirkungen auf die globalen Energiepreise, die wiederum die Inflation beeinflussen. Diese beeinflusst die Zinspolitik der Zentralbanken, was letztlich die Aktien- und Anleihenmärkte weltweit steuert. Jede Bewegung hat eine Kaskade von Folgen.",
+    "tagesfrage": "Wie beeinflusst die steigende Nachfrage nach 'sicheren Häfen' die Liquidität in risikoreicheren Anlageklassen und welche langfristigen Folgen hat das für die Unternehmensbewertungen?"
+  },
+  "prices": {
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.0859999656677246,
+      "change": 2.8666655222574873
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.618000030517578,
+      "change": 0.7919592734878248
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 84042,
+      "change": 0.6459566102631149
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4186.10009765625,
+      "change": 0.42462805218251204
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 91.86000061035156,
+      "change": -0.7991337753383855
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 683.5,
+      "change": -0.7622504537205083
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1348161697387695,
+      "change": -0.26213918144683224
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25539.390625,
+      "change": 0.6501457122287971
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2718.64990234375,
+      "change": 1.1150946622321851
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 101.33200073242188,
+      "change": 0.13043852585015356
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7683.68994140625,
+      "change": -0.7712392038996868
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 61.21500015258789,
+      "change": -0.00816901015275239
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 5.239999771118164,
+      "change": 1.0802422008978225
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 26820.380859375,
+      "change": -0.917442115102728
+    }
+  },
+  "fearGreed": [
+    71,
+    71,
+    71,
+    74,
+    70,
+    74,
+    73
+  ],
+  "simulation": {
+    "buy": 53,
+    "hold": 3,
+    "sell": 44
+  },
+  "dateKey": "2026-09-29"
+}

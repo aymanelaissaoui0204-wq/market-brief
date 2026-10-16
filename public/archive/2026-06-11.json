@@ -1,0 +1,52 @@
+{
+  "date": "Donnerstag, 11. Juni 2026",
+  "generatedAt": "2026-06-11T19:27:17.634Z",
+  "sections": {},
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4217.7001953125,
+      "change": 2.6654007787872818
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63584.83984375,
+      "change": 3.475305921078979
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24209.7109375,
+      "change": 0.0595172795864772
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 87.04000091552734,
+      "change": -3.321112856059602
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 67,
+      "change": 3.7167773694006936
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1583458185195923,
+      "change": 0.4169974488862672
+    }
+  },
+  "fearGreed": [
+    12,
+    12,
+    12,
+    8,
+    10,
+    9,
+    12
+  ],
+  "simulation": {
+    "buy": 40,
+    "hold": 60,
+    "sell": 0
+  },
+  "dateKey": "2026-06-11"
+}

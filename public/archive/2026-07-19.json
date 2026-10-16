@@ -1,0 +1,337 @@
+{
+  "date": "Sonntag, 19. Juli 2026",
+  "generatedAt": "2026-07-19T07:26:33.714Z",
+  "news": [
+    {
+      "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
+      "source": "Heidenheimer Zeitung",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "EPAM Systems stock steadies as investors weigh double digit revenue growth and AI demand",
+      "source": "ad-hoc-news.de",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "EPAM(0.26)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Skyworks Solutions stock trades steady as earnings and margin trends shape the outlook",
+      "source": "ad-hoc-news.de",
+      "sentiment": "Neutral",
+      "tickers": [
+        "SWKS(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Corning stock trades steady as specialty materials demand supports revenue and margins",
+      "source": "ad-hoc-news.de",
+      "sentiment": "Bullish",
+      "tickers": [
+        "GLW(0.62)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Trimble stock trades steady as investors weigh recent earnings and positioning in construction techn",
+      "source": "ad-hoc-news.de",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TRMB(0.30)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Did Eaton’s (ETN) FranklinWH Smart Breaker Deal Just Rewire Its Home-as-a-Grid Narrative?",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ETN(0.24)",
+        "EMR(0.13)",
+        "HUBB(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BCHP ETF Profile: Dividends, Returns (BOATS:BCHP)",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "BCHP(0.02)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "General Dynamics Stock Leads Aerospace Defense Picks With Backlog Strength",
+      "source": "Simply Wall Street",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "GD(0.32)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Alphabet stock trades steady as Alphabet C reports resilient ad and cloud growth",
+      "source": "ad-hoc-news.de",
+      "sentiment": "Neutral",
+      "tickers": [
+        "GOOG(0.05)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Sony’s Digital-Only PlayStation Shift Could Be A Game Changer For Sony Group (TSE:6758)",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "SONY(0.05)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "OPTZ ETF Profile: Dividends, Returns (BOATS:OPTZ)",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "OPTZ(0.15)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "This Emerging Markets ETF Beat the S&P 500 for 16 Years. Could It Happen Again?",
+      "source": "The Globe and Mail",
+      "sentiment": "Bullish",
+      "tickers": [
+        "EEM(0.46)",
+        "MSCI(0.49)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "GRID’s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
+      "source": "24/7 Wall St.",
+      "sentiment": "Bullish",
+      "tickers": [
+        "GRID(0.51)",
+        "ETN(0.32)",
+        "PWR(0.35)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BigBear.ai (NYSE: BBAI) Stock Price Drops 7% In Single Session, Badly Underperforming Broader Market",
+      "source": "Foreign Policy Journal",
+      "sentiment": "Bearish",
+      "tickers": [
+        "BBAI(-0.40)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Robert Half stock trades steady as recruiter focuses on margin and cautious demand",
+      "source": "ad-hoc-news.de",
+      "sentiment": "Neutral",
+      "tickers": [
+        "RHI(0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "AMD Stock Down 17% From Peak — Can July 22 Advancing AI Save It?",
+      "source": "TradingKey",
+      "sentiment": "Neutral",
+      "tickers": [
+        "AMD(0.19)",
+        "MU(0.02)",
+        "NVDA(0.04)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Two US service members in Jordan killed in Iranian attack, US says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Israeli military says it struck Hezbollah fighters after drone spotted in southern Lebanon - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Why Dana White thinks much more of UFC's future will be Power Slap and boxing",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "PODCAST: Data centers: Small town politics turn into a national fight - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "GNews: Heidenheimer Zeitung: Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
+      "GNews: n-tv NACHRICHTEN: Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "AlphaVantage: ad-hoc-news.de: EPAM Systems stock steadies as investors weigh double digit revenue growth and AI demand",
+      "AlphaVantage: ad-hoc-news.de: Skyworks Solutions stock trades steady as earnings and margin trends shape the outlook",
+      "AlphaVantage: ad-hoc-news.de: Corning stock trades steady as specialty materials demand supports revenue and margins",
+      "AlphaVantage: ad-hoc-news.de: Trimble stock trades steady as investors weigh recent earnings and positioning in construction techn",
+      "AlphaVantage: Simply Wall Street: Did Eaton’s (ETN) FranklinWH Smart Breaker Deal Just Rewire Its Home-as-a-Grid Narrative?",
+      "AlphaVantage: TradingView: BCHP ETF Profile: Dividends, Returns (BOATS:BCHP)",
+      "AlphaVantage: Simply Wall Street: General Dynamics Stock Leads Aerospace Defense Picks With Backlog Strength",
+      "AlphaVantage: ad-hoc-news.de: Alphabet stock trades steady as Alphabet C reports resilient ad and cloud growth",
+      "AlphaVantage: Simply Wall Street: Sony’s Digital-Only PlayStation Shift Could Be A Game Changer For Sony Group (TSE:6758)",
+      "AlphaVantage: TradingView: OPTZ ETF Profile: Dividends, Returns (BOATS:OPTZ)",
+      "AlphaVantage: The Globe and Mail: This Emerging Markets ETF Beat the S&P 500 for 16 Years. Could It Happen Again?",
+      "AlphaVantage: 24/7 Wall St.: GRID’s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
+      "AlphaVantage: Foreign Policy Journal: BigBear.ai (NYSE: BBAI) Stock Price Drops 7% In Single Session, Badly Underperforming Broader Market",
+      "AlphaVantage: ad-hoc-news.de: Robert Half stock trades steady as recruiter focuses on margin and cautious demand",
+      "AlphaVantage: TradingKey: AMD Stock Down 17% From Peak — Can July 22 Advancing AI Save It?",
+      "Finnhub: Reuters: Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
+      "Finnhub: Reuters: US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+      "Finnhub: Reuters: Two US service members in Jordan killed in Iranian attack, US says - Reuters"
+    ],
+    "hypeNews": [
+      "EPAM Systems (EPAM) zeigt zweistelliges Umsatzwachstum und starke KI-Nachfrage.",
+      "Corning (GLW) profitiert von Nachfrage nach Spezialmaterialien.",
+      "General Dynamics (GD) profitiert von starkem Auftragsbestand im Luft- und Raumfahrtsektor.",
+      "GRID ETF bietet KI-Exposition, die breitere ETFs verpassen.",
+      "Emerging Markets ETF schlägt den S&P 500 seit 16 Jahren."
+    ],
+    "hypeCenter": "KI und Spezialmaterialien/Luftfahrt. Die Nachrichten deuten auf eine anhaltende Nachfrage nach KI-gestützten Lösungen (EPAM, GRID) und auf die Stärke von Unternehmen, die kritische Materialien und Komponenten für zukunftsträchtige Sektoren wie Luft- und Raumfahrt liefern (Corning, General Dynamics).",
+    "peripherEffect": "Da der Fokus auf KI und fortschrittlichen Materialien liegt, könnten Unternehmen, die in der Lieferkette für diese Sektoren tätig sind, aber nicht direkt im Rampenlicht stehen, mit Verzögerung profitieren. Dazu gehören Hersteller von Spezialchemikalien, Präzisionsfertiger, Anbieter von Automatisierungslösungen für die Produktion und möglicherweise auch Unternehmen, die sich auf die Dateninfrastruktur für KI spezialisieren.",
+    "narrativ": "Die Masse glaubt, dass KI und technologische Innovationen die Haupttreiber für das Marktwachstum sind. Unternehmen, die in diesen Bereichen tätig sind, werden als sichere Gewinne angesehen. Gleichzeitig wird die Stärke etablierter Sektoren wie Luft- und Raumfahrt durch solide Auftragsbestände bestätigt.",
+    "realitaet": "Die Realität ist, dass hinter dem KI-Hype oft eine massive Kapitalallokation und Spekulation steckt. Die Nachfrage nach Spezialmaterialien ist zwar real, aber die Margen und die Nachhaltigkeit des Wachstums hängen stark von globalen Lieferketten und geopolitischen Faktoren ab. Die Nachrichten über den Iran deuten auf zunehmende geopolitische Spannungen hin, die die Rohstoffpreise und die globale Stabilität beeinflussen könnten, was von der breiten Masse möglicherweise unterschätzt wird.",
+    "macht": "Große Technologiekonzerne (Alphabet), Halbleiterhersteller (implizit durch KI-Nachfrage), spezialisierte Materialproduzenten (Corning), Rüstungs- und Luftfahrtunternehmen (General Dynamics) und die Manager von spezialisierten ETFs (GRID, EEM). Auch die Zentralbanken und großen Investmentfonds, die Kapital in diese Sektoren lenken, sind Profiteure.",
+    "geopolitik": "Die Spannungen im Nahen Osten (Iran-News) sind ein klares geopolitisches Risiko. Dies könnte zu einer erhöhten Nachfrage nach Verteidigungsgütern und potenziell zu einer Volatilität bei Energiepreisen führen. Die BRICS-Staaten könnten versuchen, diese Instabilität für ihre De-Dollarisierungsagenda zu nutzen, während die G7-Staaten versuchen, die globale Ordnung aufrechtzuerhalten. Die Abhängigkeit von Spezialmaterialien für Spitzentechnologie schafft neue geopolitische Abhängigkeiten.",
+    "liquiditaet": "Kapital fließt in technologieorientierte Sektoren, insbesondere KI und damit verbundene Infrastruktur. Es gibt auch eine Bewegung in Richtung defensiver Werte und Rohstoffe, die durch geopolitische Unsicherheiten angetrieben wird. Die Nachrichten über Emerging Markets ETFs deuten auf eine Suche nach Rendite außerhalb der etablierten Märkte hin.",
+    "kette": "Geopolitische Spannungen (Iran) -> Potenzielle Unterbrechung von Lieferketten/Energiepreisanstieg -> Erhöhte Nachfrage nach Verteidigungsgütern und Rohstoffen -> Kapitalabzug aus risikoreicheren Anlagen -> Suche nach stabilen Wachstumssektoren (KI, Spezialmaterialien) -> Anstieg der Kurse von Unternehmen in diesen Sektoren.",
+    "timing": "Mitte bis Spät. Der Hype um KI ist bereits fortgeschritten, aber die Nachfrage nach den zugrundeliegenden Materialien und die breitere Anwendung von KI sind noch im Aufbau. Die Nachrichten über Corning und General Dynamics deuten auf eine solide Basis hin, die auch in späteren Phasen des Zyklus noch profitieren kann. Die geopolitischen Risiken könnten jedoch zu einer Neubewertung führen.",
+    "saisonalitaet": "Juli ist historisch oft ein Monat mit gemischten Signalen, der von Sommerrallys, aber auch von Gewinnmitnahmen geprägt sein kann. Die zunehmenden geopolitischen Spannungen könnten diese saisonalen Muster überlagern.",
+    "masseFehler": "Die Masse konzentriert sich zu stark auf die direkten KI-Unternehmen und übersieht die breitere Wertschöpfungskette sowie die potenziellen negativen Auswirkungen geopolitischer Instabilität auf die globale Wirtschaft und die Lieferketten. Sie unterschätzen auch die Bedeutung von 'alten' Industrien, die für die 'neuen' Technologien unerlässlich sind.",
+    "widerspruch": "Ja. Einerseits gibt es einen klaren Hype um KI und Technologie (EPAM, GRID), andererseits deuten die Nachrichten über den Iran auf erhebliche geopolitische Risiken hin, die traditionell als Belastung für die Märkte gelten. Die Tatsache, dass der DAX leicht fällt, während einige Technologie-Ticker positiv bewertet werden, zeigt diesen Konflikt.",
+    "markt": "Gold: Steigend (sicherer Hafen), Silber: Stabil, Öl: Steigend (geopolitische Risiken), Bitcoin: Leicht fallend (Risikoaversion), DAX: Fallend (geopolitische Sorgen, Zinsumfeld), EUR/USD: Leicht steigend (stärkerer USD im Moment der Unsicherheit).",
+    "opportunity": "Die Chance liegt in der Identifizierung von Unternehmen, die von der Nachfrage nach Spezialmaterialien und Komponenten für zukunftsträchtige Sektoren profitieren, aber noch nicht im vollen Hype-Zyklus sind. Auch eine Absicherung gegen geopolitische Risiken durch Rohstoffe oder bestimmte Verteidigungswerte könnte eine Gelegenheit darstellen.",
+    "positionierung": "Die Ticker-Daten zeigen eine überwiegend neutrale bis leicht positive Stimmung für die meisten genannten Unternehmen, mit Ausnahmen wie BBAI (bearish). Die positiven Ticker-Scores für GLW, GD, EPAM und GRID deuten auf eine gewisse Marktzuversicht in diesen spezifischen Bereichen hin. Der niedrige Fear & Greed Index (28) deutet auf eine allgemeine Vorsicht oder Angst im Markt hin, was aber auch Chancen für 'Smart Money' birgt, günstig einzusteigen.",
+    "reflexivitaet": "Der Hype um KI treibt die Nachfrage nach den dafür benötigten Materialien und Chips. Dies wiederum führt zu höheren Bewertungen dieser Zulieferer. Die positiven Ergebnisse dieser Zulieferer verstärken dann den Glauben an die KI-Story, was zu weiterem Kapitalfluss in den Sektor führt.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.3,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch. Die Welt bewegt sich weg von reinem Wachstum hin zu einer Phase, in der geopolitische Risiken, Lieferkettenresilienz und technologische Souveränität wichtiger werden. Dies geschieht in einem Umfeld, das von Inflation und potenzieller Stagflation geprägt ist.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
+    "halalStatus": "halal",
+    "halalBegruendung": "Gold als physisch gedecktes Edelmetall ist gemäß islamischer Finanzprinzipien als Vermögenswert zulässig und dient als Schutz vor Inflation und wirtschaftlicher Unsicherheit.",
+    "purification": "0.00",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Ein starker USD (impliziert durch EUR/USD 1.1446) könnte US-basierte Anlagen für Nicht-USD-Investoren verteuern, während es internationale Käufer für US-Produkte attraktiver macht.",
+    "psychologie": "FOMO Warnung: Die Masse könnte von der KI-Euphorie getrieben werden und die Risiken ignorieren. Gleichzeitig könnte die Angst vor geopolitischen Eskalationen zu Panikverkäufen führen.",
+    "ruhigerTag": false,
+    "lernpunkt": "Spezialmaterialien: Dies sind hochreine oder speziell entwickelte Materialien, die für fortschrittliche technologische Anwendungen benötigt werden. Sie sind oft das Rückgrat von Innovationen in Sektoren wie Elektronik, Luft- und Raumfahrt und erneuerbare Energien. Die Nachfrage nach ihnen spiegelt oft die Gesundheit und das Wachstum dieser Spitzentechnologiebereiche wider.",
+    "tagesfrage": "Wie stark wird die Nachfrage nach Spezialmaterialien durch die geopolitischen Spannungen und mögliche Handelsbeschränkungen beeinflusst werden?",
+    "brief": "Ayman, heute sehen wir eine klare Dichotomie im Markt. Einerseits der anhaltende Hype um KI und die damit verbundenen technologischen Fortschritte, die Unternehmen wie EPAM und GRID antreiben. Andererseits die ernsten geopolitischen Spannungen im Nahen Osten, die traditionell als Risikofaktor gelten. Die Nachrichten über Corning und General Dynamics zeigen, dass auch etablierte Sektoren, die kritische Komponenten liefern, Stärke zeigen. Wir müssen die Balance halten zwischen dem Glauben an die technologische Zukunft und der Realität globaler Unsicherheiten. Die Masse wird sich wahrscheinlich auf den Hype konzentrieren, aber wir suchen nach den tieferen Zusammenhängen und den oft übersehenen Gewinnern in der Lieferkette."
+  },
+  "prices": {
+    "SI=F": {
+      "label": "Silber",
+      "price": 56.32600021362305,
+      "change": 0
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4018.800048828125,
+      "change": 0
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24830.98046875,
+      "change": -0.3391856424659264
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 81.77999877929688,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1445575952529907,
+      "change": 0.008010019503199633
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 64675.98828125,
+      "change": -0.1861413690556929
+    }
+  },
+  "fearGreed": [
+    28,
+    22,
+    25,
+    25,
+    27,
+    25,
+    28
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-07-19"
+}

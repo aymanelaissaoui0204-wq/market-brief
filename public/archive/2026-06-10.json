@@ -1,0 +1,73 @@
+{
+  "date": "Mittwoch, 10. Juni 2026",
+  "generatedAt": "2026-06-10T10:07:34.342Z",
+  "sections": {},
+  "prices": {
+    "SI=F": {
+      "label": "Silber",
+      "price": 64.12000274658203,
+      "change": -1.4962961209216923
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24289.140625,
+      "change": 0
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4190,
+      "change": -1.643192488262911
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 99.87200164794922,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 61119.98828125,
+      "change": -0.8497093431464345
+    },
+    "^TNX": {
+      "label": "10Y",
+      "price": 4.552000045776367,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1560693979263306,
+      "change": 0.2797712733346521
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.239500045776367,
+      "change": -0.9995990103879008
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 87.9000015258789,
+      "change": -0.34013087612613585
+    }
+  },
+  "fearGreed": [
+    12,
+    12,
+    12,
+    12,
+    8,
+    10,
+    9
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "news": [
+    "EZB:  ECB announces main milestones for roll-out of Integrated Reporting Framework",
+    "EZB:  Christine Lagarde: Women and leadership: widening the pipeline",
+    "Fed: Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+    "Fed: Agencies remove additional references to reputation risk"
+  ],
+  "dateKey": "2026-06-10"
+}

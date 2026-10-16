@@ -1,0 +1,52 @@
+{
+  "date": "Dienstag, 16. Juni 2026",
+  "generatedAt": "2026-06-16T10:07:23.792Z",
+  "sections": {},
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4366.2998046875,
+      "change": 0.8849307922250462
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25053.529296875,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 66525.2734375,
+      "change": 0.355672372698542
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.160496711730957,
+      "change": 0.01625336342911037
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 70.54499816894531,
+      "change": 0.6836358061263167
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 77.76000213623047,
+      "change": -3.7027837322223296
+    }
+  },
+  "fearGreed": [
+    9,
+    12,
+    12,
+    13,
+    18,
+    20,
+    23
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-06-16"
+}

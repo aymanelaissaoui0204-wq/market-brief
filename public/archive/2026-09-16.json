@@ -1,0 +1,391 @@
+{
+  "date": "Mittwoch, 16. September 2026",
+  "generatedAt": "2026-09-16T09:41:54.626Z",
+  "news": [
+    {
+      "title": "Trumps gefährliches Spiel mit Fed-Chef Warsh",
+      "source": "Börsen-Zeitung",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "EZB-Mitglied Schnabel: Die Zinsen müssen nach oben",
+      "source": "Wallstreet Online",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Strait of Hormuz ship crossings remain in single digits, data shows - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Boeing, Korean Air finalize order for 103 aircraft - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Saudi coalition says Houthi drone destroyed near Mecca - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Saudi-led coalition says it destroys Houthi drone south of Mecca - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Best of the Emmy Awards - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Several explosions heard on Iran's Qeshm island, IRNA says citing local sources - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Wells Fargo sees improvement in a key metric — plus, Lilly gets praise beyond GLP-1s",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran war cost hits $38 billion, forecast to rise $3 billion a month, CBO says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US Republican lawmaker seeks Hegseth's impeachment over Iran - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US energy chief says Saudi Arabia oil pipeline should be back online within days - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US Treasury's Bessent will meet with China's He Lifeng this weekend - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UK, US and Netherlands issue advisory on Iran-linked spyware - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Cramer says these 2 stocks are still buys, warns against playing Fed rate 'parlor game'",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "We're buying the dip in one of our newest stocks",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "ReEmerge Launches With $37M Series A",
+      "source": "vcnewsdaily.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Arabian Pipes signs SAR 19M contract with Saudi Aramco",
+      "source": "argaam.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Gabelli Gold Fund Q2 2026 Commentary (GLDIX)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Ayman, heute schauen wir uns an, wie die Spannungen im Nahen Osten und die Zinspolitik der Zentralbanken die Märkte beeinflussen. Wir analysieren, wie sich diese globalen Ereignisse auf verschiedene Anlageklassen auswirken und suchen nach halal investierbaren Chancen, die aus diesen Bewegungen entstehen. Das Ziel ist, dein Verständnis für die Zusammenhänge zu vertiefen und gleichzeitig dein kleines Investment strategisch einzusetzen.",
+    "marktlage": "Die Märkte zeigen sich heute gemischt, mit einem leichten Druck auf US-Aktienindizes, während Rohstoffe wie Gold und Silber von geopolitischen Spannungen profitieren. Die US-Zehnjahresrenditen steigen weiter an, was auf anhaltende Inflationssorgen oder die Erwartung höherer Zinsen hindeutet.",
+    "oberflaeche": [
+      "Quelle: GNews: Trumps gefährliches Spiel mit Fed-Chef Warsh",
+      "Quelle: Finnhub: CNBC: Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+      "Quelle: Finnhub: Reuters: Several explosions heard on Iran's Qeshm island, IRNA says citing local sources"
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "US 10J Zins steigt auf 4.9960%",
+        "kette": "US 10J Zins steigt -> Anleihen werden unattraktiver -> Kapital fliesst aus Anleihen -> Kapital fliesst in sicherere Häfen (z.B. Gold) oder wird risikoscheuer (Aktien fallen) -> US Dollar gewinnt an Stärke -> Rohstoffe (in USD notiert) werden teurer",
+        "warum": "Wenn die Renditen von Staatsanleihen steigen, bieten diese eine attraktivere Verzinsung, was Anleger dazu verleitet, ihr Geld aus riskanteren Anlagen wie Aktien abzuziehen. Gleichzeitig kann ein stärkerer Dollar, der oft mit steigenden US-Zinsen einhergeht, die Preise von Rohstoffen für internationale Käufer erhöhen.",
+        "betroffen": "Anleihen (fallen), Aktien (fallen tendenziell), Gold (steigt tendenziell), US Dollar (steigt tendenziell), Rohstoffe (steigen tendenziell)",
+        "investierbar": {
+          "asset": "iShares US Treasury ETFs",
+          "isin": null,
+          "richtung": "MEIDEN/REDUZIEREN",
+          "halal": "nicht-halal",
+          "wie": "Diese ETFs sind nicht halal, da sie auf Zinspapiere setzen."
+        }
+      },
+      {
+        "ausloeser": "Explosionen im Iran (Qeshm Island)",
+        "kette": "Geopolitische Spannungen im Nahen Osten (Iran) -> Unsicherheit steigt -> Nachfrage nach 'sicheren Häfen' steigt -> Gold und Silber steigen -> Ölpreis könnte steigen, falls Lieferrouten gefährdet sind",
+        "warum": "Geopolitische Unsicherheit, insbesondere in ölreichen Regionen, lässt Anleger nervös werden. Sie suchen dann nach Anlagen, die als sicher gelten und ihren Wert in Krisenzeiten behalten oder sogar steigern, wie Edelmetalle. Auch steigende Ölpreise sind eine typische Reaktion auf solche Ereignisse.",
+        "betroffen": "Gold (steigt), Silber (steigt), Öl (könnte steigen), Aktien (könnten fallen), Geopolitisch sensible Regionen",
+        "investierbar": {
+          "asset": "Xetra-Gold",
+          "isin": "DE000A0S9GB0",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Kauf von Xetra-Gold zur Absicherung gegen geopolitische Risiken und steigende Inflation."
+        }
+      },
+      {
+        "ausloeser": "Boeing, Korean Air finalisieren Auftrag",
+        "kette": "Großer Flugzeugauftrag (Boeing) -> Positive Nachricht für Flugzeughersteller und Zulieferer -> Aktien dieser Unternehmen könnten steigen -> Positive Auswirkung auf Sektoren wie Luftfahrt und Verteidigung (durch technologische Synergien)",
+        "warum": "Ein großer Auftrag für einen Flugzeughersteller wie Boeing ist ein klares Zeichen für Nachfrage und künftige Umsätze. Dies signalisiert Stärke im Sektor und kann das Vertrauen von Investoren stärken, was zu steigenden Aktienkursen führen kann.",
+        "betroffen": "Boeing (steigt), Fluggesellschaften (könnten steigen, wenn die Nachfrage steigt), Zulieferer (steigt), Sektor Luftfahrt/Verteidigung",
+        "investierbar": {
+          "asset": "VanEck Defense",
+          "isin": "IE000YYE6WK5",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Investition in den VanEck Defense ETF, der auch von technologischen Fortschritten und Rüstungsaufträgen profitiert."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "Xetra-Gold",
+        "isin": "DE000A0S9GB0",
+        "klasse": "Rohstoff (ETC)",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 4374,
+        "stopLoss": 4250,
+        "ziel": 4600,
+        "zeitraum": "4-8 Wochen",
+        "kette": "Geopolitische Spannungen im Nahen Osten -> Unsicherheit steigt -> Nachfrage nach 'sicheren Häfen' steigt -> Gold und Silber steigen",
+        "konfidenz": 70,
+        "erklaerung": {
+          "wasIstDas": "Xetra-Gold ist ein Exchange Traded Commodity (ETC), der den Preis von physischem Gold abbildet. Es ist wie ein digitales Gold-Zertifikat, das du an der Börse kaufen und verkaufen kannst. Jede Einheit Xetra-Gold ist durch ein Gramm Gold gedeckt, das sicher in Tresoren gelagert wird.",
+          "warumJetzt": "Aktuell steigen die geopolitischen Spannungen im Nahen Osten, wie die Meldungen über Explosionen im Iran zeigen. Gleichzeitig klettern die US-Zinsen weiter. Diese Kombination aus Unsicherheit und potenziell steigendem Inflationsdruck macht Gold als 'sicheren Hafen' attraktiv.",
+          "wannKaufen": "Man könnte jetzt bei rund 4374 Euro einsteigen. Da der Markt volatil ist, wäre es auch eine gute Strategie, auf einen leichten Rücksetzer im Bereich von 4300-4350 Euro zu warten, um einen besseren Einstiegspreis zu erzielen.",
+          "wieViel": "Bei einem Budget von 50€ könntest du etwa 1-2 Einheiten Xetra-Gold kaufen. Das ist eine kleine Position, die dir erlaubt, die Bewegung zu verfolgen, ohne dein gesamtes Kapital zu binden. So lernst du, wie sich die Anlageklasse verhält, ohne ein hohes Risiko einzugehen.",
+          "wannRaus": "Ein Gewinnziel von 4600 Euro wäre realistisch, wenn die Spannungen anhalten oder sich verschärfen. Als Absicherung solltest du einen Stop-Loss bei etwa 4250 Euro setzen. Fällt der Preis darunter, ist die ursprüngliche Begründung für den Kauf möglicherweise nicht mehr gültig.",
+          "wasKannSchiefgehen": "Sollten sich die geopolitischen Spannungen unerwartet schnell legen oder die Zentralbanken doch aggressiver die Zinsen senken als erwartet, könnte der Goldpreis fallen. Dann würde dein Stop-Loss greifen und du würdest den Verlust begrenzen.",
+          "woranErkenneIchFalsch": "Wenn die Meldungen über eine Deeskalation im Nahen Osten dominieren oder wenn die US-Zinsen unerwartet stark fallen, obwohl die Inflation hoch ist, könnte deine These falsch sein. Achte auch auf die Entwicklung des US-Dollars – ein starker Dollar kann den Goldpreis unter Druck setzen.",
+          "begriffDesTrades": "Ein 'sicherer Hafen' ist eine Anlageklasse, von der Anleger glauben, dass sie ihren Wert in Zeiten wirtschaftlicher Unsicherheit oder Marktvolatilität behält oder sogar steigert. Gold gilt traditionell als ein solcher sicherer Hafen."
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "VanEck Defense",
+        "isin": "IE000YYE6WK5",
+        "klasse": "Sektor-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 45.5,
+        "stopLoss": 43,
+        "ziel": 50,
+        "zeitraum": "3-6 Monate",
+        "kette": "Geopolitische Spannungen (Iran, Ukraine) -> Erhöhte Rüstungsausgaben -> Nachfrage nach Verteidigungsgütern steigt -> Aktien von Rüstungsunternehmen und technologieorientierten Verteidigungsfirmen steigen",
+        "konfidenz": 65,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETF investiert in Unternehmen, die im Verteidigungssektor tätig sind. Das umfasst sowohl traditionelle Rüstungskonzerne als auch Firmen, die technologisch fortschrittliche Lösungen für die Sicherheit und Verteidigung entwickeln. Es ist eine Möglichkeit, breit gestreut in diesen Sektor zu investieren.",
+          "warumJetzt": "Die anhaltenden geopolitischen Spannungen, wie die aktuellen Ereignisse im Iran und der fortlaufende Konflikt in der Ukraine, führen weltweit zu einer Erhöhung der Verteidigungsausgaben. Dies ist ein klarer Treiber für die Nachfrage nach Produkten und Dienstleistungen der Unternehmen in diesem ETF.",
+          "wannKaufen": "Der ETF handelt aktuell um die 45.50 Euro. Es wäre ratsam, auf einen leichten Rücksetzer in Richtung 44-45 Euro zu warten, um einen besseren Einstiegspreis zu erzielen. Dies gibt dir die Chance, mit einem kleineren Puffer zu starten.",
+          "wieViel": "Mit 50€ kannst du etwa 1-2 Anteile des ETFs kaufen. Das ist eine sinnvolle Summe, um die Performance zu beobachten und zu lernen, wie sich geopolitische Ereignisse auf Sektor-ETFs auswirken, ohne dein Budget zu sprengen.",
+          "wannRaus": "Ein realistisches Kursziel könnte bei 50 Euro liegen, da die Nachfrage im Verteidigungssektor voraussichtlich hoch bleibt. Setze einen Stop-Loss bei 43 Euro. Wenn der Kurs darunter fällt, signalisiert dies eine mögliche Trendumkehr oder eine Abschwächung der ursprünglichen Kaufargumente.",
+          "wasKannSchiefgehen": "Sollte es zu einer unerwarteten diplomatischen Entspannung in den Krisenregionen kommen oder sollten die Regierungen ihre Ausgabenprioritäten ändern, könnte die Nachfrage nach Verteidigungsgütern sinken. Dies würde den Kurs des ETFs negativ beeinflussen.",
+          "woranErkenneIchFalsch": "Wenn die Nachrichtenlage sich deutlich entspannt und die Ausgaben für Verteidigung gekürzt werden, ist deine These wahrscheinlich falsch. Achte auch auf die Berichte über die Bilanzen der Unternehmen im ETF – sinkende Auftragseingänge wären ein Warnsignal.",
+          "begriffDesTrades": "Geopolitik bezeichnet die Art und Weise, wie Geographie und internationale Beziehungen die Politik und das Verhalten von Staaten beeinflussen. Im Finanzkontext sind geopolitische Risiken oft Auslöser für Marktvolatilität und können Anlageentscheidungen beeinflussen."
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "WisdomTree Brent Oil",
+        "isin": null,
+        "klasse": "Rohstoff (ETC)",
+        "richtung": "MEIDEN/REDUZIEREN",
+        "halal": "halal",
+        "einstieg": null,
+        "stopLoss": null,
+        "ziel": null,
+        "zeitraum": "Kurzfristig",
+        "kette": "Geopolitische Spannungen im Nahen Osten -> Unsicherheit steigt -> Ölpreis könnte steigen",
+        "konfidenz": 55,
+        "erklaerung": {
+          "wasIstDas": "Dies ist ein Exchange Traded Commodity (ETC), der die Preisentwicklung von Brent-Rohöl abbildet. Brent-Rohöl ist eine wichtige globale Benchmark für den Ölpreis, insbesondere in Europa und im Nahen Osten. Der ETC ermöglicht es Anlegern, auf Preisänderungen von Öl zu spekulieren.",
+          "warumJetzt": "Die Nachrichten über Explosionen im Iran und die anhaltenden Spannungen im Nahen Osten könnten theoretisch zu einem Anstieg des Ölpreises führen, da diese Region ein wichtiger Produzent ist und Lieferketten potenziell gefährdet sind. Die Meldung, dass eine saudi-arabische Pipeline bald wieder online sein soll, wirkt dem jedoch entgegen.",
+          "wannKaufen": "Aktuell ist es schwierig, hier eine klare Kaufempfehlung auszusprechen. Zwar gibt es das Potenzial für steigende Preise, aber die Nachricht zur Pipeline könnte den Preis drücken. Ein Kauf wäre erst nach einer klaren Bestätigung der Angebotsverknappung oder nach einer deutlichen Erholung des Ölpreises sinnvoll.",
+          "wieViel": "Da das Timing und die Richtung unsicher sind, wäre es ratsam, bei einer Investition nur eine sehr kleine Position einzugehen, vielleicht 1-2% deines Budgets. Dies dient eher dem Lernen und Beobachten als einer strategischen Allokation.",
+          "wannRaus": "Sollte der Ölpreis doch steigen, könnte ein Ziel von 106-108 Dollar realistisch sein. Ein Stop-Loss bei 102 Dollar würde Verluste begrenzen. Angesichts der gemischten Nachrichtenlage ist jedoch Vorsicht geboten.",
+          "wasKannSchiefgehen": "Wenn sich die Nachrichtenlage im Iran entspannt und die Pipeline in Saudi-Arabien wie erwartet schnell wieder voll einsatzfähig ist, könnte der Ölpreis fallen. Auch eine globale Konjunkturabschwächung, die die Nachfrage dämpft, wäre ein negatives Szenario.",
+          "woranErkenneIchFalsch": "Wenn die Ölpreise trotz der geopolitischen Spannungen nicht steigen oder sogar fallen, ist deine These falsch. Achte auf die täglichen Öl-Bestandsdaten und die Ankündigungen der OPEC+.",
+          "begriffDesTrades": "Eine Benchmark ist ein Referenzpunkt, an dem andere Werte gemessen werden. Brent-Rohöl ist eine Benchmark für den Ölpreis, da sie als Indikator für die globale Ölpreisentwicklung dient."
+        }
+      }
+    ],
+    "narrativ": "Die Märkte konzentrieren sich auf die Zinsentscheidungen der Zentralbanken und die damit verbundenen Inflationserwartungen. Geopolitische Spannungen werden als kurzfristige Störfaktoren wahrgenommen.",
+    "realitaet": "Die geopolitischen Spannungen, insbesondere im Nahen Osten, haben das Potenzial, die Energiepreise und damit die globale Inflation erheblich zu beeinflussen. Dies könnte die Zentralbanken unter Druck setzen, die Zinsen länger hoch zu halten oder sogar weiter zu erhöhen, was wiederum die Märkte beeinflusst.",
+    "macht": "Zentralbanken (Fed, EZB) durch ihre Zinspolitik, Regierungen durch ihre Reaktionen auf geopolitische Krisen und die großen Energiekonzerne.",
+    "geopolitik": "Anhaltende Spannungen im Iran und im Nahen Osten, sowie der fortlaufende Konflikt in der Ukraine. Die USA versuchen, diplomatische Kanäle mit China offen zu halten.",
+    "liquiditaet": "Kapital sucht weiterhin nach sicheren Häfen wie Gold aufgrund der Unsicherheit, während steigende Zinsen Anleihen kurzfristig attraktiver machen könnten (aber nicht halal).",
+    "kette": "Geopolitische Spannungen im Nahen Osten -> Unsicherheit steigt -> Nachfrage nach sicheren Häfen (Gold) steigt -> Potenzielle Störung von Energie-Lieferketten -> Ölpreis steigt -> Inflationsdruck steigt -> Zinsen bleiben hoch oder steigen weiter.",
+    "timing": "Wir befinden uns in einer Phase erhöhter Unsicherheit, in der sowohl geopolitische als auch makroökonomische Faktoren die Märkte stark beeinflussen. Die Zinszyklen der Zentralbanken spielen eine Schlüsselrolle.",
+    "saisonalitaet": "Der September kann historisch oft von Volatilität geprägt sein, da die Sommerferien enden und die Marktteilnehmer sich auf die Herbstmonate vorbereiten. Aktuell scheinen die geopolitischen Faktoren jedoch stärker zu dominieren.",
+    "masseFehler": "Viele Anleger konzentrieren sich zu sehr auf die kurzfristigen Zinsbewegungen und ignorieren die potenziell langfristigen Auswirkungen der geopolitischen Spannungen auf die Energieversorgung und die globale Inflation.",
+    "widerspruch": "Die steigenden Zinsen (negativ für Aktien) und die geopolitischen Spannungen (positiv für Gold/Rohstoffe) erzeugen widersprüchliche Signale für die Marktrichtung.",
+    "markt": "DAX: Stabil/leicht positiv; S&P 500: Leicht negativ; Nasdaq: Negativ; Bitcoin: Stabil; Gold: Positiv; Silber: Positiv; Öl: Gemischt.",
+    "positionierung": "Das Sentiment ist mit 51/100 neutral, was auf eine abwartende Haltung der Anleger hindeutet. Es gibt keine klare Überbewertung von Gier oder Angst.",
+    "reflexivitaet": "Die Angst vor einer Eskalation im Nahen Osten treibt die Goldpreise, was wiederum die Inflationserwartungen erhöht und die Zentralbanken dazu veranlassen k��nnte, die Zinsen hoch zu halten. Dies kann die wirtschaftliche Unsicherheit weiter verstärken.",
+    "metaZyklus": "Stagflation – hohe Inflation bei gleichzeitigem Risiko einer Konjunkturabschwächung.",
+    "psychologie": "Warnung vor FOMO (Fear Of Missing Out) bei fallenden Aktien, aber auch vor Panik bei steigenden Rohstoffpreisen. Ruhe bewahren und Strategie verfolgen.",
+    "halalAsset": "Xetra-Gold",
+    "halalStatus": "halal",
+    "halalBegruendung": "Xetra-Gold investiert in physisches Gold und ist somit eine halal konforme Anlageklasse.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 4374,
+    "stopLoss": 4250,
+    "ziel": 4600,
+    "einsatz": 3.13,
+    "exitStrategie": "Verkauf bei Erreichen des Ziels von 4600 oder bei Unterschreiten des Stop-Loss von 4250. Eine Teilrealisierung bei 4500 wäre ebenfalls denkbar.",
+    "waehrungsrisiko": "EUR/USD: 1.1543 (-0.05%). Ein schwächerer Euro gegenüber dem Dollar würde den Import von in Dollar gehandelten Rohstoffen wie Gold verteuern, was den Wert in Euro steigern würde. Umgekehrt würde ein stärkerer Euro den Wert in Euro mindern.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.25,
+      "ev": 0.12
+    },
+    "lernpunkt": "Die Wechselwirkungen zwischen Geopolitik und Rohstoffpreisen sind entscheidend. Wenn Spannungen in ölreichen Regionen zunehmen, steigen oft die Ölpreise. Dies kann die Inflation anheizen und die Zentralbanken zu einer strafferen Geldpolitik zwingen, was wiederum die Aktienmärkte beeinflussen kann.",
+    "tagesfrage": "Wie stark wird die Angst vor einer Eskalation im Nahen Osten die globalen Energiepreise beeinflussen, und wie werden die Zentralbanken darauf reagieren?"
+  },
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4373.7998046875,
+      "change": 0.9462703528476801
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.480500221252441,
+      "change": 1.7586556404738556
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 64.98500061035156,
+      "change": 2.765830456746596
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25418.05078125,
+      "change": 0.062086886734373535
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 75859.8671875,
+      "change": 0.32714081592610184
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 99.64199829101562,
+      "change": -0.00803134444629469
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 2.924999952316284,
+      "change": 0.2055512896860969
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7585.72998046875,
+      "change": -0.4494762464965568
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 4.995999813079834,
+      "change": 0.7054998519315365
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.154334545135498,
+      "change": -0.04501621192654007
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 25981.5703125,
+      "change": -0.7822372082609047
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 104.41999816894531,
+      "change": -1.3323288648905838
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 734.25,
+      "change": 0.789293067947838
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2402.409912109375,
+      "change": 0.13851094878626105
+    }
+  },
+  "fearGreed": [
+    69,
+    56,
+    63,
+    61,
+    57,
+    69,
+    51
+  ],
+  "simulation": {
+    "buy": 43,
+    "hold": 38,
+    "sell": 19
+  },
+  "dateKey": "2026-09-16"
+}

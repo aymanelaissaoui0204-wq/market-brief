@@ -1,0 +1,52 @@
+{
+  "date": "Sonntag, 14. Juni 2026",
+  "generatedAt": "2026-06-14T08:39:47.784Z",
+  "sections": {},
+  "prices": {
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24635.30078125,
+      "change": 1.7579302985017313
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 67.9739990234375,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 84.87999725341797,
+      "change": 0
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.157273530960083,
+      "change": -0.02776344637463558
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 64431.671875,
+      "change": 0.01606247058018141
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4238.7998046875,
+      "change": 0
+    }
+  },
+  "fearGreed": [
+    8,
+    10,
+    9,
+    12,
+    12,
+    13,
+    18
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-06-14"
+}

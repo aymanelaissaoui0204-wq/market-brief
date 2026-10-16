@@ -1,0 +1,391 @@
+{
+  "date": "Dienstag, 13. Oktober 2026",
+  "generatedAt": "2026-10-13T12:28:56.982Z",
+  "news": [
+    {
+      "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
+      "source": "Frankfurter Allgemeine Zeitung (Faz)",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Fed: Demonstration der Unabhängigkeit",
+      "source": "General Anzeiger",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Visa gets approval to prepare for domestic business in China - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump says he does not believe China and Russia are helping Iran 'at all' - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Indian shares flat at open as inflation strengthens rate-hike concerns - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Qatar Airways suspends Riyadh, Dammam flights as airport attacks disrupt air travel - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil retreats as Russian diesel supply prospects counter Gulf supply risks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Saudi warning system stayed silent before deadly airport attacks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump says he is considering firing US ambassador to Greece - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSpocalypse'",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US hopes diesel deal can 'soften' Moscow on peace talks, sources say - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Saudi Arabia’s warning system fell silent before deadly Riyadh strikes: What we know",
+      "source": "livemint.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Skip The Mortgage: Why I Prefer REITs For Passive Income In 2026, Two Picks To Consider",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "SpaceX: A Long Game That SPCH’s 2x Leverage Can Only Trade (NASDAQ:SPCX)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Ayman, heute sehen wir, wie sich globale Spannungen und wirtschaftliche Erholung vermischen. Die Ölpreise reagieren auf geopolitische Risiken im Nahen Osten, während die KI-Investitionen weiterhin die Märkte stützen. Wir suchen nach Chancen, die diese widersprüchlichen Kräfte nutzen, immer mit dem Fokus auf Halal-Investments und tiefes Verständnis.",
+    "marktlage": "Die Märkte zeigen sich gemischt, leicht beeinflusst von geopolitischen Spannungen und der anhaltenden Stärke von KI-Investitionen, während die Zinsen stabil bleiben.",
+    "oberflaeche": [
+      "Quelle: Reuters: Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+      "Quelle: Reuters: AI investment props up global growth, but war and debt threaten outlook, IMF says",
+      "Quelle: Reuters: Oil retreats as Russian diesel supply prospects counter Gulf supply risks"
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "Iran bereitet sich auf mögliche US-Schläge vor, während Saudi-Arabien seine Verteidigungssysteme nach Angriffen überdenkt.",
+        "kette": "Geopolitische Spannungen im Nahen Osten steigen -> Unsicherheit über Ölversorgung wächst -> Ölpreis steigt kurzfristig, aber Aussicht auf mehr russisches Dieselangebot dämpft Anstieg -> Fluglinien und transportintensive Industrien unter Druck.",
+        "warum": "Wenn die Spannungen zunehmen, befürchten die Märkte Unterbrechungen der Ölförderung und -lieferung. Dies treibt die Preise kurzfristig hoch. Jedoch die Ankündigung oder Aussicht auf mehr russisches Dieselangebot wirkt dem entgegen und dämpft den Ölpreisrückgang, was wiederum die Kosten für Fluggesellschaften und Logistikunternehmen beeinflusst.",
+        "betroffen": "Energie (Öl), Luftfahrt, Transport, Verteidigungsindustrie, Rohstoffe.",
+        "investierbar": {
+          "asset": "WisdomTree Brent Oil",
+          "isin": "null",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Auf steigende Ölpreise spekulieren, wenn die geopolitischen Spannungen weiter eskalieren."
+        }
+      },
+      {
+        "ausloeser": "KI-Investitionen stützen das globale Wachstum laut IWF, aber Kriegs- und Schuldenrisiken bleiben.",
+        "kette": "Hohe Investitionen in KI und Technologie -> Steigende Nachfrage nach Halbleitern und spezialisierter Hardware -> Aktien von Technologieunternehmen, insbesondere Halbleiterherstellern, steigen -> Potenzielle Inflation durch hohe Nachfrage nach Ressourcen.",
+        "warum": "Die massive Nachfrage nach KI-Chips und -Infrastruktur treibt die Umsätze und Gewinne von Unternehmen in diesem Sektor. Dies führt zu steigenden Aktienkursen. Die hohe Nachfrage nach spezialisierten Komponenten kann aber auch die Preise für diese Güter und die damit verbundenen Rohstoffe in die Höhe treiben.",
+        "betroffen": "Technologie, Halbleiter, KI-Unternehmen, Rohstoffe (z.B. Kupfer für Elektronik).",
+        "investierbar": {
+          "asset": "iShares MSCI Semiconductors",
+          "isin": "null",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Investition in Halbleiter-ETF, um von der anhaltenden KI-Nachfrage zu profitieren."
+        }
+      },
+      {
+        "ausloeser": "UnitedHealth Group übertrifft Erwartungen und hebt Ausblick an, da Versicherer hohe medizinische Kosten managen.",
+        "kette": "Gesundheitsdienstleister managen hohe Kosten erfolgreich -> Bessere Gewinnmargen für Unternehmen im Gesundheitswesen -> Positive Signale für den Sektor -> Investoren suchen nach stabilen Sektoren in unsicheren Zeiten.",
+        "warum": "Wenn Unternehmen im Gesundheitswesen, wie z.B. Versicherer, ihre Kosten besser kontrollieren können, als erwartet, deutet dies auf eine robuste Nachfrage und eine gute operative Leistung hin. Dies kann das Vertrauen der Anleger in den Sektor stärken und zu Kursgewinnen führen, da der Gesundheitssektor oft als defensiv gilt.",
+        "betroffen": "Gesundheitswesen, Pharma, Krankenversicherungen.",
+        "investierbar": {
+          "asset": "iShares Healthcare",
+          "isin": "null",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Investition in den Healthcare-ETF, um von der Stärke des Sektors zu profitieren."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "WisdomTree Brent Oil",
+        "isin": null,
+        "klasse": "Rohstoff (ETC)",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 92,
+        "stopLoss": 88,
+        "ziel": 105,
+        "zeitraum": "2-4 Wochen",
+        "kette": "Geopolitische Spannungen im Nahen Osten steigen -> Unsicherheit über Ölversorgung wächst -> Ölpreis steigt kurzfristig.",
+        "konfidenz": 70,
+        "erklaerung": {
+          "wasIstDas": "WisdomTree Brent Oil ist ein Exchange Traded Commodity (ETC), das den Preis von Brent-Rohöl abbildet. Brent-Öl ist eine der wichtigsten globalen Referenzsorten für Öl und wird an der Londoner Börse gehandelt. Wenn der Preis von Brent-Öl steigt, steigt auch der Wert dieses ETCs.",
+          "warumJetzt": "Die jüngsten Nachrichten deuten auf eine Eskalation der Spannungen im Nahen Osten hin, mit Berichten über die Befestigung von Nuklearanlagen im Iran und Angriffen in Saudi-Arabien. Dies erhöht das Risiko von Lieferunterbrechungen und treibt die Ölpreise typischerweise nach oben.",
+          "wannKaufen": "Ein Kauf auf dem aktuellen Niveau um 92 USD ist denkbar. Alternativ könnte man auf einen kleinen Rücksetzer um die 90 USD warten, falls die Nachrichtenlage sich vorübergehend beruhigt, um einen besseren Einstiegspreis zu erzielen.",
+          "wieViel": "Bei einem Budget von 50€ würde ich empfehlen, nur einen kleinen Teil zu investieren, vielleicht 10-15€. Dies erlaubt dir, die Bewegung zu verfolgen, ohne ein zu großes Risiko einzugehen, falls der Preis nicht wie erwartet steigt. Es ist wichtig, klein anzufangen, um zu lernen.",
+          "wannRaus": "Ein Stop-Loss bei 88 USD schützt dich, falls die Spannungen doch nachlassen oder andere Faktoren den Ölpreis drücken. Ein Gewinnziel bei 105 USD bietet ein attraktives Verhältnis von potenziellem Gewinn zu möglichem Verlust, basierend auf den aktuellen geopolitischen Risiken.",
+          "wasKannSchiefgehen": "Sollten die Spannungen im Nahen Osten unerwartet abnehmen oder sollte das Angebot an russischem Diesel überraschend stark steigen, könnte der Ölpreis fallen. Auch eine globale Konjunkturabschwächung würde die Nachfrage nach Öl dämpfen und den Preis drücken.",
+          "woranErkenneIchFalsch": "Wenn die Ölpreise trotz negativer Nachrichten nicht steigen oder sogar fallen, und wenn die geopolitische Lage sich nicht weiter zuspitzt, sondern eher entspannt, dann ist deine These wahrscheinlich falsch. Achte darauf, ob die Nachrichten über das Angebot (z.B. russisches Diesel) die Sorgen über die Lieferungen überwiegen.",
+          "begriffDesTrades": "Geopolitisches Risiko bezeichnet die Unsicherheit, die aus politischen Instabilitäten, Konflikten oder internationalen Spannungen resultiert und sich auf Finanzmärkte und Rohstoffpreise auswirken kann."
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "iShares MSCI Semiconductors",
+        "isin": null,
+        "klasse": "Sektor-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 150,
+        "stopLoss": 135,
+        "ziel": 180,
+        "zeitraum": "3-6 Monate",
+        "kette": "Anhaltend hohe Investitionen in KI und Technologie -> Steigende Nachfrage nach Halbleitern und spezialisierter Hardware -> Aktien von Halbleiterherstellern steigen.",
+        "konfidenz": 65,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETF investiert in Unternehmen, die im Halbleitersektor tätig sind, also Chips entwickeln und herstellen. Diese Chips sind die Bausteine für fast alle modernen elektronischen Geräte, von Smartphones bis hin zu Supercomputern, und besonders wichtig für künstliche Intelligenz.",
+          "warumJetzt": "Der IWF hebt hervor, dass KI-Investitionen das globale Wachstum stützen. Dies bedeutet eine weiterhin sehr hohe Nachfrage nach den Produkten der Halbleiterunternehmen, die diese KI-Technologien ermöglichen. Der Sektor profitiert also direkt von einem zentralen globalen Wachstumstreiber.",
+          "wannKaufen": "Der ETF notiert aktuell um 150€. Ein Kauf auf diesem Niveau ist sinnvoll. Man könnte auch auf einen kleinen Rücksetzer warten, falls der Markt kurzfristig nervös wird, aber die langfristige Nachfrage ist stark.",
+          "wieViel": "Mit 50€ könntest du einen kleinen Anteil dieses ETFs kaufen. Das Ziel ist, an der Entwicklung des Sektors teilzunehmen. Wenn du 50€ investierst, ist das ein kleiner, aber wichtiger Schritt, um die Funktionsweise von Sektor-ETFs zu verstehen und vom Wachstum zu profitieren.",
+          "wannRaus": "Ein Stop-Loss bei 135€ dient als Absicherung, falls es unerwartet zu einer starken Korrektur im Technologiesektor kommt. Ein Kursziel von 180€ spiegelt das Potenzial des Sektors wider, getrieben durch die anhaltende KI-Revolution.",
+          "wasKannSchiefgehen": "Eine starke globale Rezession könnte die Nachfrage nach Elektronik und damit nach Halbleitern brechen lassen. Auch neue technologische Durchbrüche, die bestehende Chip-Designs obsolet machen, oder Handelsbeschränkungen könnten den Sektor negativ beeinflussen.",
+          "woranErkenneIchFalsch": "Wenn die Quartalsberichte der großen Halbleiterunternehmen durchweg enttäuschen und die Nachfrageprognosen nach unten korrigiert werden, ist deine These gefährdet. Achte auch auf Nachrichten über Überkapazitäten oder sinkende Preise für Speicherchips.",
+          "begriffDesTrades": "Halbleiter sind integrierte Schaltkreise (Chips), die als Gehirn oder Nervensystem in fast allen elektronischen Geräten dienen und für KI-Anwendungen essenziell sind."
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "iShares Healthcare",
+        "isin": null,
+        "klasse": "Sektor-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 120,
+        "stopLoss": 110,
+        "ziel": 140,
+        "zeitraum": "6-12 Monate",
+        "kette": "Gesundheitsdienstleister managen hohe Kosten erfolgreich -> Bessere Gewinnmargen für Unternehmen im Gesundheitswesen -> Positive Signale für den Sektor.",
+        "konfidenz": 60,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETF investiert in Unternehmen aus dem Gesundheitswesen weltweit. Dazu gehören Pharmaunternehmen, Hersteller von Medizintechnik und Anbieter von Gesundheitsdienstleistungen wie Krankenhäusern und Versicherungen. Der Sektor gilt oft als relativ stabil, da Gesundheit ein Grundbedürfnis ist.",
+          "warumJetzt": "Nachrichten wie die von UnitedHealth Group zeigen, dass Unternehmen im Gesundheitswesen trotz steigender Kosten gute Ergebnisse erzielen. Dies deutet auf eine widerstandsfähige Nachfrage und eine gute Kostenkontrolle hin, was den Sektor für Anleger attraktiv macht, besonders in unsicheren Zeiten.",
+          "wannKaufen": "Der ETF liegt aktuell um 120€. Ein Kauf auf diesem Niveau ist eine gute Gelegenheit. Der Gesundheitssektor bietet oft eine defensive Stabilität, die in einem volatilen Marktumfeld wertvoll ist.",
+          "wieViel": "Mit deinem Budget von 50€ kannst du auch hier einen kleinen Teil erwerben. Dies ermöglicht dir, die Performance des Sektors zu beobachten und zu lernen, wie defensive Sektoren auf Marktereignisse reagieren. Es ist ein Baustein für ein diversifiziertes Portfolio.",
+          "wannRaus": "Ein Stop-Loss bei 110€ schützt dein Kapital, falls es zu unerwarteten negativen Entwicklungen im Gesundheitswesen kommt, wie z.B. neue strengere Regulierungen oder ein unerwarteter Anstieg der medizinischen Kosten, der die Gewinne drückt. Ein Ziel von 140€ repräsentiert das Potenzial für moderate, aber stetige Gewinne.",
+          "wasKannSchiefgehen": "Strenge staatliche Preisregulierungen für Medikamente oder medizinische Leistungen könnten die Gewinne der Unternehmen schmälern. Außerdem könnten neue, unerwartete Krankheitswellen oder eine allgemeine wirtschaftliche Krise, die auch die Ausgaben für Gesundheit reduziert, den Sektor belasten.",
+          "woranErkenneIchFalsch": "Wenn führende Unternehmen des Sektors ihre Gewinnprognosen wiederholt senken und die Umsätze stagnieren oder sinken, obwohl die Nachfrage hoch sein sollte, dann ist die These fraglich. Achte auch auf negative Nachrichten bezüglich neuer Medikamentenzulassungen oder klinischer Studien.",
+          "begriffDesTrades": "Defensiver Sektor bezeichnet Wirtschaftszweige, deren Produkte und Dienstleistungen auch in wirtschaftlich unsicheren Zeiten stark nachgefragt werden, wie z.B. der Gesundheits- oder Konsumgütersektor."
+        }
+      }
+    ],
+    "narrativ": "Die Masse glaubt, dass die KI-Blase weiter platzt und die geopolitischen Spannungen die Weltwirtschaft in eine Rezession stürzen werden. Sie sehen nur die Risiken und verpassen die Chancen in stabilen Sektoren oder bei kurzfristigen Erholungen.",
+    "realitaet": "Die Realität ist komplexer: KI treibt weiterhin Innovationen und Wachstum, während geopolitische Risiken zwar vorhanden, aber oft lokal begrenzt sind und nicht zwangsläufig eine globale Krise auslösen. Globale Erholungstendenzen und die Fähigkeit von Sektoren wie dem Gesundheitswesen, Kosten zu managen, werden unterschätzt.",
+    "macht": "Tech-Giganten und ihre Zulieferer (Halbleiter) profitieren von KI-Investitionen. Energieproduzenten und die Rüstungsindustrie profitieren von geopolitischen Spannungen. Unternehmen im Gesundheitswesen profitieren von der anhaltenden Nachfrage nach medizinischer Versorgung.",
+    "geopolitik": "Die Spannungen im Nahen Osten und die Beziehungen zwischen den USA, Russland und China sind die Haupttreiber. Die Fähigkeit, diese Konflikte einzudämmen, ist entscheidend.",
+    "liquiditaet": "Kapital fließt weiterhin in defensive Sektoren wie das Gesundheitswesen und in Wachstumsbereiche wie KI/Halbleiter. Rohstoffe wie Öl reagieren kurzfristig auf Angebotsrisiken.",
+    "kette": "Geopolitische Spannungen im Nahen Osten -> Erhöhte Unsicherheit über Ölversorgung -> Kurzfristiger Anstieg des Ölpreises, gedämpft durch Aussicht auf mehr russisches Dieselangebot.",
+    "timing": "Wir befinden uns in einer Phase, in der sich die globale Wirtschaft von früheren Schocks erholt, aber mit anhaltenden geopolitischen Risiken und Inflationsdruck konfrontiert ist. Die Zentralbanken agieren vorsichtig.",
+    "saisonalitaet": "Keine signifikanten saisonalen Muster erkennbar, die die aktuellen Marktbewegungen dominieren.",
+    "masseFehler": "Die Masse konzentriert sich zu stark auf einzelne negative Nachrichten und ignoriert die breiteren Wachstumstrends oder die Resilienz bestimmter Sektoren. Sie neigen zu Panikreaktionen statt zu rationaler Analyse.",
+    "widerspruch": "AI-Investitionen stützen das Wachstum, während geopolitische Risiken und Schulden die Aussichten trüben. Dies schafft eine Marktunsicherheit, die sowohl Chancen als auch Risiken birgt.",
+    "markt": "Öl: Kurzfristig LONG wegen Geopolitik, aber gedämpft. Halbleiter: LONG wegen KI-Nachfrage. Healthcare: LONG wegen defensiver Stärke. Krypto: LONG wegen allgemeinem Risikoappetit und technologischem Fortschritt.",
+    "positionierung": "Das Sentiment (Fear & Greed Index bei 57) deutet auf eine neutrale bis leicht positive Stimmung hin, was bedeutet, dass die Anleger weder übermäßig ängstlich noch gierig sind. Dies ist oft ein Zeichen für einen gesunden Markt, der auf weitere Nachrichten reagieren kann.",
+    "reflexivitaet": "Steigende Ölpreise könnten die Inflation anheizen, was die Zentralbanken zu weiteren Zinserhöhungen zwingen könnte, was wiederum das Wirtschaftswachstum bremst und die Aktienkurse belastet – eine negative Feedbackschleife.",
+    "metaZyklus": "Umbruch und vorsichtige Erholung, mit anhaltenden Inflations- und geopolitischen Risiken.",
+    "psychologie": "Es gibt Anzeichen für eine gewisse Sorglosigkeit (Fear & Greed bei 57), aber die geopolitischen Risiken könnten schnell zu Panik führen, wenn sich die Lage verschärft. Vorsicht ist geboten.",
+    "halalAsset": "WisdomTree Brent Oil",
+    "halalStatus": "halal",
+    "halalBegruendung": "Investition in Rohöl ist erlaubt, solange keine Zins- oder andere verbotene Komponenten involviert sind.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 92,
+    "stopLoss": 88,
+    "ziel": 105,
+    "einsatz": 13,
+    "exitStrategie": "Gewinne bei Erreichen des Ziels von 105 USD mitnehmen oder den Stop-Loss auf den Einstiegspreis (92 USD) nachziehen, sobald der Preis 95 USD erreicht, um Gewinne abzusichern.",
+    "waehrungsrisiko": "Der EUR/USD Kurs ist stabil bei 1.1197. Ein starker USD könnte Öl (das in USD gehandelt wird) für Nicht-USD-Käufer verteuern und die Nachfrage dämpfen.",
+    "asymmetrie": {
+      "verlust": 4,
+      "gewinn": 13,
+      "ratio": 3.25,
+      "ev": 0.21
+    },
+    "lernpunkt": "Der Ölpreis reagiert stark auf geopolitische Unsicherheiten, da das Angebot potenziell unterbrochen werden könnte. Dies zeigt, wie globale Ereignisse direkt die Preise von wichtigen Rohstoffen beeinflussen und kurzfristige Handelsmöglichkeiten schaffen können.",
+    "tagesfrage": "Wie stark beeinflusst die Aussicht auf mehr russisches Dieselangebot den potenziellen Preisanstieg bei Öl, wenn gleichzeitig die Spannungen im Nahen Osten zunehmen?"
+  },
+  "prices": {
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.734000205993652,
+      "change": 0.5299701240901316
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4206.60009765625,
+      "change": 0.3818068922622466
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7807.240234375,
+      "change": -0.055044263563885414
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2500.7099609375,
+      "change": 2.30541321650389
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 27245.900390625,
+      "change": -0.4394825128739086
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25294.5390625,
+      "change": 0.06669668738755752
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 102.27999877929688,
+      "change": -0.29245763930859153
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.138000011444092,
+      "change": -0.9156944541370214
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 669.5,
+      "change": -0.4090740052063964
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 92.19999694824219,
+      "change": -1.6428429172415775
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1196954250335693,
+      "change": 0
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 5.239999771118164,
+      "change": 0
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 60.525001525878906,
+      "change": 0.638504003843304
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 83312.7265625,
+      "change": 1.8959338052791583
+    }
+  },
+  "fearGreed": [
+    71,
+    64,
+    59,
+    64,
+    61,
+    69,
+    57
+  ],
+  "simulation": {
+    "buy": 44,
+    "hold": 27,
+    "sell": 29
+  },
+  "dateKey": "2026-10-13"
+}

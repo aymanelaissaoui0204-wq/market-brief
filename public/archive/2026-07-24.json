@@ -1,0 +1,212 @@
+{
+  "date": "Freitag, 24. Juli 2026",
+  "generatedAt": "2026-07-24T07:30:50.900Z",
+  "news": [
+    {
+      "title": "Wirtschaft, Finanzen, Handwerk: In diesen Landtagsgremien spielt die Heidenheimer Grünen-Abgeordnete Clara Resch eine Rolle",
+      "source": "Heidenheimer Zeitung",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Der Börsen-Tag: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Morning Bid: Oil batters bonds as AI burns cash - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Brent hovers above $100/bbl, set for weekly rise on Middle East escalation - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Add a month at sea and $2.5 million - what it costs oil tankers to flee Hormuz and Bab el-Mandeb - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US says Saudi nuclear deal off without Israel recognition - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US House votes to curb Trump's Iran war powers but Senate backs president - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UK says armed forces ready to defend country after Iran warning over US bombers - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "GNews: Heidenheimer Zeitung: Clara Resch (Grüne) spielt Rolle in Landtagsgremien",
+      "GNews: n-tv NACHRICHTEN: Unicredit nähert sich Mehrheit bei Commerzbank",
+      "Finnhub: Reuters: Brent hovers above $100/bbl, set for weekly rise on Middle East escalation",
+      "Finnhub: CNBC: OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "Finnhub: CNBC: Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug"
+    ],
+    "hypeNews": [
+      "Geopolitische Spannungen im Nahen Osten treiben Ölpreise und Inflationsängste",
+      "KI-Sicherheit und Regulierung rücken nach Hack bei Hugging Face in den Fokus"
+    ],
+    "hypeCenter": "Geopolitik und Energiepreise. Die Eskalation im Nahen Osten treibt den Ölpreis über 100 USD/Barrel, was Inflationsängste schürt und die Märkte belastet.",
+    "peripherEffect": "Während Öl und Energie direkt betroffen sind, könnten verzögert auch Unternehmen profitieren, die alternative Energielösungen entwickeln, kritische Infrastrukturen absichern oder in der Logistik tätig sind, um Lieferkettenrisiken zu mindern. Auch die Nachfrage nach Edelmetallen als sicherer Hafen könnte steigen.",
+    "narrativ": "Die Welt steht am Rande eines größeren Konflikts, der die Energieversorgung bedroht und die Inflation anheizt. Gleichzeitig wird die KI-Entwicklung durch Sicherheitsbedenken und politische Eingriffe gebremst.",
+    "realitaet": "Die Ölpreissteigerung ist ein klassisches Beispiel für Angebotsverknappung durch geopolitische Risiken. Die KI-Diskussion ist ein Vorwand, um die Notwendigkeit strengerer Regulierungen und staatlicher Kontrolle über mächtige Technologien zu rechtfertigen, was wiederum bestimmten Lobbygruppen zugutekommt.",
+    "macht": "Ölfördernde Staaten und Konzerne, Rüstungsunternehmen, die sich auf die Sicherung von Seewegen spezialisieren, sowie Unternehmen, die von staatlichen Regulierungsinitiativen im KI-Bereich profitieren (z.B. Cybersicherheit).",
+    "geopolitik": "Die Spannungen im Nahen Osten verschärfen die globale Instabilität. Die BRICS-Staaten könnten versuchen, die Situation zu ihrem Vorteil zu nutzen, um die Abhängigkeit vom US-Dollar zu reduzieren, während die G7-Staaten auf die Sicherung ihrer Energieversorgung und die Eindämmung von Konflikten fokussiert sind. De-Dollarisierungstendenzen könnten durch die Ölpreisvolatilität verstärkt werden.",
+    "liquiditaet": "Kapital fließt aus risikoreicheren Anlagen (Aktien, Anleihen) in sichere Häfen wie Gold und potenziell in Rohstoffe, die von der Verknappung profitieren. Auch die Nachfrage nach Staatsanleihen könnte kurzfristig steigen, wenn die Angst vor einer Rezession zunimmt.",
+    "kette": "Iran/Houthi-Angriffe -> Eskalation im Roten Meer/Hormuz -> Ölpreis steigt über 100 USD -> Inflationsängste steigen -> Zentralbanken unter Druck -> Anleihen fallen -> Aktien unter Druck -> Suche nach sicheren Häfen.",
+    "timing": "Mitte des Trends. Die Ölpreissteigerung und die damit verbundenen geopolitischen Spannungen sind ein wiederkehrendes Muster, das sich nun in einer Phase erhöhter globaler Unsicherheit manifestiert. Die KI-Regulierungsdebatte ist ebenfalls im vollen Gange.",
+    "saisonalitaet": "Juli/August sind oft von geringerer Marktaktivität geprägt, aber geopolitische Schocks können diese Muster durchbrechen. Historisch gesehen können Sommerkrisen jedoch zu erhöhter Volatilität führen.",
+    "masseFehler": "Die Masse sieht nur die unmittelbare Ölpreissteigerung und die KI-Regulierung als isolierte Ereignisse. Sie übersehen die dahinterliegenden Machtstrukturen, die gezielt Krisen nutzen, um ihre Positionen zu stärken und neue Märkte zu erschließen (z.B. alternative Energien, Sicherheitstechnologien).",
+    "widerspruch": "Ja. Während Öl und damit verbundene Sektoren steigen, fallen Anleihen und Aktien, was auf eine allgemeine Marktunsicherheit hindeutet. Der Bitcoin zeigt sich relativ stabil, was auf eine mögliche Diversifizierung oder eine Neubewertung als digitaler Wertspeicher hindeutet, trotz der allgemeinen Risikoaversion.",
+    "markt": {
+      "Gold": "steigt",
+      "Silber": "steigt",
+      "Öl": "steigt",
+      "Bitcoin": "stabil/leicht steigend",
+      "DAX": "faellt/stabil",
+      "EUR/USD": "faellt"
+    },
+    "opportunity": "Null. Aktuell keine klare, isolierte Chance erkennbar, die islamischen ethischen Grundsätzen entspricht und die Kernprinzipien erfüllt. Die Marktbedingungen sind zu volatil und von externen geopolitischen Faktoren dominiert.",
+    "positionierung": "Smart Money positioniert sich defensiv, reduziert Risiko in Aktien und Anleihen, sucht Schutz in Rohstoffen und Edelmetallen. Sentiment ist klar negativ (Fear & Greed Index 28/100).",
+    "reflexivitaet": "Die steigenden Ölpreise führen zu höheren Transportkosten, was wiederum die Inflation anheizt. Dies erhöht den Druck auf Zentralbanken, die Zinsen zu erhöhen, was die Wirtschaft weiter abkühlen könnte und die Angst vor einer Rezession verstärkt.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.3,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch/Stagflation. Die Kombination aus geopolitischen Krisen, steigender Inflation und der Notwendigkeit, auf neue Technologien wie KI zu reagieren, deutet auf eine Phase des Umbruchs und der Stagflation hin.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
+    "halalStatus": "halal",
+    "halalBegruendung": "Gold als physischer Vermögenswert, der nicht verzinst wird und dessen Handel den islamischen Finanzprinzipien entspricht, ist halal.",
+    "purification": "0.00",
+    "entscheidung": "WARTEN",
+    "richtung": "null",
+    "einstieg": "null",
+    "stopLoss": "null",
+    "ziel": "null",
+    "zeitraum": "null",
+    "einsatz": 0,
+    "exitStrategie": "null",
+    "waehrungsrisiko": "Ein fallender EUR/USD würde den Wert von in USD gehandelten Rohstoffen und Gold für EUR-Investoren erhöhen, aber die allgemeine Marktunsicherheit überwiegt.",
+    "psychologie": "PANIK. Die Angst vor steigender Inflation und geopolitischer Eskalation treibt die Panik an den Märkten.",
+    "ruhigerTag": false,
+    "lernpunkt": "Stagflation: Stagflation beschreibt eine wirtschaftliche Situation, in der hohe Inflation, stagnierendes Wirtschaftswachstum und hohe Arbeitslosigkeit gleichzeitig auftreten. Dies ist eine besonders herausfordernde wirtschaftliche Konstellation, da traditionelle geldpolitische Instrumente zur Bekämpfung der Inflation (Zinserhöhungen) das Wachstum weiter dämpfen und die Arbeitslosigkeit erhöhen können.",
+    "tagesfrage": "Wie können wir sicherstellen, dass technologische Fortschritte wie KI dem Wohl aller dienen und nicht nur einer kleinen Elite, insbesondere in Zeiten geopolitischer Instabilität?",
+    "brief": "Ayman, die Märkte sind heute von zwei Hauptkräften getrieben: der Angst vor einem eskalierenden Konflikt im Nahen Osten, der die Ölpreise in die Höhe treibt, und der wachsenden Besorgnis über die Sicherheit und Regulierung von KI. Die Masse sieht nur die Oberfläche, aber wir müssen tiefer blicken. Die Ölpreissteigerung ist ein klassisches Spiel der Macht, das die Abhängigkeit von fossilen Brennstoffen ausnutzt. Die KI-Debatte wird genutzt, um Kontrolle zu rechtfertigen. Halte dich fern von Panikverkäufen und suche nach stabilen, ethisch vertretbaren Anlagen. Die Zeit des Wartens ist jetzt geboten."
+  },
+  "prices": {
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 65599.03125,
+      "change": 0.8520568031462924
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24885.240234375,
+      "change": 0.49315715462376836
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 58.54999923706055,
+      "change": 1.3010811740882806
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 90.54000091552734,
+      "change": -1.7897835797624668
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4049.89990234375,
+      "change": 0.08154511461142933
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1402509212493896,
+      "change": -0.08094753640680477
+    }
+  },
+  "fearGreed": [
+    25,
+    28,
+    29,
+    25,
+    33,
+    31,
+    28
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-07-24"
+}

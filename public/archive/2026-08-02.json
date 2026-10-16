@@ -1,0 +1,285 @@
+{
+  "date": "Sonntag, 2. August 2026",
+  "generatedAt": "2026-08-02T07:31:16.715Z",
+  "news": [
+    {
+      "title": "Wall Street deutlich im Plus: Kursfeuerwerk bei Microsoft - Börsenwert steigt um 450 Milliarden Dollar",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Leitzins, Iran-Krieg, KI-Sorgen: Dow Jones fällt so stark wie zuletzt im April 2025",
+      "source": "n-tv NACHRICHTEN",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Amazon.Com, Inc. Earnings Call Signals Big AI Bet",
+      "source": "The Globe and Mail",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AMZN(0.46)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Can Texas Instruments’ Q2 Beat and Softer Outlook Reframe Its AI-Fab Investment Story for TXN?",
+      "source": "Simply Wall St",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "TXN(0.25)",
+        "AVGO(0.13)",
+        "AMD(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "NIO Inc. (NYSE:NIO) leads 2026 deliveries following July surge of 71%",
+      "source": "TechStock²",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "XPEV(-0.18)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Did Marvell’s US$250 Million India R&D Push Just Reframe Its AI Data Center Story (MRVL)?",
+      "source": "Simply Wall St",
+      "sentiment": "Neutral",
+      "tickers": [
+        "MRVL(0.26)",
+        "NVDA(0.12)",
+        "AVGO(0.06)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Alphabet Stock (GOOGL) Opinions on Q2 Earnings and Capex Concerns",
+      "source": "Quiver Quantitative",
+      "sentiment": "Neutral",
+      "tickers": [
+        "GOOGL(0.08)",
+        "META(0.10)",
+        "AMZN(0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "The Bull Case For nVent Electric (NVT) Could Change Following Record Q2 Results And Cooling Expansion",
+      "source": "Simply Wall St",
+      "sentiment": "Bullish",
+      "tickers": [
+        "NVT(0.44)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "VOO ETF Crosses $1 Trillion: Buffett Legacy Validated, With One Caveat",
+      "source": "Tech Times",
+      "sentiment": "Neutral",
+      "tickers": [
+        "VOO(0.35)",
+        "NVDA(-0.34)",
+        "MSFT(-0.25)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Down 31% this year, can Tesla stock bounce back?",
+      "source": "Yahoo Finance UK",
+      "sentiment": "Bearish",
+      "tickers": [
+        "TSLA(-0.40)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Segall Bryant & Hamill LLC Takes Position in ASML Holding N.V. $ASML",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "ASML(0.28)",
+        "AMD(0.11)",
+        "AMAT(0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Honeywell Stock Leads This Wildfire Resilience Investing Watchlist",
+      "source": "Simply Wall St",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "HON(0.22)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "40,660 Shares in Q2 Holdings, Inc. $QTWO Acquired by Healthcare of Ontario Pension Plan Trust Fund",
+      "source": "MarketBeat",
+      "sentiment": "Bullish",
+      "tickers": [
+        "QTWO(0.46)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Cohu (COHU) Stock Rebounds As Losses Shrink But Recovery Questions Remain",
+      "source": "Simply Wall St",
+      "sentiment": "Neutral",
+      "tickers": [
+        "COHU(0.13)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "California State Teachers Retirement System Trims Holdings in Jabil, Inc. $JBL",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "JBL(0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "NRSH ETF Profile: Dividends, Returns (BOATS:NRSH)",
+      "source": "TradingView",
+      "sentiment": "Neutral",
+      "tickers": [
+        "NRSH(0.11)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Why Korn Ferry (KFY) Is Up 5.1% After AI-Focused Workforce Strategy And Revenue Momentum - And What's Next",
+      "source": "Simply Wall St",
+      "sentiment": "Bullish",
+      "tickers": [
+        "KFY(0.39)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Call to seek Centre’s intervention to revive, modernize FACT",
+      "source": "thehindubusinessline.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "4 Hyperscalers, One Message: The AI Trade Isn’t Over (NYSEARCA:SPY)",
+      "source": "seekingalpha.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "North Carolina Nonprofit Loses Nearly $1,000,000 to Fake IT Purchases by Former Administrator",
+      "source": "dailyhodl.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "oberflaeche": [
+      "Microsoft's Börsenwert steigt um 450 Milliarden Dollar.",
+      "Dow Jones fällt wegen Leitzins, Iran-Krieg und KI-Sorgen.",
+      "Amazon setzt stark auf KI."
+    ],
+    "hypeNews": [
+      "Amazon's aggressive KI-Investitionen signalisieren Wachstumspotenzial.",
+      "Texas Instruments' Ausgaben für KI-Fertigung stehen im Fokus trotz gemischter Aussichten."
+    ],
+    "hypeCenter": "Der Sektor der Künstlichen Intelligenz (KI) ist der stärkste Hype, angetrieben durch massive Investitionen von Tech-Giganten wie Amazon und die fortlaufende Entwicklung in der Halbleiterindustrie, die für KI-Chips unerlässlich ist.",
+    "peripherEffect": "Rohstoffe wie Kupfer und Spezialmetalle, die für die Infrastruktur von Rechenzentren und die Herstellung von KI-Hardware ben��tigt werden, sowie Zulieferer von Satellitenkommunikation für globale Datenübertragung, könnten mit Verzögerung profitieren.",
+    "narrativ": "Die breite Masse glaubt, dass KI-Aktien weiterhin unaufhaltsam steigen werden, da die Technologie als die Zukunft gilt und die großen Tech-Unternehmen massiv investieren.",
+    "realitaet": "Die tatsächliche Profitabilität und die Skalierbarkeit vieler KI-Anwendungen sind noch unsicher. Die hohen Investitionen könnten auch zu Überkapazitäten und Margendruck führen. Die Abhängigkeit von spezifischen Halbleiterherstellern birgt Risiken.",
+    "macht": "Große Technologieunternehmen (Microsoft, Amazon, Alphabet, Nvidia), Halbleiterhersteller (Texas Instruments, AMD, Marvell) und Investmentfonds, die diese Sektoren übergewichten.",
+    "geopolitik": "Die USA und China konkurrieren um die Vorherrschaft in der KI und Halbleitertechnologie. Die Abhängigkeit von Taiwan für die Chip-Produktion bleibt ein geopolitisches Risiko. BRICS-Staaten versuchen, eigene technologische Kapazitäten aufzubauen, was die globale Rohstoffnachfrage beeinflussen könnte.",
+    "liquiditaet": "Kapital fließt primär in KI-bezogene Technologieaktien, insbesondere in die großen Hyperscaler und Halbleiterhersteller, sowie in ETFs, die diese Sektoren abbilden.",
+    "kette": "Massive KI-Investitionen (A) -> Erhöhte Nachfrage nach spezialisierten Halbleitern (B) -> Steigende Produktionskapazitäten und -kosten bei Halbleiterherstellern (C) -> Potenzielle Engpässe und Preissteigerungen bei kritischen Rohstoffen für die Chip-Fertigung (D).",
+    "timing": "Mitte des Trends. Die KI-Entwicklung ist in vollem Gange, aber die breite wirtschaftliche Auswirkung und die Profitabilität vieler Anwendungen stehen noch bevor. Die anfängliche Euphorie weicht einer Phase der Konsolidierung und gezielteren Investitionen.",
+    "saisonalitaet": "August ist historisch oft ein eher ruhiger Sommermonat an den Börsen, mit geringerer Handelsaktivität. Dies könnte kurzfristige Volatilität verstärken, aber auch die Auswirkungen von Hype-Zyklen dämpfen.",
+    "masseFehler": "Die Masse übersieht, dass der Hype um KI nicht nur die direkten KI-Unternehmen, sondern auch die gesamte Lieferkette und die notwendige Infrastruktur betrifft. Die Verzögerungseffekte auf Rohstoffe und spezialisierte Zulieferer werden oft ignoriert.",
+    "widerspruch": "Ja. Während Microsoft und Amazon stark auf KI setzen und positive Signale senden, gibt es gleichzeitig Nachrichten über fallende Indizes wie den Dow Jones aufgrund von makroökonomischen Sorgen (Leitzins, Iran-Krieg). Dies deutet auf eine divergierende Marktstimmung hin, bei der Tech-Werte trotz allgemeiner Unsicherheit stark bleiben.",
+    "markt": "Gold: stabil | Silber: stabil | Öl: stabil | Bitcoin: leicht steigend | DAX: leicht steigend | EUR/USD: leicht steigend",
+    "opportunity": "Ja, in spezialisierten Rohstoffen und Zulieferern für die KI-Infrastruktur, die noch nicht im Fokus stehen.",
+    "positionierung": "Die Ticker-Daten zeigen eine überwiegend positive Stimmung für KI-bezogene Unternehmen (AMZN, TXN, MRVL, NVT, KFY, QTWO, JBL) und Halbleiter (ASML, AMD, AVGO). Es gibt jedoch auch negative Töne (TSLA, XPEV) und neutrale Einschätzungen (GOOGL, MRVL). Die allgemeine Marktstimmung (Fear & Greed: 27/100) ist ängstlich, was auf eine mögliche Überreaktion und Chancen für geduldige Investoren hindeutet.",
+    "reflexivitaet": "Der anhaltende Hype um KI treibt die Investitionen in die Technologie und die dazugehörige Infrastruktur weiter an. Dies erhöht die Nachfrage nach Rohstoffen und spezialisierten Komponenten, was wiederum die Preise dieser Güter beeinflussen kann und die Attraktivität von Unternehmen in diesen Bereichen steigert.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.3,
+      "ev": 0.12
+    },
+    "metaZyklus": "Umbruch. Die Welt befindet sich in einem technologischen und geopolitischen Umbruch, der von KI, neuen Allianzen und der Neuausrichtung globaler Lieferketten geprägt ist.",
+    "halalAsset": "Xetra-Gold DE000A0S9GB0",
+    "halalStatus": "halal",
+    "halalBegruendung": "Xetra-Gold ist ein physisch hinterlegtes Goldprodukt, das islamischen Anlageprinzipien entspricht, da es den Besitz von Vermögenswerten und die Vermeidung von Zinsen (Riba) sicherstellt.",
+    "purification": "0.00",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 4107,
+    "stopLoss": 3900,
+    "ziel": 4500,
+    "zeitraum": "4-8 Wochen",
+    "einsatz": 3.13,
+    "exitStrategie": "Verkauf, wenn das Ziel erreicht ist, oder bei einem Bruch des Stop-Loss-Levels.",
+    "waehrungsrisiko": "Ein steigender EUR/USD-Kurs könnte den Wert von in USD gehandelten Rohstoffen für einen EUR-Investor leicht reduzieren, aber der Goldpreis selbst ist der primäre Treiber.",
+    "psychologie": "FOMO Warnung: Die starke Performance von KI-Aktien könnte Anleger zu unüberlegten Käufen verleiten, ohne die Risiken zu berücksichtigen.",
+    "ruhigerTag": false,
+    "lernpunkt": "Periphere Assets: Dies sind Anlagen, die nicht direkt im Zentrum eines Hypes stehen, aber indirekt davon profitieren. Sie werden oft übersehen, da der Fokus auf den Hauptakteuren liegt. Die Analyse peripherer Assets erfordert ein tiefes Verständnis von Lieferketten und Abhängigkeiten.",
+    "tagesfrage": "Wie können wir die langfristige Nachhaltigkeit von KI-Investitionen bewerten, wenn die regulatorischen Rahmenbedingungen noch unklar sind?",
+    "brief": "Ayman, die heutige Analyse zeigt, dass der KI-Hype zwar die Tech-Giganten befeuert, aber die wahren Gewinner oft im Hintergrund agieren. Konzentriere dich auf die Rohstoffe und Zulieferer, die die KI-Infrastruktur ermöglichen – dort liegt oft die versteckte Rendite. Die Marktstimmung ist ängstlich, aber das ist oft das beste Umfeld für kluge Investoren, die das große Bild sehen. Halte den Fokus auf islamische Anlageprinzipien, auch wenn die Märkte wild werden."
+  },
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4107,
+      "change": 0
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 63423.28125,
+      "change": 1.0515073680201104
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25629.240234375,
+      "change": 0.0671986483402155
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1527377367019653,
+      "change": 0.03342425088195126
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 57.7859992980957,
+      "change": 0
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 84.66999816894531,
+      "change": 0
+    }
+  },
+  "fearGreed": [
+    30,
+    29,
+    29,
+    28,
+    25,
+    27,
+    27
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 90,
+    "sell": 0
+  },
+  "dateKey": "2026-08-02"
+}

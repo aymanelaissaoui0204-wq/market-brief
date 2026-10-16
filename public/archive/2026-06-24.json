@@ -1,0 +1,273 @@
+{
+  "date": "Mittwoch, 24. Juni 2026",
+  "generatedAt": "2026-06-24T16:14:06.459Z",
+  "news": [
+    {
+      "title": "Heidelberg plant eigenen Bürgermeister für Finanzen und Wirtschaft",
+      "source": "Mannheimer Morgen",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Finanzen: Wagniskapital für deutsche Biotech-Firmen bricht 2025 ein",
+      "source": "STERN.de",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "The Quiet Contract Shift Before Western Digital Stock’s Loud Re-Rating",
+      "source": "Trefis",
+      "sentiment": "Bullish",
+      "tickers": [
+        "WDC(0.73)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Can Taiwan Semiconductor Shares Hit $500 Before 2026 Ends?",
+      "source": "24/7 Wall St.",
+      "sentiment": "Bullish",
+      "tickers": [
+        "TSM(0.40)",
+        "NVDA(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BKNG Stock Rides AI Travel Boom As Summer Demand Heats Up",
+      "source": "StocksToTrade",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "BKNG(0.44)",
+        "GLW(0.24)",
+        "CTSH(0.20)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Western Digital Dropped 8% as the Memory Selloff Hit. Is the AI Storage Trade Breaking, or Is This a Buying Window?",
+      "source": "TIKR.com",
+      "sentiment": "Neutral",
+      "tickers": [
+        "WDC(0.23)",
+        "MU(0.13)",
+        "STX(0.12)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Apple (NASDAQ: AAPL) Edges Out NVIDIA (NASDAQ: NVDA) As The Smarter Buy For Investors Seeking Value And Growth",
+      "source": "Foreign Policy Journal",
+      "sentiment": "Bullish",
+      "tickers": [
+        "AAPL(0.41)",
+        "NVDA(0.33)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "The curse of being Israel’s most valuable company",
+      "source": "Globes - Israel Business News",
+      "sentiment": "Neutral",
+      "tickers": [
+        "TSEM(0.01)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Alphabet to replace Verizon in Dow Jones reshuffle",
+      "source": "Yahoo Finance",
+      "sentiment": "Bullish",
+      "tickers": [
+        "VZ(-0.19)",
+        "GOOGL(0.75)",
+        "GOOG(0.74)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Paychex (PAYX) delivers double-digit 2026 growth and sets 2027 EPS outlook",
+      "source": "Stock Titan",
+      "sentiment": "Neutral",
+      "tickers": [
+        "PAYX(0.01)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Tesla Under Pressure Again: Is the Bear Case Getting Overplayed?",
+      "source": "Yahoo Finance Singapore",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "TSLA(-0.30)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Dan Ives Believes MSFT Is The Most Oversold Large-Cap Stock, Draws Parallels To 'Negative' Narratives Around GOOGL A Year Ago",
+      "source": "Stocktwits",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "GOOGL(0.30)",
+        "MSFT(0.32)",
+        "INTC(0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "BlackRock: 'AI Is Sucking All The Oxygen Out Of The Room'—And Bitcoin Is Choking On It",
+      "source": "Yahoo Finance Singapore",
+      "sentiment": "Somewhat-Bullish",
+      "tickers": [
+        "BLK(0.11)",
+        "NVDA(0.28)",
+        "MSFT(0.25)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "What Analog Devices (ADI)'s AI-Chip Sentiment Shock After SK Hynix News Means For Shareholders",
+      "source": "Simply Wall Street",
+      "sentiment": "Neutral",
+      "tickers": [
+        "ADI(0.10)",
+        "NVDA(0.13)",
+        "AVGO(0.10)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Rambus Stock Is Down, But Is the Business?",
+      "source": "Trefis",
+      "sentiment": "Neutral",
+      "tickers": [
+        "RMBS(0.14)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Infosys chairman Nandan Nilekani to company's shareholders: AI will not replace companies like ours, it will ...",
+      "source": "The Times of India",
+      "sentiment": "Bullish",
+      "tickers": [
+        "INFY(0.43)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Assenagon Asset Management S.A. Sells 1,902 Shares of MercadoLibre, Inc. $MELI",
+      "source": "MarketBeat",
+      "sentiment": "Somewhat-Bearish",
+      "tickers": [
+        "MELI(-0.23)"
+      ],
+      "origin": "AlphaVantage"
+    },
+    {
+      "title": "Israel insists on troops in southern Lebanon as Rubio defends Iran deal in Middle East - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Polymarket-backed platform boosts funding to root out insider trading on prediction markets",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Italy rebukes NATO's Rutte over remarks on US use of bases in Iran war - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Ships start sailing through Hormuz under UN evacuation scheme, agency says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "We're buying the dip in a stock that we have been itching to get bigger in",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Qatar PM in Oman to pave way for Iran-Gulf-Iraq Hormuz talks - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    }
+  ],
+  "sections": {},
+  "prices": {
+    "SI=F": {
+      "label": "Silber",
+      "price": 58.779998779296875,
+      "change": -5.2241239189820305
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4018.39990234375,
+      "change": -2.699823304112598
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 70.55000305175781,
+      "change": -3.633378043954942
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 60368.6796875,
+      "change": -3.6690801160604933
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1353315114974976,
+      "change": -0.646009253710915
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 24740.359375,
+      "change": -0.615502883249972
+    }
+  },
+  "fearGreed": [
+    15,
+    14,
+    23,
+    23,
+    20,
+    23,
+    17
+  ],
+  "simulation": {
+    "buy": 10,
+    "hold": 60,
+    "sell": 30
+  },
+  "dateKey": "2026-06-24"
+}

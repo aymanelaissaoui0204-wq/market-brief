@@ -1,0 +1,384 @@
+{
+  "date": "Freitag, 18. September 2026",
+  "generatedAt": "2026-09-18T09:24:30.676Z",
+  "news": [
+    {
+      "title": "Fed: Demonstration der Unabhängigkeit",
+      "source": "General Anzeiger",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "South Korea's Lee says will not deploy military to get involved in Middle East conflict - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil prices fall 2% on easing fears over Saudi supply disruption - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "China's Djibouti base upgrades should boost its monitoring reach, report says - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US to allow Iranian leaders to attend UN General Assembly - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "What will Trump and Xi discuss in Washington next week? - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Two US-bound vessels apparently compromised by hackers, US officials say - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Intel and Micron lead our portfolio higher, and J&J's strengthens our case for owning it",
+      "source": "CNBC",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "US sanctions Iranian financier's crypto exchange, says it processes Hormuz payments - Reuters",
+      "source": "Reuters",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oracle exec tells workers that its own AI rollout didn't go so smoothly",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "OpenAI Is Offering Robotics Engineers up to $500,000 in Salary",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "'Diary of a CEO' Star Steven Bartlett Says He Needs X to Do His Job",
+      "source": "businessinsider.com",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Ayman, heute sehen wir eine komplexe Gemengelage. Der Ölpreis ist stark gefallen, obwohl die Spannungen im Nahen Osten zunehmen. Gleichzeitig steigen Aktienmärkte und Kryptowährungen, was auf eine gewisse Risikobereitschaft hindeutet. Wir müssen verstehen, wie diese scheinbaren Widersprüche zusammenhängen, besonders im Hinblick auf die Zinspolitik und die globale Geopolitik. Achte auf die unterschiedlichen Signale im Markt.",
+    "marktlage": "Der Markt zeigt sich heute widersprüchlich: fallende Ölpreise trotz geopolitischer Risiken, aber gleichzeitig steigende Aktien und Krypto, unterstützt von sinkenden Anleiherenditen.",
+    "oberflaeche": [
+      "Quelle: Reuters: Oil prices fall 2% on easing fears over Saudi supply disruption",
+      "Quelle: Reuters: Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say",
+      "Quelle: CNBC: Intel and Micron lead our portfolio higher, and J&J's strengthens our case for owning it"
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "Ölpreis fällt um 6.46% trotz fortwährendem Iran-Konflikt.",
+        "kette": "Nachlassende Sorge vor direkten Lieferunterbrechungen im Hormuz -> Ölpreis fällt -> geringerer Inflationsdruck -> Zinsen fallen (US 10J -1.18%) -> Anleihen steigen -> Aktien (S&P 500 +1.14%, Nasdaq +1.69%) und Krypto (BTC +2.44%, ETH +2.82%) profitieren.",
+        "warum": "Wenn die Angst vor einer akuten Angebotsknappheit bei Öl nachlässt, sinkt der Preis. Dies reduziert die Inflationserwartungen, was die Zentralbanken optimistischer stimmt, die Zinsen zu senken oder zumindest nicht weiter zu erhöhen. Niedrigere Zinsen machen Aktien und andere risikoreichere Anlagen attraktiver, da die Finanzierungskosten sinken und die zukünftigen Gewinne stärker diskontiert werden.",
+        "betroffen": "Energie (Öl), Anleihen, Aktien (global, Tech), Kryptowährungen.",
+        "investierbar": {
+          "asset": "iShares Core MSCI World",
+          "isin": "IE00B4L5Y983",
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Kauf des ETFs zur Partizipation an der breiten Aktienmarkterholung."
+        }
+      },
+      {
+        "ausloeser": "Container-Schifffahrtsraten könnten Rekordhöhen erreichen, da der Iran-Krieg den Anstieg der Treibstoffkosten antreibt.",
+        "kette": "Geopolitische Spannungen (Iran) und höhere Treibstoffkosten (falls Öl doch steigt) -> höhere Frachtkosten -> steigende Kosten für Importgüter -> Inflation steigt -> Zinsen steigen (langfristig) -> Renditen für Rohstoffproduzenten steigen, aber Konsumgüterhersteller unter Druck.",
+        "warum": "Wenn die Transportwege unsicherer werden oder die Kosten für Treibstoff steigen, verteuert sich der globale Warentransport. Dies schlägt sich in höheren Preisen für importierte Waren nieder, was die Inflation anheizt. Höhere Inflation kann Zentralbanken zwingen, die Zinsen zu erhöhen, um die Wirtschaft abzukühlen, was wiederum Unternehmen mit hohen Transportkosten belasten kann.",
+        "betroffen": "Schifffahrt, globale Logistik, Konsumgüterhersteller, Rohstoffproduzenten, Inflation, Zinsen.",
+        "investierbar": {
+          "asset": "MEIDEN",
+          "isin": null,
+          "richtung": "MEIDEN",
+          "halal": "fraglich",
+          "wie": "Direkte Investitionen in Schifffahrtsunternehmen meiden, da die Kostenbelastung hoch ist."
+        }
+      },
+      {
+        "ausloeser": "US-Sanktionen gegen iranische Krypto-Börse, die Zahlungen im Hormuz verarbeitet.",
+        "kette": "Sanktionen gegen Krypto-Infrastruktur im Iran -> erhöhtes regulatorisches Risiko für Krypto -> potenzielle Volatilität bei Bitcoin und Ethereum -> Anleger suchen sicherere Häfen oder reduzieren Risiko.",
+        "warum": "Wenn Regierungen gezielt Kryptowährungen sanktionieren, die für illegale oder sanktionierte Aktivitäten genutzt werden, erhöht dies die Wahrnehmung von regulatorischen Risiken. Dies kann dazu führen, dass Investoren vorsichtiger werden und ihre Bestände reduzieren oder sich von bestimmten Kryptowährungen distanzieren, die als anfälliger für regulatorische Eingriffe gelten.",
+        "betroffen": "Kryptowährungen (Bitcoin, Ethereum), regulatorische Entwicklung.",
+        "investierbar": {
+          "asset": "Bitcoin",
+          "isin": null,
+          "richtung": "REDUZIEREN",
+          "halal": "fraglich",
+          "wie": "Vorsichtige Haltung bei Bitcoin und Ethereum aufgrund von regulatorischen Unsicherheiten."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "iShares Core MSCI World Islamic",
+        "isin": "IE00B27YCK28",
+        "klasse": "Aktien-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 21.5,
+        "stopLoss": 20.5,
+        "ziel": 24,
+        "zeitraum": "4-8 Wochen",
+        "kette": "Globale Erholung der Aktienm��rkte trotz geopolitischer Unsicherheiten, gestützt durch sinkende Zinsängste und die Widerstandsfähigkeit der Weltwirtschaft.",
+        "konfidenz": 70,
+        "erklaerung": {
+          "wasIstDas": "Der iShares Core MSCI World Islamic ETF investiert in Unternehmen weltweit, die islamischen Finanzprinzipien entsprechen. Das bedeutet, dass Unternehmen, die beispielsweise Zinsen (Riba) verdienen oder in Branchen wie Alkohol, Glücksspiel oder Waffen tätig sind, ausgeschlossen werden. Er bietet eine breite Diversifikation über viele Länder und Sektoren hinweg, aber mit einem ethischen Filter.",
+          "warumJetzt": "Trotz geopolitischer Spannungen zeigen die globalen Aktienmärkte (wie der S&P 500 und Nasdaq) eine positive Entwicklung, und die Zinsängste lassen nach, was ein günstiges Umfeld für Aktien schafft. Dieser ETF bietet Zugang zu diesem globalen Wachstum, aber auf eine Weise, die unseren halal-Kriterien entspricht.",
+          "wannKaufen": "Jetzt kaufen. Der Kurs liegt bei etwa 21.50. Wenn der Markt weiter steigt, könnten wir diesen Einstiegspreis verpassen. Eine kleine Korrektur bis 21.20 wäre ideal, aber nicht zwingend notwendig, da die allgemeine Marktstimmung positiv ist.",
+          "wieViel": "Bei einem Budget von 50€ könntest du etwa 2-3 Anteile des ETFs kaufen. Das ist ein kleiner Betrag, der dir erlaubt, die Bewegung zu verfolgen und zu lernen, ohne ein großes Risiko einzugehen. So kannst du erste Erfahrungen mit dem Investieren sammeln und das Verhalten des Marktes beobachten.",
+          "wannRaus": "Nimm Gewinne mit, wenn der Kurs das Ziel von 24.00 erreicht. Das wäre ein Gewinn von über 10%. Setze einen Stop-Loss bei 20.50, um deine Verluste zu begrenzen, falls der Markt entgegen unserer Erwartung fällt. Dieser Stop-Loss ist etwa 5% unter dem Einstiegspreis.",
+          "wasKannSchiefgehen": "Die geopolitischen Spannungen im Nahen Osten könnten eskalieren und zu einem starken Markteinbruch führen. Wenn Ölpreise wieder stark steigen und die Inflation anzieht, könnten die Zinsen doch wieder steigen, was Aktien belasten würde. Auch eine unerwartete Rezession könnte die globalen Märkte treffen.",
+          "woranErkenneIchFalsch": "Wenn der Kurs unter 21.00 fällt, besonders wenn dies mit negativen Nachrichten über eine Eskalation der geopolitischen Lage oder steigende Inflationsdaten einhergeht, ist unsere These möglicherweise nicht mehr haltbar. Auch ein starker Anstieg des Ölpreises über 100 USD wäre ein Warnsignal.",
+          "begriffDesTrades": "Diversifikation: Das bedeutet, dein Geld auf viele verschiedene Anlagen zu verteilen, um das Risiko zu streuen. Statt alles auf eine Karte zu setzen, investierst du in einen ETF, der Hunderte von Unternehmen aus vielen Ländern enthält, was dein Risiko reduziert."
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "WisdomTree Brent Oil",
+        "isin": null,
+        "klasse": "Rohstoff-ETC",
+        "richtung": "MEIDEN",
+        "halal": "halal",
+        "einstieg": null,
+        "stopLoss": null,
+        "ziel": null,
+        "zeitraum": "Kurzfristig",
+        "kette": "Fears over Saudi supply disruption ease, but geopolitical risks remain.",
+        "konfidenz": 50,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETC (Exchange Traded Commodity) bildet die Wertentwicklung von Brent-Rohöl ab. Brent ist eine wichtige Sorte von Rohöl, die international gehandelt wird und als globaler Preisindikator dient. Mit diesem ETC kannst du auf steigende oder fallende Ölpreise spekulieren, ohne physisches Öl besitzen zu müssen.",
+          "warumJetzt": "Der Ölpreis ist heute stark gefallen, was zunächst als Chance für einen Long-Einstieg erscheinen mag. Allerdings sind die geopolitischen Spannungen im Nahen Osten weiterhin hoch. Die aktuelle Kursbewegung spiegelt möglicherweise nur eine kurzfristige Entspannung wider, während das Risiko einer erneuten Eskalation und damit eines erneuten Preisanstiegs besteht.",
+          "wannKaufen": "Aktuell nicht kaufen. Angesichts der widersprüchlichen Signale – fallende Preise, aber hohe geopolitische Risiken – ist eine abwartende Haltung ratsam. Ein Kauf wäre erst nach einer klareren Richtung oder einer deutlichen Entspannung der Lage sinnvoll.",
+          "wieViel": "Da wir aktuell nicht investieren, ist die Frage nach dem Einsatz irrelevant. Wenn du dich entscheidest zu investieren, wären bei 50€ nur sehr kleine Positionen möglich, da Ölpreise sehr volatil sind. Es ist besser, mit kleineren Beträgen zu starten, um die Mechanismen zu lernen, aber bei Rohstoffen ist Vorsicht geboten.",
+          "wannRaus": "Wenn du investiert hättest, wäre ein Stop-Loss bei einem deutlichen Anstieg des Ölpreises über 100 USD oder bei einer Verschärfung der geopolitischen Lage angebracht. Ein Gewinnziel wäre schwer zu definieren, da die Preisentwicklung stark von Nachrichten abhängt.",
+          "wasKannSchiefgehen": "Eine unerwartete Eskalation der Spannungen im Iran oder eine größere Angebotsunterbrechung könnte den Ölpreis sprunghaft ansteigen lassen. Umgekehrt könnte eine globale Rezession die Nachfrage stark dämpfen und den Preis weiter drücken.",
+          "woranErkenneIchFalsch": "Ein schneller Anstieg des Ölpreises über 100 USD, begleitet von Meldungen über neue Lieferengpässe oder militärische Aktionen im Persischen Golf, würde zeigen, dass unsere abwartende Haltung richtig war und eine neue Aufwärtsbewegung beginnt.",
+          "begriffDesTrades": "Geopolitische Risiken: Das sind Risiken, die aus politischen Ereignissen oder Spannungen zwischen Ländern entstehen. Im Falle von Öl können Konflikte oder Instabilität in ölproduzierenden Regionen die Preise stark beeinflussen."
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "iShares MSCI Semiconductors",
+        "isin": null,
+        "klasse": "Sektor-ETF",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 55,
+        "stopLoss": 52,
+        "ziel": 60,
+        "zeitraum": "6-12 Wochen",
+        "kette": "Starke Kursgewinne bei Intel und Micron, sowie hohe Gehälter für KI-Robotics-Ingenieure deuten auf anhaltende Nachfrage nach Halbleitertechnologie hin.",
+        "konfidenz": 65,
+        "erklaerung": {
+          "wasIstDas": "Dieser ETF investiert in Unternehmen des globalen Halbleitersektors. Halbleiter sind winzige elektronische Bauteile, die das Herzstück fast aller modernen Elektronikgeräte bilden, von Smartphones über Computer bis hin zu Autos und Rechenzentren.",
+          "warumJetzt": "Nachrichten über steigende Kurse von Intel und Micron, beides Halbleiterhersteller, sowie die hohe Nachfrage nach Fachkräften im Bereich KI und Robotik zeigen, dass die Nachfrage nach fortschrittlicher Technologie und damit nach Halbleitern weiterhin stark ist. Dieser Sektor profitiert von langfristigen Trends wie Digitalisierung und künstlicher Intelligenz.",
+          "wannKaufen": "Kaufen, wenn der Kurs leicht zurücksetzt, idealerweise um die 54.00-54.50. Der Sektor hat eine starke Nachfrage, aber kurzfristige Schwankungen sind normal. Ein Kauf auf diesem Niveau bietet ein besseres Chance-Risiko-Verhältnis als ein Kauf am aktuellen Hochpunkt.",
+          "wieViel": "Mit 50€ könntest du einen Teil eines Anteils kaufen oder darauf warten, dass der Kurs leicht fällt, um einen ganzen Anteil zu erwerben. Da der ETF teurer ist, wirst du wahrscheinlich nur Bruchteile kaufen. Das ist aber kein Problem und ermöglicht dir, am Wachstum des Sektors teilzuhaben.",
+          "wannRaus": "Setze ein Gewinnziel bei 60.00, was eine Steigerung von etwa 8-9% bedeutet. Der Stop-Loss bei 52.00 sichert dich ab, falls der Sektor unerwartet unter Druck gerät. Dies ist ein vernünftiger Puffer für eine Investition in einen volatilen Sektor.",
+          "wasKannSchiefgehen": "Eine globale Konjunkturabschwächung könnte die Nachfrage nach Elektronik und damit nach Halbleitern dämpfen. Auch Handelskonflikte oder neue technologische Durchbrüche, die bestehende Technologien obsolet machen, könnten den Sektor belasten.",
+          "woranErkenneIchFalsch": "Wenn der Kurs unter 52.00 fällt, insbesondere wenn dies mit negativen Nachrichten über die Nachfrage nach Elektronik oder Produktionsproblemen bei großen Herstellern einhergeht, wäre das ein Zeichen, dass die These überdacht werden muss.",
+          "begriffDesTrades": "Zyklizität: Viele Sektoren, wie der Halbleitersektor, durchlaufen Auf- und Abschwünge, die oft mit dem globalen Konjunkturzyklus verbunden sind. Man spricht von 'zyklischen' Sektoren, wenn ihre Leistung stark von der Wirtschaftslage abhängt."
+        }
+      }
+    ],
+    "narrativ": "Die Welt konzentriert sich auf die geopolitischen Spannungen im Nahen Osten und deren potenzielle Auswirkungen auf den Ölpreis. Gleichzeitig wird die Stärke der US-Tech-Giganten und die Entwicklung von KI als treibende Kräfte für die Aktienmärkte wahrgenommen.",
+    "realitaet": "Die Marktteilnehmer reagieren auf die Nachricht vom 'nachlassenden' Ölpreisrisiko, ignorieren aber die anhaltende Instabilität. Die Zinsentwicklung wird von den Marktteilnehmern positiv aufgenommen, was breitere Aktienmärkte und Krypto-Assets stützt, unabhängig von spezifischen Sektoren.",
+    "macht": "Zentralbanken (durch Zinspolitik), Ölproduzenten (OPEC+ und andere), Tech-Unternehmen (durch Innovation und Nachfrage nach Halbleitern), Regierungen (durch Sanktionen und geopolitische Entscheidungen).",
+    "geopolitik": "Fortwährende Spannungen im Nahen Osten (Iran-Konflikt), US-Politik (Sanktionen, UN-Gipfel), Handelsbeziehungen (USA-China).",
+    "liquiditaet": "Kapital fließt in risikoreichere Anlagen wie Aktien und Kryptowährungen, da die Zinsen sinken und die Inflationsängste nachlassen.",
+    "kette": "Nachlassende Ölpreis-Furcht -> sinkende Inflationserwartungen -> fallende Zinsen -> steigende Aktien und Krypto.",
+    "timing": "Der Markt befindet sich in einer Phase, in der die Zinsen ein Plateau erreichen oder sinken, was generell positiv für risikoreichere Anlagen ist, aber geopolitische Risiken bleiben ein Unsicherheitsfaktor.",
+    "saisonalitaet": "Keine starken saisonalen Muster erkennbar, die das heutige Marktgeschehen dominieren.",
+    "masseFehler": "Die Masse konzentriert sich zu sehr auf die kurzfristige Ölpreisbewegung und unterschätzt die anhaltenden geopolitischen Risiken, die jederzeit zu einer erneuten Preissteigerung führen könnten.",
+    "widerspruch": "Fallende Ölpreise trotz steigender geopolitischer Spannungen im Nahen Osten.",
+    "markt": "Aktien: LONG, Anleihen: LONG (Kurse steigen/Zinsen fallen), Rohöl: SHORT (kurzfristig, wegen fallendem Preis, aber mit hohem Risiko), Kryptos: LONG.",
+    "positionierung": "Der 'Fear & Greed Index' bei 56 deutet auf eine neutrale bis leicht gierige Stimmung hin, was auf eine moderate Risikobereitschaft hindeutet.",
+    "reflexivitaet": "Sinkende Zinsen machen Anleihen weniger attraktiv, was Kapital in risikoreichere Anlagen wie Aktien und Krypto treibt, was wiederum die Kurse dieser Anlagen steigen lässt und die Risikobereitschaft weiter erhöht.",
+    "metaZyklus": "Übergang von Stagflation zu potentiellem Wachstum, aber mit anhaltenden geopolitischen Risiken, die eine Rückkehr zur Stagflation begünstigen könnten.",
+    "psychologie": "Angst vor Verpassen (FOMO) bei steigenden Aktien- und Kryptopreisen, gemischt mit einer gewissen Besorgnis wegen der Geopolitik.",
+    "halalAsset": "iShares Core MSCI World Islamic (IE00B27YCK28)",
+    "halalStatus": "halal",
+    "halalBegruendung": "Der ETF investiert nur in Unternehmen, die islamischen Finanzprinzipien entsprechen und schließt Zinsgeschäfte sowie problematische Sektoren aus.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 21.5,
+    "stopLoss": 20.5,
+    "ziel": 24,
+    "einsatz": 3.13,
+    "exitStrategie": "Gewinne bei 24.00 mitnehmen, Verluste bei 20.50 begrenzen. Bei Erreichen des Ziels oder des Stop-Loss die Position schließen.",
+    "waehrungsrisiko": "EUR/USD steigt leicht auf 1.1485. Ein steigender Euro kann ausländische Investitionen in Euro verteuern. Für den iShares Core MSCI World Islamic ETF, der global investiert, ist das Währungsrisiko diversifiziert, aber eine Aufwertung des Euro gegenüber anderen Währungen könnte die Rendite leicht schmälern.",
+    "asymmetrie": {
+      "verlust": 8,
+      "gewinn": 18,
+      "ratio": 2.25,
+      "ev": 0.12
+    },
+    "lernpunkt": "Die Zinspolitik der Zentralbanken ist ein mächtiges Werkzeug, das die globalen Geldflüsse stark beeinflusst. Wenn die Zinsen fallen, wird Geld billiger und für Unternehmen und Investoren attraktiver, in risikoreichere Anlagen wie Aktien zu investieren, was deren Kurse steigen lässt.",
+    "tagesfrage": "Wie stark wird die globale Nachfrage nach Halbleitern die Entwicklung des Sektors beeinflussen, selbst wenn die Weltwirtschaft ins Stocken gerät?"
+  },
+  "prices": {
+    "GC=F": {
+      "label": "Gold",
+      "price": 4435.2001953125,
+      "change": 0.8068731600808204
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.665999889373779,
+      "change": 1.2070100888358497
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 95.33000183105469,
+      "change": -6.456679025222294
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 67.86000061035156,
+      "change": 3.650525958586151
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7637.759765625,
+      "change": 1.1381338561798389
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2516.199951171875,
+      "change": 2.8234674857674813
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 2.8510000705718994,
+      "change": -1.723541948355627
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 78269.078125,
+      "change": 2.441377701097265
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 26418.30078125,
+      "change": 1.6932166379619629
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1485011577606201,
+      "change": 0.13207757780448154
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 100.35800170898438,
+      "change": 0.13769755198600248
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 4.947000026702881,
+      "change": -1.178585992094181
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 723.75,
+      "change": -0.4470426409903714
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25623.58984375,
+      "change": -0.36210343529666233
+    }
+  },
+  "fearGreed": [
+    63,
+    61,
+    57,
+    69,
+    51,
+    50,
+    56
+  ],
+  "simulation": {
+    "buy": 46,
+    "hold": 15,
+    "sell": 39
+  },
+  "dateKey": "2026-09-18"
+}
