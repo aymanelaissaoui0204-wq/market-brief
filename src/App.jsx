@@ -1,5 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 
+// Daten kommen direkt aus dem GitHub-Repo – jeder Tag liegt als eigene Datei in public/archive/
+const RAW = "https://raw.githubusercontent.com/aymanelaissaoui0204-wq/market-brief/main/public";
+
 // ═══════════════════════════════════════════════════════════════════════════
 // MASTER PROMPT
 // ═══════════════════════════════════════════════════════════════════════════
@@ -413,7 +416,7 @@ function EntscheidungCard({ b }) {
       {isJa && b && (
         <>
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "7px" }}>
-            {[["Richtung", b.richtung, "white"], ["Einstieg", b.einstieg, "#FFD700"], ["Stop-Loss", b.stopLoss, "#FF5050"], ["Ziel", b.ziel, "#00C896"], ["Zeitraum", b.zeitraum, "white"], ["Einsatz", `${b.einsatz}€`, "#FFD700"]].map(([k, v, col]) => v && (
+            {[["Richtung", b.richtung, "white"], ["Einstieg", b.einstieg, "#FFD700"], ["Stop-Loss", b.stopLoss, "#FF5050"], ["Ziel", b.ziel, "#00C896"], ["Zeitraum", b.zeitraum, "white"], ["Einsatz", b.einsatz ? `${b.einsatz}€` : null, "#FFD700"]].map(([k, v, col]) => v && (
               <div key={k} style={{ background: k === "Stop-Loss" ? "rgba(255,80,80,0.07)" : k === "Ziel" ? "rgba(0,200,100,0.07)" : "rgba(255,255,255,0.03)", borderRadius: "8px", padding: "8px 9px", border: k === "Stop-Loss" ? "1px solid rgba(255,80,80,0.18)" : k === "Ziel" ? "1px solid rgba(0,200,100,0.18)" : "none" }}>
                 <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.28)", fontFamily: "'DM Mono'" }}>{k}</div>
                 <div style={{ fontSize: "12px", color: col, fontFamily: "'DM Mono'", marginTop: "2px", fontWeight: k === "Stop-Loss" || k === "Ziel" ? "700" : "400" }}>{v}</div>
@@ -599,7 +602,9 @@ function ChanceCard({ c, i }) {
         {c.klasse && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'", padding: "2px 7px", background: "rgba(255,255,255,0.04)", borderRadius: "5px" }}>{c.klasse}</span>}
         {hb.txt && <span style={{ fontSize: "9px", color: hb.col, fontFamily: "'DM Mono'" }}>{hb.txt}</span>}
         {c.isin && c.isin !== "null" && <span style={{ fontSize: "9px", color: "rgba(255,215,0,0.4)", fontFamily: "'DM Mono'" }}>{c.isin}</span>}
-        {!isNaN(konf) && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'" }}>Konfidenz {konf}%</span>}
+        {c.ueberzeugung && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'" }}>Überzeugung: {c.ueberzeugung} (unkalibriert)</span>}
+        {!c.ueberzeugung && !isNaN(konf) && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'" }}>Konfidenz {konf}% (unkalibriert)</span>}
+        {c.basiswert && <span style={{ fontSize: "9px", color: "rgba(108,142,255,0.7)", fontFamily: "'DM Mono'" }}>Level im {c.basiswert}-Kurs</span>}
       </div>
       {c.kette && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "7px" }}>{c.kette}</div>}
       {(c.einstieg || c.stopLoss || c.ziel) && (
@@ -607,6 +612,24 @@ function ChanceCard({ c, i }) {
           {c.einstieg && <div style={{ flex: 1, background: "rgba(255,215,0,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>EINSTIEG</div><div style={{ fontSize: "11px", color: "#FFD700", fontFamily: "'DM Mono'" }}>{c.einstieg}</div></div>}
           {c.stopLoss && <div style={{ flex: 1, background: "rgba(255,80,80,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>STOP</div><div style={{ fontSize: "11px", color: "#FF5050", fontFamily: "'DM Mono'" }}>{c.stopLoss}</div></div>}
           {c.ziel && <div style={{ flex: 1, background: "rgba(0,200,100,0.05)", borderRadius: "6px", padding: "6px", textAlign: "center" }}><div style={{ fontSize: "7px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>ZIEL</div><div style={{ fontSize: "11px", color: "#00C896", fontFamily: "'DM Mono'" }}>{c.ziel}</div></div>}
+        </div>
+      )}
+      <RechnungBox r={c.rechnung} />
+      {(Array.isArray(c.pro) && c.pro.length > 0 || Array.isArray(c.contra) && c.contra.length > 0) && (
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "6px", marginBottom: "9px" }}>
+          <div style={{ padding: "8px", background: "rgba(0,200,100,0.04)", borderRadius: "7px" }}>
+            <div style={{ fontSize: "9px", color: "#00C896", fontFamily: "'DM Mono'", marginBottom: "4px" }}>Dafür</div>
+            {(c.pro || []).map((x, k) => <div key={k} style={{ fontSize: "10px", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'", lineHeight: "1.5", marginBottom: "3px" }}>+ {x}</div>)}
+          </div>
+          <div style={{ padding: "8px", background: "rgba(255,80,80,0.04)", borderRadius: "7px" }}>
+            <div style={{ fontSize: "9px", color: "#FF5050", fontFamily: "'DM Mono'", marginBottom: "4px" }}>Dagegen</div>
+            {(c.contra || []).map((x, k) => <div key={k} style={{ fontSize: "10px", color: "rgba(255,255,255,0.65)", fontFamily: "'DM Mono'", lineHeight: "1.5", marginBottom: "3px" }}>− {x}</div>)}
+          </div>
+        </div>
+      )}
+      {c.eingepreist && (
+        <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.55)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "9px", padding: "7px 9px", background: "rgba(108,142,255,0.05)", borderRadius: "7px" }}>
+          <span style={{ color: "rgba(108,142,255,0.85)" }}>Schon eingepreist? </span>{c.eingepreist}
         </div>
       )}
       {fragen.length > 0 && (
@@ -707,104 +730,236 @@ function Brief({ text, date }) {
   );
 }
 
-function Kalender({ history, onSelect }) {
+const fmtPct = (v) => (v == null || isNaN(v)) ? "—" : `${v >= 0 ? "+" : ""}${Number(v).toFixed(1)}%`;
+const pctCol = (v) => (v == null || isNaN(v)) ? "rgba(255,255,255,0.3)" : v > 0 ? "#00C896" : v < 0 ? "#FF5050" : "rgba(255,255,255,0.5)";
+const fmtEur = (v) => (v == null || isNaN(v)) ? "—" : `${v >= 0 ? "+" : "−"}${Math.abs(v).toFixed(2).replace(".", ",")} €`;
+
+function RechnungBox({ r }) {
+  if (!r) return null;
+  const hinweise = Array.isArray(r.hinweise) ? r.hinweise : [];
+  if (!r.plausibel) {
+    if (!hinweise.length) return null;
+    return (
+      <div style={{ marginBottom: "9px", padding: "8px 9px", background: "rgba(255,184,0,0.05)", border: "1px solid rgba(255,184,0,0.18)", borderRadius: "7px" }}>
+        {hinweise.map((h, k) => <div key={k} style={{ fontSize: "10px", color: "rgba(255,255,255,0.6)", fontFamily: "'DM Mono'", lineHeight: "1.6" }}>⚠️ {h}</div>)}
+      </div>
+    );
+  }
+  const gut = r.crvNetto >= 1.5;
+  return (
+    <div style={{ marginBottom: "9px", padding: "10px", background: "rgba(255,255,255,0.02)", border: `1px solid ${gut ? "rgba(0,200,100,0.2)" : "rgba(255,80,80,0.2)"}`, borderRadius: "8px" }}>
+      <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.5)", fontFamily: "'DM Mono'", marginBottom: "7px" }}>Rechnung bei {r.budget} € Einsatz, inkl. {r.gebuehren} € Gebühren (vom Code berechnet)</div>
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "6px", marginBottom: "7px" }}>
+        {[["Wenn Stop", fmtEur(-r.verlustEur), "#FF5050"], ["Wenn Ziel", fmtEur(r.gewinnEur), "#00C896"], ["Chance : Risiko", `${r.crvNetto} : 1`, gut ? "#00C896" : "#FF5050"]].map(([k, v, col]) => (
+          <div key={k} style={{ textAlign: "center", padding: "6px", background: "rgba(255,255,255,0.03)", borderRadius: "6px" }}>
+            <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>{k}</div>
+            <div style={{ fontSize: "12px", color: col, fontFamily: "'DM Mono'", fontWeight: "700" }}>{v}</div>
+          </div>
+        ))}
+      </div>
+      <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.6)", fontFamily: "'DM Mono'", lineHeight: "1.6" }}>
+        Nötige Trefferquote, um nicht zu verlieren: <span style={{ color: r.breakEven > 55 ? "#FF5050" : "#00C896", fontWeight: "700" }}>{Math.round(r.breakEven)} %</span>
+        {r.stopInAtr != null && <> · Stop = {r.stopInAtr}× normale Tagesschwankung</>}
+        {r.verifiziert && r.kursStand && <> · Kurs geprüft (Stand {r.kursStand})</>}
+      </div>
+      {hinweise.map((h, k) => <div key={k} style={{ fontSize: "10px", color: "rgba(255,184,0,0.85)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginTop: "4px" }}>⚠️ {h}</div>)}
+    </div>
+  );
+}
+
+function DatenTabelle({ prices }) {
+  const rows = Object.values(prices || {}).filter(p => p && p.label && p.ch5 !== undefined);
+  if (!rows.length) return null;
+  const stand = rows.map(r => r.stand).filter(Boolean).sort().pop();
+  return (
+    <div style={{ background: "rgba(255,255,255,0.02)", border: "1px solid rgba(108,142,255,0.15)", borderRadius: "11px", padding: "12px", marginBottom: "10px" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: "9px" }}>
+        <span style={{ fontSize: "12px", color: "#FFD700", fontFamily: "'Syne'", fontWeight: "700" }}>Marktdaten des Tages</span>
+        {stand && <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'" }}>Stand {stand}</span>}
+      </div>
+      {rows.map((r) => (
+        <div key={r.label} style={{ padding: "7px 0", borderBottom: "1px solid rgba(255,255,255,0.04)" }}>
+          <div style={{ display: "flex", justifyContent: "space-between", marginBottom: "3px" }}>
+            <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.8)", fontFamily: "'DM Mono'" }}>{r.label}</span>
+            <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.7)", fontFamily: "'DM Mono'" }}>{r.price >= 1000 ? Math.round(r.price).toLocaleString("de-DE") : Number(r.price).toFixed(r.price >= 10 ? 2 : 4)}</span>
+          </div>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "8px", fontSize: "9px", fontFamily: "'DM Mono'" }}>
+            <span style={{ color: pctCol(r.change) }}>1T {fmtPct(r.change)}</span>
+            <span style={{ color: pctCol(r.ch5) }}>5T {fmtPct(r.ch5)}</span>
+            <span style={{ color: pctCol(r.ch20) }}>20T {fmtPct(r.ch20)}</span>
+            <span style={{ color: "rgba(255,255,255,0.45)" }}>vom Hoch {fmtPct(r.abstandHoch)}</span>
+            <span style={{ color: r.rsi > 70 ? "#FF5050" : r.rsi < 30 ? "#00C896" : "rgba(255,255,255,0.45)" }}>RSI {r.rsi ?? "—"}</span>
+            <span style={{ color: "rgba(255,255,255,0.45)" }}>Vola {r.vola ?? "—"}%</span>
+          </div>
+        </div>
+      ))}
+      <div style={{ fontSize: "9px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'", lineHeight: "1.7", marginTop: "8px" }}>
+        RSI über 70 heißt: stark gelaufen, gute News oft schon im Preis. Unter 30: stark gefallen. Vola ist die Schwankung aufs Jahr gerechnet; je höher, desto weiter muss ein Stop weg sein. „vom Hoch" misst den Abstand zum 3-Monats-Hoch.
+      </div>
+    </div>
+  );
+}
+
+function EreignisseBlock({ ereignisse, neuHeute }) {
+  if ((!Array.isArray(ereignisse) || !ereignisse.length) && !neuHeute) return null;
+  const typCol = (t) => /fakt/i.test(t || "") ? "#00C896" : /spekul/i.test(t || "") ? "#FF5050" : "#FFB800";
+  return (
+    <div style={{ marginBottom: "11px" }}>
+      <div style={{ fontSize: "12px", color: "#FFD700", fontFamily: "'Syne'", fontWeight: "700", marginBottom: "8px" }}>Was heute wirklich passiert ist</div>
+      {neuHeute && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.7)", fontFamily: "'DM Mono'", lineHeight: "1.7", marginBottom: "8px", padding: "9px 10px", background: "rgba(255,215,0,0.04)", borderRadius: "8px" }}>{neuHeute}</div>}
+      {(ereignisse || []).map((e, i) => (
+        <div key={i} style={{ padding: "9px 10px", background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,255,255,0.05)", borderRadius: "8px", marginBottom: "6px" }}>
+          <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.85)", fontFamily: "'DM Mono'", lineHeight: "1.5", marginBottom: "5px" }}>{e.ereignis}</div>
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "8px", fontSize: "9px", fontFamily: "'DM Mono'" }}>
+            {e.typ && <span style={{ color: typCol(e.typ) }}>{e.typ}</span>}
+            <span style={{ color: e.neu ? "#00C896" : "rgba(255,255,255,0.4)" }}>{e.neu ? "neu" : "schon bekannt"}</span>
+            {e.quellen != null && <span style={{ color: "rgba(255,255,255,0.4)" }}>{e.quellen} Quelle{e.quellen === 1 ? "" : "n"}</span>}
+            {e.betroffen && <span style={{ color: "rgba(255,255,255,0.4)" }}>betrifft: {e.betroffen}</span>}
+          </div>
+          {e.wirkung && <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.5)", fontFamily: "'DM Mono'", marginTop: "4px", lineHeight: "1.5" }}>{e.wirkung}</div>}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function RueckblickBlock({ rueckblick }) {
+  if (!Array.isArray(rueckblick) || !rueckblick.length) return null;
+  const col = (s) => /best/i.test(s || "") ? "#00C896" : /wider/i.test(s || "") ? "#FF5050" : "#FFB800";
+  return (
+    <div style={{ marginBottom: "11px", padding: "11px", background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,255,255,0.06)", borderRadius: "11px" }}>
+      <div style={{ fontSize: "12px", color: "#FFD700", fontFamily: "'Syne'", fontWeight: "700", marginBottom: "8px" }}>Was aus meinen letzten Ideen geworden ist</div>
+      {rueckblick.map((r, i) => (
+        <div key={i} style={{ padding: "7px 0", borderBottom: "1px solid rgba(255,255,255,0.04)" }}>
+          <div style={{ display: "flex", justifyContent: "space-between", gap: "8px" }}>
+            <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.8)", fontFamily: "'DM Mono'" }}>{r.asset} <span style={{ color: "rgba(255,255,255,0.3)" }}>({r.datum})</span></span>
+            <span style={{ fontSize: "10px", color: col(r.status), fontFamily: "'DM Mono'", whiteSpace: "nowrap" }}>{r.status}</span>
+          </div>
+          {r.warum && <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.55)", fontFamily: "'DM Mono'", lineHeight: "1.5", marginTop: "3px" }}>{r.warum}</div>}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+const STATUS_TXT = { ziel: ["Ziel erreicht", "#00C896"], stop: ["Stop ausgelöst", "#FF5050"], abgelaufen: ["Zeit abgelaufen", "#FFB800"], nicht_ausgeloest: ["Einstieg nie erreicht", "rgba(255,255,255,0.4)"], laeuft: ["läuft", "#6C8EFF"], offen: ["wartet", "rgba(255,255,255,0.4)"] };
+
+function TrackerBlock({ tracker, onOpenDay }) {
+  if (!tracker?.zusammenfassung) return null;
+  const z = tracker.zusammenfassung;
+  const liste = (tracker.prognosen || []).slice(0, 15);
+  return (
+    <div style={{ background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,215,0,0.14)", borderRadius: "11px", padding: "12px", marginBottom: "12px" }}>
+      <div style={{ fontSize: "12px", color: "#FFD700", fontFamily: "'Syne'", fontWeight: "700", marginBottom: "4px" }}>Prognose-Bilanz</div>
+      <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "9px" }}>
+        Jede geprüfte Kauf-Idee wird gegen echte Kurse ausgewertet, so als hättest du {tracker.budget} € eingesetzt. Alte Prognosen werden nie verändert.
+      </div>
+      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "6px", marginBottom: "8px" }}>
+        {[["Abgeschlossen", z.geschlossen, "white"], ["Trefferquote", z.trefferquote == null ? "—" : `${Math.round(z.trefferquote)} %`, z.trefferquote >= 50 ? "#00C896" : "#FFB800"], ["Summe", fmtEur(z.summeEur), pctCol(z.summeEur)]].map(([k, v, c]) => (
+          <div key={k} style={{ textAlign: "center", padding: "7px", background: "rgba(255,255,255,0.03)", borderRadius: "7px" }}>
+            <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>{k}</div>
+            <div style={{ fontSize: "13px", color: c, fontFamily: "'DM Mono'", fontWeight: "700" }}>{v}</div>
+          </div>
+        ))}
+      </div>
+      <div style={{ fontSize: "10px", color: "rgba(255,184,0,0.75)", fontFamily: "'DM Mono'", lineHeight: "1.6", marginBottom: "8px" }}>
+        {z.geschlossen < 100 ? `Noch ${100 - z.geschlossen} abgeschlossene Ideen, bis die Trefferquote halbwegs belastbar ist. Bis dahin: nur auf Papier.` : "Genug Daten für eine erste Einschätzung – Schwankungsbreite trotzdem beachten."}
+      </div>
+      {z.proStufe && Object.keys(z.proStufe).length > 0 && (
+        <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.55)", fontFamily: "'DM Mono'", lineHeight: "1.7", marginBottom: "8px" }}>
+          Trifft die „Überzeugung" zu? {Object.entries(z.proStufe).map(([k, v]) => `${k}: ${v.ziel}/${v.n}`).join(" · ")}
+        </div>
+      )}
+      {liste.map((p) => {
+        const [txt, col] = STATUS_TXT[p.status] || [p.status, "white"];
+        return (
+          <div key={p.id} onClick={() => onOpenDay(p.datum)} style={{ display: "flex", justifyContent: "space-between", gap: "8px", padding: "7px 0", borderBottom: "1px solid rgba(255,255,255,0.04)", cursor: "pointer" }}>
+            <div>
+              <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.8)", fontFamily: "'DM Mono'" }}>{p.asset}</div>
+              <div style={{ fontSize: "9px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>{p.datum} · {p.einstieg} / {p.stop} / {p.ziel}</div>
+            </div>
+            <div style={{ textAlign: "right" }}>
+              <div style={{ fontSize: "10px", color: col, fontFamily: "'DM Mono'" }}>{txt}</div>
+              {p.ergebnisEur != null && <div style={{ fontSize: "10px", color: pctCol(p.ergebnisEur), fontFamily: "'DM Mono'" }}>{fmtEur(p.ergebnisEur)}</div>}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+function Kalender({ index, selected, onSelect }) {
   const now = new Date();
   const [year, setYear] = useState(now.getFullYear());
   const [month, setMonth] = useState(now.getMonth());
-  const [selected, setSelected] = useState(null);
-
-  // Build map: "YYYY-MM-DD" -> briefing
-  const briefingMap = {};
-  history.forEach(item => {
-    if (!item.date) return;
-    // Try to parse German date format
-    try {
-      const parts = item.date.split(", ")[1]?.split(" ");
-      if (parts && parts.length >= 3) {
-        const months = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
-        const d = parseInt(parts[0]);
-        const m = months.indexOf(parts[1]);
-        const y = parseInt(parts[2]);
-        if (d && m >= 0 && y) {
-          const key = `${y}-${String(m+1).padStart(2,"0")}-${String(d).padStart(2,"0")}`;
-          briefingMap[key] = item;
-        }
-      }
-    } catch {}
-  });
+  const tage = {};
+  (index || []).forEach(e => { if (e?.date) tage[e.date] = e; });
 
   const daysInMonth = new Date(year, month + 1, 0).getDate();
   const firstDay = new Date(year, month, 1).getDay();
   const startOffset = firstDay === 0 ? 6 : firstDay - 1;
   const monthNames = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
   const dayNames = ["Mo","Di","Mi","Do","Fr","Sa","So"];
-  const todayKey = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`;
-
-  const prevMonth = () => { if (month === 0) { setMonth(11); setYear(y => y-1); } else setMonth(m => m-1); };
-  const nextMonth = () => { if (month === 11) { setMonth(0); setYear(y => y+1); } else setMonth(m => m+1); };
-
+  const pad = (n) => String(n).padStart(2, "0");
+  const todayKey = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}`;
+  const prevMonth = () => { if (month === 0) { setMonth(11); setYear(y => y - 1); } else setMonth(m => m - 1); };
+  const nextMonth = () => { if (month === 11) { setMonth(0); setYear(y => y + 1); } else setMonth(m => m + 1); };
   const cells = [];
   for (let i = 0; i < startOffset; i++) cells.push(null);
   for (let d = 1; d <= daysInMonth; d++) cells.push(d);
+  const auswahl = selected ? tage[selected] : null;
 
   return (
     <div style={{ background: "rgba(255,255,255,0.02)", border: "1px solid rgba(255,215,0,0.12)", borderRadius: "14px", padding: "14px", marginBottom: "12px" }}>
-      {/* Header */}
       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "12px" }}>
-        <button onClick={prevMonth} style={{ background: "transparent", border: "none", color: "rgba(255,255,255,0.4)", fontSize: "18px", cursor: "pointer", padding: "4px 8px" }}>‹</button>
-        <span style={{ fontSize: "12px", fontWeight: "600", color: "#FFD700", fontFamily: "'DM Mono'", letterSpacing: "1px" }}>{monthNames[month]} {year}</span>
-        <button onClick={nextMonth} style={{ background: "transparent", border: "none", color: "rgba(255,255,255,0.4)", fontSize: "18px", cursor: "pointer", padding: "4px 8px" }}>›</button>
+        <button onClick={prevMonth} aria-label="Vorheriger Monat" style={{ background: "transparent", border: "none", color: "rgba(255,255,255,0.5)", fontSize: "20px", cursor: "pointer", padding: "4px 10px" }}>‹</button>
+        <span style={{ fontSize: "13px", fontWeight: "700", color: "#FFD700", fontFamily: "'Syne'" }}>{monthNames[month]} {year}</span>
+        <button onClick={nextMonth} aria-label="Nächster Monat" style={{ background: "transparent", border: "none", color: "rgba(255,255,255,0.5)", fontSize: "20px", cursor: "pointer", padding: "4px 10px" }}>›</button>
       </div>
-
-      {/* Day names */}
       <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: "2px", marginBottom: "4px" }}>
-        {dayNames.map(d => <div key={d} style={{ textAlign: "center", fontSize: "9px", color: "rgba(255,255,255,0.25)", fontFamily: "'DM Mono'", padding: "2px 0" }}>{d}</div>)}
+        {dayNames.map(d => <div key={d} style={{ textAlign: "center", fontSize: "9px", color: "rgba(255,255,255,0.3)", fontFamily: "'DM Mono'", padding: "2px 0" }}>{d}</div>)}
       </div>
-
-      {/* Days grid */}
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: "2px" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: "3px" }}>
         {cells.map((day, i) => {
           if (!day) return <div key={`e-${i}`} />;
-          const key = `${year}-${String(month+1).padStart(2,"0")}-${String(day).padStart(2,"0")}`;
-          const hasBriefing = !!briefingMap[key];
-          const isToday = key === todayKey;
-          const isSelected = selected === key;
+          const key = `${year}-${pad(month + 1)}-${pad(day)}`;
+          const t = tage[key];
+          const isSel = selected === key, isToday = key === todayKey;
+          const farbe = t ? (t.analyseOk ? "#00C896" : "rgba(255,255,255,0.35)") : null;
           return (
-            <div key={key} onClick={() => { if (hasBriefing) { setSelected(key); onSelect(briefingMap[key]); } }}
-              style={{
-                aspectRatio: "1", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center",
-                borderRadius: "8px", cursor: hasBriefing ? "pointer" : "default",
-                background: isSelected ? "rgba(255,215,0,0.2)" : isToday ? "rgba(255,215,0,0.08)" : hasBriefing ? "rgba(0,200,100,0.08)" : "transparent",
-                border: isSelected ? "1px solid rgba(255,215,0,0.5)" : isToday ? "1px solid rgba(255,215,0,0.25)" : hasBriefing ? "1px solid rgba(0,200,100,0.2)" : "1px solid transparent",
-                transition: "all .15s"
-              }}>
-              <span style={{ fontSize: "11px", color: isSelected ? "#FFD700" : isToday ? "#FFD700" : hasBriefing ? "#00C896" : "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'", fontWeight: hasBriefing || isToday ? "600" : "400" }}>{day}</span>
-              {hasBriefing && <div style={{ width: "4px", height: "4px", borderRadius: "50%", background: isSelected ? "#FFD700" : "#00C896", marginTop: "1px" }} />}
-            </div>
+            <button key={key} disabled={!t} onClick={() => t && onSelect(key)} aria-label={t ? `Briefing vom ${key} öffnen` : undefined}
+              style={{ aspectRatio: "1", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", borderRadius: "8px", cursor: t ? "pointer" : "default", padding: 0,
+                background: isSel ? "rgba(255,215,0,0.2)" : t ? "rgba(0,200,100,0.07)" : "transparent",
+                border: isSel ? "1px solid rgba(255,215,0,0.6)" : isToday ? "1px solid rgba(255,215,0,0.3)" : t ? "1px solid rgba(0,200,100,0.18)" : "1px solid transparent" }}>
+              <span style={{ fontSize: "11px", color: isSel || isToday ? "#FFD700" : t ? "rgba(255,255,255,0.85)" : "rgba(255,255,255,0.25)", fontFamily: "'DM Mono'", fontWeight: t ? "600" : "400" }}>{day}</span>
+              {t && <span style={{ width: "4px", height: "4px", borderRadius: "50%", background: farbe, marginTop: "2px" }} />}
+            </button>
           );
         })}
       </div>
-
-      {/* Legend */}
-      <div style={{ display: "flex", gap: "12px", marginTop: "10px", justifyContent: "center" }}>
-        <div style={{ display: "flex", gap: "5px", alignItems: "center" }}>
-          <div style={{ width: "8px", height: "8px", borderRadius: "50%", background: "#00C896" }} />
-          <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>Briefing vorhanden</span>
-        </div>
-        <div style={{ display: "flex", gap: "5px", alignItems: "center" }}>
-          <div style={{ width: "8px", height: "8px", borderRadius: "50%", background: "#FFD700" }} />
-          <span style={{ fontSize: "9px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'" }}>Heute</span>
-        </div>
+      <div style={{ display: "flex", gap: "14px", marginTop: "10px", justifyContent: "center", fontSize: "9px", color: "rgba(255,255,255,0.4)", fontFamily: "'DM Mono'" }}>
+        <span><span style={{ color: "#00C896" }}>●</span> Briefing gespeichert</span>
+        <span><span style={{ color: "rgba(255,255,255,0.35)" }}>●</span> nur Daten, KI ausgefallen</span>
       </div>
-
-      {selected && briefingMap[selected] && (
+      {auswahl && (
         <div style={{ marginTop: "10px", padding: "10px", background: "rgba(255,215,0,0.05)", border: "1px solid rgba(255,215,0,0.15)", borderRadius: "9px" }}>
-          <div style={{ fontSize: "9px", color: "rgba(255,215,0,0.5)", fontFamily: "'DM Mono'", marginBottom: "5px" }}>📌 AUSGEWÄHLT</div>
-          <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.7)", fontFamily: "'DM Mono'" }}>{briefingMap[selected].date}</div>
-          <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)", marginTop: "4px", fontFamily: "'DM Mono'" }}>{briefingMap[selected].sections?.brief?.slice(0, 80)}...</div>
-          <button onClick={() => onSelect(briefingMap[selected])} style={{ marginTop: "8px", width: "100%", padding: "8px", background: "rgba(255,215,0,0.1)", border: "1px solid rgba(255,215,0,0.2)", borderRadius: "7px", color: "#FFD700", fontSize: "11px", cursor: "pointer", fontFamily: "'DM Mono'" }}>
-            Briefing öffnen →
-          </button>
+          <div style={{ fontSize: "11px", color: "#FFD700", fontFamily: "'DM Mono'", marginBottom: "4px" }}>{auswahl.datum || auswahl.date}</div>
+          <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.55)", fontFamily: "'DM Mono'", lineHeight: "1.6" }}>{auswahl.thema || "Keine Zusammenfassung."}</div>
+        </div>
+      )}
+      {(index || []).length > 0 && (
+        <div style={{ marginTop: "12px" }}>
+          <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.5)", fontFamily: "'DM Mono'", marginBottom: "6px" }}>Letzte Tage</div>
+          {(index || []).slice(0, 10).map((e) => (
+            <div key={e.date} onClick={() => onSelect(e.date)} style={{ padding: "8px 10px", marginBottom: "4px", borderRadius: "8px", cursor: "pointer", background: selected === e.date ? "rgba(255,215,0,0.06)" : "rgba(255,255,255,0.015)", border: `1px solid ${selected === e.date ? "rgba(255,215,0,0.2)" : "rgba(255,255,255,0.04)"}` }}>
+              <div style={{ display: "flex", justifyContent: "space-between", gap: "8px" }}>
+                <span style={{ fontSize: "11px", color: "rgba(255,255,255,0.75)", fontFamily: "'DM Mono'" }}>{e.datum || e.date}</span>
+                <span style={{ fontSize: "10px", color: e.analyseOk ? "rgba(255,255,255,0.4)" : "rgba(255,184,0,0.7)", fontFamily: "'DM Mono'" }}>{e.analyseOk ? (e.top || e.entscheidung || "") : "nur Daten"}</span>
+              </div>
+              {e.thema && <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.35)", fontFamily: "'DM Mono'", marginTop: "3px", lineHeight: "1.5" }}>{e.thema.slice(0, 90)}{e.thema.length > 90 ? "…" : ""}</div>}
+            </div>
+          ))}
         </div>
       )}
     </div>
@@ -849,8 +1004,14 @@ export default function App() {
   const [schnell, setSchnell] = useState(false);
   const [disclaimer, setDisclaimer] = useState(ls.get("disclaimer", false));
   const [news, setNews] = useState(null);
+  const [archiveIndex, setArchiveIndex] = useState([]);
+  const [viewDate, setViewDate] = useState(null); // null = aktuelles Briefing
+  const [tracker, setTracker] = useState(null);
+  const [archivFehler, setArchivFehler] = useState(null);
+  const latestRef = useRef(null);
 
   const s = briefing?.sections || null;
+  const shownPrices = viewDate ? (briefing?.prices || {}) : (Object.keys(prices).length ? prices : (briefing?.prices || {}));
   const fgc = fg < 40 ? "#FF5050" : fg > 60 ? "#00C896" : "#FFB800";
   const fgLabel = fg < 25 ? "Ext. Angst" : fg < 45 ? "Angst" : fg < 55 ? "Neutral" : fg < 75 ? "Gier" : "Ext. Gier";
   const metrics = calcMetrics(trades);
@@ -874,8 +1035,6 @@ export default function App() {
         } catch {}
       }));
       setPrices(np);
-      const gold = np["GC=F"]?.change || 0;
-      setSim(runSimulation(fg ?? 42, gold));
     };
     fetchPrices();
     const iv = setInterval(fetchPrices, 5 * 60 * 1000);
@@ -896,34 +1055,50 @@ export default function App() {
       }).catch(() => {});
   }, [unlocked]);
 
-  // Lade briefing.json direkt vom GitHub Repo (raw) – sofort aktuell, kein Rebuild nötig
+  // ── Daten laden: aktuelles Briefing, Archiv-Index, Prognose-Bilanz ──
+  const applyData = (data, isArchive) => {
+    if (!data || typeof data !== "object") return false;
+    const nb = { date: data.date || today(), dateKey: data.dateKey || null, sections: data.sections && Object.keys(data.sections).length ? data.sections : null, prices: data.prices || {} };
+    setBriefing(nb);
+    setNews(Array.isArray(data.news) ? data.news : []);
+    if (Array.isArray(data.fearGreed) && data.fearGreed.length) { setFgHist(data.fearGreed); setFg(data.fearGreed[data.fearGreed.length - 1]); }
+    if (data.simulation) setSim(data.simulation);
+    if (!isArchive && nb.sections) ls.set("last_briefing", nb);
+    return true;
+  };
+
+  const ladeJSON = async (pfad) => {
+    const r = await fetch(`${RAW}/${pfad}?t=${Date.now()}`);
+    if (!r.ok) throw new Error(`${r.status}`);
+    return r.json();
+  };
+
   useEffect(() => {
     if (!unlocked) return;
-    const cacheBuster = Date.now();
-    const urls = [
-      `https://raw.githubusercontent.com/aymanelaissaoui0204-wq/market-brief/main/public/briefing.json?t=${cacheBuster}`,
-      `/market-brief/briefing.json?t=${cacheBuster}`,
-      `/market-brief/public/briefing.json?t=${cacheBuster}`,
-    ];
     (async () => {
-      for (const url of urls) {
-        try {
-          const r = await fetch(url);
-          if (!r.ok) continue;
-          const data = await r.json();
-          if (data?.sections) {
-            const nb = { date: data.date || today(), sections: data.sections };
-            setBriefing(nb);
-            ls.set("last_briefing", nb);
-            if (data.fearGreed) { setFgHist(data.fearGreed); setFg(data.fearGreed[data.fearGreed.length - 1]); }
-            if (data.simulation) setSim(data.simulation);
-            if (data.news) setNews(data.news);
-            return;
-          }
-        } catch {}
-      }
+      try { const d = await ladeJSON("briefing.json"); latestRef.current = d; applyData(d, false); } catch {}
+      try { const idx = await ladeJSON("archive/index.json"); if (Array.isArray(idx)) setArchiveIndex(idx); } catch {}
+      try { const t = await ladeJSON("tracker.json"); setTracker(t); } catch {}
     })();
   }, [unlocked]);
+
+  const oeffneTag = async (dateKey) => {
+    setArchivFehler(null);
+    try {
+      const d = await ladeJSON(`archive/${dateKey}.json`);
+      applyData(d, true);
+      setViewDate(dateKey);
+      setTab("heute");
+      window.scrollTo(0, 0);
+    } catch (e) {
+      setArchivFehler(`Der ${dateKey} konnte nicht geladen werden (${e.message}). Prüfe die Internetverbindung und versuche es erneut.`);
+    }
+  };
+
+  const zurueckZuHeute = () => {
+    setViewDate(null);
+    if (latestRef.current) applyData(latestRef.current, false);
+  };
 
   const handleUnlock = () => { ls.set("unlocked", true); setUnlocked(true); };
 
@@ -1038,7 +1213,7 @@ export default function App() {
             </div>
           </div>
         </div>
-        <TickerBar prices={prices} />
+        <TickerBar prices={shownPrices} />
         <div style={{ display: "flex", gap: "3px", marginTop: "9px", overflowX: "auto" }}>
           {TABS.map(t => (
             <button key={t.id} onClick={() => setTab(t.id)} style={{ padding: "5px 11px", borderRadius: "18px", border: "none", cursor: "pointer", fontSize: "11px", fontFamily: "'DM Mono'", whiteSpace: "nowrap", background: tab === t.id ? "rgba(255,215,0,0.1)" : "transparent", color: tab === t.id ? "#FFD700" : "rgba(255,255,255,0.27)", outline: tab === t.id ? "1px solid rgba(255,215,0,0.2)" : "none", transition: "all .2s" }}>{t.label}</button>
@@ -1051,7 +1226,18 @@ export default function App() {
 
         {/* ── HEUTE ── */}
         {tab === "heute" && <>
-          <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.18)", marginBottom: "11px" }}>{briefing?.date || today()}</div>
+          {viewDate ? (
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "10px", padding: "10px 12px", marginBottom: "11px", background: "rgba(108,142,255,0.08)", border: "1px solid rgba(108,142,255,0.3)", borderRadius: "10px" }}>
+              <div>
+                <div style={{ fontSize: "11px", color: "#6C8EFF", fontFamily: "'DM Mono'", fontWeight: "600" }}>Archiv: {briefing?.date || viewDate}</div>
+                <div style={{ fontSize: "9px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'" }}>So stand es an diesem Tag – Kurse und Ideen von damals.</div>
+              </div>
+              <button onClick={zurueckZuHeute} style={{ padding: "7px 10px", background: "rgba(255,215,0,0.1)", border: "1px solid rgba(255,215,0,0.3)", borderRadius: "8px", color: "#FFD700", fontSize: "11px", fontFamily: "'DM Mono'", cursor: "pointer", whiteSpace: "nowrap" }}>Zu heute</button>
+            </div>
+          ) : (
+            <div style={{ fontSize: "8px", color: "rgba(255,255,255,0.18)", marginBottom: "11px" }}>{briefing?.date || today()}</div>
+          )}
+          {viewDate && !s && <DatenTabelle prices={briefing?.prices} />}
 
           {/* Kein Briefing vorhanden */}
           {!s && (
@@ -1090,11 +1276,15 @@ export default function App() {
             </div>
           )}
 
-          {s && <KernLeiste s={s} fg={fg} prices={prices} sim={sim} />}
+          {s && <KernLeiste s={s} fg={fg} prices={shownPrices} sim={sim} />}
 
           {s && s.brief && <Brief text={s.brief} date={briefing?.date || today()} />}
 
+          {s && <EreignisseBlock ereignisse={s.ereignisse} neuHeute={s.neuHeute} />}
+
           {s && <BewegungenBlock bewegungen={s.bewegungen} />}
+
+          {s && <RueckblickBlock rueckblick={s.rueckblick} />}
 
           <HypeAnalysis hypeCenter={s?.hypeCenter} peripherEffect={s?.peripherEffect} hypeNews={s?.hypeNews} />
 
@@ -1139,6 +1329,7 @@ export default function App() {
 
         {/* ── GELD ── */}
         {tab === "geldfluss" && <>
+          <DatenTabelle prices={briefing?.prices} />
           {!s ? (
             <div style={{ textAlign: "center", padding: "40px 20px" }}>
               <div style={{ fontSize: "40px", marginBottom: "16px" }}>📭</div>
@@ -1273,7 +1464,10 @@ export default function App() {
 
         {/* ── VERLAUF ── */}
         {tab === "verlauf" && <>
-          <Kalender history={history} onSelect={(item) => { setBriefing(item); setTab("heute"); }} />
+          <Kalender index={archiveIndex} selected={viewDate} onSelect={oeffneTag} />
+          {archivFehler && <div style={{ fontSize: "11px", color: "#FF5050", fontFamily: "'DM Mono'", padding: "9px 10px", background: "rgba(255,80,80,0.06)", borderRadius: "8px", marginBottom: "10px", lineHeight: "1.6" }}>{archivFehler}</div>}
+          {archiveIndex.length === 0 && <div style={{ fontSize: "11px", color: "rgba(255,255,255,0.45)", fontFamily: "'DM Mono'", lineHeight: "1.7", marginBottom: "12px" }}>Noch keine Tage im Archiv. Ab dem nächsten Lauf von „Daily Market Brief" wird jeder Tag hier gespeichert.</div>}
+          <TrackerBlock tracker={tracker} onOpenDay={oeffneTag} />
           {metrics && (
             <div style={{ background: "rgba(255,215,0,0.04)", border: "1px solid rgba(255,215,0,0.14)", borderRadius: "11px", padding: "13px", marginBottom: "11px" }}>
               <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,215,0,0.4)", marginBottom: "9px" }}>📊 TRACK RECORD ({metrics.total} Trades)</div>
@@ -1314,16 +1508,6 @@ export default function App() {
               </div>
             ))}
           </div>
-          <div style={{ fontSize: "8px", letterSpacing: "2px", color: "rgba(255,255,255,0.18)", marginBottom: "7px" }}>BRIEFING VERLAUF</div>
-          {history.slice(0, 20).map((item, i) => (
-            <div key={i} onClick={() => { setBriefing(item); setTab("heute"); }} style={{ background: i === 0 ? "rgba(255,215,0,0.04)" : "rgba(255,255,255,0.015)", border: `1px solid ${i === 0 ? "rgba(255,215,0,0.14)" : "rgba(255,255,255,0.04)"}`, borderRadius: "10px", padding: "11px 13px", marginBottom: "5px", cursor: "pointer" }}>
-              <div style={{ display: "flex", justifyContent: "space-between" }}>
-                <span style={{ fontSize: "11px", color: i === 0 ? "#FFD700" : "rgba(255,255,255,0.52)" }}>{i === 0 ? "📌 " : ""}{item.date}</span>
-                <span style={{ fontSize: "10px", color: "rgba(255,255,255,0.18)" }}>→</span>
-              </div>
-              <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.28)", marginTop: "4px" }}>{item.sections?.brief?.slice(0, 65)}...</div>
-            </div>
-          ))}
         </>}
 
         {/* ── NEU ── */}
