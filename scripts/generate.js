@@ -41,9 +41,10 @@ async function fetchGNews() {
 async function fetchAlphaVantage() {
   const key = process.env.ALPHAVANTAGE_KEY;
   if (!key) { console.log('⚠️ AlphaVantage Key fehlt'); return []; }
-  const topics = 'financial_markets,economy_macro,economy_monetary,energy_transportation,finance,manufacturing,real_estate,technology,life_sciences';
-  const data = await fetchJSON(`https://www.alphavantage.co/query?function=NEWS_SENTIMENT&topics=${topics}&sort=LATEST&limit=25&apikey=${key}`);
+  // Kein Themenfilter: Alpha Vantage verknüpft mehrere Themen mit UND – dann kommt nichts zurück
+  const data = await fetchJSON(`https://www.alphavantage.co/query?function=NEWS_SENTIMENT&sort=LATEST&limit=50&apikey=${key}`);
   const out = [];
+  if (!data?.feed) console.log(`⚠️ AlphaVantage liefert nichts: ${String(data?.Information || data?.Note || data?.['Error Message'] || 'keine Antwort').slice(0, 160)}`);
   if (data?.feed) data.feed.slice(0, 20).forEach(a => out.push({
     title: a.title, source: a.source || 'AlphaVantage', publishedAt: a.time_published || null,
     sentiment: a.overall_sentiment_label || null,
