@@ -1,0 +1,7 @@
+# Lokal gebaut, gehoert nicht ins Repo
+market.db
+# Obsidian-Einstellungen bleiben auf deinem PC
+.obsidian/
+obsidian-vault/.obsidian/
+node_modules/
+dist/
