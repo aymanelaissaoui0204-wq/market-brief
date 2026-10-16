@@ -214,10 +214,39 @@ export function bewerte(r, dateKey, bars) {
   return { status: 'laeuft', seit: isoUTC(bars[f].t), tage: bars.length - f, ergebnisEur: r2(BUDGET * (lastC / r.einstieg - 1) - GEBUEHR_RUNDE) };
 }
 
+// Alte Briefings (Juni) speicherten News als Text "Quelle: Titel" – in Datensätze umwandeln
+export function normalisiereNews(news) {
+  if (!Array.isArray(news)) return [];
+  return news.map(n => {
+    if (n && typeof n === 'object') return n;
+    if (typeof n === 'string' && n.trim()) {
+      const i = n.indexOf(':');
+      return i > 0 ? { title: n.slice(i + 1).trim(), source: n.slice(0, i).trim(), sentiment: null, tickers: [], origin: 'alt' } : { title: n.trim(), source: null, sentiment: null, tickers: [], origin: 'alt' };
+    }
+    return null;
+  }).filter(Boolean);
+}
+
+function repariereArchiv() {
+  if (!fs.existsSync(ARCHIV_DIR)) return;
+  let n = 0;
+  for (const f of fs.readdirSync(ARCHIV_DIR).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))) {
+    try {
+      const d = JSON.parse(fs.readFileSync(`${ARCHIV_DIR}/${f}`, 'utf8'));
+      if (Array.isArray(d.news) && d.news.some(x => typeof x !== 'object' || x === null)) {
+        d.news = normalisiereNews(d.news);
+        fs.writeFileSync(`${ARCHIV_DIR}/${f}`, JSON.stringify(d, null, 2));
+        n++;
+      }
+    } catch {}
+  }
+  if (n) console.log(`🔧 ${n} alte Tage ins neue Format gebracht`);
+}
+
 function ladeArchivTage() {
   if (!fs.existsSync(ARCHIV_DIR)) return [];
   return fs.readdirSync(ARCHIV_DIR).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().map(f => {
-    try { const d = JSON.parse(fs.readFileSync(`${ARCHIV_DIR}/${f}`, 'utf8')); return { ...d, dateKey: d.dateKey || f.replace('.json', '') }; } catch { return null; }
+    try { const d = JSON.parse(fs.readFileSync(`${ARCHIV_DIR}/${f}`, 'utf8')); if (!d || typeof d !== 'object' || Array.isArray(d)) return null; return { ...d, news: normalisiereNews(d.news), dateKey: d.dateKey || f.replace('.json', '') }; } catch { return null; }
   }).filter(Boolean);
 }
 
@@ -570,6 +599,7 @@ async function main() {
   fs.mkdirSync(ARCHIV_DIR, { recursive: true });
   holeVerlaufAusGit();
   sichereAlteBriefing();
+  repariereArchiv();
 
   const [news, markt, fgHistory] = await Promise.all([fetchAllNews(), fetchMarktdaten(), fetchFearGreed()]);
   const { prices, bars } = markt;
