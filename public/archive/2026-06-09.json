@@ -73,8 +73,20 @@
     "sell": 0
   },
   "news": [
-    "EZB:  ECB announces main milestones for roll-out of Integrated Reporting Framework",
-    "EZB:  Christine Lagarde: Women and leadership: widening the pipeline"
+    {
+      "title": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
+      "source": "EZB",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "alt"
+    },
+    {
+      "title": "Christine Lagarde: Women and leadership: widening the pipeline",
+      "source": "EZB",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "alt"
+    }
   ],
   "dateKey": "2026-06-09"
 }

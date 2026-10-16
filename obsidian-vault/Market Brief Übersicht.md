@@ -2,7 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
-| [[2026-10-16]] | JA | Öl | Die Märkte zeigen sich heute gemischt, mit einer gewissen Nervosität aufgrund von KI-Siche |
+| [[2026-10-16]] | WARTEN | EUR/USD | Die Märkte zeigen sich gemischt, mit Belastungen durch geopolitische Unsicherheiten und In |
 | [[2026-10-15]] | JA | WisdomTree Physical Silver | Die Märkte zeigen sich heute nervös: Hohe Inflation und Zinsängste belasten Tech und breit |
 | [[2026-10-14]] | JA | WisdomTree Brent Oil ETC | Die Märkte zeigen sich heute gemischt, geprägt von geopolitischen Spannungen, steigenden Ö |
 | [[2026-10-13]] | JA | WisdomTree Brent Oil | Die Märkte zeigen sich gemischt, leicht beeinflusst von geopolitischen Spannungen und der  |
