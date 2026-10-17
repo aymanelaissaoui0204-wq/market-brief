@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-10-17]] | WARTEN | Gold | Die Märkte sind nervös, da geopolitische Spannungen und die geldpolitische Haltung der US- |
 | [[2026-10-16]] | WARTEN | Gold | Die Märkte zeigen sich heute gemischt, mit Druck auf Tech-Werte und leichten Gewinnen bei  |
 | [[2026-10-15]] | JA | WisdomTree Physical Silver | Die Märkte zeigen sich heute nervös: Hohe Inflation und Zinsängste belasten Tech und breit |
 | [[2026-10-14]] | JA | WisdomTree Brent Oil ETC | Die Märkte zeigen sich heute gemischt, geprägt von geopolitischen Spannungen, steigenden Ö |

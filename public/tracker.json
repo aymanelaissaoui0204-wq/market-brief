@@ -1,20 +1,36 @@
 {
-  "stand": "2026-10-16T19:39:42.941Z",
+  "stand": "2026-10-17T09:01:45.726Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 2,
+    "gesamt": 3,
     "geschlossen": 0,
     "ziel": 0,
     "stop": 0,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
-    "laufend": 2,
+    "laufend": 3,
     "trefferquote": null,
     "summeEur": 0,
     "schnittEur": null,
     "proStufe": {}
   },
   "prognosen": [
+    {
+      "id": "2026-10-17#1",
+      "datum": "2026-10-17",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 4188,
+      "stop": 4100,
+      "ziel": 4350,
+      "gewinnEur": -0.07,
+      "verlustEur": 3.05,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit → Flucht in sichere Häfen wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-10-16#1",
       "datum": "2026-10-16",
