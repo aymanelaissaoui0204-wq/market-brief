@@ -1,7 +1,7 @@
 {
-  "date": "Samstag, 17. Oktober 2026",
-  "dateKey": "2026-10-17",
-  "generatedAt": "2026-10-17T09:01:45.661Z",
+  "date": "Sonntag, 18. Oktober 2026",
+  "dateKey": "2026-10-18",
+  "generatedAt": "2026-10-18T09:20:49.150Z",
   "news": [
     {
       "title": "Wirtschaft wächst wieder: In Hessen sogar am stärksten",
@@ -12,39 +12,95 @@
       "origin": "GNews"
     },
     {
-      "title": "Fed: Demonstration der Unabhängigkeit",
-      "source": "General Anzeiger",
-      "publishedAt": "2026-09-17T11:00:00Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "GNews"
-    },
-    {
-      "title": "Trotz Sanktionen: Russland beziffert Lieferungen von Öl und Gas in die EU",
-      "source": "Berliner Zeitung",
-      "publishedAt": "2026-10-13T06:00:43Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "GNews"
-    },
-    {
-      "title": "USA sehen Europa als \"Heuchler\": Russland rechnet der EU ihre milliardenschweren Energie-Importe vor",
-      "source": "n-tv NACHRICHTEN",
-      "publishedAt": "2026-10-13T01:49:36Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "GNews"
-    },
-    {
-      "title": "Israeli settlers attack Palestinians during West Bank olive harvest - Reuters",
+      "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots - Reuters",
       "source": "Reuters",
-      "publishedAt": "2026-10-17T08:11:15.000Z",
+      "publishedAt": "2026-10-18T05:03:00.000Z",
       "sentiment": null,
       "tickers": [],
       "origin": "Finnhub"
     },
     {
-      "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law - Reuters",
+      "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-18T03:18:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Lebanon says military delegation will press for halt to Israeli attacks at US talks - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-17T20:31:43.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-17T16:35:17.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-17T14:23:45.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-17T13:36:11.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "source": "CNBC",
+      "publishedAt": "2026-10-17T13:00:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Tanker struck by unknown projectile off Saudi Arabia on Friday, UKMTO says - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-17T08:05:13.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "OpenAI poaches another SpaceX sales lead focused on AI",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-17T04:50:31.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Jio’s $3.2 billion IPO tests Ambani appeal with young Indians",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-17T04:07:30.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Apple says iPhone Duo demand extraordinary after delivery delays",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-17T04:05:16.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
       "source": "Reuters",
       "publishedAt": "2026-10-17T01:17:00.000Z",
       "sentiment": null,
@@ -60,6 +116,14 @@
       "origin": "Finnhub"
     },
     {
+      "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-16T23:41:15.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
       "title": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu - Reuters",
       "source": "Reuters",
       "publishedAt": "2026-10-16T21:51:00.000Z",
@@ -68,183 +132,93 @@
       "origin": "Finnhub"
     },
     {
-      "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve - Reuters",
-      "source": "Reuters",
-      "publishedAt": "2026-10-16T21:36:21.000Z",
+      "title": "How Zohran Mamdani Governs NYC, According to His Public Calendar",
+      "source": "businessinsider.com",
+      "publishedAt": "2026-10-18T09:08:26.000000Z",
       "sentiment": null,
       "tickers": [],
-      "origin": "Finnhub"
+      "origin": "Marketaux"
     },
     {
-      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T20:33:55.000Z",
+      "title": "3 Strategies for Using Points to Book Flights and Hotels",
+      "source": "businessinsider.com",
+      "publishedAt": "2026-10-18T09:08:26.000000Z",
       "sentiment": null,
       "tickers": [],
-      "origin": "Finnhub"
+      "origin": "Marketaux"
     },
     {
-      "title": "EXCLUSIVE: Trump move to restart direct US flights with Lebanon hits roadblock - Reuters",
-      "source": "Reuters",
-      "publishedAt": "2026-10-16T19:37:19.000Z",
+      "title": "Louisiana residents are training for jobs at Meta's largest-ever AI data center: 'Why not get in now?'",
+      "source": "businessinsider.com",
+      "publishedAt": "2026-10-18T09:08:26.000000Z",
       "sentiment": null,
       "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T19:28:10.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "In Yemen's besieged Taiz, families take shelter as Houthis close in - Reuters",
-      "source": "Reuters",
-      "publishedAt": "2026-10-16T18:51:44.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T18:46:19.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T17:50:50.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T17:02:50.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T16:21:14.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "What we want to see when Capital One and Meta report earnings next week",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T16:06:29.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
-    },
-    {
-      "title": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
-      "source": "CNBC",
-      "publishedAt": "2026-10-16T15:12:25.000Z",
-      "sentiment": null,
-      "tickers": [],
-      "origin": "Finnhub"
+      "origin": "Marketaux"
     }
   ],
   "sections": {
-    "brief": "Hallo Ayman, heute sehen wir, wie Geopolitik und die US-Geldpolitik die Märkte bewegen. Die Spannungen im Nahen Osten und die Aussagen der US-Notenbank, unabhängig zu handeln, sorgen für Unsicherheit. Achte darauf, wie sich das auf Öl, Gold und die Aktienmärkte auswirkt, denn diese Zusammenhänge sind entscheidend für dein Verständnis.",
-    "marktlage": "Die Märkte sind nervös, da geopolitische Spannungen und die geldpolitische Haltung der US-Notenbank für Unsicherheit sorgen. Dies führt zu einer Flucht in sicherere Anlagen wie Gold und gleichzeitig zu Druck auf risikoreichere Assets.",
-    "neuHeute": "Die Meldungen über die US-Zölle unter Trump sind neu und zeigen eine Eskalation im Handelskonflikt. Die Angriffe auf den Ölhafen in Jemen sind eine weitere Eskalation der geopolitischen Spannungen. Die Berichte über das Wirtschaftswachstum in Hessen und die Aussagen der Fed sind eher Bestätigungen bekannter Trends.",
+    "brief": "Hallo Ayman, heute dreht sich alles um die anhaltenden geopolitischen Spannungen, die weiterhin die Märkte bewegen. Diese Unsicherheit treibt die Nachfrage nach traditionell sicheren Häfen wie Gold, während sie risikoreichere Anlagen unter Druck setzt. Achte auf die Auswirkungen auf Öl und die breiteren Aktienmärkte.",
+    "marktlage": "Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken und der Flucht in sichere Anlagen. Die Ölpreise steigen, während Technologie- und breitere Aktienindizes unter Druck stehen.",
+    "neuHeute": "Die Eskalation der Spannungen im Nahen Osten mit Angriffen auf Tanker und die Reaktion Ägyptens sind neue Entwicklungen. Die Reaktion der Märkte auf diese Nachrichten ist jedoch eine Fortsetzung bereits beobachteter Muster (Flucht in Gold, Anstieg Öl).",
     "oberflaeche": [
       "Frankfurter Allgemeine Zeitung (Faz): Wirtschaft wächst wieder: In Hessen sogar am stärksten",
-      "General Anzeiger: Fed: Demonstration der Unabhängigkeit",
-      "Reuters: Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu - Reuters"
+      "Reuters: Rubio heads to Central Asia while other US officials hit foreign policy hot spots - Reuters",
+      "Reuters: Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters"
     ],
     "ereignisse": [
       {
-        "ereignis": "Trump erlässt vorübergehend Sanktionen und Zölle gegen Russland.",
+        "ereignis": "Iranische Revolutionsgarden melden Minentreffer auf zwei Tanker in der Straße von Hormus.",
         "quellen": 1,
         "typ": "Fakt",
         "neu": true,
-        "betroffen": "Aktienmärkte (insb. Technologie), Rohstoffe, Währungen",
-        "wirkung": "Negativ für Aktienmärkte, potenziell positiv für Gold und Öl als sichere Häfen."
+        "betroffen": "Öl, Transport, Geopolitik",
+        "wirkung": "positiv für Ölpreis, negativ für Transport und globale Lieferketten"
       },
       {
-        "ereignis": "Raketen treffen Flughafen in Aden, während die saudisch geführte Koalition eine Rakete auf Yanbu abfängt.",
+        "ereignis": "Explosion in einer Basis eines irakischen paramilitärischen Bündnisses tötet ein Mitglied.",
         "quellen": 1,
         "typ": "Fakt",
         "neu": true,
-        "betroffen": "Ölpreis, Geopolitik im Nahen Osten, Schifffahrtsrouten",
-        "wirkung": "Positiv für Ölpreis, negativ für Stabilität in der Region und potenziell für globale Lieferketten."
+        "betroffen": "Geopolitik, Irak",
+        "wirkung": "negativ für die Stabilität in der Region"
       },
       {
-        "ereignis": "Die US-Notenbank (Fed) demonstriert ihre Unabhängigkeit.",
-        "quellen": 1,
-        "typ": "Meinung/Fakt",
-        "neu": false,
-        "betroffen": "Zinsen, US-Dollar, Aktienmärkte",
-        "wirkung": "Neutral bis leicht negativ für Aktienmärkte, wenn dies auf eine restriktivere Haltung hindeutet."
-      },
-      {
-        "ereignis": "Berichte über israelische Siedler, die palästinensische Olivenbauern im Westjordanland angreifen.",
+        "ereignis": "Brent Rohöl erreicht 110 USD/Barrel, erster Höchststand seit Mai, aufgrund von Lieferbedenken.",
         "quellen": 1,
         "typ": "Fakt",
         "neu": true,
-        "betroffen": "Geopolitik im Nahen Osten, Agrarpreise (indirekt)",
-        "wirkung": "Negativ für die regionale Stabilität, potenziell leicht positiv für Rohstoffpreise."
+        "betroffen": "Öl, Inflation, Aktienmärkte",
+        "wirkung": "positiv für Ölproduzenten, negativ für energieintensive Industrien und Konsumenten"
       },
       {
-        "ereignis": "Die USA bitten um die Freigabe von bis zu 17 Millionen Barrel Öl aus der strategischen Reserve.",
+        "ereignis": "Ägyptens Präsident Sisi sucht die Zustimmung des Parlaments, Saudi-Arabien zu verteidigen, falls angefragt.",
         "quellen": 1,
         "typ": "Fakt",
         "neu": true,
-        "betroffen": "Ölpreis, Energiesicherheit",
-        "wirkung": "Kurzfristig potenziell leicht negativ für den Ölpreis, signalisiert aber auch eine Reaktion auf Angebotsengpässe."
+        "betroffen": "Geopolitik, Naher Osten",
+        "wirkung": "negativ für die regionale Stabilität, potenziell positiv für Rüstungsunternehmen"
+      },
+      {
+        "ereignis": "Raketen treffen den Flughafen von Aden; saudisch geführte Koalition fängt Rakete auf dem Weg nach Yanbu ab.",
+        "quellen": 2,
+        "typ": "Fakt",
+        "neu": true,
+        "betroffen": "Geopolitik, Naher Osten, Luftfahrt",
+        "wirkung": "negativ für die Sicherheit in der Region und den Luftverkehr"
       }
     ],
     "bewegungen": [
       {
-        "ausloeser": "Geopolitische Spannungen im Nahen Osten (Raketenangriffe, Siedlergewalt).",
-        "kette": "Geopolitische Spannungen → Unsicherheit steigt → Nachfrage nach 'sicheren Häfen' steigt → Nachfrage nach Gold steigt → Goldpreis steigt.",
-        "warum": "In unsicheren Zeiten investieren Anleger lieber in Edelmetalle wie Gold, da diese als wertstabil gelten, anstatt in riskantere Anlagen wie Aktien.",
-        "betroffen": "Gold, Aktienmärkte, Energiepreise",
-        "investierbar": {
-          "asset": "Gold",
-          "isin": "DE000A0S9GB0",
-          "richtung": "LONG",
-          "halal": "fraglich",
-          "wie": "Kauf von physisch besicherten ETCs wie Xetra-Gold, sofern die islamischen Kriterien erfüllt sind."
-        }
-      },
-      {
-        "ausloeser": "Eskalation im Nahen Osten, US-Strategische Ölreserve wird angezapft.",
-        "kette": "Geopolitische Spannungen/Angebotsängste → Ölpreis steigt (kurzfristig gedämpft durch SPR-Freigabe) → Höhere Energiepreise → Inflation steigt (potenziell) → Zentralbanken könnten Zinsen hochhalten/erhöhen → Zinsen steigen → Belastung für Aktienmärkte.",
-        "warum": "Krieg und Unsicherheit in Ölförderregionen lassen den Ölpreis steigen. Die Freigabe von Reserven soll dies dämpfen, aber die Grundspannung bleibt. Höhere Energiepreise verteuern alles und können die Inflation anheizen.",
-        "betroffen": "Öl, Inflation, Zinsen, Aktienmärkte",
+        "ausloeser": "Anschläge auf Tanker und steigende Ölpreise durch geopolitische Spannungen.",
+        "kette": "Geopolitische Spannungen → Erhöhte Unsicherheit im Nahen Osten → Angriffe auf Öl-Infrastruktur/Transport → Sorge um Ölversorgung → Anstieg Ölpreis → Höhere Energiekosten für Unternehmen und Konsumenten → Potenzielle Inflationssteigerung → Druck auf Zentralbanken → Mögliche Zinserhöhungen (oder Verlangsamung von Zinssenkungen) → Belastung für wachstumsstarke Aktien (Tech) und Anleihen → Flucht in Gold als sicherer Hafen → Anstieg Goldpreis.",
+        "warum": "Wenn die Versorgung mit einem wichtigen Gut wie Öl bedroht ist, steigt der Preis. Höhere Energiepreise verteuern fast alles und können die Inflation anheizen, was die Zentralbanken unter Zugzwang setzt. Aktien, die von niedrigen Zinsen und Wirtschaftswachstum profitieren, leiden darunter. Gold, das traditionell als Wertaufbewahrungsmittel in Krisenzeiten gilt, profitiert von der Unsicherheit.",
+        "betroffen": "Öl, Gold, Aktien (bes. Tech), Anleihen, Inflation, EUR/USD",
         "investierbar": {
           "asset": "Öl",
-          "isin": "null",
+          "isin": null,
           "richtung": "LONG",
           "halal": "nicht-halal",
-          "wie": "Investitionen in Öl-ETCs sind aufgrund der Spekulation und der Natur des Rohstoffs nicht halal."
-        }
-      },
-      {
-        "ausloeser": "Trump lockert Sanktionen.",
-        "kette": "Trump lockert Sanktionen → Handelsprotektionismus sinkt kurzfristig → Marktsentiment verbessert sich leicht → Tech-Aktien erholen sich kurzzeitig → Nasdaq/S&P 500 steigen leicht.",
-        "warum": "Wenn Handelshindernisse abgebaut werden, ist das oft positiv für Unternehmen, die international tätig sind, insbesondere Technologieunternehmen.",
-        "betroffen": "Aktienmärkte (insb. Tech), Währungen",
-        "investierbar": {
-          "asset": "Nasdaq",
-          "isin": "IE00B53SZB19",
-          "richtung": "LONG",
-          "halal": "halal",
-          "wie": "Kauf eines breit gestreuten Nasdaq-ETFs, der Unternehmen aus dem Technologiesektor abbildet."
+          "wie": "Spekulativer Handel über Futures oder gehebelte Produkte ist nicht halal. Investition in physisch gedeckte ETCs könnte halal sein, aber die Spekulation auf kurzfristige Preisbewegungen ist riskant."
         }
       }
     ],
@@ -257,88 +231,150 @@
         "basiswert": "Gold",
         "richtung": "LONG",
         "halal": "fraglich",
-        "einstieg": 4188,
+        "einstieg": 4200,
         "stopLoss": 4100,
-        "ziel": 4350,
+        "ziel": 4400,
         "zeitraum": "4-8 Wochen",
-        "ueberzeugung": "mittel",
+        "ueberzeugung": "hoch",
         "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit → Flucht in sichere Häfen wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
         "pro": [
-          "Anhaltende geopolitische Unsicherheit stützt die Nachfrage nach Gold.",
-          "Die Fed signalisiert Unabhängigkeit, was bei Inflationssorgen zu Zinsunsicherheit führt und Gold attraktiv macht."
+          "Anhaltende geopolitische Spannungen im Nahen Osten erhöhen die Risikoaversion.",
+          "Gold hat sich als 'sicherer Hafen' etabliert und profitiert von Unsicherheit.",
+          "Die aktuelle Kursentwicklung zeigt eine leichte Erholung nach einem Rückgang, was auf Kaufinteresse hindeutet."
         ],
         "contra": [
-          "Wenn sich die geopolitische Lage schnell beruhigt, könnte die Nachfrage nach Gold sinken.",
-          "Starke US-Wirtschaftsdaten könnten Gold belasten, wenn sie Zinserhöhungen wahrscheinlicher machen."
+          "Hohe Zinsen können Gold unattraktiver machen, da es keine Zinsen abwirft.",
+          "Eine schnelle Deeskalation im Nahen Osten könnte die Nachfrage nach Gold dämpfen."
         ],
-        "eingepreist": "Gold ist mit einem RSI von 52 und einem Rückgang vom 3M-Hoch um 12.1% noch nicht überhitzt. Die aktuellen Kurse scheinen die geopolitische Unsicherheit teilweise widerzuspiegeln, aber weiteres Potenzial ist vorhanden.",
+        "eingepreist": "Der Goldpreis ist mit einem RSI von 52 und einem Rückgang von 5.5% über 20 Tage nicht überhitzt. Er liegt auch nicht nah am 3-Monats-Hoch. Die aktuelle geopolitische Lage ist jedoch ein fortlaufender Faktor, der bereits eingepreist sein könnte, aber jederzeit neu bewertet wird.",
         "erklaerung": {
-          "wasIstDas": "Gold ist ein Edelmetall, das oft als 'sicherer Hafen' in unsicheren Zeiten gilt. Der ETC Xetra-Gold investiert physisch in Gold und ist demnach eng an die Goldpreisentwicklung gekoppelt.",
-          "warumJetzt": "Die aktuellen geopolitischen Spannungen und die Unsicherheit über die zukünftige Geldpolitik der US-Notenbank erhöhen die Nachfrage nach Gold als Absicherung.",
-          "wannKaufen": "Ein Kauf wäre jetzt sinnvoll, da die Risiken hoch sind. Ein engerer Einstieg wäre bei Rücksetzern Richtung 4150 möglich, aber aktuell ist die Situation dynamisch.",
-          "wieViel": "Bei kleinem Budget empfiehlt es sich, nur einen kleinen Teil des Kapitals zu investieren, um das Risiko zu streuen und Gebühren zu minimieren. Beginne mit 5-10% deines verfügbaren Investmentbetrags.",
-          "wannRaus": "Wenn das Ziel von 4350 erreicht wird, solltest du Gewinne mitnehmen. Der Stop-Loss bei 4100 schützt vor größeren Verlusten, falls sich die Lage unerwartet beruhigt.",
-          "wasKannSchiefgehen": "Eine plötzliche Entspannung der geopolitischen Lage oder unerwartet starke Zinserhöhungen der Fed könnten den Goldpreis fallen lassen.",
-          "woranErkenneIchFalsch": "Ein Unterschreiten des Stop-Loss-Levels von 4100 und ein anhaltender Abverkauf unterhalb des gleitenden 50-Tage-Durchschnitts wären Warnsignale.",
-          "begriffDesTrades": "Ein 'Long'-Trade auf Gold bedeutet, dass du auf steigende Kurse setzt, getrieben durch Angst und Unsicherheit."
+          "wasIstDas": "Gold ist ein Edelmetall, das oft als sicherer Hafen in unsicheren Zeiten gilt und dessen Preis durch Angebot und Nachfrage bestimmt wird. Der ETC 'Xetra-Gold' investiert in physisches Gold.",
+          "warumJetzt": "Die aktuellen geopolitischen Spannungen und die daraus resultierende Unsicherheit erhöhen die Attraktivität von Gold als Anlage. Die Erholung nach dem Rückgang könnte eine Einstiegschance bieten.",
+          "wannKaufen": "Bei einer Fortsetzung der negativen Nachrichtenlage im Nahen Osten und einem Anstieg über den gestrigen Schlusskurs. Ein leichter Rücksetzer in Richtung des gestrigen Schlusskurses wäre auch ein guter Einstiegszeitpunkt, solange die geopolitische Lage angespannt bleibt.",
+          "wieViel": "Bei einem kleinen Budget und den Gebühren bei Trade Republic würde ich empfehlen, zunächst nur einen kleinen Betrag zu investieren, der maximal 1-2% deines Gesamtdepots ausmacht. So kannst du die Entwicklung beobachten, ohne zu viel Risiko einzugehen.",
+          "wannRaus": "Wenn der Stop-Loss von 4100 erreicht wird, was bedeutet, dass sich die Lage entspannt oder andere Faktoren den Goldpreis belasten. Oder wenn das Ziel von 4400 erreicht wird, um Gewinne mitzunehmen.",
+          "wasKannSchiefgehen": "Eine unerwartete schnelle Entspannung der geopolitischen Lage oder ein starker Anstieg der Realzinsen könnte den Goldpreis fallen lassen. Auch eine allgemeine Risiko-Offensive an den Märkten, bei der Anleger wieder mehr in Aktien investieren, könnte Gold belasten.",
+          "woranErkenneIchFalsch": "Wenn der Goldpreis trotz eskalierender geopolitischer Spannungen fällt oder stagniert, deutet das darauf hin, dass die 'sichere Hafen'-Funktion nicht greift oder andere Faktoren stärker sind.",
+          "begriffDesTrades": "Ein 'Safe Haven'-Trade, bei dem auf steigende Kurse eines als sicher geltenden Vermögenswerts in Krisenzeiten gesetzt wird."
         },
         "rechnung": {
           "budget": 50,
           "gebuehren": 2,
           "hinweise": [
-            "Bei 50 € fressen die Gebühren den kompletten Zielgewinn."
+            "Bei 50 € musst du über 89% solcher Trades gewinnen, nur um bei null zu landen."
           ],
           "plausibel": true,
           "verifiziert": true,
           "symbol": "GC=F",
           "kursAktuell": 4181.10009765625,
           "kursStand": "2026-10-16",
-          "einstieg": 4188,
+          "einstieg": 4200,
           "stop": 4100,
-          "ziel": 4350,
-          "abstandEinstieg": 0.17,
-          "verlustPct": 2.1,
-          "gewinnPct": 3.87,
-          "verlustEur": 3.05,
-          "gewinnEur": -0.07,
-          "crvBrutto": 1.84,
-          "crvNetto": 0,
-          "breakEven": 100,
-          "stopInAtr": 1.2
+          "ziel": 4400,
+          "abstandEinstieg": 0.45,
+          "verlustPct": 2.38,
+          "gewinnPct": 4.76,
+          "verlustEur": 3.19,
+          "gewinnEur": 0.38,
+          "crvBrutto": 2,
+          "crvNetto": 0.12,
+          "breakEven": 89.33,
+          "stopInAtr": 1.36
         }
       },
       {
         "rang": 2,
-        "asset": "Oil (Brent Crude)",
-        "isin": "null",
+        "asset": "Öl (Brent)",
+        "isin": null,
         "klasse": "Rohstoff (ETC)",
         "basiswert": "Öl",
-        "richtung": "MEIDEN",
+        "richtung": "LONG",
         "halal": "nicht-halal",
-        "einstieg": 0,
-        "stopLoss": 0,
-        "ziel": 0,
-        "zeitraum": "N/A",
-        "ueberzeugung": "hoch",
-        "kette": "Geopolitische Spannungen → Angebotsunterbrechungen/Angst → Ölpreis steigt. Gleichzeitig: SPR-Freigabe der USA → Dämpfung des Preisanstiegs.",
+        "einstieg": 101,
+        "stopLoss": 96,
+        "ziel": 108,
+        "zeitraum": "2-4 Wochen",
+        "ueberzeugung": "mittel",
+        "kette": "Geopolitische Spannungen im Nahen Osten → Angriffe auf Öl-Infrastruktur/Transport → Sorge um Ölversorgung → Anstieg Ölpreis.",
         "pro": [
-          "Aktuell hohe Volatilität im Ölpreis aufgrund geopolitischer Ereignisse.",
-          "Die Nachfrage bleibt robust."
+          "Aktuelle Nachrichten deuten auf eine Verknappung der Ölversorgung durch Angriffe hin.",
+          "Der Ölpreis hat bereits die Marke von 110 USD erreicht, was auf eine starke Nachfrage und Angebotsknappheit hindeutet.",
+          "Die geopolitische Lage im Nahen Osten ist ein bekannter Preistreiber für Öl."
         ],
         "contra": [
-          "Die Freigabe von strategischen Reserven durch die USA kann den Preis kurzfristig dämpfen.",
-          "Investitionen in Öl sind aufgrund spekulativer Natur und der Umweltauswirkungen nicht halal."
+          "Eine schnelle diplomatische Lösung der Konflikte könnte den Ölpreis schnell fallen lassen.",
+          "Eine globale Rezession würde die Ölnachfrage dämpfen.",
+          "Die hohe Volatilität des Ölpreises birgt erhebliche Risiken."
         ],
-        "eingepreist": "Öl hat mit einem RSI von 68 bereits eine hohe Dynamik gezeigt, ist aber noch nicht extrem überkauft. Der Preis ist nah am 3M-Hoch, was auf eine starke Performance hindeutet, die die aktuellen Spannungen teilweise widerspiegelt.",
+        "eingepreist": "Der Ölpreis ist mit einem RSI von 65 und einer 5T-Performance von +7.8% bereits stark gestiegen. Er ist jedoch noch nicht am 3-Monats-Hoch. Die Nachricht über die Angriffe ist neu, und die Reaktion könnte noch weitergehen.",
         "erklaerung": {
-          "wasIstDas": "Öl ist ein global wichtiger Rohstoff für Energie und Industrie. Die Preisentwicklung wird stark von Angebot und Nachfrage sowie geopolitischen Ereignissen beeinflusst.",
-          "warumJetzt": "Die anhaltenden Spannungen im Nahen Osten und die Sorge vor Angebotsausfällen treiben den Ölpreis. Die USA versuchen, durch die Freigabe von Reserven gegenzusteuern.",
-          "wannKaufen": "Keine Kaufempfehlung aufgrund der Halal-Kriterien und der hohen Volatilität.",
-          "wieViel": "Nicht anwendbar.",
-          "wannRaus": "Nicht anwendbar.",
-          "wasKannSchiefgehen": "Eine schnelle diplomatische Lösung im Nahen Osten oder eine deutliche Erhöhung der Ölförderung anderer Länder könnten den Preis schnell fallen lassen.",
-          "woranErkenneIchFalsch": "Ein starker Rückgang des Ölpreises unter den 50-Tage-Durchschnitt, während die geopolitischen Spannungen anhalten, wäre ein Warnsignal.",
-          "begriffDesTrades": "Aufgrund der nicht-halalen Natur und der hohen Volatilität wird hier eine 'MEIDEN'-Empfehlung ausgesprochen."
+          "wasIstDas": "Öl ist ein global wichtiger Energieträger. Der Preis wird stark von Angebot und Nachfrage sowie geopolitischen Ereignissen beeinflusst. Hierbei handelt es sich um den Rohstoff (Basiswert) Öl, nicht um einen bestimmten ETC.",
+          "warumJetzt": "Die jüngsten Angriffe auf Tanker und die Sorge um die Lieferketten im Nahen Osten treiben den Ölpreis nach oben. Die aktuellen Daten deuten auf eine Fortsetzung dieses Trends hin.",
+          "wannKaufen": "Ein Einstieg wäre sinnvoll, wenn der Ölpreis über 100 USD bleibt und die Nachrichtenlage bezüglich der Lieferunterbrechungen sich nicht beruhigt. Ein leichter Rücksetzer nach dem jüngsten Anstieg könnte auch eine Einstiegsgelegenheit bieten.",
+          "wieViel": "Da Öl ein volatiler Rohstoff ist und physisch gedeckte ETCs bei Trade Republic nicht verfügbar sind, ist eine direkte Investition über gehebelte Produkte nicht halal. Eine Investition in einen breit gestreuten Energie-ETF, der Ölproduzenten enthält, wäre eine Alternative, aber hier ist die direkte Spekulation auf Ölpreise nicht der Fokus.",
+          "wannRaus": "Wenn der Stop-Loss von 96.00 erreicht wird, was auf eine Entspannung der Lage oder andere negative Faktoren hindeutet. Oder wenn das Ziel von 108.00 erreicht wird.",
+          "wasKannSchiefgehen": "Eine schnelle diplomatische Lösung im Nahen Osten oder eine unerwartet starke globale Konjunkturabschwächung könnte den Ölpreis stark fallen lassen. Auch die hohe Volatilität macht den Handel riskant.",
+          "woranErkenneIchFalsch": "Wenn der Ölpreis trotz anhaltend negativer Nachrichtenlage nicht weiter steigt oder sogar fällt, könnte das auf eine nachlassende Dynamik oder andere gegenläufige Kräfte hindeuten.",
+          "begriffDesTrades": "Ein 'Supply Shock'-Trade, bei dem auf steigende Preise aufgrund einer plötzlichen Angebotsverknappung gesetzt wird."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Bei 50 € musst du über 75% solcher Trades gewinnen, nur um bei null zu landen."
+          ],
+          "plausibel": true,
+          "verifiziert": true,
+          "symbol": "CL=F",
+          "kursAktuell": 99.0199966430664,
+          "kursStand": "2026-10-16",
+          "einstieg": 101,
+          "stop": 96,
+          "ziel": 108,
+          "abstandEinstieg": 2,
+          "verlustPct": 4.95,
+          "gewinnPct": 6.93,
+          "verlustEur": 4.48,
+          "gewinnEur": 1.47,
+          "crvBrutto": 1.4,
+          "crvNetto": 0.33,
+          "breakEven": 75.33,
+          "stopInAtr": 1.24
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "Ethereum",
+        "isin": null,
+        "klasse": "Krypto",
+        "basiswert": "Ethereum",
+        "richtung": "REDUZIEREN",
+        "halal": "fraglich",
+        "einstieg": null,
+        "stopLoss": null,
+        "ziel": null,
+        "zeitraum": "N.A.",
+        "ueberzeugung": "niedrig",
+        "kette": "Geopolitische Spannungen und Unsicherheit → Flucht in sichere Häfen (Gold) → Weniger Kapital für risikoreichere Anlagen wie Krypto → Fallende Kurse bei Ethereum.",
+        "pro": [
+          "Ethereum hat in der Vergangenheit von allgemeinen Markttrends profitiert.",
+          "Die Technologie hinter Ethereum bleibt relevant für die Zukunft des Internets und dezentraler Anwendungen."
+        ],
+        "contra": [
+          "Ethereum hat einen sehr niedrigen RSI (25) und ist seit 20 Tagen um 10.2% gefallen, was auf schwache Momentum hindeutet.",
+          "Die allgemeine Marktunsicherheit und die Flucht in sichere Häfen belasten risikoreichere Anlagen wie Krypto.",
+          "Die Regulierung von Kryptowährungen bleibt ein ungelöster Faktor."
+        ],
+        "eingepreist": "Ethereum ist mit einem RSI von 25 und einem Rückgang von 10.2% über 20 Tage klar im negativen Bereich. Die aktuelle Schwäche scheint bereits eingepreist zu sein, aber die weiter anhaltende Marktunsicherheit könnte den Preis weiter drücken.",
+        "erklaerung": {
+          "wasIstDas": "Ethereum ist eine dezentrale Plattform, die Smart Contracts und dezentrale Anwendungen (dApps) ermöglicht. Ether (ETH) ist die Kryptowährung, die zur Bezahlung von Transaktionen auf der Plattform verwendet wird.",
+          "warumJetzt": "Aufgrund der aktuellen Marktunsicherheit und der Tendenz zur Flucht in sichere Anlagen ist Ethereum als risikoreichere Anlage aktuell unter Druck. Es ist ratsam, die Position zu reduzieren oder abzuwarten, bis sich die Marktbedingungen verbessern.",
+          "wannKaufen": "Ein Kauf wäre erst dann ratsam, wenn sich die Marktunsicherheit legt, die geopolitische Lage beruhigt und die Kryptomärkte wieder positive Signale senden. Ein RSI über 50 und ein steigender Kurs wären erste Anzeichen.",
+          "wieViel": "Bei einer Reduzierung der Position sollte man überlegen, wie viel Kapital man maximal bereit ist zu verlieren. Bei Trade Republic sind die Gebühren für Krypto-Transaktionen zu beachten.",
+          "wannRaus": "Wenn der Stop-Loss (nicht definiert, da Reduzieren) erreicht wird, oder wenn sich die Marktbedingungen deutlich verschlechtern. Ein Verkauf wäre sinnvoll, wenn die negativen Faktoren überwiegen.",
+          "wasKannSchiefgehen": "Eine weitere Eskalation der geopolitischen Spannungen könnte die allgemeine Risikoaversion verstärken und Krypto weiter belasten. Auch regulatorische Hürden könnten den Preis negativ beeinflussen.",
+          "woranErkenneIchFalsch": "Wenn Ethereum trotz einer allgemeinen Markterholung oder einer Entspannung der geopolitischen Lage nicht an Wert gewinnt, könnte das auf fundamentale Probleme oder mangelndes Vertrauen hindeuten.",
+          "begriffDesTrades": "Ein 'Risk-Off'-Szenario, bei dem Anleger aus risikoreichen Anlagen wie Krypto aussteigen."
         },
         "rechnung": {
           "budget": 50,
@@ -348,157 +384,85 @@
           ],
           "plausibel": false,
           "verifiziert": true,
-          "symbol": "CL=F",
-          "kursAktuell": 101.41000366210938,
-          "kursStand": "2026-10-16"
-        }
-      },
-      {
-        "rang": 3,
-        "asset": "iShares Core MSCI World",
-        "isin": "IE00B4L5Y983",
-        "klasse": "Aktien-ETF",
-        "basiswert": null,
-        "richtung": "LONG",
-        "halal": "halal",
-        "einstieg": 0,
-        "stopLoss": 0,
-        "ziel": 0,
-        "zeitraum": "Langfristig",
-        "ueberzeugung": "mittel",
-        "kette": "Robuste Wirtschaft in Hessen (repräsentativ für Teile Europas) → Positive globale Konjunkturaussichten → Steigende Unternehmensgewinne → Aktienmärkte steigen.",
-        "pro": [
-          "Breite Diversifikation über viele Länder und Sektoren.",
-          "Langfristig historisch stabile Renditen.",
-          "Die 'halal'-Variante des MSCI World ist verfügbar, was die Investition für dich erleichtert."
-        ],
-        "contra": [
-          "Kurzfristige Volatilität durch geopolitische Risiken und Zinsunsicherheit.",
-          "Eine starke US-Dollar-Schwäche könnte die Renditen für Euro-Anleger schmälern."
-        ],
-        "eingepreist": "Der MSCI World (nicht direkt abgebildet, aber als Indikator) zeigt mit einem RSI von 48 und einem leichten Rückgang vom 3M-Hoch eine neutrale bis leicht vorsichtige Marktstimmung. Die aktuelle Bewertung ist nicht extrem, aber auch nicht günstig.",
-        "erklaerung": {
-          "wasIstDas": "Der MSCI World bildet die Wertentwicklung von großen und mittelgroßen Unternehmen aus entwickelten Ländern weltweit ab. Dieser ETF bietet eine breite Streuung und ist für langfristige Anlagen geeignet.",
-          "warumJetzt": "Trotz kurzfristiger Unsicherheiten sind die langfristigen Aussichten für globale Aktien positiv. Die Meldung über Wachstum in Hessen könnte auf eine widerstandsfähige Weltwirtschaft hindeuten.",
-          "wannKaufen": "Eine gute Gelegenheit ist jetzt, da der Markt leicht zurückhaltend ist und gute Einstiegsniveaus bietet. Regelmäßige Sparpläne sind auch bei Schwankungen sinnvoll.",
-          "wieViel": "Nutze einen Sparplan, um regelmäßig zu investieren und den Durchschnittspreis zu glätten. Beginne mit einem Betrag, der für dich komfortabel ist und den du langfristig halten kannst.",
-          "wannRaus": "Dieser ETF ist für langfristiges Sparen gedacht. Verkaufe nur, wenn sich deine Anlageziele fundamental ändern oder du das Geld für einen dringenden Bedarf benötigst.",
-          "wasKannSchiefgehen": "Eine globale Rezession oder ein starker Anstieg der Zinsen über einen längeren Zeitraum könnten die Aktienmärkte belasten.",
-          "woranErkenneIchFalsch": "Ein anhaltender Abwärtstrend über mehrere Monate, begleitet von negativen Unternehmensnachrichten und steigender Arbeitslosigkeit, wäre ein Warnsignal.",
-          "begriffDesTrades": "Dies ist eine 'LONG'-Position, die auf langfristiges Wachstum und Wertsteigerung setzt, typisch für eine Buy-and-Hold-Strategie."
-        },
-        "rechnung": {
-          "budget": 50,
-          "gebuehren": 2,
-          "hinweise": [
-            "Einstieg, Stop oder Ziel fehlt."
-          ],
-          "plausibel": false,
-          "verifiziert": false
+          "symbol": "ETH-USD",
+          "kursAktuell": 2415.35009765625,
+          "kursStand": "2026-10-18"
         }
       }
     ],
     "rueckblick": [
       {
+        "datum": "2026-10-17",
+        "asset": "Gold",
+        "status": "offen",
+        "warum": "Die These der Flucht in sichere Häfen aufgrund geopolitischer Spannungen ist weiterhin gültig und hat sich durch neue Nachrichten bestätigt. Der Kurs hat sich seit dem Einstieg leicht positiv entwickelt."
+      },
+      {
         "datum": "2026-10-16",
         "asset": "Gold",
         "status": "offen",
-        "warum": "Die These der steigenden Unsicherheit durch geopolitische Spannungen und Zinsängste wird durch die aktuellen Ereignisse bestätigt. Der Einstieg wurde noch nicht erreicht, aber die Situation bleibt relevant."
+        "warum": "Die These der Flucht in sichere Häfen aufgrund geopolitischer Spannungen und Zinsängsten ist weiterhin gültig und hat sich durch neue Nachrichten bestätigt. Der Kurs hat sich seit dem Einstieg leicht positiv entwickelt."
       },
       {
         "datum": "2026-10-16",
         "asset": "Weizen",
-        "status": "offen",
-        "warum": "Die These eines potenziell niedrigen Preises und geopolitischer Risiken ist weiterhin aktuell. Allerdings gibt es keine neuen spezifischen Treiber, die den Preis aktuell stark beeinflussen, daher bleibt die Idee offen, aber die Überzeugung ist nicht gestiegen."
+        "status": "geschwächt",
+        "warum": "Die These einer Erholung des Weizenpreises hat sich bisher nicht bestätigt. Der Kurs ist seit dem Einstieg gefallen, was auf anhaltenden Verkaufsdruck hindeutet. Die geopolitischen Risiken scheinen den Weizenpreis aktuell nicht zu stützen."
       }
     ],
-    "narrativ": "Die Welt wird von zwei großen Kräften gleichzeitig beeinflusst: Geopolitische Spannungen im Nahen Osten schüren Ängste vor Energieknappheit und Instabilität, während die US-Notenbank ihre Unabhängigkeit betont und damit die Zinsentwicklung weiter offenlässt.",
-    "realitaet": "Die Märkte reagieren nervös auf diese Gemengelage. Gold steigt als 'sicherer Hafen', während Ölpreise volatil bleiben. Tech-Aktien stehen unter Druck, aber es gibt auch Anzeichen für wirtschaftliches Wachstum in einzelnen Regionen.",
-    "macht": "Die USA demonstrieren mit der potentiellen Freigabe von Ölreserven und der Haltung der Fed Einfluss auf globale Energie- und Zinsmärkte. Trump agiert mit seiner Sanktionspolitik.",
-    "geopolitik": "Die Konflikte im Nahen Osten bleiben ein zentraler Treiber für Unsicherheit und beeinflussen Energiepreise sowie globale Handelsrouten.",
-    "liquiditaet": "Die Aussagen der Fed zur Unabhängigkeit deuten darauf hin, dass die Liquiditätszufuhr nicht garantiert ist, was Zinsängste schürt und risikoreichere Anlagen belastet.",
-    "kette": "Geopolitische Spannungen → Energiepreis-Unsicherheit → Inflationsdruck → Zinsentscheidungen der Fed → Aktienmarkt-Reaktion.",
-    "timing": "Das Timing ist aktuell schwierig, da sich die Nachrichtenlage schnell ändern kann. Kurzfristige Volatilität ist hoch.",
-    "saisonalitaet": "Keine besonderen saisonalen Muster erkennbar, die das aktuelle Marktumfeld dominieren.",
-    "masseFehler": "Viele Marktteilnehmer könnten auf eine schnelle Entspannung der geopolitischen Lage spekulieren und sind daher unterinvestiert in 'sichere Häfen' wie Gold.",
-    "widerspruch": "Die Aussagen der Fed zur Unabhängigkeit stehen im Widerspruch zu möglichen politischen Erwartungen, was für Zinsunsicherheit sorgt.",
+    "narrativ": "Die Welt wird unsicherer. Geopolitische Konflikte nehmen zu, was die globalen Lieferketten und die Energieversorgung bedroht. Dies führt zu steigenden Preisen für Rohstoffe wie Öl und treibt Anleger in 'sichere Häfen' wie Gold.",
+    "realitaet": "Die Ölpreise steigen aufgrund von Lieferbedenken, während die Aktienmärkte nervös auf die zunehmende Instabilität reagieren. Die wirtschaftliche Erholung in einigen Regionen steht im Kontrast zur globalen Unsicherheit.",
+    "macht": "Die USA und ihre Verbündeten versuchen, die globalen Spannungen zu deeskalieren, während Akteure wie der Iran und Russland die Situation nutzen, um ihre Interessen zu verfolgen. Ägyptens Bereitschaft zur Verteidigung Saudi-Arabiens zeigt eine neue Bündnisbildung.",
+    "geopolitik": "Die Spannungen im Nahen Osten eskalieren mit Angriffen auf Tanker und militärischen Reaktionen. Dies hat weitreichende Auswirkungen auf die globale Energieversorgung und die Sicherheit.",
+    "liquiditaet": "Die Zentralbanken beobachten die Inflationsentwicklung genau. Steigende Energiepreise könnten eine erneute Inflationswelle auslösen und die Geldpolitik beeinflussen. Aktuell ist die Liquidität noch ausreichend, aber unsicher.",
+    "kette": "Geopolitische Spannungen im Nahen Osten → Angriffe auf Öl-Infrastruktur → Sorge um Ölversorgung → Anstieg Ölpreis → Inflationsdruck → Unsicherheit an den Aktienmärkten → Flucht in Gold.",
+    "timing": "Die aktuellen Nachrichten aus dem Nahen Osten sind der dominante Treiber. Die Reaktion der Märkte ist kurzfristig stark von diesen Ereignissen geprägt.",
+    "saisonalitaet": "Für Öl und Gold gibt es saisonale Muster, aber geopolitische Ereignisse haben aktuell einen deutlich stärkeren Einfluss.",
+    "masseFehler": "Die Märkte könnten die Dauer und Intensität der geopolitischen Spannungen unterschätzen, was zu einer stärkeren Flucht in sichere Häfen führen könnte. Eine übermäßige Reaktion auf jede Nachricht ist ebenfalls ein mögliches Fehlerverhalten.",
+    "widerspruch": "Starke Wirtschaftsnachrichten (Hessen wächst) stehen im Kontrast zur globalen geopolitischen Unsicherheit, die die Märkte belastet.",
     "markt": {
-      "Gold": "Neutral bis leicht positiv",
-      "Silber": "Neutral",
-      "Kupfer": "Neutral",
-      "Öl": "Volatil, kurzfristig Aufwärtsdruck",
-      "Erdgas": "Neutral bis leicht negativ",
-      "Weizen": "Neutral",
-      "Bitcoin": "Neutral",
-      "Ethereum": "Neutral",
-      "DAX": "Neutral bis leicht negativ",
-      "S&P 500": "Neutral bis leicht negativ",
-      "Nasdaq": "Neutral bis leicht negativ",
-      "EUR/USD": "Leicht positiv",
-      "DXY": "Leicht negativ",
-      "US 10J Zins": "Neutral bis leicht positiv"
+      "Gold": "LONG",
+      "Silber": "NEUTRAL",
+      "Kupfer": "NEUTRAL",
+      "Öl": "LONG",
+      "Erdgas": "NEUTRAL",
+      "Weizen": "NEUTRAL",
+      "Bitcoin": "NEUTRAL",
+      "Ethereum": "REDUZIEREN",
+      "DAX": "NEUTRAL",
+      "S&P 500": "NEUTRAL",
+      "Nasdaq": "NEUTRAL",
+      "EUR/USD": "NEUTRAL",
+      "DXY": "NEUTRAL",
+      "US 10J Zins": "NEUTRAL"
     },
-    "positionierung": "Anleger reduzieren Risiken, indem sie in Gold umschichten und aus Technologieaktien aussteigen.",
-    "reflexivitaet": "Die Angst vor weiteren Eskalationen treibt die Preise für 'sichere Häfen' und könnte eine sich selbst erfüllende Prophezeiung für steigende Rohstoffpreise werden.",
-    "metaZyklus": "Der Markt befindet sich in einer Phase der Unsicherheit, die durch geopolitische Ereignisse und geldpolitische Signale verstärkt wird.",
-    "psychologie": "Hohe Unsicherheit und Angst vor weiteren Eskalationen könnten zu Panikverkäufen führen, aber auch zu übertriebenen Käufen in 'sicheren Häfen'.",
-    "opportunity": "Die anhaltende geopolitische Unsicherheit und die damit verbundene Flucht in Edelmetalle bieten eine Chance für einen Long-Einstieg in Gold.",
-    "halalAsset": "iShares Core MSCI World Islamic (IE00B27YCK28)",
-    "halalStatus": "halal",
-    "halalBegruendung": "Dieser ETF investiert in Unternehmen, die islamische Anlagekriterien erfüllen und meidet Zinsgeschäfte, Alkohol, Glücksspiel etc. Er ist eine gute Option für breit gestreute Aktienanlagen.",
-    "entscheidung": "WARTEN",
-    "richtung": null,
-    "einstieg": null,
-    "stopLoss": null,
-    "ziel": null,
-    "zeitraum": null,
-    "exitStrategie": null,
-    "waehrungsrisiko": "Der EUR/USD-Kurs liegt bei 1.1244. Ein starker Dollar könnte die Renditen für Anleger in Euro schmälern, während ein schwacher Dollar die Renditen erhöht. Aktuell ist die Bewegung moderat.",
-    "lernpunkt": "Geopolitische Ereignisse haben oft direkte Auswirkungen auf Rohstoffpreise, insbesondere auf Öl, und können durch Unsicherheit auch die Nachfrage nach sicheren Anlagen wie Gold beeinflussen.",
-    "tagesfrage": "Wie stark wird die US-Geldpolitik die Märkte beeinflussen, wenn die geopolitischen Spannungen nachlassen?",
+    "positionierung": "Anleger reduzieren Risiken, erhöhen die Allokation in Gold und Öl, während sie sich von risikoreicheren Anlagen wie Tech-Aktien und Krypto distanzieren.",
+    "reflexivitaet": "Die steigenden Ölpreise und die geopolitische Unsicherheit könnten die Inflation anheizen, was wiederum die Zentralbanken zu einer strafferen Geldpolitik zwingen könnte, was die Aktienmärkte weiter belastet und die Flucht in Gold verstärkt.",
+    "metaZyklus": "Der Markt befindet sich in einer Phase der Unsicherheit, in der geopolitische Risiken die makroökonomischen Faktoren überlagern. Dies begünstigt defensive Anlagen.",
+    "psychologie": "Angst vor weiterer Eskalation im Nahen Osten und Sorge um die Energieversorgung treiben die Anleger. Es besteht die Gefahr, dass die Märkte überreagieren.",
+    "opportunity": "Die anhaltenden geopolitischen Spannungen und die daraus resultierende Flucht in sichere Häfen machen Gold zu einer attraktiven Anlagechance.",
+    "halalAsset": "Xetra-Gold (DE000A0S9GB0)",
+    "halalStatus": "fraglich",
+    "halalBegruendung": "Gold als Riba-Gut ist prinzipiell problematisch. Bei Xetra-Gold ist die physische Hinterlegung und Zuordnung gegeben, was es für viele Gelehrte akzeptabler macht. Dennoch bleibt eine Unsicherheit bezüglich der genauen Ausgestaltung und der islamischen Finanzprinzipien.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 4200,
+    "stopLoss": 4100,
+    "ziel": 4400,
+    "zeitraum": "4-8 Wochen",
+    "exitStrategie": "Zielerreichung oder Stop-Loss-Hit. Bei Erreichen des Ziels Gewinnmitnahme. Bei Erreichen des Stop-Loss Verlustbegrenzung.",
+    "waehrungsrisiko": "Der ETC Xetra-Gold ist in EUR notiert, der Basiswert Gold in USD. Schwankungen im EUR/USD-Kurs können den Wert des ETC beeinflussen. Bei einem stärkeren EUR/USD wäre das ein kleiner Nachteil für den ETC-Preis in EUR.",
+    "lernpunkt": "Geopolitische Ereignisse haben oft eine direkte und starke Auswirkung auf Rohstoffpreise, insbesondere auf Öl. Diese Preisänderungen können eine Kettenreaktion auslösen, die die Inflation beeinflusst und die Geldpolitik der Zentralbanken beeinflusst, was wiederum die breiteren Aktienmärkte bewegt.",
+    "tagesfrage": "Wie stark werden die aktuellen geopolitischen Spannungen die globale Wirtschaftsentwicklung und die Inflationserwartungen in den nächsten Wochen beeinflussen?",
     "_modell": "gemini-2.5-flash-lite",
     "asymmetrie": {
-      "verlust": 2.1,
-      "gewinn": 3.87,
-      "ratio": 0,
+      "verlust": 2.38,
+      "gewinn": 4.76,
+      "ratio": 0.12,
       "ev": null
     }
   },
   "prices": {
-    "SI=F": {
-      "label": "Silber",
-      "price": 56.994998931884766,
-      "change": 0.28,
-      "ch5": -6.06,
-      "ch20": -14.37,
-      "hoch3m": 71.16000366210938,
-      "tief3m": 55.5,
-      "abstandHoch": -19.91,
-      "abstandTief": 2.69,
-      "vola": 34.65,
-      "atrPct": 2.15,
-      "rsi": 35,
-      "ueberSma20": false,
-      "ueberSma50": false,
-      "stand": "2026-10-16"
-    },
-    "CL=F": {
-      "label": "Öl",
-      "price": 101.41000366210938,
-      "change": 3.51,
-      "ch5": 10.41,
-      "ch20": 1.11,
-      "hoch3m": 106.75,
-      "tief3m": 74.23999786376953,
-      "abstandHoch": -5,
-      "abstandTief": 36.6,
-      "vola": 38.35,
-      "atrPct": 3.95,
-      "rsi": 68,
-      "ueberSma20": true,
-      "ueberSma50": true,
-      "stand": "2026-10-16"
-    },
     "ZW=F": {
       "label": "Weizen",
       "price": 660.5,
@@ -516,39 +480,39 @@
       "ueberSma50": false,
       "stand": "2026-10-16"
     },
-    "GC=F": {
-      "label": "Gold",
-      "price": 4181.10009765625,
-      "change": 0.26,
-      "ch5": -0.83,
-      "ch20": -5.51,
-      "hoch3m": 4755,
-      "tief3m": 3993.800048828125,
-      "abstandHoch": -12.07,
-      "abstandTief": 4.69,
-      "vola": 18.3,
-      "atrPct": 1.75,
-      "rsi": 52,
+    "CL=F": {
+      "label": "Öl",
+      "price": 99.0199966430664,
+      "change": 1.07,
+      "ch5": 7.81,
+      "ch20": -1.28,
+      "hoch3m": 106.75,
+      "tief3m": 74.23999786376953,
+      "abstandHoch": -7.24,
+      "abstandTief": 33.38,
+      "vola": 36.44,
+      "atrPct": 3.98,
+      "rsi": 65,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-10-16"
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 57.30500030517578,
+      "change": 0.82,
+      "ch5": -5.55,
+      "ch20": -13.9,
+      "hoch3m": 71.16000366210938,
+      "tief3m": 55.5,
+      "abstandHoch": -19.47,
+      "abstandTief": 3.25,
+      "vola": 34.92,
+      "atrPct": 2.28,
+      "rsi": 36,
       "ueberSma20": false,
       "ueberSma50": false,
       "stand": "2026-10-16"
-    },
-    "BTC-USD": {
-      "label": "Bitcoin",
-      "price": 81599.9921875,
-      "change": 0.12,
-      "ch5": -0.2,
-      "ch20": -3.38,
-      "hoch3m": 87363.7578125,
-      "tief3m": 62648.57421875,
-      "abstandHoch": -6.6,
-      "abstandTief": 30.25,
-      "vola": 21.22,
-      "atrPct": 2.54,
-      "rsi": 39,
-      "ueberSma20": false,
-      "ueberSma50": true,
-      "stand": "2026-10-17"
     },
     "^GDAXI": {
       "label": "DAX",
@@ -567,6 +531,57 @@
       "ueberSma50": false,
       "stand": "2026-10-16"
     },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.573500156402588,
+      "change": 0.95,
+      "ch5": -1.04,
+      "ch20": -0.63,
+      "hoch3m": 6.829999923706055,
+      "tief3m": 6.253499984741211,
+      "abstandHoch": -3.76,
+      "abstandTief": 5.12,
+      "vola": 16.96,
+      "atrPct": 1.22,
+      "rsi": 51,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2415.35009765625,
+      "change": 0.65,
+      "ch5": -3.26,
+      "ch20": -10.17,
+      "hoch3m": 2805.4990234375,
+      "tief3m": 1870.7479248046875,
+      "abstandHoch": -13.91,
+      "abstandTief": 29.11,
+      "vola": 30.8,
+      "atrPct": 3.87,
+      "rsi": 25,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-18"
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 26140.029296875,
+      "change": -2.15,
+      "ch5": -4.48,
+      "ch20": -1.44,
+      "hoch3m": 27722.75,
+      "tief3m": 24425.33984375,
+      "abstandHoch": -5.71,
+      "abstandTief": 7.02,
+      "vola": 16.61,
+      "atrPct": 1.33,
+      "rsi": 37,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
     "NG=F": {
       "label": "Erdgas",
       "price": 3.115999937057495,
@@ -578,27 +593,78 @@
       "abstandHoch": -6.54,
       "abstandTief": 19.11,
       "vola": 53.54,
-      "atrPct": 4.41,
+      "atrPct": 4.4,
       "rsi": 57,
       "ueberSma20": true,
       "ueberSma50": true,
       "stand": "2026-10-16"
     },
-    "EURUSD=X": {
-      "label": "EUR/USD",
-      "price": 1.1243535280227661,
-      "change": 0.27,
-      "ch5": 0.35,
-      "ch20": -2.06,
-      "hoch3m": 1.1712344884872437,
-      "tief3m": 1.1114075183868408,
-      "abstandHoch": -4,
-      "abstandTief": 1.16,
-      "vola": 4.61,
-      "atrPct": 0.68,
-      "rsi": 35,
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7659.43994140625,
+      "change": -1.09,
+      "ch5": -1.95,
+      "ch20": 0.12,
+      "hoch3m": 7844.52001953125,
+      "tief3m": 7313.919921875,
+      "abstandHoch": -2.36,
+      "abstandTief": 4.72,
+      "vola": 10.45,
+      "atrPct": 0.91,
+      "rsi": 48,
       "ueberSma20": false,
       "ueberSma50": false,
+      "stand": "2026-10-16"
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 81836.09375,
+      "change": 0.56,
+      "ch5": -1.52,
+      "ch20": -2,
+      "hoch3m": 87363.7578125,
+      "tief3m": 62687.1015625,
+      "abstandHoch": -6.33,
+      "abstandTief": 30.55,
+      "vola": 21.03,
+      "atrPct": 2.46,
+      "rsi": 33,
+      "ueberSma20": false,
+      "ueberSma50": true,
+      "stand": "2026-10-18"
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1242270469665527,
+      "change": 0.26,
+      "ch5": 0.34,
+      "ch20": -2.07,
+      "hoch3m": 1.1712344884872437,
+      "tief3m": 1.1114075183868408,
+      "abstandHoch": -4.01,
+      "abstandTief": 1.15,
+      "vola": 4.59,
+      "atrPct": 0.66,
+      "rsi": 34,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-17"
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 101.83999633789062,
+      "change": -0.16,
+      "ch5": -0.36,
+      "ch20": 1.62,
+      "hoch3m": 102.94999694824219,
+      "tief3m": 98.55999755859375,
+      "abstandHoch": -1.08,
+      "abstandTief": 3.33,
+      "vola": 5.04,
+      "atrPct": 0.55,
+      "rsi": 58,
+      "ueberSma20": true,
+      "ueberSma50": true,
       "stand": "2026-10-16"
     },
     "^TNX": {
@@ -618,100 +684,32 @@
       "ueberSma50": true,
       "stand": "2026-10-16"
     },
-    "DX-Y.NYB": {
-      "label": "DXY",
-      "price": 101.83999633789062,
-      "change": -0.16,
-      "ch5": -0.36,
-      "ch20": 1.62,
-      "hoch3m": 102.94999694824219,
-      "tief3m": 98.55999755859375,
-      "abstandHoch": -1.08,
-      "abstandTief": 3.33,
-      "vola": 5.04,
-      "atrPct": 0.55,
-      "rsi": 58,
-      "ueberSma20": true,
-      "ueberSma50": true,
-      "stand": "2026-10-16"
-    },
-    "ETH-USD": {
-      "label": "Ethereum",
-      "price": 2432.56005859375,
-      "change": 0.53,
-      "ch5": -0.48,
-      "ch20": -9.47,
-      "hoch3m": 2805.4990234375,
-      "tief3m": 1867.8917236328125,
-      "abstandHoch": -13.29,
-      "abstandTief": 30.23,
-      "vola": 30.79,
-      "atrPct": 3.72,
-      "rsi": 30,
-      "ueberSma20": false,
-      "ueberSma50": false,
-      "stand": "2026-10-17"
-    },
-    "HG=F": {
-      "label": "Kupfer",
-      "price": 6.531000137329102,
-      "change": 0.3,
-      "ch5": -1.68,
-      "ch20": -1.27,
-      "hoch3m": 6.829999923706055,
-      "tief3m": 6.253499984741211,
-      "abstandHoch": -4.38,
-      "abstandTief": 4.44,
-      "vola": 16.61,
-      "atrPct": 1.18,
-      "rsi": 47,
-      "ueberSma20": false,
-      "ueberSma50": false,
-      "stand": "2026-10-16"
-    },
-    "^IXIC": {
-      "label": "Nasdaq",
-      "price": 26140.029296875,
-      "change": -2.15,
-      "ch5": -4.48,
-      "ch20": -1.44,
-      "hoch3m": 27722.75,
-      "tief3m": 24425.33984375,
-      "abstandHoch": -5.71,
-      "abstandTief": 7.02,
-      "vola": 16.61,
-      "atrPct": 1.33,
-      "rsi": 37,
-      "ueberSma20": false,
-      "ueberSma50": false,
-      "stand": "2026-10-16"
-    },
-    "^GSPC": {
-      "label": "S&P 500",
-      "price": 7659.43994140625,
-      "change": -1.09,
-      "ch5": -1.95,
-      "ch20": 0.12,
-      "hoch3m": 7844.52001953125,
-      "tief3m": 7313.919921875,
-      "abstandHoch": -2.36,
-      "abstandTief": 4.72,
-      "vola": 10.45,
-      "atrPct": 0.91,
-      "rsi": 48,
+    "GC=F": {
+      "label": "Gold",
+      "price": 4181.10009765625,
+      "change": 0.26,
+      "ch5": -0.83,
+      "ch20": -5.51,
+      "hoch3m": 4755,
+      "tief3m": 3993.800048828125,
+      "abstandHoch": -12.07,
+      "abstandTief": 4.69,
+      "vola": 18.3,
+      "atrPct": 1.75,
+      "rsi": 52,
       "ueberSma20": false,
       "ueberSma50": false,
       "stand": "2026-10-16"
     }
   },
   "fearGreed": [
-    61,
     69,
     57,
     62,
     53,
     63,
-    55
+    55,
+    53
   ],
   "simulation": {
     "buy": 46,
