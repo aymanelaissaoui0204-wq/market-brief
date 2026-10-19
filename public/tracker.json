@@ -1,20 +1,52 @@
 {
-  "stand": "2026-10-18T09:20:49.596Z",
+  "stand": "2026-10-19T10:32:04.235Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 5,
+    "gesamt": 7,
     "geschlossen": 0,
     "ziel": 0,
     "stop": 0,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
-    "laufend": 5,
+    "laufend": 7,
     "trefferquote": null,
     "summeEur": 0,
     "schnittEur": null,
     "proStufe": {}
   },
   "prognosen": [
+    {
+      "id": "2026-10-19#1",
+      "datum": "2026-10-19",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 4200,
+      "stop": 4100,
+      "ziel": 4400,
+      "gewinnEur": 0.38,
+      "verlustEur": 3.19,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit �� Flucht in sichere Häfen wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-10-19#2",
+      "datum": "2026-10-19",
+      "asset": "Silber",
+      "basiswert": "Silber",
+      "symbol": "SI=F",
+      "ueberzeugung": "niedrig",
+      "einstieg": 22,
+      "stop": 21,
+      "ziel": 24.5,
+      "gewinnEur": 3.68,
+      "verlustEur": 4.27,
+      "kette": "Geopolitische Spannungen → Erhöhte Unsicherheit → Flucht in sichere Häfen (Gold & Silber) → Steigende Nachfrage nach Silber → Silberpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-10-18#1",
       "datum": "2026-10-18",
@@ -28,8 +60,10 @@
       "gewinnEur": 0.38,
       "verlustEur": 3.19,
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit → Flucht in sichere Häfen wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-10-19",
+      "tage": 1,
+      "ergebnisEur": -2.17
     },
     {
       "id": "2026-10-18#2",
@@ -44,8 +78,10 @@
       "gewinnEur": 1.47,
       "verlustEur": 4.48,
       "kette": "Geopolitische Spannungen im Nahen Osten → Angriffe auf Öl-Infrastruktur/Transport → Sorge um Ölversorgung → Anstieg Ölpreis.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-10-19",
+      "tage": 1,
+      "ergebnisEur": -3.26
     },
     {
       "id": "2026-10-17#1",
@@ -60,8 +96,10 @@
       "gewinnEur": -0.07,
       "verlustEur": 3.05,
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit → Flucht in sichere Häfen wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-10-19",
+      "tage": 1,
+      "ergebnisEur": -2.02
     },
     {
       "id": "2026-10-16#1",
@@ -76,8 +114,10 @@
       "gewinnEur": -0.07,
       "verlustEur": 3.05,
       "kette": "Geopolitische Spannungen + Zinsängste → Unsicherheit an den Aktienmärkten → Flucht in 'sichere Häfen' → Nachfrage nach Gold steigt",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-10-19",
+      "tage": 1,
+      "ergebnisEur": -2.02
     },
     {
       "id": "2026-10-16#2",
@@ -92,8 +132,10 @@
       "gewinnEur": 1.05,
       "verlustEur": 3.5,
       "kette": "Niedriger Preis nach Rückgang + Geopolitische Risiken (potenziell) + Saisonale Nachfrage → Erholung des Weizenpreises",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-10-19",
+      "tage": 1,
+      "ergebnisEur": -1.79
     }
   ]
 }
