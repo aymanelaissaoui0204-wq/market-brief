@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-10-20]] | WARTEN | Gold | Die Märkte zeigen sich weiterhin nervös, geprägt von geopolitischen Risiken und der Flucht |
 | [[2026-10-19]] | WARTEN | Gold | Die Märkte sind nervös aufgrund geopolitischer Spannungen im Nahen Osten, was zu Volatilit |
 | [[2026-10-18]] | JA | Gold | Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken und der Flucht in sicher |
 | [[2026-10-17]] | WARTEN | Gold | Die Märkte sind nervös, da geopolitische Spannungen und die geldpolitische Haltung der US- |
