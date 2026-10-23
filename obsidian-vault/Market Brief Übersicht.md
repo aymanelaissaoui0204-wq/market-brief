@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-10-23]] | WARTEN | Öl | Die Märkte sind nervös, geprägt von geopolitischen Risiken und Zinssorgen. Öl steigt, währ |
 | [[2026-10-22]] | JA | Gold | Die Märkte sind nervös, getrieben von geopolitischen Spannungen im Nahen Osten, die zu ste |
 | [[2026-10-21]] | JA | Gold | Die Märkte sind gespalten: Energiepreise steigen aufgrund von Angebotsängsten, während die |
 | [[2026-10-20]] | WARTEN | Gold | Die Märkte zeigen sich weiterhin nervös, geprägt von geopolitischen Risiken und der Flucht |

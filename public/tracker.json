@@ -1,20 +1,20 @@
 {
-  "stand": "2026-10-22T09:51:36.341Z",
+  "stand": "2026-10-23T09:45:28.194Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 13,
-    "geschlossen": 5,
+    "gesamt": 15,
+    "geschlossen": 7,
     "ziel": 1,
-    "stop": 4,
+    "stop": 6,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
     "laufend": 8,
-    "trefferquote": 20,
-    "summeEur": -11.32,
-    "schnittEur": -2.26,
+    "trefferquote": 14.29,
+    "summeEur": -17.72,
+    "schnittEur": -2.53,
     "proStufe": {
       "mittel": {
-        "n": 3,
+        "n": 5,
         "ziel": 1
       },
       "niedrig": {
@@ -29,6 +29,38 @@
   },
   "prognosen": [
     {
+      "id": "2026-10-23#1",
+      "datum": "2026-10-23",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "hoch",
+      "einstieg": 101.5,
+      "stop": 97,
+      "ziel": 110,
+      "gewinnEur": 2.19,
+      "verlustEur": 4.22,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Sorge um Ölversorgung → Anstieg Ölpreis → Höhere Transport- und Produktionskosten → Inflation steigt → Mehr Druck auf Zentralbanken, aber kurzfristig Preisanstieg bei Öl.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-10-23#3",
+      "datum": "2026-10-23",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 80000,
+      "stop": 76000,
+      "ziel": 90000,
+      "gewinnEur": 4.25,
+      "verlustEur": 4.5,
+      "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
       "id": "2026-10-22#1",
       "datum": "2026-10-22",
       "asset": "Gold",
@@ -42,7 +74,7 @@
       "verlustEur": 2.61,
       "kette": "Geopolitische Unsicherheit im Nahen Osten → Flucht in sichere Häfen → Steigende Nachfrage nach Gold → Goldpreis steigt.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-10-22#2",
@@ -57,8 +89,10 @@
       "gewinnEur": 1.47,
       "verlustEur": 4.48,
       "kette": "Eskalation im Nahen Osten → Sorge um Ölversorgung → Anstieg des Ölpreises.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-10-23",
+      "tage": 1,
+      "ergebnisEur": -1.9
     },
     {
       "id": "2026-10-21#1",
@@ -73,10 +107,10 @@
       "gewinnEur": 1.61,
       "verlustEur": 3.2,
       "kette": "Anhaltende geopolitische Spannungen im Nahen Osten → Erhöhte globale Unsicherheit → Flucht in 'sichere Häfen' wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
-      "status": "laeuft",
-      "seit": "2026-10-22",
+      "status": "stop",
+      "am": "2026-10-22",
       "tage": 1,
-      "ergebnisEur": -2.6
+      "ergebnisEur": -3.2
     },
     {
       "id": "2026-10-21#2",
@@ -107,10 +141,10 @@
       "gewinnEur": 1.61,
       "verlustEur": 3.2,
       "kette": "Geopolitische Spannungen → Erhöhte Unsicherheit → Flucht in sichere Häfen wie Gold → Steigende Nachfrage nach Gold → Goldpreis steigt.",
-      "status": "laeuft",
-      "seit": "2026-10-21",
+      "status": "stop",
+      "am": "2026-10-22",
       "tage": 2,
-      "ergebnisEur": -2.6
+      "ergebnisEur": -3.2
     },
     {
       "id": "2026-10-20#2",

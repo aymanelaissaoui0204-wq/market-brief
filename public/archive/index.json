@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-23",
+    "datum": "Freitag, 23. Oktober 2026",
+    "analyseOk": true,
+    "thema": "Die Märkte sind nervös, geprägt von geopolitischen Risiken und Zinssorgen. Öl steigt, während Aktien und Anleihen schwächeln, was auf eine defensive Marktstimmu",
+    "entscheidung": "WARTEN",
+    "top": "Öl",
+    "fg": 50,
+    "news": 19,
+    "chancen": 3
+  },
+  {
     "date": "2026-10-22",
     "datum": "Donnerstag, 22. Oktober 2026",
     "analyseOk": true,
