@@ -1,14 +1,14 @@
 {
-  "stand": "2026-10-23T09:45:28.194Z",
+  "stand": "2026-10-24T09:19:59.783Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 15,
+    "gesamt": 17,
     "geschlossen": 7,
     "ziel": 1,
     "stop": 6,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
-    "laufend": 8,
+    "laufend": 10,
     "trefferquote": 14.29,
     "summeEur": -17.72,
     "schnittEur": -2.53,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-10-24#1",
+      "datum": "2026-10-24",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 103.5,
+      "stop": 99,
+      "ziel": 112,
+      "gewinnEur": 2.11,
+      "verlustEur": 4.17,
+      "kette": "Geopolitische Spannungen im Nahen Osten (Iran/Starlink/Trump) → Sorge um Ölversorgung und Transportwege → Anstieg Ölpreis",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-10-24#2",
+      "datum": "2026-10-24",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 4020,
+      "stop": 3950,
+      "ziel": 4150,
+      "gewinnEur": -0.38,
+      "verlustEur": 2.87,
+      "kette": "Anhaltende geopolitische Unsicherheit (Iran/Trump) → Flucht in sichere Häfen → Steigende Nachfrage nach Gold → Goldpreis steigt",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-10-23#1",
       "datum": "2026-10-23",
@@ -58,7 +90,7 @@
       "verlustEur": 4.5,
       "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-10-22#1",
@@ -92,7 +124,7 @@
       "status": "laeuft",
       "seit": "2026-10-23",
       "tage": 1,
-      "ergebnisEur": -1.9
+      "ergebnisEur": -0.88
     },
     {
       "id": "2026-10-21#1",
@@ -125,8 +157,10 @@
       "gewinnEur": 1.17,
       "verlustEur": 4.68,
       "kette": "Geopolitische Spannungen im Nahen Osten (Irak/Iran) & Houthi-Angriffe → Sorge um Ölversorgung/Transportwege → Anstieg Ölpreis → Höhere Produktionskosten & Inflation → Druck auf Konsum",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-23",
+      "tage": 1,
+      "ergebnisEur": -1.62
     },
     {
       "id": "2026-10-20#1",
@@ -159,8 +193,10 @@
       "gewinnEur": 1.17,
       "verlustEur": 4.68,
       "kette": "Geopolitische Spannungen im Nahen Osten & Houthi-Angriffe → Sorge um Ölversorgung/Transportwege → Anstieg Ölpreis",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-23",
+      "tage": 1,
+      "ergebnisEur": -1.62
     },
     {
       "id": "2026-10-19#1",
