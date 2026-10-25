@@ -1,14 +1,14 @@
 {
-  "stand": "2026-10-24T09:19:59.783Z",
+  "stand": "2026-10-25T09:35:36.516Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 17,
+    "gesamt": 19,
     "geschlossen": 7,
     "ziel": 1,
     "stop": 6,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
-    "laufend": 10,
+    "laufend": 12,
     "trefferquote": 14.29,
     "summeEur": -17.72,
     "schnittEur": -2.53,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-10-25#1",
+      "datum": "2026-10-25",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "hoch",
+      "einstieg": 103.5,
+      "stop": 99,
+      "ziel": 112,
+      "gewinnEur": 2.11,
+      "verlustEur": 4.17,
+      "kette": "Geopolitische Eskalation im Nahen Osten → Angst vor Angebotsausfällen → Ölpreis steigt → Höhere Energie- und Transportkosten → Inflation steigt → Potenzieller Inflationsschutz für Rohstoffe.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-10-25#2",
+      "datum": "2026-10-25",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "mittel",
+      "einstieg": 81000,
+      "stop": 77000,
+      "ziel": 90000,
+      "gewinnEur": 3.56,
+      "verlustEur": 4.47,
+      "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-10-24#1",
       "datum": "2026-10-24",
@@ -89,8 +121,10 @@
       "gewinnEur": 4.25,
       "verlustEur": 4.5,
       "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-24",
+      "tage": 2,
+      "ergebnisEur": -1.95
     },
     {
       "id": "2026-10-22#1",

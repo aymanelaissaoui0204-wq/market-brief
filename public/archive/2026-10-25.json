@@ -1,0 +1,736 @@
+{
+  "date": "Sonntag, 25. Oktober 2026",
+  "dateKey": "2026-10-25",
+  "generatedAt": "2026-10-25T09:35:36.449Z",
+  "news": [
+    {
+      "title": "Hohe Zinsen lassen Wohnungspreise stagnieren",
+      "source": "RP ONLINE",
+      "publishedAt": "2026-10-23T14:16:00Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Deutschland: Hohe Zinsen drücken Kaufpreise in Metropolen, Mieten steigen",
+      "source": "FinanzNachrichten",
+      "publishedAt": "2026-10-23T12:24:00Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-25T07:27:43.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-25T07:22:39.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Saudi Arabia intercepts drones and missiles as fighting with Yemen's Houthis continues - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T23:56:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T19:24:39.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+      "source": "CNBC",
+      "publishedAt": "2026-10-24T16:14:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Libya's Dbeibah says ready to address Egypt's maritime concerns - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T16:04:09.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T16:03:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T16:02:08.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+      "source": "CNBC",
+      "publishedAt": "2026-10-24T15:00:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "I quit my marketing job to walk dogs for 4 months: It's 'one of the most valuable professional experiences I've ever had'",
+      "source": "CNBC",
+      "publishedAt": "2026-10-24T14:36:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Jordan church attack survivor says assailant pointed handgun at him - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T14:10:20.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "An ex-bookkeeper spent $375 to launch a sewing business: 'I hadn't felt so sure about something like that in a long time'",
+      "source": "CNBC",
+      "publishedAt": "2026-10-24T14:00:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Iran's Pezeshkian blames US for interim deal failure, urges new try - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T13:27:12.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-10-24T13:07:40.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+      "source": "CNBC",
+      "publishedAt": "2026-10-24T13:05:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Tawuniya Chairman resigns for professional commitments",
+      "source": "argaam.com",
+      "publishedAt": "2026-10-25T09:26:00.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Al Majdiah ends CEO assignment, appoints Raed Al Nuaimi",
+      "source": "argaam.com",
+      "publishedAt": "2026-10-25T09:24:00.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
+      "source": "thehindubusinessline.com",
+      "publishedAt": "2026-10-25T09:11:36.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Ayman, heute dreht sich alles um die anhaltenden geopolitischen Spannungen im Nahen Osten. Diese Sorge um die Ölversorgung und die damit verbundenen Transportwege ist der entscheidende Faktor, der die Märkte bewegt. Wir schauen, wie sich das auf Energiepreise, Inflation und damit auch auf andere Anlageklassen auswirkt.",
+    "marktlage": "Die Märkte sind aktuell von geopolitischen Risiken im Nahen Osten geprägt, die zu steigenden Ölpreisen führen und Inflationssorgen schüren. Die Zinsentwicklung bleibt ein wichtiger, aber kurzfristig überlagerter Faktor.",
+    "neuHeute": "Neu ist die verstärkte Meldung über einen abgeschossenen US-Drohne durch den Iran, was die Spannungen weiter eskaliert. Die Meldungen zu den Houthi-Angriffen auf Saudi-Arabien sind zwar bekannt, aber die erneute Bestätigung und die damit verbundenen Reaktionen sind relevant. Die Immobiliennachrichten sind eher bekannt, aber die Zinskomponente ist immer präsent.",
+    "oberflaeche": [
+      "RP ONLINE: Hohe Zinsen lassen Wohnungspreise stagnieren",
+      "FinanzNachrichten: Deutschland: Hohe Zinsen drücken Kaufpreise in Metropolen, Mieten steigen",
+      "Reuters: Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports - Reuters"
+    ],
+    "ereignisse": [
+      {
+        "ereignis": "Iran meldet Abschuss einer US-Drohne über Bandar Abbas.",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": true,
+        "betroffen": "Geopolitik, Ölpreis, Aktienmärkte (Risikobereitschaft)",
+        "wirkung": "negativ für Risikobereitschaft, potenziell positiv für Ölpreis"
+      },
+      {
+        "ereignis": "Saudi-Arabien wehrt Drohnen und Raketen ab; Kämpfe mit Houthis dauern an; Houthis melden Angriffe auf Öl-Standorte.",
+        "quellen": 3,
+        "typ": "Fakt",
+        "neu": false,
+        "betroffen": "Ölpreis, Energie-Sektoren, geopolitische Stabilität im Nahen Osten",
+        "wirkung": "positiv für Ölpreis, negativ für Stabilität"
+      },
+      {
+        "ereignis": "Iran verstärkt Bemühungen, US-Personal ins Visier zu nehmen (US-Geheimdienstbericht).",
+        "quellen": 1,
+        "typ": "Fakt/Spekulation",
+        "neu": true,
+        "betroffen": "Geopolitik, US-Außenpolitik, potenzielle Energiepreisreaktion",
+        "wirkung": "negativ für Stabilität, potenziell positiv für Ölpreis"
+      },
+      {
+        "ereignis": "Hohe Zinsen belasten Immobilienpreise in deutschen Metropolen, Mieten steigen.",
+        "quellen": 2,
+        "typ": "Fakt",
+        "neu": false,
+        "betroffen": "Immobilienmarkt, Konsumklima, Zinssensibilität",
+        "wirkung": "negativ für Immobilienkäufer, positiv für Vermieter (kurzfristig)"
+      }
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "Geopolitische Spannungen im Nahen Osten (Iran/Houthi)",
+        "kette": "Iran/Houthi-Aktivitäten → Sorge um Ölversorgung/Transportwege → Anstieg Ölpreis → Höhere Transport- und Produktionskosten → Steigende Inflationserwartungen → Druck auf Zentralbanken (wenn anhaltend) → Volatilität bei Aktien und Anleihen",
+        "warum": "Konflikte in ölreichen Regionen führen zu Befürchtungen über Engpässe, was den Preis für Öl in die Höhe treibt. Höhere Energiekosten machen fast alles teurer und können die Inflation anheizen. Das wiederum zwingt Zentralbanken zum Nachdenken, ob sie die Zinsen hochhalten müssen, was die Wirtschaft bremsen kann.",
+        "betroffen": "Öl, Energieaktien, globale Inflation, Aktienmärkte, Währungen (potenziell)",
+        "investierbar": {
+          "asset": "Öl",
+          "isin": null,
+          "richtung": "LONG",
+          "halal": "fraglich",
+          "wie": "Investition in Öl-Futures oder entsprechende ETCs, die aber Zinskomponenten enthalten können oder nicht physisch sind."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "Öl",
+        "isin": "WisdomTree Brent Oil",
+        "klasse": "Rohstoff (ETC)",
+        "basiswert": "Öl",
+        "richtung": "LONG",
+        "halal": "fraglich",
+        "einstieg": 103.5,
+        "stopLoss": 99,
+        "ziel": 112,
+        "zeitraum": "4-8 Wochen",
+        "ueberzeugung": "hoch",
+        "kette": "Geopolitische Eskalation im Nahen Osten → Angst vor Angebotsausfällen → Ölpreis steigt → Höhere Energie- und Transportkosten → Inflation steigt → Potenzieller Inflationsschutz für Rohstoffe.",
+        "pro": [
+          "Anhaltende Spannungen im Nahen Osten mit neuen Meldungen (US-Drohne).",
+          "Die Houthi-Angriffe auf Saudi-Arabien zeigen die anhaltende Bedrohung für Öl-Infrastruktur.",
+          "Der Ölpreis hat sich zuletzt stabilisiert und zeigt nun wieder Aufwärts momentum."
+        ],
+        "contra": [
+          "Eine schnelle Deeskalation ist nicht ausgeschlossen.",
+          "Globale Konjunkturabschwächung könnte die Nachfrage dämpfen.",
+          "Die 'halal'-Frage bei ETCs ist nicht eindeutig geklärt."
+        ],
+        "eingepreist": "Der Ölpreis ist mit einem RSI von 74 bereits im überkauften Bereich und hat in den letzten 20 Tagen um 11.8% zugelegt. Ein Teil der aktuellen Sorgen könnte bereits eingepreist sein, aber neue Eskalationen können den Preis weiter treiben.",
+        "erklaerung": {
+          "wasIstDas": "Öl ist ein Grundstoff, der für fast alles benötigt wird, von Treibstoff bis zur Kunststoffherstellung. Brent ist eine wichtige Öl-Sorte.",
+          "warumJetzt": "Die geopolitischen Spannungen im Nahen Osten haben sich verschärft, was die Sorge um die Ölversorgung erhöht und den Preis treibt.",
+          "wannKaufen": "Bei einem Rücksetzer unter 103.50, aber sobald sich die Nachrichtenlage weiter verschlechtert und der Preis über 104 steigt.",
+          "wieViel": "Da du klein investierst, setze einen kleinen Prozentsatz deines Kapitals ein, um das Risiko zu streuen. Achte auf die Gebühren deines Brokers.",
+          "wannRaus": "Wenn der Preis unter 99 fällt (Stop-Loss) oder das Ziel von 112 erreicht. Auch bei einer deutlichen Entspannung der geopolitischen Lage.",
+          "wasKannSchiefgehen": "Eine schnelle diplomatische Lösung oder eine überraschende Erhöhung der Fördermenge durch andere Länder könnte den Preis fallen lassen.",
+          "woranErkenneIchFalsch": "Wenn der Ölpreis trotz weiterer negativer Nachrichten nicht steigt oder sogar fällt, besonders wenn er unter seinen kurzfristigen Aufwärtstrend fällt.",
+          "begriffDesTrades": "Ein spekulativer Handel auf steigende Ölpreise aufgrund geopolitischer Risiken, der als Inflationsschutz dienen kann."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Bei 50 € musst du über 66% solcher Trades gewinnen, nur um bei null zu landen."
+          ],
+          "plausibel": true,
+          "verifiziert": true,
+          "symbol": "CL=F",
+          "kursAktuell": 103.2699966430664,
+          "kursStand": "2026-10-23",
+          "einstieg": 103.5,
+          "stop": 99,
+          "ziel": 112,
+          "abstandEinstieg": 0.22,
+          "verlustPct": 4.35,
+          "gewinnPct": 8.21,
+          "verlustEur": 4.17,
+          "gewinnEur": 2.11,
+          "crvBrutto": 1.89,
+          "crvNetto": 0.5,
+          "breakEven": 66.46,
+          "stopInAtr": 1.03
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "Bitcoin",
+        "isin": null,
+        "klasse": "Krypto",
+        "basiswert": "Bitcoin",
+        "richtung": "LONG",
+        "halal": "fraglich",
+        "einstieg": 81000,
+        "stopLoss": 77000,
+        "ziel": 90000,
+        "zeitraum": "4-8 Wochen",
+        "ueberzeugung": "mittel",
+        "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
+        "pro": [
+          "Die Zinsen am US-Anleihenmarkt (US 10J) sind mit einem RSI von 22 im überverkauften Bereich und zeigen Anzeichen einer möglichen Bodenbildung, was die Opportunitätskosten für Krypto senken könnte.",
+          "Bitcoin zeigt sich relativ stabil trotz der geopolitischen Unsicherheiten, was auf eine gewisse Resilienz hindeutet.",
+          "Die allgemeine Marktstimmung (Fear & Greed Index bei 54) ist neutral und lässt Raum für positive Entwicklungen."
+        ],
+        "contra": [
+          "Die Zinsentwicklung ist noch unsicher und kann sich schnell ändern.",
+          "Geopolitische Krisen können auch zu einem 'Risk-off'-Sentiment führen, bei dem auch Krypto leidet.",
+          "Die 'halal'-Frage bei Kryptowährungen ist unter Gelehrten umstritten."
+        ],
+        "eingepreist": "Bitcoin hat in den letzten 20 Tagen 6.7% verloren und liegt mit einem RSI von 36 im neutralen Bereich. Es scheint, dass die jüngsten Kursrückgänge und die Unsicherheit bereits eingepreist sind. Der aktuelle Kurs liegt auch nahe am 3M-Hoch, was auf eine gewisse Erholung hindeutet.",
+        "erklaerung": {
+          "wasIstDas": "Bitcoin ist die bekannteste und größte Kryptowährung, eine digitale Währung, die auf einer dezentralen Technologie (Blockchain) basiert.",
+          "warumJetzt": "Die Hoffnung auf sinkende Zinsen in der Zukunft macht risikoreichere Anlagen wie Bitcoin attraktiver, da die Rendite auf sicherere Anlagen wie Anleihen sinkt.",
+          "wannKaufen": "Wenn der Bitcoin über 81.000 USD steigt und stabil bleibt, idealerweise mit steigendem Handelsvolumen.",
+          "wieViel": "Investiere nur einen kleinen Teil deines Geldes, da Krypto sehr volatil ist. Achte auf die Transaktionsgebühren.",
+          "wannRaus": "Wenn der Preis unter 77.000 USD fällt (Stop-Loss) oder das Ziel von 90.000 USD erreicht. Auch bei klaren Signalen für weiter steigende Zinsen.",
+          "wasKannSchiefgehen": "Eine unerwartete Zinserhöhung, strengere Regulierungen für Kryptowährungen oder eine allgemeine Flucht aus risikoreichen Anlagen.",
+          "woranErkenneIchFalsch": "Wenn Bitcoin trotz positiver Nachrichten über Zinsen oder regulatorische Klarheit nicht steigt oder unter wichtige Unterstützungsmarken fällt.",
+          "begriffDesTrades": "Ein spekulativer Trade auf steigende Bitcoin-Kurse, getrieben von der Erwartung sinkender Zinsen und Kapitalflüssen in digitale Assets."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Bei 50 € musst du über 56% solcher Trades gewinnen, nur um bei null zu landen."
+          ],
+          "plausibel": true,
+          "verifiziert": true,
+          "symbol": "BTC-USD",
+          "kursAktuell": 80085.7109375,
+          "kursStand": "2026-10-25",
+          "einstieg": 81000,
+          "stop": 77000,
+          "ziel": 90000,
+          "abstandEinstieg": 1.14,
+          "verlustPct": 4.94,
+          "gewinnPct": 11.11,
+          "verlustEur": 4.47,
+          "gewinnEur": 3.56,
+          "crvBrutto": 2.25,
+          "crvNetto": 0.8,
+          "breakEven": 55.69,
+          "stopInAtr": 1.88
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "US 10J Zins",
+        "isin": null,
+        "klasse": "Anleihe (Index)",
+        "basiswert": "US 10J Zins",
+        "richtung": "LONG (für fallende Zinsen)",
+        "halal": "halal",
+        "einstieg": 4.9,
+        "stopLoss": 5.05,
+        "ziel": 4.7,
+        "zeitraum": "4-8 Wochen",
+        "ueberzeugung": "mittel",
+        "kette": "Anhaltende Inflationssorgen (wegen Öl) vs. Potenzial für Zinsrückgänge (wegen Konjunktursorgen) → Unsicherheit bei Zentralbanken → Volatilität bei Zinsen → Wenn Konjunktursorgen überwiegen, sinken die Zinsen → Anleihekurse steigen.",
+        "pro": [
+          "Der US 10-Jahres-Zins hat in den letzten 20 Tagen um 3.8% nachgegeben und liegt mit einem RSI von 22 im stark überverkauften Bereich.",
+          "Geopolitische Risiken können zu einer Flucht in sicherere Anlagen wie US-Staatsanleihen führen, was die Zinsen drückt.",
+          "Die Zinsstrukturkurve könnte Anzeichen einer möglichen Rezession signalisieren, was die Zentralbanken zu Zinssenkungen bewegen könnte."
+        ],
+        "contra": [
+          "Die anhaltenden Inflationsrisiken durch hohe Energiepreise könnten die Zentralbanken zwingen, die Zinsen länger hoch zu halten.",
+          "Die US-Notenbank hat sich bisher nicht klar zu Zinssenkungen geäussert.",
+          "Die aktuelle Marktstimmung ist noch nicht eindeutig rezessionsgetrieben."
+        ],
+        "eingepreist": "Der US 10-Jahres-Zins hat bereits deutlich nachgegeben (20T: -3.8%, 3M-Hoch: -7.0%) und ist mit einem RSI von 22 stark überverkauft. Ein weiterer Rückgang ist möglich, aber starke Kursgewinne sind aufgrund der Unsicherheit über die weitere Zinspolitik weniger wahrscheinlich.",
+        "erklaerung": {
+          "wasIstDas": "Die Rendite der 10-jährigen US-Staatsanleihe ist ein wichtiger Indikator für die allgemeinen Zinsniveaus und die Erwartungen an die Wirtschaftsentwicklung.",
+          "warumJetzt": "Die Zinsmärkte preisen zunehmend Zinssenkungen ein, aber die anhaltende Inflation durch Energiepreise schafft Unsicherheit. Ein Rückgang der Zinsen würde bedeuten, dass die Anleihekurse steigen.",
+          "wannKaufen": "Bei einem weiteren Anstieg des Zinses über 4.95, der aber schnell wieder zurückläuft (Signal für Unsicherheit und potenzielle Trendwende nach unten), oder bei klaren Signalen für eine Rezession.",
+          "wieViel": "Als Anfänger kannst du über ETFs auf Staatsanleihen investieren. Achte auf die Laufzeit; kürzere Laufzeiten sind weniger zinssensitiv, aber auch weniger renditestark.",
+          "wannRaus": "Wenn der Zins nachhaltig über 5.05 steigt (Stop-Loss) oder das Ziel von 4.70 erreicht. Auch wenn die Inflation stärker als erwartet bleibt und die Zentralbanken die Zinsen hochhalten müssen.",
+          "wasKannSchiefgehen": "Die Inflation bleibt hoch und die Zentralbanken müssen die Zinsen länger hoch halten oder sogar wieder anheben.",
+          "woranErkenneIchFalsch": "Wenn der Zins trotz negativer Wirtschaftsdaten weiter steigt oder wenn die Inflation über den Erwartungen bleibt.",
+          "begriffDesTrades": "Eine Wette auf fallende Zinsen (steigende Anleihekurse), getrieben von der Erwartung einer nachlassenden Inflation oder einer Konjunkturabschwächung."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Unlogisch: Für einen Kauf muss Stop < Einstieg < Ziel gelten."
+          ],
+          "plausibel": false,
+          "verifiziert": true,
+          "symbol": "^TNX",
+          "kursAktuell": 4.98799991607666,
+          "kursStand": "2026-10-23"
+        }
+      }
+    ],
+    "rueckblick": [
+      {
+        "datum": "2026-10-24",
+        "asset": "Öl",
+        "status": "offen",
+        "warum": "Die These der steigenden Ölpreise aufgrund geopolitischer Spannungen hat sich bestätigt und die Idee ist weiterhin offen."
+      },
+      {
+        "datum": "2026-10-24",
+        "asset": "Gold",
+        "status": "geschwächt",
+        "warum": "Die geopolitischen Spannungen sind zwar weiterhin präsent, aber der Goldpreis hat nicht die erwartete Stärke gezeigt und schwächelt eher, was die These schwächt."
+      },
+      {
+        "datum": "2026-10-23",
+        "asset": "Öl",
+        "status": "offen",
+        "warum": "Die These der steigenden Ölpreise aufgrund geopolitischer Spannungen hat sich bestätigt und die Idee ist weiterhin offen."
+      },
+      {
+        "datum": "2026-10-23",
+        "asset": "Bitcoin",
+        "status": "offen",
+        "warum": "Die Idee läuft und zeigt leichte Verluste. Die Zinsentwicklung ist noch unklar, daher ist die These noch nicht widerlegt, aber auch nicht bestätigt."
+      },
+      {
+        "datum": "2026-10-22",
+        "asset": "Gold",
+        "status": "geschwächt",
+        "warum": "Obwohl die geopolitischen Spannungen bestehen, zeigt Gold keine klare Aufwärtsbewegung und schwächelt eher, was die ursprüngliche These schwächt."
+      },
+      {
+        "datum": "2026-10-22",
+        "asset": "Öl",
+        "status": "offen",
+        "warum": "Die These der steigenden Ölpreise aufgrund geopolitischer Spannungen hat sich bestätigt und die Idee ist weiterhin offen."
+      },
+      {
+        "datum": "2026-10-21",
+        "asset": "Öl",
+        "status": "offen",
+        "warum": "Die These der steigenden Ölpreise aufgrund geopolitischer Spannungen hat sich bestätigt und die Idee ist weiterhin offen."
+      },
+      {
+        "datum": "2026-10-20",
+        "asset": "Öl",
+        "status": "offen",
+        "warum": "Die These der steigenden Ölpreise aufgrund geopolitischer Spannungen hat sich bestätigt und die Idee ist weiterhin offen."
+      }
+    ],
+    "narrativ": "Geopolitische Spannungen im Nahen Osten als dominierendes Thema.",
+    "realitaet": "Hohe Energiepreise und Inflationsdruck.",
+    "macht": "Die USA und der Iran stehen sich gegenüber, was die globale Machtdynamik im Energiesektor beeinflusst.",
+    "geopolitik": "Konflikt verschärft sich, Iran meldet Abschuss einer US-Drohne.",
+    "liquiditaet": "Zentralbanken beobachten die Inflationsentwicklung genau, was die Liquiditätslage beeinflusst.",
+    "kette": "Geopolitik im Nahen Osten → Ölpreis steigt → Inflation steigt → Zentralbanken unter Druck → Aktienmärkte volatil.",
+    "timing": "Die aktuellen Ereignisse sind ein wichtiger Katalysator für kurzfristige Marktbewegungen.",
+    "saisonalitaet": "Der Winter rückt näher, was die Nachfrage nach Heizöl beeinflusst und die Energiepreise stützen könnte.",
+    "masseFehler": "Anleger könnten die geopolitischen Risiken unterschätzen oder zu früh auf eine Entspannung setzen.",
+    "widerspruch": "Anhaltende geopolitische Spannungen (positiv für Öl) vs. Sorge vor globaler Konjunkturabschwächung (negativ für Öl und Aktien).",
+    "markt": "Öl: Long, Aktien: Neutral/Leicht Negativ, Anleihen: Long (fallende Zinsen) bis zur Klärung der Inflationslage, Gold: Neutral.",
+    "positionierung": "Investoren reduzieren Risiko in Aktien und suchen nach Inflationsschutz (z.B. Öl).",
+    "reflexivitaet": "Steigende Ölpreise führen zu mehr Inflation, was die Zentralbanken zu einer restriktiveren Politik zwingt, die wiederum das Wirtschaftswachstum bremst.",
+    "metaZyklus": "Der Markt befindet sich in einer Phase der Unsicherheit, in der Inflations- und Rezessionsängste abwechselnd dominieren.",
+    "psychologie": "Fear & Greed Index bei 54 deutet auf eine neutrale Stimmung hin, mit geringem Potenzial für extreme FOMO oder Panik.",
+    "opportunity": "Steigende Ölpreise aufgrund von geopolitischen Spannungen.",
+    "halalAsset": "US 10J Zins (als ETF auf Staatsanleihen)",
+    "halalStatus": "halal",
+    "halalBegruendung": "US-Staatsanleihen sind halal, da sie keine Zinsen im Sinne von Riba enthalten und als Schuldinstrumente gelten. Der Handel ist erlaubt.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 103.5,
+    "stopLoss": 99,
+    "ziel": 112,
+    "zeitraum": "4-8 Wochen",
+    "exitStrategie": "Zielerreichung, Stop-Loss-Hit oder deutliche Entspannung der geopolitischen Lage.",
+    "waehrungsrisiko": "EUR/USD hat sich zuletzt wenig bewegt. Ein starker USD könnte Ölpreise tendenziell dämpfen, ein schwacher USD sie stützen. Aktuell neutral.",
+    "lernpunkt": "Geopolitische Ereignisse können jederzeit unvorhergesehene Auswirkungen auf Rohstoffpreise haben. Es ist wichtig, die Kausalketten zu verstehen, wie Konflikte die Versorgung und damit die Preise beeinflussen und welche weiteren Effekte (Inflation, Zentralbanken) daraus resultieren.",
+    "tagesfrage": "Wie stark wird die aktuelle Eskalation im Nahen Osten die globale Ölversorgung wirklich beeinträchtigen und wie lange wird dieser Effekt anhalten?",
+    "_modell": "gemini-2.5-flash-lite",
+    "asymmetrie": {
+      "verlust": 4.35,
+      "gewinn": 8.21,
+      "ratio": 0.5,
+      "ev": null
+    }
+  },
+  "prices": {
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 625,
+      "change": 0.04,
+      "ch5": -5.37,
+      "ch20": -11.13,
+      "hoch3m": 775.75,
+      "tief3m": 621,
+      "abstandHoch": -19.43,
+      "abstandTief": 0.64,
+      "vola": 20.77,
+      "atrPct": 2.45,
+      "rsi": 17,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 4007.89990234375,
+      "change": -1.29,
+      "ch5": -4.14,
+      "ch20": -7.25,
+      "hoch3m": 4755,
+      "tief3m": 3989.10009765625,
+      "abstandHoch": -15.71,
+      "abstandTief": 0.47,
+      "vola": 19.19,
+      "atrPct": 1.79,
+      "rsi": 36,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 53.94900131225586,
+      "change": -1.49,
+      "ch5": -5.34,
+      "ch20": -16.03,
+      "hoch3m": 71.16000366210938,
+      "tief3m": 53.07500076293945,
+      "abstandHoch": -24.19,
+      "abstandTief": 1.65,
+      "vola": 37.02,
+      "atrPct": 2.37,
+      "rsi": 27,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 103.2699966430664,
+      "change": 3.82,
+      "ch5": 1.83,
+      "ch20": 11.75,
+      "hoch3m": 110.4800033569336,
+      "tief3m": 74.23999786376953,
+      "abstandHoch": -6.53,
+      "abstandTief": 39.1,
+      "vola": 38.59,
+      "atrPct": 4.24,
+      "rsi": 74,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-10-23"
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 6.507500171661377,
+      "change": 2.28,
+      "ch5": -0.36,
+      "ch20": -2.81,
+      "hoch3m": 6.829999923706055,
+      "tief3m": 6.253499984741211,
+      "abstandHoch": -4.72,
+      "abstandTief": 4.06,
+      "vola": 19.76,
+      "atrPct": 1.35,
+      "rsi": 45,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 80085.7109375,
+      "change": -0.87,
+      "ch5": -3.44,
+      "ch20": -6.65,
+      "hoch3m": 87363.7578125,
+      "tief3m": 74944.59375,
+      "abstandHoch": -8.33,
+      "abstandTief": 6.86,
+      "vola": 22.8,
+      "atrPct": 2.63,
+      "rsi": 36,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-25"
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7623.68017578125,
+      "change": -0.52,
+      "ch5": -0.47,
+      "ch20": -1.55,
+      "hoch3m": 7844.52001953125,
+      "tief3m": 7313.919921875,
+      "abstandHoch": -2.82,
+      "abstandTief": 4.24,
+      "vola": 9.92,
+      "atrPct": 0.95,
+      "rsi": 37,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 101.80999755859375,
+      "change": 0.2,
+      "ch5": -0.03,
+      "ch20": 0.83,
+      "hoch3m": 102.94999694824219,
+      "tief3m": 98.55999755859375,
+      "abstandHoch": -1.11,
+      "abstandTief": 3.3,
+      "vola": 4.76,
+      "atrPct": 0.48,
+      "rsi": 45,
+      "ueberSma20": false,
+      "ueberSma50": true,
+      "stand": "2026-10-23"
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 4.98799991607666,
+      "change": 0.71,
+      "ch5": -2.16,
+      "ch20": -3.78,
+      "hoch3m": 5.363999843597412,
+      "tief3m": 4.5879998207092285,
+      "abstandHoch": -7.01,
+      "abstandTief": 8.72,
+      "vola": 18.24,
+      "atrPct": 1.69,
+      "rsi": 22,
+      "ueberSma20": false,
+      "ueberSma50": true,
+      "stand": "2026-10-23"
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 2321.89990234375,
+      "change": -1.45,
+      "ch5": -5.1,
+      "ch20": -14.35,
+      "hoch3m": 2805.4990234375,
+      "tief3m": 2280.55224609375,
+      "abstandHoch": -17.24,
+      "abstandTief": 1.81,
+      "vola": 32.33,
+      "atrPct": 4.31,
+      "rsi": 29,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-25"
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.049999952316284,
+      "change": 9.08,
+      "ch5": -2.12,
+      "ch20": -4.57,
+      "hoch3m": 3.3340001106262207,
+      "tief3m": 2.615999937057495,
+      "abstandHoch": -8.52,
+      "abstandTief": 16.59,
+      "vola": 54.89,
+      "atrPct": 5.48,
+      "rsi": 49,
+      "ueberSma20": false,
+      "ueberSma50": true,
+      "stand": "2026-10-23"
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.1204482316970825,
+      "change": -0.15,
+      "ch5": -0.19,
+      "ch20": -1.52,
+      "hoch3m": 1.1712344884872437,
+      "tief3m": 1.1114075183868408,
+      "abstandHoch": -4.34,
+      "abstandTief": 0.81,
+      "vola": 4.18,
+      "atrPct": 0.54,
+      "rsi": 48,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25181.650390625,
+      "change": -0.75,
+      "ch5": -1.72,
+      "ch20": -0.89,
+      "hoch3m": 26618.740234375,
+      "tief3m": 24792.7890625,
+      "abstandHoch": -5.4,
+      "abstandTief": 1.57,
+      "vola": 13.96,
+      "atrPct": 1.28,
+      "rsi": 49,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 25955.33984375,
+      "change": -0.21,
+      "ch5": -0.71,
+      "ch20": -4.11,
+      "hoch3m": 27722.75,
+      "tief3m": 24425.33984375,
+      "abstandHoch": -6.38,
+      "abstandTief": 6.26,
+      "vola": 17.31,
+      "atrPct": 1.52,
+      "rsi": 27,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-10-23"
+    }
+  },
+  "fearGreed": [
+    59,
+    55,
+    63,
+    68,
+    50,
+    51,
+    54
+  ],
+  "simulation": {
+    "buy": 44,
+    "hold": 33,
+    "sell": 23
+  }
+}
