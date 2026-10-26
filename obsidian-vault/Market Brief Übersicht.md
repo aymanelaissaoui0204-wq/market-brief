@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-10-26]] | JA | Öl | Die Märkte zeigen sich vorsichtig, da geopolitische Risiken die Energiepreise stützen, wäh |
 | [[2026-10-25]] | JA | Öl | Die Märkte sind aktuell von geopolitischen Risiken im Nahen Osten geprägt, die zu steigend |
 | [[2026-10-24]] | JA | Öl | Die Märkte sind weiterhin von geopolitischen Risiken und Zinssorgen geprägt. Öl zeigt Stär |
 | [[2026-10-23]] | WARTEN | Öl | Die Märkte sind nervös, geprägt von geopolitischen Risiken und Zinssorgen. Öl steigt, währ |
