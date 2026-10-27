@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-27",
+    "datum": "Dienstag, 27. Oktober 2026",
+    "analyseOk": true,
+    "thema": "Die Märkte sind angespannt, da geopolitische Konflikte die Ölpreise stützen und Inflationsängste schüren, während die Zinspolitik weiterhin im Hintergrund lauer",
+    "entscheidung": "JA",
+    "top": "Öl",
+    "fg": 48,
+    "news": 20,
+    "chancen": 3
+  },
+  {
     "date": "2026-10-26",
     "datum": "Montag, 26. Oktober 2026",
     "analyseOk": true,
