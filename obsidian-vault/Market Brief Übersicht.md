@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-10-28]] | KI ausgefallen | – |  |
 | [[2026-10-27]] | JA | Öl | Die Märkte sind angespannt, da geopolitische Konflikte die Ölpreise stützen und Inflations |
 | [[2026-10-26]] | JA | Öl | Die Märkte zeigen sich vorsichtig, da geopolitische Risiken die Energiepreise stützen, wäh |
 | [[2026-10-25]] | JA | Öl | Die Märkte sind aktuell von geopolitischen Risiken im Nahen Osten geprägt, die zu steigend |

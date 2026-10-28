@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-28",
+    "datum": "Mittwoch, 28. Oktober 2026",
+    "analyseOk": false,
+    "thema": "",
+    "entscheidung": null,
+    "top": null,
+    "fg": 51,
+    "news": 20,
+    "chancen": 0
+  },
+  {
     "date": "2026-10-27",
     "datum": "Dienstag, 27. Oktober 2026",
     "analyseOk": true,
