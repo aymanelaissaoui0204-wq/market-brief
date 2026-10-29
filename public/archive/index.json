@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-29",
+    "datum": "Donnerstag, 29. Oktober 2026",
+    "analyseOk": true,
+    "thema": "Die Märkte schwanken zwischen der Hoffnung auf eine Zinswende und der Sorge vor neuen geopolitischen Krisen, die die Inflation anheizen könnten. Die Volatilität",
+    "entscheidung": "WARTEN",
+    "top": "Erdgas",
+    "fg": 51,
+    "news": 20,
+    "chancen": 3
+  },
+  {
     "date": "2026-10-28",
     "datum": "Mittwoch, 28. Oktober 2026",
     "analyseOk": false,

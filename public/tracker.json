@@ -1,14 +1,14 @@
 {
-  "stand": "2026-10-28T11:01:32.648Z",
+  "stand": "2026-10-29T11:18:57.387Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 24,
+    "gesamt": 26,
     "geschlossen": 7,
     "ziel": 1,
     "stop": 6,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
-    "laufend": 17,
+    "laufend": 19,
     "trefferquote": 14.29,
     "summeEur": -17.72,
     "schnittEur": -2.53,
@@ -29,6 +29,38 @@
   },
   "prognosen": [
     {
+      "id": "2026-10-29#1",
+      "datum": "2026-10-29",
+      "asset": "Erdgas",
+      "basiswert": "Erdgas",
+      "symbol": "NG=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 3.15,
+      "stop": 2.85,
+      "ziel": 3.8,
+      "gewinnEur": 8.32,
+      "verlustEur": 6.76,
+      "kette": "EU-Diskussion über Energiepreise + Unsicherheit über Winterversorgung → Erhöhte Nachfrage/Angst vor Knappheit → Anstieg Erdgaspreis.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-10-29#2",
+      "datum": "2026-10-29",
+      "asset": "Kupfer",
+      "basiswert": "Kupfer",
+      "symbol": "HG=F",
+      "ueberzeugung": "niedrig",
+      "einstieg": 6.7,
+      "stop": 6.4,
+      "ziel": 7.2,
+      "gewinnEur": 1.73,
+      "verlustEur": 4.24,
+      "kette": "Globale Konjunkturoptimismus (trotz Zinsängsten) + Nachfrage aus erneuerbaren Energien und E-Mobilität → Steigende Kupfernachfrage → Anstieg Kupferpreis.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
       "id": "2026-10-27#1",
       "datum": "2026-10-27",
       "asset": "Öl",
@@ -41,8 +73,10 @@
       "gewinnEur": 2.11,
       "verlustEur": 4.17,
       "kette": "Geopolitische Eskalation im Nahen Osten → Angst vor Angebotsausfällen → Anstieg Ölpreis → Höhere Energie- und Transportkosten → Inflation steigt.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-28",
+      "tage": 2,
+      "ergebnisEur": -3.08
     },
     {
       "id": "2026-10-27#2",
@@ -89,8 +123,10 @@
       "gewinnEur": 2.11,
       "verlustEur": 4.17,
       "kette": "Geopolitische Eskalation im Nahen Osten → Angst vor Angebotsausfällen → Anstieg Ölpreis → Höhere Energie- und Transportkosten → Inflation steigt",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-28",
+      "tage": 2,
+      "ergebnisEur": -3.08
     },
     {
       "id": "2026-10-26#2",
@@ -107,8 +143,8 @@
       "kette": "Potenzielle Zinsrückgänge oder eine hawkishe BoJ, die doch keine schnellen Zinserhöhungen bringt → Geringere Opportunitätskosten für risikoreichere Anlagen → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-27",
-      "tage": 2,
-      "ergebnisEur": -1.77
+      "tage": 3,
+      "ergebnisEur": -2.57
     },
     {
       "id": "2026-10-25#1",
@@ -123,8 +159,10 @@
       "gewinnEur": 2.11,
       "verlustEur": 4.17,
       "kette": "Geopolitische Eskalation im Nahen Osten → Angst vor Angebotsausfällen → Ölpreis steigt → Höhere Energie- und Transportkosten → Inflation steigt → Potenzieller Inflationsschutz für Rohstoffe.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-28",
+      "tage": 2,
+      "ergebnisEur": -3.08
     },
     {
       "id": "2026-10-25#2",
@@ -141,8 +179,8 @@
       "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-27",
-      "tage": 2,
-      "ergebnisEur": -1.77
+      "tage": 3,
+      "ergebnisEur": -2.57
     },
     {
       "id": "2026-10-24#1",
@@ -157,8 +195,10 @@
       "gewinnEur": 2.11,
       "verlustEur": 4.17,
       "kette": "Geopolitische Spannungen im Nahen Osten (Iran/Starlink/Trump) → Sorge um Ölversorgung und Transportwege → Anstieg Ölpreis",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-10-28",
+      "tage": 2,
+      "ergebnisEur": -3.08
     },
     {
       "id": "2026-10-24#2",
@@ -175,8 +215,8 @@
       "kette": "Anhaltende geopolitische Unsicherheit (Iran/Trump) → Flucht in sichere Häfen → Steigende Nachfrage nach Gold → Goldpreis steigt",
       "status": "laeuft",
       "seit": "2026-10-26",
-      "tage": 3,
-      "ergebnisEur": -1.5
+      "tage": 4,
+      "ergebnisEur": -1.67
     },
     {
       "id": "2026-10-23#1",
@@ -193,8 +233,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten → Sorge um Ölversorgung → Anstieg Ölpreis → Höhere Transport- und Produktionskosten → Inflation steigt → Mehr Druck auf Zentralbanken, aber kurzfristig Preisanstieg bei Öl.",
       "status": "laeuft",
       "seit": "2026-10-26",
-      "tage": 3,
-      "ergebnisEur": -2.06
+      "tage": 4,
+      "ergebnisEur": -2.12
     },
     {
       "id": "2026-10-23#3",
@@ -211,8 +251,8 @@
       "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-24",
-      "tage": 5,
-      "ergebnisEur": -1.14
+      "tage": 6,
+      "ergebnisEur": -1.95
     },
     {
       "id": "2026-10-22#1",
@@ -245,8 +285,8 @@
       "kette": "Eskalation im Nahen Osten → Sorge um Ölversorgung → Anstieg des Ölpreises.",
       "status": "laeuft",
       "seit": "2026-10-23",
-      "tage": 4,
-      "ergebnisEur": -1.81
+      "tage": 5,
+      "ergebnisEur": -1.87
     },
     {
       "id": "2026-10-21#1",
@@ -281,8 +321,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten (Irak/Iran) & Houthi-Angriffe → Sorge um Ölversorgung/Transportwege → Anstieg Ölpreis → Höhere Produktionskosten & Inflation → Druck auf Konsum",
       "status": "laeuft",
       "seit": "2026-10-23",
-      "tage": 4,
-      "ergebnisEur": -2.55
+      "tage": 5,
+      "ergebnisEur": -2.6
     },
     {
       "id": "2026-10-20#1",
@@ -317,8 +357,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten & Houthi-Angriffe → Sorge um Ölversorgung/Transportwege → Anstieg Ölpreis",
       "status": "laeuft",
       "seit": "2026-10-23",
-      "tage": 4,
-      "ergebnisEur": -2.55
+      "tage": 5,
+      "ergebnisEur": -2.6
     },
     {
       "id": "2026-10-19#1",
