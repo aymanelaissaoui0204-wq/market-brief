@@ -1,20 +1,20 @@
 {
-  "stand": "2026-10-30T11:11:30.201Z",
+  "stand": "2026-10-31T10:44:40.114Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 27,
-    "geschlossen": 9,
+    "gesamt": 28,
+    "geschlossen": 10,
     "ziel": 1,
-    "stop": 8,
+    "stop": 9,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
     "laufend": 18,
-    "trefferquote": 11.11,
-    "summeEur": -26.66,
-    "schnittEur": -2.96,
+    "trefferquote": 10,
+    "summeEur": -29.53,
+    "schnittEur": -2.95,
     "proStufe": {
       "mittel": {
-        "n": 7,
+        "n": 8,
         "ziel": 1
       },
       "niedrig": {
@@ -28,6 +28,22 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-10-31#1",
+      "datum": "2026-10-31",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 4000,
+      "stop": 3900,
+      "ziel": 4250,
+      "gewinnEur": 1.13,
+      "verlustEur": 3.25,
+      "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-10-30#1",
       "datum": "2026-10-30",
@@ -92,7 +108,7 @@
       "status": "laeuft",
       "seit": "2026-10-28",
       "tage": 3,
-      "ergebnisEur": -1.65
+      "ergebnisEur": -1.7
     },
     {
       "id": "2026-10-27#2",
@@ -109,8 +125,8 @@
       "kette": "Potenzielle Zinsrückgänge oder eine lockere Geldpolitik (z.B. BoJ) → Geringere Opportunitätskosten für risikoreichere Anlagen → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-29",
-      "tage": 2,
-      "ergebnisEur": -2.9
+      "tage": 3,
+      "ergebnisEur": -3.05
     },
     {
       "id": "2026-10-27#3",
@@ -144,7 +160,7 @@
       "status": "laeuft",
       "seit": "2026-10-28",
       "tage": 3,
-      "ergebnisEur": -1.65
+      "ergebnisEur": -1.7
     },
     {
       "id": "2026-10-26#2",
@@ -180,7 +196,7 @@
       "status": "laeuft",
       "seit": "2026-10-28",
       "tage": 3,
-      "ergebnisEur": -1.65
+      "ergebnisEur": -1.7
     },
     {
       "id": "2026-10-25#2",
@@ -216,7 +232,7 @@
       "status": "laeuft",
       "seit": "2026-10-28",
       "tage": 3,
-      "ergebnisEur": -1.65
+      "ergebnisEur": -1.7
     },
     {
       "id": "2026-10-24#2",
@@ -231,10 +247,10 @@
       "gewinnEur": -0.38,
       "verlustEur": 2.87,
       "kette": "Anhaltende geopolitische Unsicherheit (Iran/Trump) → Flucht in sichere Häfen → Steigende Nachfrage nach Gold → Goldpreis steigt",
-      "status": "laeuft",
-      "seit": "2026-10-26",
+      "status": "stop",
+      "am": "2026-10-30",
       "tage": 5,
-      "ergebnisEur": -2.37
+      "ergebnisEur": -2.87
     },
     {
       "id": "2026-10-23#1",
@@ -252,7 +268,7 @@
       "status": "laeuft",
       "seit": "2026-10-26",
       "tage": 5,
-      "ergebnisEur": -0.66
+      "ergebnisEur": -0.71
     },
     {
       "id": "2026-10-23#3",
@@ -269,8 +285,8 @@
       "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-24",
-      "tage": 7,
-      "ergebnisEur": -3.52
+      "tage": 8,
+      "ergebnisEur": -3.66
     },
     {
       "id": "2026-10-22#1",
@@ -304,7 +320,7 @@
       "status": "laeuft",
       "seit": "2026-10-23",
       "tage": 6,
-      "ergebnisEur": -0.41
+      "ergebnisEur": -0.46
     },
     {
       "id": "2026-10-21#1",
@@ -340,7 +356,7 @@
       "status": "laeuft",
       "seit": "2026-10-23",
       "tage": 6,
-      "ergebnisEur": -1.16
+      "ergebnisEur": -1.21
     },
     {
       "id": "2026-10-20#1",
@@ -376,7 +392,7 @@
       "status": "laeuft",
       "seit": "2026-10-23",
       "tage": 6,
-      "ergebnisEur": -1.16
+      "ergebnisEur": -1.21
     },
     {
       "id": "2026-10-19#1",

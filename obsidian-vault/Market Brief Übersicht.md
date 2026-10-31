@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-10-31]] | JA | Gold | Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer |
 | [[2026-10-30]] | JA | Gold | Die Märkte zeigen sich nervös, da die geopolitischen Risiken im Nahen Osten und die unsich |
 | [[2026-10-29]] | WARTEN | Erdgas | Die Märkte schwanken zwischen der Hoffnung auf eine Zinswende und der Sorge vor neuen geop |
 | [[2026-10-28]] | KI ausgefallen | – |  |
