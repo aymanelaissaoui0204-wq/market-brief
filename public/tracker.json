@@ -1,14 +1,14 @@
 {
-  "stand": "2026-10-31T10:44:40.114Z",
+  "stand": "2026-11-01T11:41:49.880Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 28,
+    "gesamt": 30,
     "geschlossen": 10,
     "ziel": 1,
     "stop": 9,
     "abgelaufen": 0,
     "nichtAusgeloest": 0,
-    "laufend": 18,
+    "laufend": 20,
     "trefferquote": 10,
     "summeEur": -29.53,
     "schnittEur": -2.95,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-01#1",
+      "datum": "2026-11-01",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 3950,
+      "stop": 3850,
+      "ziel": 4200,
+      "gewinnEur": 1.16,
+      "verlustEur": 3.27,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-01#2",
+      "datum": "2026-11-01",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 104.5,
+      "stop": 100,
+      "ziel": 112,
+      "gewinnEur": 1.59,
+      "verlustEur": 4.15,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Angst vor Angebotsausfällen → Anstieg Ölpreis → Höhere Energie- und Transportkosten → Inflation steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-10-31#1",
       "datum": "2026-10-31",
@@ -125,8 +157,8 @@
       "kette": "Potenzielle Zinsrückgänge oder eine lockere Geldpolitik (z.B. BoJ) → Geringere Opportunitätskosten für risikoreichere Anlagen → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-29",
-      "tage": 3,
-      "ergebnisEur": -3.05
+      "tage": 4,
+      "ergebnisEur": -2.77
     },
     {
       "id": "2026-10-27#3",
@@ -285,8 +317,8 @@
       "kette": "Zinsrückgang (potenziell) → Geringere Opportunitätskosten für risikoreichere Anlagen wie Krypto → Kapital fließt in Bitcoin → Bitcoinpreis steigt.",
       "status": "laeuft",
       "seit": "2026-10-24",
-      "tage": 8,
-      "ergebnisEur": -3.66
+      "tage": 9,
+      "ergebnisEur": -3.38
     },
     {
       "id": "2026-10-22#1",
