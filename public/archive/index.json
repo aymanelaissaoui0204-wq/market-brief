@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-02",
+    "datum": "Montag, 2. November 2026",
+    "analyseOk": true,
+    "thema": "Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer unsicheren Zinspolitik, was die Volatilität erhöht. Die Angst vor ste",
+    "entscheidung": "WARTEN",
+    "top": "Öl",
+    "fg": 37,
+    "news": 20,
+    "chancen": 3
+  },
+  {
     "date": "2026-11-01",
     "datum": "Sonntag, 1. November 2026",
     "analyseOk": true,
