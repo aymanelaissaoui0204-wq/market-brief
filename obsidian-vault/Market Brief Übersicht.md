@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-03]] | JA | Öl | Die globalen Märkte zeigen sich nervös, da die geopolitischen Risiken im Nahen Osten und d |
 | [[2026-11-02]] | WARTEN | Öl | Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer |
 | [[2026-11-01]] | WARTEN | Gold | Die Märkte sind nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer unsich |
 | [[2026-10-31]] | JA | Gold | Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer |
