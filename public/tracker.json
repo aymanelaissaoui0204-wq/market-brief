@@ -1,21 +1,21 @@
 {
-  "stand": "2026-11-04T12:47:40.471Z",
+  "stand": "2026-11-05T12:57:06.101Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 37,
-    "geschlossen": 21,
-    "ziel": 1,
-    "stop": 20,
+    "gesamt": 39,
+    "geschlossen": 24,
+    "ziel": 3,
+    "stop": 21,
     "abgelaufen": 0,
     "nichtAusgeloest": 2,
-    "laufend": 14,
-    "trefferquote": 4.76,
-    "summeEur": -75.9,
-    "schnittEur": -3.61,
+    "laufend": 13,
+    "trefferquote": 12.5,
+    "summeEur": -77.42,
+    "schnittEur": -3.23,
     "proStufe": {
       "mittel": {
-        "n": 14,
-        "ziel": 1
+        "n": 17,
+        "ziel": 3
       },
       "niedrig": {
         "n": 3,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-05#1",
+      "datum": "2026-11-05",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "hoch",
+      "einstieg": 88,
+      "stop": 84,
+      "ziel": 96,
+      "gewinnEur": 2.55,
+      "verlustEur": 4.27,
+      "kette": "Anhaltende geopolitische Spannungen im Nahen Osten (Störung von Lieferungen) → Erhöhte Sorge um Angebotsausfälle → Ölpreis steigt → Höhere Energie- und Transportkosten → Inflation könnte wieder ansteigen.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-05#3",
+      "datum": "2026-11-05",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 78000,
+      "stop": 75000,
+      "ziel": 85000,
+      "gewinnEur": 2.49,
+      "verlustEur": 3.92,
+      "kette": "Nachlassende geopolitische Spannungen & stabile US-Politik → Geringere Flucht in sichere Häfen (wie Dollar) → Potenzielle Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin-Preis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-04#1",
       "datum": "2026-11-04",
@@ -42,7 +74,7 @@
       "verlustEur": 2.74,
       "kette": "Geopolitische Spannungen im Nahen Osten (Angriffe auf Schiffe) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt. Gleichzeitig schwächelt der Dollar leicht, was Gold weiter unterstützt.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-04#2",
@@ -58,7 +90,7 @@
       "verlustEur": 3.83,
       "kette": "Angriffe auf Öltransporte im Nahen Osten → Sorge um Angebotsausfälle → Ölpreis steigt → Höhere Energiekosten → Inflation könnte wieder ansteigen.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-03#1",
@@ -89,10 +121,10 @@
       "gewinnEur": 0.16,
       "verlustEur": 2.64,
       "kette": "Geopolitische Spannungen → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
-      "status": "laeuft",
-      "seit": "2026-11-04",
-      "tage": 1,
-      "ergebnisEur": -0.45
+      "status": "ziel",
+      "am": "2026-11-05",
+      "tage": 2,
+      "ergebnisEur": 0.16
     },
     {
       "id": "2026-11-02#1",
@@ -123,10 +155,10 @@
       "gewinnEur": 0.93,
       "verlustEur": 2.77,
       "kette": "Anhaltende geopolitische Spannungen → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt. Gleichzeitig schwächelt der Dollar leicht → Unterstützung für Gold.",
-      "status": "laeuft",
-      "seit": "2026-11-03",
-      "tage": 2,
-      "ergebnisEur": -0.32
+      "status": "ziel",
+      "am": "2026-11-05",
+      "tage": 3,
+      "ergebnisEur": 0.93
     },
     {
       "id": "2026-11-02#3",
@@ -141,8 +173,10 @@
       "gewinnEur": 0.94,
       "verlustEur": 3.18,
       "kette": "Fed-Zinspause → Hoffnung auf weniger Druck auf Tech-Aktien ��� Potenzielle Erholung des Nasdaq → Aber Unsicherheit über zukünftige Zinsen und globale Konjunktur dämpft die Rallye.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-11-04",
+      "tage": 1,
+      "ergebnisEur": -1.54
     },
     {
       "id": "2026-11-01#1",
@@ -159,8 +193,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-02",
-      "tage": 3,
-      "ergebnisEur": -0.72
+      "tage": 4,
+      "ergebnisEur": 0.26
     },
     {
       "id": "2026-11-01#2",
@@ -193,8 +227,8 @@
       "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-04",
-      "tage": 1,
-      "ergebnisEur": -1.36
+      "tage": 2,
+      "ergebnisEur": -0.39
     },
     {
       "id": "2026-10-30#1",
@@ -455,8 +489,10 @@
       "gewinnEur": 0.79,
       "verlustEur": 2.61,
       "kette": "Geopolitische Unsicherheit im Nahen Osten → Flucht in sichere Häfen → Steigende Nachfrage nach Gold → Goldpreis steigt.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "stop",
+      "am": "2026-11-05",
+      "tage": 1,
+      "ergebnisEur": -2.61
     },
     {
       "id": "2026-10-22#2",

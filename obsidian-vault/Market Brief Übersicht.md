@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-05]] | JA | Öl | Die Märkte zeigen sich uneinheitlich: Während geopolitische Risiken den Ölpreis stützen, k |
 | [[2026-11-04]] | JA | Gold | Die Märkte sind nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer unsich |
 | [[2026-11-03]] | JA | Öl | Die globalen Märkte zeigen sich nervös, da die geopolitischen Risiken im Nahen Osten und d |
 | [[2026-11-02]] | WARTEN | Öl | Die Märkte zeigen sich nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer |
