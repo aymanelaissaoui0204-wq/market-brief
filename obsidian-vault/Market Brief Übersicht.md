@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-07]] | WARTEN | Gold | Die Märkte sind angespannt, beeinflusst von geopolitischen Risiken und der Unsicherheit üb |
 | [[2026-11-06]] | JA | Gold | Die Aktienmärkte geraten unter Druck, getrieben von Inflationssorgen und geopolitischen Ri |
 | [[2026-11-05]] | JA | Öl | Die Märkte zeigen sich uneinheitlich: Während geopolitische Risiken den Ölpreis stützen, k |
 | [[2026-11-04]] | JA | Gold | Die Märkte sind nervös, geprägt von geopolitischen Risiken im Nahen Osten und einer unsich |

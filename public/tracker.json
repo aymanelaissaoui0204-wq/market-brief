@@ -1,14 +1,14 @@
 {
-  "stand": "2026-11-06T12:44:08.349Z",
+  "stand": "2026-11-07T11:31:52.525Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 41,
+    "gesamt": 44,
     "geschlossen": 25,
     "ziel": 3,
     "stop": 22,
     "abgelaufen": 0,
     "nichtAusgeloest": 2,
-    "laufend": 14,
+    "laufend": 17,
     "trefferquote": 12,
     "summeEur": -80.6,
     "schnittEur": -3.22,
@@ -28,6 +28,54 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-07#1",
+      "datum": "2026-11-07",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 4078,
+      "stop": 4000,
+      "ziel": 4250,
+      "gewinnEur": 0.11,
+      "verlustEur": 2.96,
+      "kette": "Geopolitische Unsicherheit im Nahen Osten → Erhöhte Angst & Nachfrage nach sicheren Häfen → Goldpreis steigt. Gleichzeitig leichte Dollar-Schwäche unterstützt Gold.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-07#2",
+      "datum": "2026-11-07",
+      "asset": "Öl",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 90.83,
+      "stop": 84,
+      "ziel": 96,
+      "gewinnEur": 0.85,
+      "verlustEur": 5.76,
+      "kette": "Geopolitische Spannungen im Nahen Osten → Sorge um Angebotsausfälle → Ölpreis steigt → Höhere Energie- und Transportkosten → Inflation könnte wieder ansteigen.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-07#3",
+      "datum": "2026-11-07",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 75877,
+      "stop": 75000,
+      "ziel": 85000,
+      "gewinnEur": 4.01,
+      "verlustEur": 2.58,
+      "kette": "Nachlassende geopolitische Spannungen & stabile US-Politik → Geringere Flucht in sichere Häfen (wie Dollar) → Potenzielle Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin-Preis steigt. Gleichzeitig könnte eine KI-getriebene Rallye in Tech-Aktien auch Krypto positiv beeinflussen.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-06#1",
       "datum": "2026-11-06",
@@ -108,7 +156,7 @@
       "status": "laeuft",
       "seit": "2026-11-06",
       "tage": 1,
-      "ergebnisEur": -1.78
+      "ergebnisEur": -1.82
     },
     {
       "id": "2026-11-04#2",
@@ -228,7 +276,7 @@
       "status": "laeuft",
       "seit": "2026-11-02",
       "tage": 5,
-      "ergebnisEur": -0.38
+      "ergebnisEur": -0.42
     },
     {
       "id": "2026-11-01#2",
@@ -262,7 +310,7 @@
       "status": "laeuft",
       "seit": "2026-11-04",
       "tage": 3,
-      "ergebnisEur": -1.02
+      "ergebnisEur": -1.06
     },
     {
       "id": "2026-10-30#1",
