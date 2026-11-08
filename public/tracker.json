@@ -1,14 +1,14 @@
 {
-  "stand": "2026-11-07T11:31:52.525Z",
+  "stand": "2026-11-08T11:43:49.123Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 44,
+    "gesamt": 46,
     "geschlossen": 25,
     "ziel": 3,
     "stop": 22,
     "abgelaufen": 0,
     "nichtAusgeloest": 2,
-    "laufend": 17,
+    "laufend": 19,
     "trefferquote": 12,
     "summeEur": -80.6,
     "schnittEur": -3.22,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-08#1",
+      "datum": "2026-11-08",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "hoch",
+      "einstieg": 4078,
+      "stop": 4000,
+      "ziel": 4250,
+      "gewinnEur": 0.11,
+      "verlustEur": 2.96,
+      "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Risikoaversion → Nachfrage nach sicheren Häfen steigt → Goldpreis steigt. Gleichzeitig leichte Dollar-Schwäche unterstützt Gold.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-08#2",
+      "datum": "2026-11-08",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "mittel",
+      "einstieg": 76000,
+      "stop": 73000,
+      "ziel": 85000,
+      "gewinnEur": 3.92,
+      "verlustEur": 3.97,
+      "kette": "Nachlassende geopolitische Spannungen → Geringere Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin steigt. Gleichzeitig positive KI-Entwicklung in Tech-Aktien könnte auch Krypto beeinflussen.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-07#1",
       "datum": "2026-11-07",
@@ -73,8 +105,10 @@
       "gewinnEur": 4.01,
       "verlustEur": 2.58,
       "kette": "Nachlassende geopolitische Spannungen & stabile US-Politik → Geringere Flucht in sichere Häfen (wie Dollar) → Potenzielle Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin-Preis steigt. Gleichzeitig könnte eine KI-getriebene Rallye in Tech-Aktien auch Krypto positiv beeinflussen.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-08",
+      "tage": 1,
+      "ergebnisEur": -1.99
     },
     {
       "id": "2026-11-06#1",
