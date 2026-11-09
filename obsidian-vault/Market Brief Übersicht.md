@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-09]] | JA | Erdgas | Die globalen Märkte zeigen sich aktuell unsicher, mit gemischten Signalen aus Geopolitik u |
 | [[2026-11-08]] | JA | Gold | Die Märkte zeigen sich angespannt, geprägt von geopolitischen Risiken im Nahen Osten und d |
 | [[2026-11-07]] | WARTEN | Gold | Die Märkte sind angespannt, beeinflusst von geopolitischen Risiken und der Unsicherheit üb |
 | [[2026-11-06]] | JA | Gold | Die Aktienmärkte geraten unter Druck, getrieben von Inflationssorgen und geopolitischen Ri |
