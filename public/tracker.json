@@ -1,14 +1,14 @@
 {
-  "stand": "2026-11-10T13:15:43.904Z",
+  "stand": "2026-11-11T12:27:13.578Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 51,
+    "gesamt": 53,
     "geschlossen": 28,
     "ziel": 3,
     "stop": 25,
     "abgelaufen": 0,
     "nichtAusgeloest": 3,
-    "laufend": 20,
+    "laufend": 22,
     "trefferquote": 10.71,
     "summeEur": -93.21,
     "schnittEur": -3.33,
@@ -29,6 +29,38 @@
   },
   "prognosen": [
     {
+      "id": "2026-11-11#1",
+      "datum": "2026-11-11",
+      "asset": "Gold",
+      "basiswert": "Gold",
+      "symbol": "GC=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 4054,
+      "stop": 4000,
+      "ziel": 4250,
+      "gewinnEur": 0.42,
+      "verlustEur": 2.67,
+      "kette": "Anhaltende Inflationssorgen und geopolitische Unsicherheit treiben die Nachfrage nach Gold als sicherem Hafen.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-11#2",
+      "datum": "2026-11-11",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 73865,
+      "stop": 71000,
+      "ziel": 85000,
+      "gewinnEur": 5.54,
+      "verlustEur": 3.94,
+      "kette": "Nachlassende geopolitische Spannungen und mögliche Zinssenkungserwartungen könnten Kapital in risikoreichere Anlagen wie Bitcoin lenken.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
       "id": "2026-11-10#1",
       "datum": "2026-11-10",
       "asset": "Bitcoin",
@@ -41,8 +73,10 @@
       "gewinnEur": 5.43,
       "verlustEur": 4.03,
       "kette": "Nachlassende geopolitische Spannungen → Geringere Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin steigt. Gleichzeitig könnten positive KI-Entwicklungen in Tech-Aktien auch Krypto beeinflussen. Die bevorstehenden US-Inflationsdaten könnten die Zinspolitik der Fed beeinflussen; sinkende Inflationserwartungen stützen Krypto.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-11",
+      "tage": 1,
+      "ergebnisEur": -2.09
     },
     {
       "id": "2026-11-10#2",
@@ -58,7 +92,7 @@
       "verlustEur": 2.96,
       "kette": "Geopolitische Spannungen im Nahen Osten waren ein Treiber für Gold. Nun, da diese nachlassen und der Fokus auf Inflationsdaten liegt, könnte Gold unter Druck geraten. Dennoch könnten die bevorstehenden Inflationsdaten auch zu Unsicherheit führen, die Gold stützt. Die Kombination aus nachlassender geopolitischer Spannung und der Erwartung einer lockeren Geldpolitik (falls Inflation sinkt) ist gemischt für Gold.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-10#3",
@@ -74,7 +108,7 @@
       "verlustEur": 6.76,
       "kette": "Der ursprüngliche Auslöser war ein Drohnenangriff auf ein irakisches Gasfeld. Dies hat sich jedoch nicht bestätigt oder wurde nicht weiter eskaliert. Die allgemeine Marktlage für Erdgas ist derzeit von Überangebot und saisonal niedriger Nachfrage geprägt, was den Preis belastet. Die technische Situation zeigt einen RSI von 72, was auf eine überkaufte Situation hindeutet, aber die positive Performance der letzten 5 Tage (+12.2%) sollte nicht ignoriert werden.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-09#1",
@@ -107,8 +141,8 @@
       "kette": "Nachlassende geopolitische Spannungen → Geringere Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin steigt.",
       "status": "laeuft",
       "seit": "2026-11-10",
-      "tage": 1,
-      "ergebnisEur": -2.49
+      "tage": 2,
+      "ergebnisEur": -2.76
     },
     {
       "id": "2026-11-08#1",
@@ -125,8 +159,8 @@
       "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Risikoaversion → Nachfrage nach sicheren Häfen steigt → Goldpreis steigt. Gleichzeitig leichte Dollar-Schwäche unterstützt Gold.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 2,
-      "ergebnisEur": -1.95
+      "tage": 3,
+      "ergebnisEur": -2.3
     },
     {
       "id": "2026-11-08#2",
@@ -159,8 +193,8 @@
       "kette": "Geopolitische Unsicherheit im Nahen Osten → Erhöhte Angst & Nachfrage nach sicheren Häfen → Goldpreis steigt. Gleichzeitig leichte Dollar-Schwäche unterstützt Gold.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 2,
-      "ergebnisEur": -1.95
+      "tage": 3,
+      "ergebnisEur": -2.3
     },
     {
       "id": "2026-11-07#2",
@@ -213,8 +247,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt. Gleichzeitig schwächelt der Dollar leicht, was Gold weiter unterstützt.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 2,
-      "ergebnisEur": -1.95
+      "tage": 3,
+      "ergebnisEur": -2.3
     },
     {
       "id": "2026-11-06#3",
@@ -231,8 +265,8 @@
       "kette": "Geopolitische Spannungen → Mögliche Störungen von Agrar-Lieferketten (z.B. Schwarzes Meer) → Sorge um globale Nahrungsmittelversorgung → Weizenpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 2,
-      "ergebnisEur": -2.11
+      "tage": 3,
+      "ergebnisEur": -1.81
     },
     {
       "id": "2026-11-05#1",
@@ -283,8 +317,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten (Angriffe auf Schiffe) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt. Gleichzeitig schwächelt der Dollar leicht, was Gold weiter unterstützt.",
       "status": "laeuft",
       "seit": "2026-11-06",
-      "tage": 3,
-      "ergebnisEur": -1.73
+      "tage": 4,
+      "ergebnisEur": -2.08
     },
     {
       "id": "2026-11-04#2",
@@ -403,8 +437,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-02",
-      "tage": 7,
-      "ergebnisEur": -0.33
+      "tage": 8,
+      "ergebnisEur": -0.69
     },
     {
       "id": "2026-11-01#2",
@@ -437,8 +471,8 @@
       "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-04",
-      "tage": 5,
-      "ergebnisEur": -0.98
+      "tage": 6,
+      "ergebnisEur": -1.33
     },
     {
       "id": "2026-10-30#1",
@@ -473,8 +507,8 @@
       "kette": "EU-Diskussion über Energiepreise + Unsicherheit über Winterversorgung → Erhöhte Nachfrage/Angst vor Knappheit → Anstieg Erdgaspreis.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 2,
-      "ergebnisEur": -0.44
+      "tage": 3,
+      "ergebnisEur": 0.81
     },
     {
       "id": "2026-10-29#2",
