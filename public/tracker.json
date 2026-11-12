@@ -1,20 +1,20 @@
 {
-  "stand": "2026-11-11T12:27:13.578Z",
+  "stand": "2026-11-12T13:33:13.016Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 53,
-    "geschlossen": 28,
+    "gesamt": 56,
+    "geschlossen": 32,
     "ziel": 3,
-    "stop": 25,
+    "stop": 29,
     "abgelaufen": 0,
-    "nichtAusgeloest": 3,
-    "laufend": 22,
-    "trefferquote": 10.71,
-    "summeEur": -93.21,
-    "schnittEur": -3.33,
+    "nichtAusgeloest": 4,
+    "laufend": 20,
+    "trefferquote": 9.38,
+    "summeEur": -104.83,
+    "schnittEur": -3.28,
     "proStufe": {
       "mittel": {
-        "n": 18,
+        "n": 20,
         "ziel": 3
       },
       "niedrig": {
@@ -22,12 +22,60 @@
         "ziel": 0
       },
       "hoch": {
-        "n": 5,
+        "n": 7,
         "ziel": 0
       }
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-12#1",
+      "datum": "2026-11-12",
+      "asset": "Erdgas",
+      "basiswert": "Erdgas",
+      "symbol": "NG=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 3.35,
+      "stop": 3.05,
+      "ziel": 3.85,
+      "gewinnEur": 5.46,
+      "verlustEur": 6.48,
+      "kette": "Geopolitische Spannungen im Nahen Osten (ggf. indirekt) → Unsicherheit bei Energieversorgung → Anleger suchen nach Alternativen zu Öl → Nachfrage nach Erdgas steigt als Brückentechnologie/Heizstoff → Erdgaspreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-12#2",
+      "datum": "2026-11-12",
+      "asset": "S&P 500",
+      "basiswert": "S&P 500",
+      "symbol": "^GSPC",
+      "ueberzeugung": "mittel",
+      "einstieg": 7650,
+      "stop": 7500,
+      "ziel": 7900,
+      "gewinnEur": -0.37,
+      "verlustEur": 2.98,
+      "kette": "Nachlassende geopolitische Spannungen → Weniger Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen (Aktien) → S&P 500 steigt. Gleichzeitig positive KI-Entwicklungen in Tech-Aktien → Einfluss auf breitere Märkte.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-12#3",
+      "datum": "2026-11-12",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 72000,
+      "stop": 69500,
+      "ziel": 80000,
+      "gewinnEur": 3.56,
+      "verlustEur": 3.74,
+      "kette": "Nachlassende geopolitische Spannungen → Geringere Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin steigt. Gleichzeitig positive KI-Entwicklungen in Tech-Aktien könnten auch Krypto beeinflussen.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-11#1",
       "datum": "2026-11-11",
@@ -42,7 +90,7 @@
       "verlustEur": 2.67,
       "kette": "Anhaltende Inflationssorgen und geopolitische Unsicherheit treiben die Nachfrage nach Gold als sicherem Hafen.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-11#2",
@@ -57,8 +105,10 @@
       "gewinnEur": 5.54,
       "verlustEur": 3.94,
       "kette": "Nachlassende geopolitische Spannungen und mögliche Zinssenkungserwartungen könnten Kapital in risikoreichere Anlagen wie Bitcoin lenken.",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-12",
+      "tage": 1,
+      "ergebnisEur": -2.88
     },
     {
       "id": "2026-11-10#1",
@@ -75,8 +125,8 @@
       "kette": "Nachlassende geopolitische Spannungen → Geringere Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin steigt. Gleichzeitig könnten positive KI-Entwicklungen in Tech-Aktien auch Krypto beeinflussen. Die bevorstehenden US-Inflationsdaten könnten die Zinspolitik der Fed beeinflussen; sinkende Inflationserwartungen stützen Krypto.",
       "status": "laeuft",
       "seit": "2026-11-11",
-      "tage": 1,
-      "ergebnisEur": -2.09
+      "tage": 2,
+      "ergebnisEur": -2.97
     },
     {
       "id": "2026-11-10#2",
@@ -141,8 +191,8 @@
       "kette": "Nachlassende geopolitische Spannungen → Geringere Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen wie Krypto → Bitcoin steigt.",
       "status": "laeuft",
       "seit": "2026-11-10",
-      "tage": 2,
-      "ergebnisEur": -2.76
+      "tage": 3,
+      "ergebnisEur": -3.62
     },
     {
       "id": "2026-11-08#1",
@@ -157,10 +207,10 @@
       "gewinnEur": 0.11,
       "verlustEur": 2.96,
       "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Risikoaversion → Nachfrage nach sicheren Häfen steigt → Goldpreis steigt. Gleichzeitig leichte Dollar-Schwäche unterstützt Gold.",
-      "status": "laeuft",
-      "seit": "2026-11-09",
+      "status": "stop",
+      "am": "2026-11-11",
       "tage": 3,
-      "ergebnisEur": -2.3
+      "ergebnisEur": -2.96
     },
     {
       "id": "2026-11-08#2",
@@ -191,10 +241,10 @@
       "gewinnEur": 0.11,
       "verlustEur": 2.96,
       "kette": "Geopolitische Unsicherheit im Nahen Osten → Erhöhte Angst & Nachfrage nach sicheren Häfen → Goldpreis steigt. Gleichzeitig leichte Dollar-Schwäche unterstützt Gold.",
-      "status": "laeuft",
-      "seit": "2026-11-09",
+      "status": "stop",
+      "am": "2026-11-11",
       "tage": 3,
-      "ergebnisEur": -2.3
+      "ergebnisEur": -2.96
     },
     {
       "id": "2026-11-07#2",
@@ -245,10 +295,10 @@
       "gewinnEur": 0.11,
       "verlustEur": 2.96,
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt. Gleichzeitig schwächelt der Dollar leicht, was Gold weiter unterstützt.",
-      "status": "laeuft",
-      "seit": "2026-11-09",
+      "status": "stop",
+      "am": "2026-11-11",
       "tage": 3,
-      "ergebnisEur": -2.3
+      "ergebnisEur": -2.96
     },
     {
       "id": "2026-11-06#3",
@@ -265,8 +315,8 @@
       "kette": "Geopolitische Spannungen → Mögliche Störungen von Agrar-Lieferketten (z.B. Schwarzes Meer) → Sorge um globale Nahrungsmittelversorgung → Weizenpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 3,
-      "ergebnisEur": -1.81
+      "tage": 4,
+      "ergebnisEur": -1.41
     },
     {
       "id": "2026-11-05#1",
@@ -315,10 +365,10 @@
       "gewinnEur": 0.34,
       "verlustEur": 2.74,
       "kette": "Geopolitische Spannungen im Nahen Osten (Angriffe auf Schiffe) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt. Gleichzeitig schwächelt der Dollar leicht, was Gold weiter unterstützt.",
-      "status": "laeuft",
-      "seit": "2026-11-06",
+      "status": "stop",
+      "am": "2026-11-11",
       "tage": 4,
-      "ergebnisEur": -2.08
+      "ergebnisEur": -2.74
     },
     {
       "id": "2026-11-04#2",
@@ -437,8 +487,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-02",
-      "tage": 8,
-      "ergebnisEur": -0.69
+      "tage": 9,
+      "ergebnisEur": -2.23
     },
     {
       "id": "2026-11-01#2",
@@ -471,8 +521,8 @@
       "kette": "Geopolitische Spannungen (Naher Osten) → Erhöhte Unsicherheit & Angst → Nachfrage nach sicherem Hafen steigt → Goldpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-04",
-      "tage": 6,
-      "ergebnisEur": -1.33
+      "tage": 7,
+      "ergebnisEur": -2.85
     },
     {
       "id": "2026-10-30#1",
@@ -507,8 +557,8 @@
       "kette": "EU-Diskussion über Energiepreise + Unsicherheit über Winterversorgung → Erhöhte Nachfrage/Angst vor Knappheit → Anstieg Erdgaspreis.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 3,
-      "ergebnisEur": 0.81
+      "tage": 4,
+      "ergebnisEur": -0.1
     },
     {
       "id": "2026-10-29#2",
@@ -523,8 +573,8 @@
       "gewinnEur": 1.73,
       "verlustEur": 4.24,
       "kette": "Globale Konjunkturoptimismus (trotz Zinsängsten) + Nachfrage aus erneuerbaren Energien und E-Mobilität → Steigende Kupfernachfrage → Anstieg Kupferpreis.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "nicht_ausgeloest",
+      "info": "Einstieg innerhalb von 10 Handelstagen nie erreicht."
     },
     {
       "id": "2026-10-27#1",
