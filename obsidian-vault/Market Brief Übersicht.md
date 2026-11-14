@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-14]] | JA | US Dollar Index (DXY) | Die Märkte sind angespannt: Die US-Inflation erhöht die Wahrscheinlichkeit von Zinserhöhun |
 | [[2026-11-13]] | JA | US Dollar Index (DXY) | Die Märkte sind angespannt: Die US-Inflation erhöht die Wahrscheinlichkeit von Zinserhöhun |
 | [[2026-11-12]] | JA | Erdgas | Die Märkte zeigen sich nervös aufgrund von geopolitischen Spannungen im Nahen Osten und In |
 | [[2026-11-11]] | WARTEN | Gold | Die Märkte sind nervös wegen der Inflation und der Zinspolitik. Dies dämpft die Aktienmärk |

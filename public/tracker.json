@@ -1,14 +1,14 @@
 {
-  "stand": "2026-11-13T12:52:49.690Z",
+  "stand": "2026-11-14T11:56:58.511Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 58,
+    "gesamt": 60,
     "geschlossen": 36,
     "ziel": 3,
     "stop": 33,
     "abgelaufen": 0,
     "nichtAusgeloest": 5,
-    "laufend": 17,
+    "laufend": 19,
     "trefferquote": 8.33,
     "summeEur": -120.72,
     "schnittEur": -3.35,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-14#1",
+      "datum": "2026-11-14",
+      "asset": "US Dollar Index (DXY)",
+      "basiswert": "DXY",
+      "symbol": "DX-Y.NYB",
+      "ueberzeugung": "hoch",
+      "einstieg": 103.5,
+      "stop": 102.8,
+      "ziel": 105.5,
+      "gewinnEur": -1.03,
+      "verlustEur": 2.34,
+      "kette": "US-Inflation → Wahrscheinlichkeit von Zinserhöhungen steigt → Attraktivität von US-Dollar-Anlagen steigt → Kapitalzufluss in den Dollar → DXY steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-14#2",
+      "datum": "2026-11-14",
+      "asset": "Öl (Brent)",
+      "basiswert": "Öl",
+      "symbol": "CL=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 89,
+      "stop": 87,
+      "ziel": 94,
+      "gewinnEur": 0.81,
+      "verlustEur": 3.12,
+      "kette": "Geopolitische Spannungen (Iran) → Sorge um Ölversorgung → Anstieg des Ölpreises → Höhere Energiekosten → Inflation könnte weiter steigen → US-Notenbank bleibt restriktiv → Belastung für Aktienmärkte.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-13#1",
       "datum": "2026-11-13",
@@ -76,7 +108,7 @@
       "status": "laeuft",
       "seit": "2026-11-13",
       "tage": 1,
-      "ergebnisEur": -2.87
+      "ergebnisEur": -3.79
     },
     {
       "id": "2026-11-12#2",
@@ -92,7 +124,7 @@
       "verlustEur": 2.98,
       "kette": "Nachlassende geopolitische Spannungen → Weniger Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen (Aktien) → S&P 500 steigt. Gleichzeitig positive KI-Entwicklungen in Tech-Aktien → Einfluss auf breitere Märkte.",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-12#3",
@@ -350,7 +382,7 @@
       "status": "laeuft",
       "seit": "2026-11-09",
       "tage": 5,
-      "ergebnisEur": -1.6
+      "ergebnisEur": -1.72
     },
     {
       "id": "2026-11-05#1",
@@ -522,7 +554,7 @@
       "status": "laeuft",
       "seit": "2026-11-02",
       "tage": 10,
-      "ergebnisEur": -2.72
+      "ergebnisEur": -2.81
     },
     {
       "id": "2026-11-01#2",
@@ -592,7 +624,7 @@
       "status": "laeuft",
       "seit": "2026-11-09",
       "tage": 5,
-      "ergebnisEur": 0.25
+      "ergebnisEur": -0.73
     },
     {
       "id": "2026-10-29#2",
