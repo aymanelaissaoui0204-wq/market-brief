@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-15]] | JA | US Dollar Index | Die Märkte zeigen sich nervös. Geopolitische Risiken befeuern die Ölpreise, während Inflat |
 | [[2026-11-14]] | JA | US Dollar Index (DXY) | Die Märkte sind angespannt: Die US-Inflation erhöht die Wahrscheinlichkeit von Zinserhöhun |
 | [[2026-11-13]] | JA | US Dollar Index (DXY) | Die Märkte sind angespannt: Die US-Inflation erhöht die Wahrscheinlichkeit von Zinserhöhun |
 | [[2026-11-12]] | JA | Erdgas | Die Märkte zeigen sich nervös aufgrund von geopolitischen Spannungen im Nahen Osten und In |

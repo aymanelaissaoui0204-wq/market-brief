@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-15",
+    "datum": "Sonntag, 15. November 2026",
+    "analyseOk": true,
+    "thema": "Die Märkte zeigen sich nervös. Geopolitische Risiken befeuern die Ölpreise, während Inflationssorgen die Zinsfantasie dämpfen und den Dollar tendenziell stärken",
+    "entscheidung": "JA",
+    "top": "US Dollar Index",
+    "fg": 10,
+    "news": 19,
+    "chancen": 3
+  },
+  {
     "date": "2026-11-14",
     "datum": "Samstag, 14. November 2026",
     "analyseOk": true,
