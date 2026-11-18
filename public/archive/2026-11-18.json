@@ -1,0 +1,771 @@
+{
+  "date": "Mittwoch, 18. November 2026",
+  "dateKey": "2026-11-18",
+  "generatedAt": "2026-11-18T13:40:45.157Z",
+  "news": [
+    {
+      "title": "Sberbank warnt vor faulen Krediten in Putins Wirtschaft",
+      "source": "Hessische Niedersächsische Allgemeine",
+      "publishedAt": "2026-11-17T10:16:47Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "GNews"
+    },
+    {
+      "title": "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T13:19:31.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T12:55:13.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T12:55:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Fed officials set to raise rates again in December, but the future still looks murky",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T12:37:32.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks.",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T12:34:10.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T11:47:59.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+      "source": "CNBC",
+      "publishedAt": "2026-11-18T10:45:01.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Five military officers injured in Jordan's helicopter crash, army says - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T09:40:16.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T07:41:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "UK inflation rises to one-year high but markets trim rate hike bets - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T07:08:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "QatarEnergy's LNG expansion may leave it bigger but not less exposed - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T06:06:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "After years on ice, Canada seeks trade-based reset with China, minister says - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T05:21:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Australia frees largest LNG exporting state from reservation scheme - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T04:32:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Xi, Putin blast Western 'protectionism', sanctions as Trump lands in China - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T03:21:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Oil prices fall as higher US crude stocks temper supply risks - Reuters",
+      "source": "Reuters",
+      "publishedAt": "2026-11-18T02:16:00.000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Finnhub"
+    },
+    {
+      "title": "Euroseas: Refixing At The Right Time (Rating Upgrade)",
+      "source": "seekingalpha.com",
+      "publishedAt": "2026-11-18T13:30:13.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Official Website of Reserve Bank of India",
+      "source": "rbi.org.in",
+      "publishedAt": "2026-11-18T13:25:00.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    },
+    {
+      "title": "Profit-booking trims recent gains as SEBI margin rules rattle D-Street",
+      "source": "thehindubusinessline.com",
+      "publishedAt": "2026-11-18T13:22:11.000000Z",
+      "sentiment": null,
+      "tickers": [],
+      "origin": "Marketaux"
+    }
+  ],
+  "sections": {
+    "brief": "Hallo Ayman, heute dreht sich alles um die anhaltende Inflation und die daraus resultierenden Zinserhöhungsängste. Das stärkt den US-Dollar und setzt risikoreichere Anlagen wie Aktien und Krypto unter Druck. Geopolitische Spannungen im Nahen Osten sorgen für zusätzliche Unsicherheit, insbesondere bei Öl.",
+    "marktlage": "Die Märkte sind nervös, geprägt von Inflationssorgen, Zinserhöhungsfantasien und geopolitischen Risiken. Der 'Fear & Greed Index' bei 11/100 signalisiert deutliche Angst.",
+    "neuHeute": "Die Nachricht über die steigende Inflation im UK ist neu. Die Aussagen der Fed-Vertreter zur Zinserhöhung sind eine Bestätigung bereits bekannter Erwartungen. Die geopolitischen Meldungen sind leider keine neuen Entwicklungen, sondern bestätigen bestehende Risiken.",
+    "oberflaeche": [
+      "Sberbank warnt vor faulen Krediten in Putins Wirtschaft",
+      "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
+      "Fed officials set to raise rates again in December, but the future still looks murky"
+    ],
+    "ereignisse": [
+      {
+        "ereignis": "UK-Inflation steigt auf ein Jahreshoch, aber Märkte reduzieren Zinshöhenwetten",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": true,
+        "betroffen": "GBP, Anleihen, Aktien (UK)",
+        "wirkung": "Gemischt: Positiv für GBP kurzfristig, aber negativ für Anleihen (wenn Zinsen doch steigen), gemischt für Aktien (weniger Zinserhöhungsdruck vs. schwache Wirtschaft)."
+      },
+      {
+        "ereignis": "Fed-Vertreter deuten weitere Zinserhöhungen im Dezember an, Ausblick bleibt unklar",
+        "quellen": 1,
+        "typ": "Meinung/Spekulation",
+        "neu": false,
+        "betroffen": "US-Dollar, Anleihen, Aktien (US)",
+        "wirkung": "Negativ für Aktien und Anleihen, positiv für US-Dollar."
+      },
+      {
+        "ereignis": "Angriffe auf Schiffe im Persischen Golf und Houthi-Aktivitäten halten an",
+        "quellen": 2,
+        "typ": "Fakt",
+        "neu": false,
+        "betroffen": "Öl, Transport, Geopolitik",
+        "wirkung": "Positiv für Ölpreis, negativ für globale Lieferketten und Stabilität."
+      },
+      {
+        "ereignis": "Russland und China kritisieren westlichen Protektionismus und Sanktionen",
+        "quellen": 1,
+        "typ": "Fakt",
+        "neu": false,
+        "betroffen": "Geopolitik, Handel",
+        "wirkung": "Negativ für globale Handelsbeziehungen, positiv für Blockbildung."
+      },
+      {
+        "ereignis": "KI-Entwicklungen und ihre Auswirkungen auf verschiedene Sektoren (Reise, Technologie)",
+        "quellen": 3,
+        "typ": "Meinung/Spekulation",
+        "neu": false,
+        "betroffen": "Technologieaktien, Reisebranche",
+        "wirkung": "Gemischt: Positiv für KI-affine Unternehmen, unsicher für traditionelle Sektoren."
+      }
+    ],
+    "bewegungen": [
+      {
+        "ausloeser": "Anhaltende US-Inflation und Aussagen der Fed",
+        "kette": "US-Inflation → Erwartung weiterer Zinserhöhungen → Höhere US-Zinsen → Attraktivität des US-Dollars steigt → Kapitalzufluss in den USD → DXY steigt → Belastung für risikoreichere Assets (Aktien, Krypto)",
+        "warum": "Wenn die Zinsen in den USA höher sind, werden US-Anlagen für Investoren weltweit attraktiver. Kapital fließt aus anderen Ländern in die USA, was den Dollar stärkt und andere Währungen schwächt. Gleichzeitig werden Aktien und Kryptowährungen unattraktiver, da sie als risikoreicher gelten und keine festen Zinszahlungen bieten.",
+        "betroffen": "DXY, EUR/USD, S&P 500, Nasdaq, Bitcoin, Ethereum",
+        "investierbar": {
+          "asset": "DXY",
+          "isin": null,
+          "richtung": "LONG",
+          "halal": "halal",
+          "wie": "Kauf des DXY-Index-Futures oder eines entsprechenden ETFs (falls verfügbar und halal)."
+        }
+      },
+      {
+        "ausloeser": "Geopolitische Risiken im Nahen Osten und Angebotsunsicherheit",
+        "kette": "Geopolitische Spannungen → Risiko für Ölversorgung/Transport → Befürchtung von Angebotsengpässen → Ölpreis steigt → Höhere Energiekosten → Inflation steigt weiter → Erhöht die Wahrscheinlichkeit für restriktive Geldpolitik → Belastung für globale Konjunktur und risikoreichere Assets",
+        "warum": "Konflikte in ölfördernden Regionen oder entlang wichtiger Transportrouten können die weltweite Ölversorgung gefährden. Die Angst vor Verknappung treibt die Preise nach oben. Höhere Energiepreise wirken sich auf fast alle Wirtschaftsbereiche aus und können die Inflation weiter anheizen.",
+        "betroffen": "Öl, Erdgas, Inflation, Aktienmärkte",
+        "investierbar": {
+          "asset": "Öl",
+          "isin": "DE000A0S9GB0",
+          "richtung": "LONG",
+          "halal": "fraglich",
+          "wie": "Kauf von physisch besicherten Öl-ETCs (wie WisdomTree Brent Oil)."
+        }
+      }
+    ],
+    "chancen": [
+      {
+        "rang": 1,
+        "asset": "US Dollar Index (DXY)",
+        "isin": null,
+        "klasse": "Index",
+        "basiswert": "DXY",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 103.8,
+        "stopLoss": 103.3,
+        "ziel": 105.2,
+        "zeitraum": "2-4 Wochen",
+        "ueberzeugung": "hoch",
+        "kette": "Anhaltende US-Inflation → Zinserhöhungserwartungen → Attraktivität des USD steigt → Kapitalzufluss → DXY steigt.",
+        "pro": [
+          "Anhaltende Inflationsdaten stützen die Zinserhöhungserwartungen der Fed.",
+          "Geopolitische Unsicherheit erhöht die Nachfrage nach 'sicheren Häfen' wie dem US-Dollar.",
+          "Der DXY zeigt sich aktuell stark und hat den RSI von 70 erreicht, was auf eine anhaltende Stärke hindeuten kann, auch wenn es kurzfristig überkauft ist."
+        ],
+        "contra": [
+          "Eine zu starke Dollar-Aufwertung könnte die US-Exporte belasten und die Inflation dämpfen.",
+          "Falls die Inflation doch schneller fällt als erwartet, könnte die Fed ihre Haltung ändern."
+        ],
+        "eingepreist": "Der DXY ist mit einem RSI von 70 und nahe dem 3-Monats-Hoch nahe an seinem oberen Ende. Die positive Performance der letzten 20 Tage (+2.0%) deutet darauf hin, dass die Stärke bereits eingepreist ist. Ein weiterer Anstieg erfordert neue positive Impulse.",
+        "erklaerung": {
+          "wasIstDas": "Der DXY misst die Stärke des US-Dollars gegenüber einem Korb von sechs wichtigen Währungen. Ein steigender DXY bedeutet, dass der Dollar stärker wird.",
+          "warumJetzt": "Die anhaltende Inflation in den USA und die Aussicht auf weitere Zinserhöhungen machen den US-Dollar attraktiv für Anleger, die nach Sicherheit und Rendite suchen.",
+          "wannKaufen": "Nach einer leichten Korrektur, die den RSI leicht reduziert, aber die grundlegende Aufwärtsbewegung intakt lässt. Ein Rücksetzer in Richtung 103.60 wäre eine gute Einstiegsgelegenheit.",
+          "wieViel": "Da der DXY ein Index ist, investiert man am besten über einen ETF oder Future. Bei kleinem Budget und hohen Gebühren bei kleinen Trades, würde ich raten, nur einen kleinen Teil des Kapitals zu riskieren (z.B. 1-2%).",
+          "wannRaus": "Wenn der US-Dollar sein Ziel erreicht oder wenn sich die Inflationserwartungen deutlich ändern und die Fed ihre restriktive Haltung aufgibt.",
+          "wasKannSchiefgehen": "Wenn die US-Inflation unerwartet stark zurückgeht oder geopolitische Spannungen sich entschärfen, könnte der Dollar an Stärke verlieren.",
+          "woranErkenneIchFalsch": "Ein schnelles Unterschreiten des gleitenden Durchschnitts (z.B. 50-Tage-Linie) oder ein starker Bruch des Unterstützungsniveaus bei 103.30.",
+          "begriffDesTrades": "Ein 'Carry Trade' oder 'Safe Haven Trade', bei dem Anleger in die Währung mit den höchsten Zinsen und der größten Stabilität investieren."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Stop liegt innerhalb der normalen Tagesschwankung (< 1 ATR) – hohes Risiko, zufällig ausgestoppt zu werden.",
+            "Bei 50 € fressen die Gebühren den kompletten Zielgewinn."
+          ],
+          "plausibel": true,
+          "verifiziert": true,
+          "symbol": "DX-Y.NYB",
+          "kursAktuell": 103.80400085449219,
+          "kursStand": "2026-11-18",
+          "einstieg": 103.8,
+          "stop": 103.3,
+          "ziel": 105.2,
+          "abstandEinstieg": 0,
+          "verlustPct": 0.48,
+          "gewinnPct": 1.35,
+          "verlustEur": 2.24,
+          "gewinnEur": -1.33,
+          "crvBrutto": 2.8,
+          "crvNetto": 0,
+          "breakEven": 100,
+          "stopInAtr": 0.89
+        }
+      },
+      {
+        "rang": 2,
+        "asset": "Erdgas",
+        "isin": null,
+        "klasse": "Rohstoff",
+        "basiswert": "Erdgas",
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 3.35,
+        "stopLoss": 3.1,
+        "ziel": 3.75,
+        "zeitraum": "4-8 Wochen",
+        "ueberzeugung": "mittel",
+        "kette": "Geopolitische Spannungen/Unsicherheit bei Energieversorgung → Nachfrage nach Erdgas als Brückentechnologie/Heizstoff steigt → Erdgaspreis steigt.",
+        "pro": [
+          "Die Wintermonate stehen bevor, was die Nachfrage nach Heizstoffen typischerweise erhöht.",
+          "Geopolitische Unsicherheiten können die Energieversorgung beeinträchtigen und zu erhöhter Nachfrage nach alternativen Energieträgern führen.",
+          "Erdgas hat sich von seinen jüngsten Tiefs erholt und zeigt Anzeichen einer Bodenbildung."
+        ],
+        "contra": [
+          "Hohe Lagerbestände in einigen Regionen könnten die Preise dämpfen.",
+          "Ein milder Winter würde die Nachfrage reduzieren.",
+          "Ein möglicher Ausbau von LNG-Kapazitäten könnte das Angebot erhöhen."
+        ],
+        "eingepreist": "Erdgas hat in den letzten 20 Tagen eine starke Performance (+17.1%) gezeigt und der RSI liegt bei 64, was auf eine positive Dynamik hindeutet, aber noch nicht auf eine Überkauftheit. Der Preis ist vom 3M-Hoch nur leicht entfernt (-3.9%), was bedeutet, dass ein Teil der positiven Entwicklung bereits eingepreist ist.",
+        "erklaerung": {
+          "wasIstDas": "Erdgas ist ein fossiler Brennstoff, der hauptsächlich zum Heizen und zur Stromerzeugung genutzt wird. Sein Preis wird stark von Angebot und Nachfrage beeinflusst, insbesondere durch saisonale Faktoren und geopolitische Ereignisse.",
+          "warumJetzt": "Die Kombination aus saisonaler Nachfragesteigerung im Winter und der anhaltenden geopolitischen Unsicherheit bezüglich der globalen Energieversorgung könnte den Preis für Erdgas weiter treiben.",
+          "wannKaufen": "Bei einem erneuten Test der Unterstützungszone um 3.20, nachdem sich die Nachricht über die Energieversorgungslage stabilisiert hat und ein milder Winter unwahrscheinlich wird.",
+          "wieViel": "Da Erdgas sehr volatil ist, sollten nur 1-2% des Kapitals eingesetzt werden. Die Gebühren für ETCs sind in der Regel moderat.",
+          "wannRaus": "Wenn die Wintertemperaturen deutlich milder als erwartet ausfallen, die geopolitischen Spannungen nachlassen oder die Lagerbestände unerwartet stark ansteigen.",
+          "wasKannSchiefgehen": "Ein plötzlicher Friedensschluss in Konfliktregionen, die die Energieversorgung betreffen, oder eine unerwartet milde Witterung.",
+          "woranErkenneIchFalsch": "Ein nachhaltiger Bruch der Marke von 3.00 oder ein stark fallender RSI unter 40.",
+          "begriffDesTrades": "Ein 'Supply/Demand Trade' mit saisonalem Faktor, der auf eine erhöhte Nachfrage in den Wintermonaten und potenzielle Angebotsunterbrechungen setzt."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Bei 50 € musst du über 59% solcher Trades gewinnen, nur um bei null zu landen."
+          ],
+          "plausibel": true,
+          "verifiziert": true,
+          "symbol": "NG=F",
+          "kursAktuell": 3.2660000324249268,
+          "kursStand": "2026-11-18",
+          "einstieg": 3.35,
+          "stop": 3.1,
+          "ziel": 3.75,
+          "abstandEinstieg": 2.57,
+          "verlustPct": 7.46,
+          "gewinnPct": 11.94,
+          "verlustEur": 5.73,
+          "gewinnEur": 3.97,
+          "crvBrutto": 1.6,
+          "crvNetto": 0.69,
+          "breakEven": 59.08,
+          "stopInAtr": 1.64
+        }
+      },
+      {
+        "rang": 3,
+        "asset": "iShares MSCI World Islamic",
+        "isin": "IE00B27YCK28",
+        "klasse": "Aktien-ETF",
+        "basiswert": null,
+        "richtung": "LONG",
+        "halal": "halal",
+        "einstieg": 10.5,
+        "stopLoss": 9.8,
+        "ziel": 11.8,
+        "zeitraum": "6-12 Monate",
+        "ueberzeugung": "mittel",
+        "kette": "Globale Diversifikation (gemäß islamischen Prinzipien) → Langfristiger Vermögensaufbau → Potenzieller Kauf bei Marktschwäche.",
+        "pro": [
+          "Der ETF investiert nach islamischen Anlageprinzipien, was für Ayman wichtig ist.",
+          "Breite Diversifikation über viele Länder und Sektoren hinweg.",
+          "Aktuell sind die globalen Aktienmärkte (wie der MSCI World, dem er folgt) unter Druck, was eine gute Einstiegsgelegenheit für langfristige Investoren bieten könnte."
+        ],
+        "contra": [
+          "Der ETF folgt einem Index, der von den globalen Wirtschafts- und Zinsentwicklungen abhängt.",
+          "Die Performance ist an die allgemeine Marktentwicklung gekoppelt, was bei anhaltender Schwäche zu Verlusten führen kann.",
+          "Die Gebühren (TER) könnten höher sein als bei breiten, nicht-islamischen ETFs."
+        ],
+        "eingepreist": "Da dieser ETF dem MSCI World folgt, aber islamische Kriterien anwendet, ist seine Performance stark von der allgemeinen Marktentwicklung abhängig. Der MSCI World selbst ist nicht stark gelaufen (20T +1.2%), und der ETF hat wahrscheinlich eine ähnliche Performance. Die islamische Komponente ist kein eigener Preistreiber, sondern eine Filterfunktion. Eine Überbewertung ist unwahrscheinlich.",
+        "erklaerung": {
+          "wasIstDas": "Ein ETF, der in Unternehmen investiert, die den islamischen Anlageprinzipien entsprechen. Das bedeutet Ausschluss von Unternehmen, die in Zinsgeschäften, Alkohol, Glücksspiel, Schweinefleisch etc. tätig sind.",
+          "warumJetzt": "Die aktuelle Marktschwäche könnte eine Chance bieten, breit diversifizierte und ethisch konforme Anlagen zu günstigeren Preisen zu erwerben. Langfristig ist die globale Wirtschaftsentwicklung positiv.",
+          "wannKaufen": "Bei einer Fortsetzung der aktuellen Marktschwäche oder einer leichten Korrektur, die den ETF unter seinen 50-Tage-Durchschnitt drückt, aber das langfristige Aufwärtspotenzial intakt lässt.",
+          "wieViel": "Da es sich um eine langfristige Anlage handelt, kann ein regelmäßiger Sparplan (z.B. 50-100 € pro Monat) sinnvoll sein. Bei einem einzelnen Kauf sollten nicht mehr als 5-10% des verfügbaren Kapitals eingesetzt werden, um das Risiko zu streuen.",
+          "wannRaus": "Nur bei einer grundlegenden Änderung der globalen Wirtschafts- oder Anlagebedingungen oder wenn die islamischen Kriterien des ETFs nicht mehr erfüllt sind.",
+          "wasKannSchiefgehen": "Eine globale Rezession oder ein starker Einbruch der Aktienmärkte, der auch den islamischen Index betrifft.",
+          "woranErkenneIchFalsch": "Ein anhaltender Abwärtstrend über mehrere Monate, der durch fundamentale Wirtschaftsdaten oder eine Änderung der globalen Anlagestimmung gerechtfertigt ist.",
+          "begriffDesTrades": "Ein 'Buy and Hold'-Ansatz mit Fokus auf ethische Geldanlage und langfristiges Wachstum."
+        },
+        "rechnung": {
+          "budget": 50,
+          "gebuehren": 2,
+          "hinweise": [
+            "Kein Basiswert-Kurs vorhanden – Level sind nicht gegen echte Daten geprüft.",
+            "Bei 50 € musst du über 56% solcher Trades gewinnen, nur um bei null zu landen."
+          ],
+          "plausibel": true,
+          "verifiziert": false,
+          "einstieg": 10.5,
+          "stop": 9.8,
+          "ziel": 11.8,
+          "verlustPct": 6.67,
+          "gewinnPct": 12.38,
+          "verlustEur": 5.33,
+          "gewinnEur": 4.19,
+          "crvBrutto": 1.86,
+          "crvNetto": 0.79,
+          "breakEven": 56
+        }
+      }
+    ],
+    "rueckblick": [
+      {
+        "datum": "2026-11-17",
+        "asset": "US Dollar Index (DXY)",
+        "status": "bestätigt",
+        "warum": "Die These der steigenden Inflation und damit verbundenen Zinserhöhungserwartungen, die den Dollar stärken, hat sich fortgesetzt. Die geopolitische Unsicherheit verstärkt die Flucht in den Dollar."
+      },
+      {
+        "datum": "2026-11-17",
+        "asset": "Öl",
+        "status": "offen",
+        "warum": "Die Spannungen im Nahen Osten halten an und stützen tendenziell den Ölpreis. Allerdings haben steigende US-Rohölbestände den Preis kurzfristig gedrückt."
+      },
+      {
+        "datum": "2026-11-16",
+        "asset": "US Dollar Index (DXY)",
+        "status": "bestätigt",
+        "warum": "Die Inflationssorgen und die Erwartung weiterer Zinserhöhungen haben den Dollar weiter gestützt, wie erwartet."
+      },
+      {
+        "datum": "2026-11-16",
+        "asset": "Erdgas",
+        "status": "offen",
+        "warum": "Die geopolitischen Spannungen und die saisonale Nachfrage stützen weiterhin die Erdgaspreise. Es gab jedoch keine neuen, starken Impulse."
+      },
+      {
+        "datum": "2026-11-15",
+        "asset": "US Dollar Index (DXY)",
+        "status": "bestätigt",
+        "warum": "Die Kombination aus Inflation und Zinsfantasie hat den Dollar weiter gestärkt, wie prognostiziert."
+      },
+      {
+        "datum": "2026-11-15",
+        "asset": "Öl (Brent)",
+        "status": "offen",
+        "warum": "Die geopolitischen Risiken im Nahen Osten bleiben bestehen und stützen den Ölpreis. Die Angst vor Angebotsengpässen ist präsent."
+      },
+      {
+        "datum": "2026-11-15",
+        "asset": "Ethereum",
+        "status": "geschwächt",
+        "warum": "Die Markt-Risikoscheu hat Ethereum weiter belastet. Die technologischen Fortschritte werden kurzfristig von den makroökonomischen Sorgen überlagert."
+      },
+      {
+        "datum": "2026-11-14",
+        "asset": "US Dollar Index (DXY)",
+        "status": "bestätigt",
+        "warum": "Die These, dass die US-Inflation den Dollar stärkt, hat sich bewahrheitet und die Aufwärtsbewegung des DXY fortgesetzt."
+      }
+    ],
+    "narrativ": "Die Weltwirtschaft kämpft mit einem Inflationsdruck, der die Zentralbanken zu weiteren Zinserhöhungen zwingt. Dies stärkt den US-Dollar als 'sicheren Hafen' und belastet risikoreichere Anlagen wie Aktien und Kryptowährungen. Gleichzeitig sorgen geopolitische Spannungen für zusätzliche Volatilität, insbesondere bei Energiepreisen.",
+    "realitaet": "Die Daten zeigen eine hartnäckige Inflation, die die Zentralbanken unter Druck setzt. Geopolitische Risiken bleiben hoch. Die 'Fear & Greed'-Stimmung ist extrem negativ.",
+    "macht": "Die US-Notenbank (Fed) hat durch ihre Zinspolitik einen erheblichen Einfluss auf die globalen Märkte. Die geopolitischen Machtblöcke (USA/Westen vs. Russland/China) prägen die Handels- und Sicherheitslandschaft.",
+    "geopolitik": "Die Spannungen im Nahen Osten und die Beziehungen zwischen Russland und China sind die Haupttreiber für Unsicherheit und beeinflussen Energiepreise sowie Handelsströme.",
+    "liquiditaet": "Die Liquidität wird durch die restriktive Geldpolitik der Zentralbanken tendenziell reduziert, was das Investitionsklima verschlechtert und die Volatilität erhöht.",
+    "kette": "US-Inflation → Zinserhöhungen → Starker USD → Schwache Aktien/Krypto → Geopolitische Risiken → Volatiler Ölpreis → Höhere Inflationserwartungen → Verstärkt Zinsdruck.",
+    "timing": "Der Markt wartet auf klare Signale bezüglich der zukünftigen Zinspolitik der Fed und einer Entschärfung der geopolitischen Lage.",
+    "saisonalitaet": "Der Winter erhöht tendenziell die Nachfrage nach Energierohstoffen wie Erdgas. Das Jahresende könnte zu leichten Umschichtungen führen.",
+    "masseFehler": "Die aktuelle Marktstimmung deutet auf eine breite Panik hin. Viele Anleger könnten versuchen, zu verkaufen, wenn der Markt weiter fällt, was zu einem 'Sell-off' führen kann.",
+    "widerspruch": "Die steigende Inflation im UK sollte die Zinserhöhungs-Erwartungen dort eigentlich erhöhen, aber die Märkte reduzieren diese Wetten. Das deutet auf eine Skepsis hin, ob die Zentralbank wirklich weiter straffen kann/will, ohne die Wirtschaft abzuwürgen.",
+    "markt": {
+      "DAX": "Seitwärts bis leicht abwärts, abhängig von globalen Trends.",
+      "S&P 500": "Abwärts mit kurzfristigen Erholungsversuchen.",
+      "Nasdaq": "Stärker abwärts als S&P 500 wegen höherer Beta.",
+      "EUR/USD": "Abwärts, da USD stärker wird.",
+      "DXY": "Aufwärts, da USD stärker wird.",
+      "Öl": "Volatil, tendenziell aufwärts wegen Geopolitik, aber gedrückt durch Konjunktursorgen.",
+      "Erdgas": "Aufwärts wegen Saisonalität und Unsicherheit.",
+      "Gold": "Seitwärts bis leicht abwärts wegen starkem USD und hohen Zinsen.",
+      "Silber": "Abwärts, korreliert stärker mit Industriemetallen und risikoreichen Anlagen.",
+      "Kupfer": "Abwärts wegen globaler Konjunktursorgen.",
+      "Bitcoin": "Abwärts wegen Risikoscheu.",
+      "Ethereum": "Abwärts wegen Risikoscheu.",
+      "Weizen": "Seitwärts, abhängig von Erntelagen und Nachfrage."
+    },
+    "positionierung": "Investoren positionieren sich defensiver, flüchten in den US-Dollar und reduzieren risikoreiche Anlagen.",
+    "reflexivitaet": "Die Angst (Fear & Greed Index bei 11) führt zu Verkäufen, was wiederum die Angst verstärkt und zu weiteren Verkäufen führen kann – ein Teufelskreis.",
+    "metaZyklus": "Wir befinden uns möglicherweise in einer Phase, in der die Zinszyklen der Zentralbanken beginnen, die globale Konjunktur stärker zu belasten, was zu einer Neubewertung von Vermögenswerten führt.",
+    "psychologie": "PANIK",
+    "opportunity": "Eine Short-Position auf den Nasdaq oder Ethereum könnte kurzfristig attraktiv sein, aber die beste Chance liegt meiner Meinung nach im LONG-Trade auf den DXY aufgrund der anhaltenden makroökonomischen Faktoren.",
+    "halalAsset": "US Dollar Index (DXY)",
+    "halalStatus": "halal",
+    "halalBegruendung": "Der DXY ist ein Index, der die Stärke des US-Dollars misst. Der Handel mit Währungen (Devisen) ist im Islam grundsätzlich erlaubt, solange er 'Hand in Hand' (Zug um Zug) erfolgt und keine Zinsen (Riba) beinhaltet. Da der DXY ein Index ist, handelt es sich nicht um den physischen Besitz von Währungen, aber die Wertentwicklung spiegelt die relativen Stärken wider, was als zulässig betrachtet werden kann.",
+    "entscheidung": "JA",
+    "richtung": "LONG",
+    "einstieg": 103.8,
+    "stopLoss": 103.3,
+    "ziel": 105.2,
+    "zeitraum": "2-4 Wochen",
+    "exitStrategie": "Ziel erreichen oder Stop-Loss auslaufen.",
+    "waehrungsrisiko": "Da wir in EUR investieren und der DXY den USD misst, gibt es ein Währungsrisiko. Ein stärkerer USD gegenüber dem EUR (was hier erwartet wird) würde die Rendite in EUR erhöhen.",
+    "lernpunkt": "Der 'Fear & Greed Index' ist ein nützliches Werkzeug, um die Marktstimmung zu erfassen. Extrem niedrige Werte (wie 11/100) deuten oft auf eine übermäßige Panik hin, die kurzfristig zu einer Bodenbildung führen kann, aber auch die Fortsetzung des Abwärtstrends bestätigt, wenn die fundamentalen Gründe dafür stark genug sind.",
+    "tagesfrage": "Wie stark wird die US-Notenbank die Zinsen anheben, bevor sie die Wirtschaft zu stark abwürgt oder die Inflation doch noch unter Kontrolle bekommt?",
+    "_modell": "gemini-2.5-flash-lite",
+    "asymmetrie": {
+      "verlust": 0.48,
+      "gewinn": 1.35,
+      "ratio": 0,
+      "ev": null
+    }
+  },
+  "prices": {
+    "^GDAXI": {
+      "label": "DAX",
+      "price": 25946.109375,
+      "change": -0.38,
+      "ch5": -2.69,
+      "ch20": 1.17,
+      "hoch3m": 27001.669921875,
+      "tief3m": 24792.7890625,
+      "abstandHoch": -3.91,
+      "abstandTief": 4.65,
+      "vola": 17.99,
+      "atrPct": 1.49,
+      "rsi": 49,
+      "ueberSma20": false,
+      "ueberSma50": true,
+      "stand": "2026-11-18"
+    },
+    "^IXIC": {
+      "label": "Nasdaq",
+      "price": 24328.380859375,
+      "change": -0.74,
+      "ch5": -2.94,
+      "ch20": -7.93,
+      "hoch3m": 27722.75,
+      "tief3m": 23989.08984375,
+      "abstandHoch": -12.24,
+      "abstandTief": 1.41,
+      "vola": 31.05,
+      "atrPct": 2.72,
+      "rsi": 32,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-17"
+    },
+    "NG=F": {
+      "label": "Erdgas",
+      "price": 3.2660000324249268,
+      "change": 1.81,
+      "ch5": 1.59,
+      "ch20": 17.06,
+      "hoch3m": 3.3970000743865967,
+      "tief3m": 2.496999979019165,
+      "abstandHoch": -3.86,
+      "abstandTief": 30.8,
+      "vola": 51.72,
+      "atrPct": 4.54,
+      "rsi": 64,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-11-18"
+    },
+    "GC=F": {
+      "label": "Gold",
+      "price": 3771.89990234375,
+      "change": -2.39,
+      "ch5": -5.71,
+      "ch20": -9.11,
+      "hoch3m": 4755,
+      "tief3m": 3744.60009765625,
+      "abstandHoch": -20.68,
+      "abstandTief": 0.73,
+      "vola": 26.41,
+      "atrPct": 2.68,
+      "rsi": 35,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "^TNX": {
+      "label": "US 10J Zins",
+      "price": 5.116999626159668,
+      "change": 0.27,
+      "ch5": 2.38,
+      "ch20": -0.56,
+      "hoch3m": 5.363999843597412,
+      "tief3m": 4.620999813079834,
+      "abstandHoch": -4.6,
+      "abstandTief": 10.73,
+      "vola": 21.74,
+      "atrPct": 1.44,
+      "rsi": 60,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-11-18"
+    },
+    "HG=F": {
+      "label": "Kupfer",
+      "price": 5.704500198364258,
+      "change": -4.54,
+      "ch5": -9.08,
+      "ch20": -12.82,
+      "hoch3m": 6.829999923706055,
+      "tief3m": 5.702000141143799,
+      "abstandHoch": -16.48,
+      "abstandTief": 0.04,
+      "vola": 28.05,
+      "atrPct": 2.27,
+      "rsi": 19,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "ETH-USD": {
+      "label": "Ethereum",
+      "price": 1793.219970703125,
+      "change": -1.63,
+      "ch5": -6.97,
+      "ch20": -20.28,
+      "hoch3m": 2805.4990234375,
+      "tief3m": 1712.3831787109375,
+      "abstandHoch": -36.08,
+      "abstandTief": 4.72,
+      "vola": 56.64,
+      "atrPct": 5.84,
+      "rsi": 11,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "EURUSD=X": {
+      "label": "EUR/USD",
+      "price": 1.0975743532180786,
+      "change": -0.2,
+      "ch5": -1.73,
+      "ch20": -2.24,
+      "hoch3m": 1.1691803932189941,
+      "tief3m": 1.0957703590393066,
+      "abstandHoch": -6.12,
+      "abstandTief": 0.16,
+      "vola": 5.62,
+      "atrPct": 0.72,
+      "rsi": 33,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "CL=F": {
+      "label": "Öl",
+      "price": 83.91000366210938,
+      "change": -2.44,
+      "ch5": -3.03,
+      "ch20": -13.63,
+      "hoch3m": 110.4800033569336,
+      "tief3m": 79.62000274658203,
+      "abstandHoch": -24.05,
+      "abstandTief": 5.39,
+      "vola": 53.12,
+      "atrPct": 5.48,
+      "rsi": 23,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "^GSPC": {
+      "label": "S&P 500",
+      "price": 7340.52978515625,
+      "change": -1.03,
+      "ch5": -2.4,
+      "ch20": -4.82,
+      "hoch3m": 7844.52001953125,
+      "tief3m": 7288.33984375,
+      "abstandHoch": -6.42,
+      "abstandTief": 0.72,
+      "vola": 23.13,
+      "atrPct": 1.87,
+      "rsi": 34,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-17"
+    },
+    "BTC-USD": {
+      "label": "Bitcoin",
+      "price": 64005.46875,
+      "change": -1.37,
+      "ch5": -6.22,
+      "ch20": -17.7,
+      "hoch3m": 87363.7578125,
+      "tief3m": 62017.8828125,
+      "abstandHoch": -26.74,
+      "abstandTief": 3.2,
+      "vola": 39.86,
+      "atrPct": 4.13,
+      "rsi": 10,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "ZW=F": {
+      "label": "Weizen",
+      "price": 602.75,
+      "change": 1.26,
+      "ch5": 0.54,
+      "ch20": -4.06,
+      "hoch3m": 775.75,
+      "tief3m": 582,
+      "abstandHoch": -22.3,
+      "abstandTief": 3.57,
+      "vola": 18.48,
+      "atrPct": 2.29,
+      "rsi": 49,
+      "ueberSma20": true,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "SI=F": {
+      "label": "Silber",
+      "price": 45.54999923706055,
+      "change": -3.68,
+      "ch5": -12.2,
+      "ch20": -20.68,
+      "hoch3m": 71.16000366210938,
+      "tief3m": 45.04999923706055,
+      "abstandHoch": -35.99,
+      "abstandTief": 1.11,
+      "vola": 45.2,
+      "atrPct": 3.9,
+      "rsi": 33,
+      "ueberSma20": false,
+      "ueberSma50": false,
+      "stand": "2026-11-18"
+    },
+    "DX-Y.NYB": {
+      "label": "DXY",
+      "price": 103.80400085449219,
+      "change": 0.3,
+      "ch5": 0.87,
+      "ch20": 1.99,
+      "hoch3m": 103.91100311279297,
+      "tief3m": 98.55999755859375,
+      "abstandHoch": -0.1,
+      "abstandTief": 5.32,
+      "vola": 5.38,
+      "atrPct": 0.54,
+      "rsi": 70,
+      "ueberSma20": true,
+      "ueberSma50": true,
+      "stand": "2026-11-18"
+    }
+  },
+  "fearGreed": [
+    28,
+    20,
+    13,
+    10,
+    10,
+    12,
+    11
+  ],
+  "simulation": {
+    "buy": 71,
+    "hold": 0,
+    "sell": 29
+  }
+}
