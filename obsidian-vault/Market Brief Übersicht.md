@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-19]] | JA | US Dollar Index | Die Märkte sind von Inflationssorgen, Zinserhöhungsfantasien und geopolitischen Risiken ge |
 | [[2026-11-18]] | JA | US Dollar Index (DXY) | Die Märkte sind nervös, geprägt von Inflationssorgen, Zinserhöhungsfantasien und geopoliti |
 | [[2026-11-17]] | JA | US Dollar Index (DXY) | Der Markt ist weiterhin von Unsicherheit geprägt, mit fallenden Aktienkursen und Kryptowäh |
 | [[2026-11-16]] | JA | US Dollar Index | Die Märkte sind angespannt: Inflationssorgen und geopolitische Risiken dominieren, was zu  |
