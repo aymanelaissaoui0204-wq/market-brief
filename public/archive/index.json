@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-20",
+    "datum": "Freitag, 20. November 2026",
+    "analyseOk": true,
+    "thema": "Die Märkte sind von extremer Angst und Unsicherheit geprägt, mit fallenden Aktienkursen und Rohstoffen, während Erdgas eine deutliche Gegenbewegung zeigt.",
+    "entscheidung": "WARTEN",
+    "top": "Erdgas",
+    "fg": 12,
+    "news": 19,
+    "chancen": 3
+  },
+  {
     "date": "2026-11-19",
     "datum": "Donnerstag, 19. November 2026",
     "analyseOk": true,
