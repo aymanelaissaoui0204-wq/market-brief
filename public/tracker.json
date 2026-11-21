@@ -1,14 +1,14 @@
 {
-  "stand": "2026-11-20T13:51:55.572Z",
+  "stand": "2026-11-21T13:15:09.467Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 74,
+    "gesamt": 76,
     "geschlossen": 40,
     "ziel": 3,
     "stop": 37,
     "abgelaufen": 0,
     "nichtAusgeloest": 10,
-    "laufend": 24,
+    "laufend": 26,
     "trefferquote": 7.5,
     "summeEur": -134.59,
     "schnittEur": -3.36,
@@ -28,6 +28,38 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-21#1",
+      "datum": "2026-11-21",
+      "asset": "US Dollar Index",
+      "basiswert": "DXY",
+      "symbol": "DX-Y.NYB",
+      "ueberzeugung": "hoch",
+      "einstieg": 103.8,
+      "stop": 103.2,
+      "ziel": 105.5,
+      "gewinnEur": -1.18,
+      "verlustEur": 2.29,
+      "kette": "Geopolitische Spannungen & Inflation → Flucht in sichere Häfen → Stärke des USD → DXY steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-21#2",
+      "datum": "2026-11-21",
+      "asset": "Erdgas",
+      "basiswert": "Erdgas",
+      "symbol": "NG=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 3.667,
+      "stop": 3.48,
+      "ziel": 4.2,
+      "gewinnEur": 5.27,
+      "verlustEur": 4.55,
+      "kette": "Geopolitische Spannungen/Energieunsicherheit → Nachfrage nach Erdgas als Brückentechnologie steigt → Erdgaspreis steigt.",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-20#1",
       "datum": "2026-11-20",
@@ -76,7 +108,7 @@
       "status": "laeuft",
       "seit": "2026-11-20",
       "tage": 1,
-      "ergebnisEur": -2.02
+      "ergebnisEur": -1.95
     },
     {
       "id": "2026-11-19#2",
@@ -110,7 +142,7 @@
       "status": "laeuft",
       "seit": "2026-11-19",
       "tage": 2,
-      "ergebnisEur": -2.07
+      "ergebnisEur": -2
     },
     {
       "id": "2026-11-18#2",
@@ -128,7 +160,7 @@
       "status": "laeuft",
       "seit": "2026-11-19",
       "tage": 2,
-      "ergebnisEur": 2.73
+      "ergebnisEur": -1.09
     },
     {
       "id": "2026-11-17#1",
@@ -146,7 +178,7 @@
       "status": "laeuft",
       "seit": "2026-11-18",
       "tage": 3,
-      "ergebnisEur": -1.97
+      "ergebnisEur": -1.9
     },
     {
       "id": "2026-11-17#2",
@@ -198,7 +230,7 @@
       "status": "laeuft",
       "seit": "2026-11-17",
       "tage": 4,
-      "ergebnisEur": -1.93
+      "ergebnisEur": -1.85
     },
     {
       "id": "2026-11-16#2",
@@ -216,7 +248,7 @@
       "status": "laeuft",
       "seit": "2026-11-18",
       "tage": 3,
-      "ergebnisEur": 3.56
+      "ergebnisEur": -0.32
     },
     {
       "id": "2026-11-15#1",
@@ -234,7 +266,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 5,
-      "ergebnisEur": -1.9
+      "ergebnisEur": -1.83
     },
     {
       "id": "2026-11-15#2",
@@ -286,7 +318,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 5,
-      "ergebnisEur": -1.93
+      "ergebnisEur": -1.85
     },
     {
       "id": "2026-11-14#2",
@@ -354,7 +386,7 @@
       "status": "laeuft",
       "seit": "2026-11-13",
       "tage": 6,
-      "ergebnisEur": 2.73
+      "ergebnisEur": -1.09
     },
     {
       "id": "2026-11-12#2",
@@ -472,7 +504,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 5,
-      "ergebnisEur": 6.21
+      "ergebnisEur": 2.14
     },
     {
       "id": "2026-11-09#1",
@@ -490,7 +522,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 5,
-      "ergebnisEur": 6.21
+      "ergebnisEur": 2.14
     },
     {
       "id": "2026-11-09#3",
@@ -632,7 +664,7 @@
       "status": "laeuft",
       "seit": "2026-11-09",
       "tage": 10,
-      "ergebnisEur": -1.45
+      "ergebnisEur": -3.33
     },
     {
       "id": "2026-11-05#1",
@@ -874,7 +906,7 @@
       "status": "laeuft",
       "seit": "2026-11-09",
       "tage": 10,
-      "ergebnisEur": 6.21
+      "ergebnisEur": 2.14
     },
     {
       "id": "2026-10-29#2",

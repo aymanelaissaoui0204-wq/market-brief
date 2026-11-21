@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-21]] | JA | US Dollar Index | Die Märkte sind von extremer Angst geprägt (Fear & Greed 12/100), getrieben von geopolitis |
 | [[2026-11-20]] | WARTEN | Erdgas | Die Märkte sind von extremer Angst und Unsicherheit geprägt, mit fallenden Aktienkursen un |
 | [[2026-11-19]] | JA | US Dollar Index | Die Märkte sind von Inflationssorgen, Zinserhöhungsfantasien und geopolitischen Risiken ge |
 | [[2026-11-18]] | JA | US Dollar Index (DXY) | Die Märkte sind nervös, geprägt von Inflationssorgen, Zinserhöhungsfantasien und geopoliti |
