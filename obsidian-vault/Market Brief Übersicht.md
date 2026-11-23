@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-23]] | JA | US Dollar Index | Die Märkte sind von extremer Angst geprägt, was zu breiten Verkäufen bei Aktien und den me |
 | [[2026-11-22]] | WARTEN | Erdgas | Die Märkte sind von extremer Angst geprägt (Fear & Greed 11/100), was zu breiten Verkäufen |
 | [[2026-11-21]] | JA | US Dollar Index | Die Märkte sind von extremer Angst geprägt (Fear & Greed 12/100), getrieben von geopolitis |
 | [[2026-11-20]] | WARTEN | Erdgas | Die Märkte sind von extremer Angst und Unsicherheit geprägt, mit fallenden Aktienkursen un |
