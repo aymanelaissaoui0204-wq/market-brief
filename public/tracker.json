@@ -1,20 +1,20 @@
 {
-  "stand": "2026-11-25T15:18:42.829Z",
+  "stand": "2026-11-26T14:44:55.112Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 85,
-    "geschlossen": 46,
+    "gesamt": 88,
+    "geschlossen": 47,
     "ziel": 5,
-    "stop": 41,
+    "stop": 42,
     "abgelaufen": 0,
     "nichtAusgeloest": 13,
-    "laufend": 26,
-    "trefferquote": 10.87,
-    "summeEur": -142.31,
-    "schnittEur": -3.09,
+    "laufend": 28,
+    "trefferquote": 10.64,
+    "summeEur": -145.72,
+    "schnittEur": -3.1,
     "proStufe": {
       "mittel": {
-        "n": 29,
+        "n": 30,
         "ziel": 5
       },
       "niedrig": {
@@ -29,6 +29,54 @@
   },
   "prognosen": [
     {
+      "id": "2026-11-26#1",
+      "datum": "2026-11-26",
+      "asset": "US Dollar Index (DXY)",
+      "basiswert": "DXY",
+      "symbol": "DX-Y.NYB",
+      "ueberzeugung": "hoch",
+      "einstieg": 103.95,
+      "stop": 103.2,
+      "ziel": 105.5,
+      "gewinnEur": -1.25,
+      "verlustEur": 2.36,
+      "kette": "Geopolitische Spannungen & globale Unsicherheit ↑ → Kapitalflucht in sichere Häfen (USD) ↑ → DXY steigt",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-26#2",
+      "datum": "2026-11-26",
+      "asset": "Erdgas",
+      "basiswert": "Erdgas",
+      "symbol": "NG=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 3.65,
+      "stop": 3.45,
+      "ziel": 4,
+      "gewinnEur": 2.79,
+      "verlustEur": 4.74,
+      "kette": "Geopolitische Spannungen & Energieunsicherheit ↑ + drohender Winter ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis ↑",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-26#3",
+      "datum": "2026-11-26",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 61500,
+      "stop": 58000,
+      "ziel": 70000,
+      "gewinnEur": 4.91,
+      "verlustEur": 4.85,
+      "kette": "Extreme Marktangst (Fear & Greed) → Suche nach alternativen Wertspeichern (wie Krypto) → Bitcoin steigt",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
       "id": "2026-11-25#1",
       "datum": "2026-11-25",
       "asset": "US Dollar Index",
@@ -42,7 +90,7 @@
       "verlustEur": 2.36,
       "kette": "Geopolitische Spannungen & Inflation ↑ → Unsicherheit ↑ → Kapitalflucht in sichere Häfen (USD) ↑ → DXY steigt",
       "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-25#2",
@@ -57,8 +105,10 @@
       "gewinnEur": 2.79,
       "verlustEur": 5.42,
       "kette": "Geopolitische Spannungen & Energieunsicherheit ↑ + drohender Winter ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis ↑",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-26",
+      "tage": 1,
+      "ergebnisEur": -2.64
     },
     {
       "id": "2026-11-24#1",
@@ -74,9 +124,9 @@
       "verlustEur": 4.74,
       "kette": "Geopolitische Spannungen ↑ + drohender Winter ↑ → Energieunsicherheit ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis ↑",
       "status": "laeuft",
-      "seit": "2026-11-25",
+      "seit": "2026-11-26",
       "tage": 1,
-      "ergebnisEur": -2.15
+      "ergebnisEur": -2.64
     },
     {
       "id": "2026-11-24#2",
@@ -91,10 +141,10 @@
       "gewinnEur": 0.82,
       "verlustEur": 3.41,
       "kette": "Extreme Marktangst ↑ + Geopolitische Unsicherheit ↑ → Flucht in sichere Häfen ↑ → Goldpreis ↑",
-      "status": "laeuft",
-      "seit": "2026-11-25",
+      "status": "stop",
+      "am": "2026-11-25",
       "tage": 1,
-      "ergebnisEur": -2.75
+      "ergebnisEur": -3.41
     },
     {
       "id": "2026-11-23#1",
@@ -128,9 +178,9 @@
       "verlustEur": 4.11,
       "kette": "Energieunsicherheit & Winter → Erhöhte Nachfrage nach Erdgas → Preis steigt.",
       "status": "laeuft",
-      "seit": "2026-11-25",
+      "seit": "2026-11-26",
       "tage": 1,
-      "ergebnisEur": -0.75
+      "ergebnisEur": -1.25
     },
     {
       "id": "2026-11-23#3",
@@ -163,10 +213,8 @@
       "gewinnEur": 3.41,
       "verlustEur": 4.7,
       "kette": "Geopolitische Spannungen & Energieunsicherheit → Erhöhte Nachfrage nach Erdgas (Winter, Brückentechnologie) → Erdgaspreis steigt",
-      "status": "laeuft",
-      "seit": "2026-11-25",
-      "tage": 1,
-      "ergebnisEur": -2.82
+      "status": "offen",
+      "info": "Einstieg noch nicht ausgelöst."
     },
     {
       "id": "2026-11-22#2",
@@ -181,8 +229,10 @@
       "gewinnEur": 0.9,
       "verlustEur": 3.45,
       "kette": "Extreme Marktangst & Geopolitische Unsicherheit → Flucht in sichere Häfen → Gold als traditioneller Wertspeicher → Goldpreis steigt (nach Korrektur)",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-11-25",
+      "tage": 2,
+      "ergebnisEur": 0.33
     },
     {
       "id": "2026-11-21#1",
@@ -199,8 +249,8 @@
       "kette": "Geopolitische Spannungen & Inflation → Flucht in sichere Häfen → Stärke des USD → DXY steigt.",
       "status": "laeuft",
       "seit": "2026-11-23",
-      "tage": 3,
-      "ergebnisEur": -1.92
+      "tage": 4,
+      "ergebnisEur": -2.07
     },
     {
       "id": "2026-11-21#2",
@@ -254,7 +304,7 @@
       "status": "laeuft",
       "seit": "2026-11-23",
       "tage": 3,
-      "ergebnisEur": -3.08
+      "ergebnisEur": -1.95
     },
     {
       "id": "2026-11-19#1",
@@ -271,8 +321,8 @@
       "kette": "Anhaltende US-Inflation → Erwartung weiterer Zinserhöhungen → Attraktivität des US-Dollars steigt → Kapitalzufluss in den USD → DXY steigt. Geopolitische Unsicherheit verstärkt diese Tendenz als sicherer Hafen.",
       "status": "laeuft",
       "seit": "2026-11-20",
-      "tage": 4,
-      "ergebnisEur": -1.87
+      "tage": 5,
+      "ergebnisEur": -2.02
     },
     {
       "id": "2026-11-19#2",
@@ -305,8 +355,8 @@
       "kette": "Anhaltende US-Inflation → Zinserhöhungserwartungen → Attraktivität des USD steigt → Kapitalzufluss → DXY steigt.",
       "status": "laeuft",
       "seit": "2026-11-19",
-      "tage": 5,
-      "ergebnisEur": -1.92
+      "tage": 6,
+      "ergebnisEur": -2.07
     },
     {
       "id": "2026-11-18#2",
@@ -341,8 +391,8 @@
       "kette": "Anhaltende US-Inflation → Erwartung weiterer Zinserhöhungen → Attraktivität des US-Dollars steigt → Kapitalzufluss in den USD → DXY steigt. Geopolitische Unsicherheit verstärkt diese Tendenz als sicherer Hafen.",
       "status": "laeuft",
       "seit": "2026-11-18",
-      "tage": 6,
-      "ergebnisEur": -1.82
+      "tage": 7,
+      "ergebnisEur": -1.97
     },
     {
       "id": "2026-11-17#2",
@@ -393,8 +443,8 @@
       "kette": "Anhaltende US-Inflation → Erwartung weiterer Zinserhöhungen → Steigende US-Zinsen → Attraktivität des US-Dollars steigt → Kapitalzufluss in den USD → DXY steigt.",
       "status": "laeuft",
       "seit": "2026-11-17",
-      "tage": 7,
-      "ergebnisEur": -1.77
+      "tage": 8,
+      "ergebnisEur": -1.92
     },
     {
       "id": "2026-11-16#2",
@@ -429,8 +479,8 @@
       "kette": "US-Inflation → Wahrscheinlichkeit von Zinserhöhungen steigt → Attraktivität von US-Dollar-Anlagen steigt → Kapitalzufluss in den Dollar → DXY steigt. Geopolitische Unsicherheit verstärkt diese Tendenz.",
       "status": "laeuft",
       "seit": "2026-11-16",
-      "tage": 8,
-      "ergebnisEur": -1.75
+      "tage": 9,
+      "ergebnisEur": -1.9
     },
     {
       "id": "2026-11-15#2",
@@ -481,8 +531,8 @@
       "kette": "US-Inflation → Wahrscheinlichkeit von Zinserhöhungen steigt → Attraktivität von US-Dollar-Anlagen steigt → Kapitalzufluss in den Dollar → DXY steigt.",
       "status": "laeuft",
       "seit": "2026-11-16",
-      "tage": 8,
-      "ergebnisEur": -1.77
+      "tage": 9,
+      "ergebnisEur": -1.92
     },
     {
       "id": "2026-11-14#2",
@@ -549,8 +599,8 @@
       "kette": "Geopolitische Spannungen im Nahen Osten (ggf. indirekt) → Unsicherheit bei Energieversorgung → Anleger suchen nach Alternativen zu Öl → Nachfrage nach Erdgas steigt als Brückentechnologie/Heizstoff → Erdgaspreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-13",
-      "tage": 9,
-      "ergebnisEur": 2.31
+      "tage": 10,
+      "ergebnisEur": 1.78
     },
     {
       "id": "2026-11-12#2",
@@ -667,8 +717,8 @@
       "kette": "Der ursprüngliche Auslöser war ein Drohnenangriff auf ein irakisches Gasfeld. Dies hat sich jedoch nicht bestätigt oder wurde nicht weiter eskaliert. Die allgemeine Marktlage für Erdgas ist derzeit von Überangebot und saisonal niedriger Nachfrage geprägt, was den Preis belastet. Die technische Situation zeigt einen RSI von 72, was auf eine überkaufte Situation hindeutet, aber die positive Performance der letzten 5 Tage (+12.2%) sollte nicht ignoriert werden.",
       "status": "laeuft",
       "seit": "2026-11-16",
-      "tage": 8,
-      "ergebnisEur": 5.76
+      "tage": 9,
+      "ergebnisEur": 5.19
     },
     {
       "id": "2026-11-09#1",
@@ -685,8 +735,8 @@
       "kette": "Drohnenangriff auf irakisches Gasfeld → Angebotsverknappung → Steigender Erdgaspreis.",
       "status": "laeuft",
       "seit": "2026-11-16",
-      "tage": 8,
-      "ergebnisEur": 5.76
+      "tage": 9,
+      "ergebnisEur": 5.19
     },
     {
       "id": "2026-11-09#3",
@@ -828,7 +878,7 @@
       "status": "laeuft",
       "seit": "2026-11-09",
       "tage": 13,
-      "ergebnisEur": -2.51
+      "ergebnisEur": -4.08
     },
     {
       "id": "2026-11-05#1",
@@ -1069,8 +1119,8 @@
       "kette": "EU-Diskussion über Energiepreise + Unsicherheit über Winterversorgung → Erhöhte Nachfrage/Angst vor Knappheit → Anstieg Erdgaspreis.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 13,
-      "ergebnisEur": 5.76
+      "tage": 14,
+      "ergebnisEur": 5.19
     },
     {
       "id": "2026-10-29#2",
