@@ -1,25 +1,25 @@
 {
-  "stand": "2026-11-26T14:44:55.112Z",
+  "stand": "2026-11-27T14:43:46.419Z",
   "budget": 50,
   "zusammenfassung": {
-    "gesamt": 88,
-    "geschlossen": 47,
-    "ziel": 5,
+    "gesamt": 91,
+    "geschlossen": 48,
+    "ziel": 6,
     "stop": 42,
     "abgelaufen": 0,
-    "nichtAusgeloest": 13,
-    "laufend": 28,
-    "trefferquote": 10.64,
-    "summeEur": -145.72,
-    "schnittEur": -3.1,
+    "nichtAusgeloest": 14,
+    "laufend": 29,
+    "trefferquote": 12.5,
+    "summeEur": -144.82,
+    "schnittEur": -3.02,
     "proStufe": {
       "mittel": {
         "n": 30,
         "ziel": 5
       },
       "niedrig": {
-        "n": 9,
-        "ziel": 0
+        "n": 10,
+        "ziel": 1
       },
       "hoch": {
         "n": 8,
@@ -28,6 +28,54 @@
     }
   },
   "prognosen": [
+    {
+      "id": "2026-11-27#1",
+      "datum": "2026-11-27",
+      "asset": "US Dollar Index",
+      "basiswert": "DXY",
+      "symbol": "DX-Y.NYB",
+      "ueberzeugung": "hoch",
+      "einstieg": 103.95,
+      "stop": 103.2,
+      "ziel": 105.5,
+      "gewinnEur": -1.25,
+      "verlustEur": 2.36,
+      "kette": "Geopolitische Spannungen & globale Unsicherheit ↑ → Kapitalflucht in sichere Häfen (USD) ↑ → DXY steigt",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-27#2",
+      "datum": "2026-11-27",
+      "asset": "Erdgas",
+      "basiswert": "Erdgas",
+      "symbol": "NG=F",
+      "ueberzeugung": "mittel",
+      "einstieg": 3.65,
+      "stop": 3.45,
+      "ziel": 4,
+      "gewinnEur": 2.79,
+      "verlustEur": 4.74,
+      "kette": "Geopolitische Spannungen ↑ + Energieunsicherheit ↑ + drohender Winter ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis steigt",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
+    {
+      "id": "2026-11-27#3",
+      "datum": "2026-11-27",
+      "asset": "Bitcoin",
+      "basiswert": "Bitcoin",
+      "symbol": "BTC-USD",
+      "ueberzeugung": "niedrig",
+      "einstieg": 61500,
+      "stop": 58000,
+      "ziel": 70000,
+      "gewinnEur": 4.91,
+      "verlustEur": 4.85,
+      "kette": "Extreme Marktangst (Fear & Greed ↓) → Suche nach alternativen Wertspeichern ↑ → Bitcoin steigt",
+      "status": "offen",
+      "info": "Noch kein Handelstag seit der Prognose."
+    },
     {
       "id": "2026-11-26#1",
       "datum": "2026-11-26",
@@ -41,8 +89,10 @@
       "gewinnEur": -1.25,
       "verlustEur": 2.36,
       "kette": "Geopolitische Spannungen & globale Unsicherheit ↑ → Kapitalflucht in sichere Häfen (USD) ↑ → DXY steigt",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-27",
+      "tage": 1,
+      "ergebnisEur": -2.02
     },
     {
       "id": "2026-11-26#2",
@@ -57,8 +107,10 @@
       "gewinnEur": 2.79,
       "verlustEur": 4.74,
       "kette": "Geopolitische Spannungen & Energieunsicherheit ↑ + drohender Winter ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis ↑",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-27",
+      "tage": 1,
+      "ergebnisEur": -4.08
     },
     {
       "id": "2026-11-26#3",
@@ -73,8 +125,10 @@
       "gewinnEur": 4.91,
       "verlustEur": 4.85,
       "kette": "Extreme Marktangst (Fear & Greed) → Suche nach alternativen Wertspeichern (wie Krypto) → Bitcoin steigt",
-      "status": "offen",
-      "info": "Noch kein Handelstag seit der Prognose."
+      "status": "laeuft",
+      "seit": "2026-11-27",
+      "tage": 1,
+      "ergebnisEur": -3.37
     },
     {
       "id": "2026-11-25#1",
@@ -89,8 +143,10 @@
       "gewinnEur": -1.25,
       "verlustEur": 2.36,
       "kette": "Geopolitische Spannungen & Inflation ↑ → Unsicherheit ↑ → Kapitalflucht in sichere Häfen (USD) ↑ → DXY steigt",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "laeuft",
+      "seit": "2026-11-27",
+      "tage": 1,
+      "ergebnisEur": -2.02
     },
     {
       "id": "2026-11-25#2",
@@ -106,9 +162,9 @@
       "verlustEur": 5.42,
       "kette": "Geopolitische Spannungen & Energieunsicherheit ↑ + drohender Winter ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis ↑",
       "status": "laeuft",
-      "seit": "2026-11-26",
+      "seit": "2026-11-27",
       "tage": 1,
-      "ergebnisEur": -2.64
+      "ergebnisEur": -4.08
     },
     {
       "id": "2026-11-24#1",
@@ -124,9 +180,9 @@
       "verlustEur": 4.74,
       "kette": "Geopolitische Spannungen ↑ + drohender Winter ↑ → Energieunsicherheit ↑ → Nachfrage nach Erdgas ↑ → Erdgaspreis ↑",
       "status": "laeuft",
-      "seit": "2026-11-26",
+      "seit": "2026-11-27",
       "tage": 1,
-      "ergebnisEur": -2.64
+      "ergebnisEur": -4.08
     },
     {
       "id": "2026-11-24#2",
@@ -178,9 +234,9 @@
       "verlustEur": 4.11,
       "kette": "Energieunsicherheit & Winter → Erhöhte Nachfrage nach Erdgas → Preis steigt.",
       "status": "laeuft",
-      "seit": "2026-11-26",
+      "seit": "2026-11-27",
       "tage": 1,
-      "ergebnisEur": -1.25
+      "ergebnisEur": -2.73
     },
     {
       "id": "2026-11-23#3",
@@ -229,10 +285,10 @@
       "gewinnEur": 0.9,
       "verlustEur": 3.45,
       "kette": "Extreme Marktangst & Geopolitische Unsicherheit → Flucht in sichere Häfen → Gold als traditioneller Wertspeicher → Goldpreis steigt (nach Korrektur)",
-      "status": "laeuft",
-      "seit": "2026-11-25",
+      "status": "ziel",
+      "am": "2026-11-27",
       "tage": 2,
-      "ergebnisEur": 0.33
+      "ergebnisEur": 0.9
     },
     {
       "id": "2026-11-21#1",
@@ -250,7 +306,7 @@
       "status": "laeuft",
       "seit": "2026-11-23",
       "tage": 4,
-      "ergebnisEur": -2.07
+      "ergebnisEur": -1.95
     },
     {
       "id": "2026-11-21#2",
@@ -303,8 +359,8 @@
       "kette": "Extreme Marktangst (Fear & Greed 12) → Überverkauf bei Aktien → Potenzieller Rebound bei Nachlassen der Panik",
       "status": "laeuft",
       "seit": "2026-11-23",
-      "tage": 3,
-      "ergebnisEur": -1.95
+      "tage": 4,
+      "ergebnisEur": -1.61
     },
     {
       "id": "2026-11-19#1",
@@ -322,7 +378,7 @@
       "status": "laeuft",
       "seit": "2026-11-20",
       "tage": 5,
-      "ergebnisEur": -2.02
+      "ergebnisEur": -1.9
     },
     {
       "id": "2026-11-19#2",
@@ -356,7 +412,7 @@
       "status": "laeuft",
       "seit": "2026-11-19",
       "tage": 6,
-      "ergebnisEur": -2.07
+      "ergebnisEur": -1.95
     },
     {
       "id": "2026-11-18#2",
@@ -392,7 +448,7 @@
       "status": "laeuft",
       "seit": "2026-11-18",
       "tage": 7,
-      "ergebnisEur": -1.97
+      "ergebnisEur": -1.86
     },
     {
       "id": "2026-11-17#2",
@@ -444,7 +500,7 @@
       "status": "laeuft",
       "seit": "2026-11-17",
       "tage": 8,
-      "ergebnisEur": -1.92
+      "ergebnisEur": -1.81
     },
     {
       "id": "2026-11-16#2",
@@ -480,7 +536,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 9,
-      "ergebnisEur": -1.9
+      "ergebnisEur": -1.78
     },
     {
       "id": "2026-11-15#2",
@@ -532,7 +588,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 9,
-      "ergebnisEur": -1.92
+      "ergebnisEur": -1.81
     },
     {
       "id": "2026-11-14#2",
@@ -600,7 +656,7 @@
       "status": "laeuft",
       "seit": "2026-11-13",
       "tage": 10,
-      "ergebnisEur": 1.78
+      "ergebnisEur": 0.21
     },
     {
       "id": "2026-11-12#2",
@@ -615,8 +671,8 @@
       "gewinnEur": -0.37,
       "verlustEur": 2.98,
       "kette": "Nachlassende geopolitische Spannungen → Weniger Flucht in sichere Häfen (Dollar) → Kapitalströme in risikoreichere Anlagen (Aktien) → S&P 500 steigt. Gleichzeitig positive KI-Entwicklungen in Tech-Aktien → Einfluss auf breitere Märkte.",
-      "status": "offen",
-      "info": "Einstieg noch nicht ausgelöst."
+      "status": "nicht_ausgeloest",
+      "info": "Einstieg innerhalb von 10 Handelstagen nie erreicht."
     },
     {
       "id": "2026-11-12#3",
@@ -718,7 +774,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 9,
-      "ergebnisEur": 5.19
+      "ergebnisEur": 3.52
     },
     {
       "id": "2026-11-09#1",
@@ -736,7 +792,7 @@
       "status": "laeuft",
       "seit": "2026-11-16",
       "tage": 9,
-      "ergebnisEur": 5.19
+      "ergebnisEur": 3.52
     },
     {
       "id": "2026-11-09#3",
@@ -877,8 +933,8 @@
       "kette": "Geopolitische Spannungen → Mögliche Störungen von Agrar-Lieferketten (z.B. Schwarzes Meer) → Sorge um globale Nahrungsmittelversorgung → Weizenpreis steigt.",
       "status": "laeuft",
       "seit": "2026-11-09",
-      "tage": 13,
-      "ergebnisEur": -4.08
+      "tage": 14,
+      "ergebnisEur": -3.42
     },
     {
       "id": "2026-11-05#1",
@@ -1120,7 +1176,7 @@
       "status": "laeuft",
       "seit": "2026-11-09",
       "tage": 14,
-      "ergebnisEur": 5.19
+      "ergebnisEur": 3.52
     },
     {
       "id": "2026-10-29#2",
