@@ -2,6 +2,7 @@
 
 | Tag | Entscheidung | Top-Idee | Thema |
 |---|---|---|---|
+| [[2026-11-28]] | WARTEN | US Dollar Index (DXY) | Die Märkte bewegen sich weiterhin im Zeichen hoher Angst und Unsicherheit, wobei geopoliti |
 | [[2026-11-27]] | JA | US Dollar Index | Die Märkte sind von extremer Angst geprägt, was zu breiten Verkäufen bei Aktien und den me |
 | [[2026-11-26]] | JA | US Dollar Index (DXY) | Die Märkte bewegen sich weiterhin im Zeichen hoher Unsicherheit und Angst. Geopolitische R |
 | [[2026-11-25]] | JA | US Dollar Index | Die Märkte sind von extremer Angst geprägt (Fear & Greed 13/100), was zu breiten Verkäufen |
